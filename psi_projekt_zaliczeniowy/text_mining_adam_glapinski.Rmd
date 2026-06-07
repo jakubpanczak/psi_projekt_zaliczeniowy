@@ -1,0 +1,654 @@
+---
+title: "Text mining - analiza stranskrybowanych wypowiedzi Adama Glapińskiego od lipca 2016 do kwietnia 2026"
+authors: 
+  ["Michał Kośka", "Jakub Pańczak", "Alicja Topór"]
+description: "Text mining - analiza stranskrybowanych wypowiedzi Adama Glapińskiego od lipca 2016 do kwietnia 2026"
+execute:
+  warning: false
+  message: false
+  
+runtime: shiny
+
+output: 
+  html_document:
+    theme: flatly
+    toc: yes
+    toc_float:
+      collapsed: true
+    code_folding: show
+---
+
+```{r warning=FALSE}
+#| echo: false
+# Ładowanie i automatyczne pobieranie przydatnych pakietów
+library(pacman)
+p_load(
+  tidyverse,
+  tidytext,
+  tm,
+  topicmodels,
+  wordcloud,
+  knitr,
+  RColorBrewer,
+  udpipe,
+  future,
+  furrr,
+  lubridate
+)
+```
+
+# 0. Funkcja do przetwarzania transkrypcji 
+W transkrypcji zapisano pełne konferencje prasowe tak, żeby można było ich użyć w przyszłości w innych celach. Na potrzeby niniejszego projektu zostaną wykorzystane tylko wypowiedzi profesora Adama Glapińskiego. Funkcja do przetwarzania transkrypcji działa tak, że wydobywa jedynie wypowiedzi Glapińskiego i powstała dzięki założeniu, że profesor Adam Glapiński zawsze mówi na konferencjach najwięcej.
+
+```{r warning=FALSE}
+process_transcript <- function(file) {
+
+  text_data <- readLines(file)
+    
+  conference_date <- str_remove(basename(file), fixed(".txt")) # nazwy plików mają w sobie datę danej konferencji
+  text_tibble <- tibble(
+    doc_id = conference_date,
+    text = text_data  
+  ) # format, który łatwo można potem przefiltrować
+
+  # 1. Wyszukanie identyfikatora Adama Glapińśkiego
+  speaker_frequency <- str_extract(text_data, "^\\[SPEAKER_\\d{2}\\]") |> 
+    na.omit() |> 
+    table() |> 
+    sort(decreasing = TRUE)
+  
+  most_frequent_speaker <- names(speaker_frequency)[1]
+
+
+  # 2. Usunięcie wszystkich innych wypowiedzi oraz identyfikatora na początku każdej linijki
+  result <- text_tibble |> 
+    filter(str_starts(text, fixed(most_frequent_speaker))) |>
+    mutate(
+      text = str_replace(text, fixed(most_frequent_speaker), ""),
+      text = str_trim(text)
+    )
+
+  return(result)
+}
+```
+
+# 1. Wczytanie danych
+
+```{r warning=FALSE}
+directory_path <- "data"
+
+# 1. Wczytanie plików z katalogu
+files <- list.files(directory_path, full.names = TRUE, pattern = "*.txt")
+text_df <- map(files, process_transcript) |> list_rbind()
+
+# 2. Uporządkowanie danych
+corpus_vector <- text_df |>
+  group_by(doc_id) |>
+  summarise(text = paste(text, collapse = " ")) |>
+  ungroup()
+
+```
+
+# 2. Lematyzacja
+
+Do lematyzacji zostanie wykorzystane narzędzie udpipe rozwijane przez Instytut Lingwistyki Formalnej i Stosowanej z Uniwersytetu Karola w Pradze, który świetnie lematyzuje polskie słowa dzięki rozumieniu kontekstu. Operacja wykona się wielowątkowo, dzięki czemu przebiegnie bardzo sprawnie.
+
+```{r warning=FALSE}
+# Lematyzacja może w sensownym czasie się wykonać na bardzo mocnym procesorze,
+# żeby umożliwić uruchomienie projektu na słabszym sprzęcie wyeksportowano data frame
+lemmatised_df_path <- "data/rds/df_lemmatised.rds"
+if(!dir.exists(lemmatised_df_path)) {
+  dir.create("data/rds", recursive = TRUE)
+}
+if(file.exists(lemmatised_df_path)) {
+  df_annotated <- readRDS(lemmatised_df_path)
+} else {
+  # 1. Pobranie i wczytanie modelu
+  model_pl <- udpipe_download_model(language = "polish-pdb")
+  model_path <- model_pl$file_model
+  model <- udpipe_load_model(model_path)
+  # 2. Funkcja pracownika w model współbieżności "nadzorca-pracownik"
+  lemmatise <- function(w_data) {
+    annotated <- udpipe_annotate(
+      model, 
+      x = w_data$text, 
+      doc_id = w_data$doc_id
+    )
+    return(as.data.frame(annotated))
+  }
+
+
+  # 3. Uruchomienie operacji na określonej liczbie wątków (dla procesora Ryzen 7 9700X - 16)
+  max_workers <- parallel::detectCores()
+  # workers_count <- 16
+
+  workers_count <- max_workers
+  plan(multisession, workers = workers_count)
+  df_annotated <- future_map_dfr(
+    .x = 1:nrow(corpus_vector), 
+    .f = ~lemmatise(corpus_vector[.x, ]),
+    .options = furrr_options(seed = TRUE)
+  )
+
+  plan(sequential)
+
+  saveRDS(df_annotated, lemmatised_df_path)
+}
+```
+
+# 3. Sprzątanie
+```{r warning=FALSE}
+# 1. Czyszczenie danych
+corpus_vector_lemmatised <- df_annotated |>
+  # Model udpipe rozpoznaje części mowy [UPOS - Universal Part-of-Speech tags]
+  # Pojedyncze słowa mogą być źle zakwalifikowane, stąd później tradycyjnie
+  # zostanie przeprowadzone usunięcie tzw. stopwords
+  # Usunięcie z tekstu:
+  # znaków interpunkcyjnych (PUNCT)
+  # liczb (NUM)
+  # partykuł (PART)
+  # zaimków określających (DET)
+  # wykrzykników (INTJ)
+  filter(!upos %in% c("PUNCT", "NUM", "PART", "DET", "INTJ")) |>
+
+    mutate(lemma = ifelse(is.na(lemma), token, lemma)) |>     # Jeśli model z jakiegoś powodu nie znalazł lematu (zwrócił NA), użyto oryginalnego słowa
+    mutate(lemma = tolower(lemma)) |>     # Przepisanie lematów małymi literami
+    
+    # Porządkowanie danych
+    group_by(doc_id) |>
+    summarise(text = paste(lemma, collapse = " ")) |>
+    ungroup()
+
+# 2. Sklejenie utartych zwrotów, żeby nie "przepadły" po wrzuceniu do TDM 
+corpus_vector_lemmatised <- corpus_vector_lemmatised |>
+  mutate(
+    # 2.1 Instytucje
+    text = str_replace_all(text, "rada polityka pieniężny", "RPP"),
+    text = str_replace_all(text, "narodowy bank polski", "NBP"),
+    text = str_replace_all(text, "narodowy bank polska", "NBP"),
+    text = str_replace_all(text, "stopa", "stopa_procentowa"),
+    text = str_replace_all(text, "stopa procentowy", "stopa_procentowa"),
+    text = str_replace_all(text, "polityka pieniężny", "polityka_pieniężna"),
+    text = str_replace_all(text, "złotówka", "złoty"),
+
+    # inne banki centralne (z uwzględnieniem literówek)
+    text = str_replace_all(text, "ebez", "EBC"),
+    text = str_replace_all(text, "europejski bank centralny", "EBC"),
+    text = str_replace_all(text, "fedz", "FED"),
+    text = str_replace_all(text, "bank centralny", "bank_centralny"),
+
+    # 2.2. Słownictwo makroekonomiczne
+    text = str_replace_all(text, "cel inflacyjny", "cel_inflacyjny"),
+    text = str_replace_all(text, "wzrost gospodarczy", "wzrost_gospodarczy"),
+    text = str_replace_all(text, "rynek praca", "rynek_pracy"),
+    text = str_replace_all(text, "presja inflacyjny", "presja_inflacyjna"),
+    text = str_replace_all(text, "szok podażowy", "szok_podażowy"),
+    text = str_replace_all(text, "podaż pieniądz", "podaż_pieniądza"),
+    text = str_replace_all(text, "tarcza antyinflacyjny", "tarcza_antyinflacyjna"),
+    text = str_replace_all(text, "wzrost cena", "wzrost_cen"),
+    text = str_replace_all(text, "wzrost płaca", "wzrost_płac"),
+    text = str_replace_all(text, "projekcja inflacja", "projekcja_inflacji"),
+    text = str_replace_all(text, "punkt procentowy", "punkt_procentowy"),
+    text = str_replace_all(text, "punkt bazowy", "punkt_bazowy"),
+    
+    # 2.3. Anegdoty i częste zwroty Prezesa Glapińskiego (w tym literówki udpipe)
+    text = str_replace_all(text, "płaskowyżyć", "płaskowyż")
+  )
+
+# 3. Usunięcie zwrotów grzecznościowych (jest ich zaskakująco dużo, ale nie mają znaczenia dla tej analizy)
+corpus_vector_lemmatised <- corpus_vector_lemmatised |>
+  mutate(
+    text = str_remove(text, "dziękować"),
+    text = str_remove(text, "państwo"),
+    text = str_remove(text, "dzień dobry"),
+    text = str_remove(text, "witać"),
+    text = str_remove(text, "prosić"),
+    text = str_remove(text, "serdecznie"))
+
+# 4. Utworzenie korpusu
+corpus <- VCorpus(VectorSource(corpus_vector_lemmatised))
+stopwords_pl <- readLines("stopwords.txt")
+corpus <- tm_map(corpus, removeWords, stopwords_pl)
+corpus <- tm_map(corpus, stripWhitespace)
+```
+# 4. Chmura słów
+```{r warning=FALSE}
+tdm <- TermDocumentMatrix(corpus)
+
+m <- as.matrix(tdm)
+word_freqs <- sort(rowSums(m), decreasing = TRUE)
+df_words <- data.frame(word = names(word_freqs), freq = word_freqs)
+
+set.seed(2137)
+wordcloud(
+  words = df_words$word, 
+  freq = df_words$freq, 
+  min.freq = 5,
+  max.words = 100,
+  rot.per = 0.15,
+  colors = brewer.pal(8, "Dark2")
+)
+```
+
+# 5. Wybrane słowa używane na konferencjach przez A. Glapińskiego
+
+```{r}
+# 1. Przygotowanie tablicy wystąpień słów
+
+dane_w_czasie <- corpus_vector_lemmatised |>
+  mutate(
+    # Zamiana identyfikatora dokumentu (np. "2022-09")
+    # na obiekt daty typu Date
+    data_konf = ym(doc_id),
+
+    # Zliczanie wystąpień konkretnych słów w tekście
+    Plaskowyz = str_count(text, "płaskowyż"),
+    Zloto = str_count(text, "złoto"),
+    Szok = str_count(text, "szok")
+  ) |>
+
+  # Wybranie potrzebnych kolumn
+  select(data_konf, Plaskowyz, Zloto, Szok) |>
+
+  # Zamiana formatu szerokiego:
+  # data | Plaskowyz | Zloto | Szok
+  #
+  # na długi:
+  # data | Slowo | Liczba_wystapien
+  pivot_longer(
+    cols = c(Plaskowyz, Zloto, Szok),
+    names_to = "Slowo",
+    values_to = "Liczba_wystapien"
+  )
+
+# 2. Przygotowanie danych o inflacji
+
+# Wczytanie danych GUS zapisanych w kodowaniu Windows-1250
+inflacja_raw <- read_csv2(
+  "csv_data/inflacja.csv",
+  locale = locale(encoding = "windows-1250")
+)
+
+dane_inflacja <- inflacja_raw |>
+
+  # Korzystamy ze wskaźnika inflacji rok do roku
+  filter(
+    `Sposób prezentacji` ==
+      "Analogiczny miesiąc poprzedniego roku = 100"
+  ) |>
+
+  mutate(
+    # Tworzymy datę na podstawie roku i miesiąca
+    data_konf = ym(paste(Rok, Miesiąc, sep = "-")),
+
+    # Przekształcenie indeksu (np. 112.4)
+    # na procent inflacji (12.4%)
+    inflacja_proc = Wartość - 100
+  ) |>
+
+  select(data_konf, inflacja_proc) |>
+
+  # Usunięcie pustych obserwacji (jeśli takie są)
+  drop_na(inflacja_proc) |>
+
+  # Odcinamy stare, ogromne dane z lat 90.,
+  # żeby ggplot nie zniekształcał skali osi
+  filter(data_konf >= as.Date("2016-01-01"))
+
+
+# 3. Przerwa covidowa (brak konferencji)
+
+# Dodajemy pustą obserwację, dzięki której
+# ggplot przerwie linię zamiast łączyć punkty
+# po obu stronach lockdownu, co pozwoli
+# uzyskać estetyczny efekt
+pusta_konferencja <- expand_grid(
+  data_konf = as.Date("2020-10-01"),
+  Slowo = c("Plaskowyz", "Zloto", "Szok"),
+  Liczba_wystapien = NA_real_
+)
+
+# Doklejenie sztucznej luki do danych
+dane_w_czasie_z_luka <- bind_rows(
+  dane_w_czasie,
+  pusta_konferencja
+) |>
+  arrange(data_konf)
+
+
+# 4. Utworzenie wykresu
+
+ggplot() +
+
+  # Szare tło podczas covida
+  geom_rect(
+    xmin = as.Date("2020-03-01"),
+    xmax = as.Date("2021-02-01"),
+    ymin = -Inf,
+    ymax = Inf,
+    alpha = 0.08,
+    fill = "black",
+    color = NA
+  ) +
+
+  ggplot2::annotate(
+    "text",
+    x = as.Date("2020-06-01"),
+    y = Inf,
+    vjust = 1.5,
+    hjust = -0.15,
+    label = "Brak konferencji w czasie pandemii",
+    color = "black",
+    fontface = "bold",
+    size = 3.5
+  ) +
+
+  # Etykieta wyborów parlamentarnych - wertykalna linia
+
+  geom_vline(
+    xintercept = as.Date("2023-10-15"),
+    linetype = "dashed",
+    color = "darkred",
+    linewidth = 1,
+    alpha = 0.7
+  ) +
+
+  ggplot2::annotate(
+    "text",
+    x = as.Date("2023-10-15"),
+    y = Inf,
+    vjust = 1.5,
+    hjust = -0.15,
+    label = "Wybory parlamentarne\n(15.10.2023)",
+    color = "darkred",
+    fontface = "bold",
+    size = 3.5
+  ) +
+
+
+  # Właściwy wykres
+
+  geom_line(
+    data = dane_w_czasie,
+    aes(
+      x = data_konf,
+      y = Liczba_wystapien,
+      color = Slowo
+    ),
+    linetype = "dotted",
+    linewidth = 1,
+    alpha = 0.4
+  ) +
+
+  geom_line(
+    data = dane_w_czasie_z_luka,
+    aes(
+      x = data_konf,
+      y = Liczba_wystapien,
+      color = Slowo
+    ),
+    linewidth = 1,
+    alpha = 0.75
+  ) +
+
+  geom_point(
+    data = dane_w_czasie,
+    aes(
+      x = data_konf,
+      y = Liczba_wystapien,
+      color = Slowo
+    ),
+    size = 2,
+    alpha = 0.75
+  ) +
+
+  geom_line(
+    data = dane_inflacja,
+    aes(
+      x = data_konf,
+      y = inflacja_proc,
+      color = "Inflacja"
+    ),
+    linewidth = 0.8,
+    alpha = 0.3
+  ) +
+
+  theme_minimal() +
+
+  scale_color_manual(
+    values = c(
+      "Plaskowyz" = "#d32f2f",  # czerwony
+      "Zloto" = "#fbc02d",      # złoty
+      "Szok" = "#1976d2",       # niebieski
+      "Inflacja" = "black"      # czarny
+    )
+  ) +
+
+  scale_x_date(
+    date_breaks = "1 year",
+    date_labels = "%Y",
+    limits = c(
+      as.Date("2016-01-01"),
+      max(dane_w_czasie$data_konf)
+    )
+  ) +
+
+  scale_y_continuous(
+    name = "Liczba użyć na konferencji",
+    sec.axis = sec_axis(
+      ~ .,
+      name = "Inflacja r/r (%)"
+    )
+  ) +
+
+  # Opisy wykresu
+  labs(
+    title = "Wybrane słowa używane na konferencjach przez A. Glapińskiego",
+    subtitle = "Wykres prezentujący wybrane trendy retoryczne (wybrane słowa) na tle historycznej inflacji",
+    x = "Data",
+    color = "Legenda"
+  ) +
+
+  # Dodatkowe ustawienia wyglądu
+  theme(
+    plot.title = element_text(
+      face = "bold",
+      size = 15
+    ),
+    axis.title.y.right = element_text(
+      color = "black",
+      face = "bold"
+    ),
+    legend.position = "bottom"
+  )
+```
+
+# 6. Asocjacje
+Stworzony panel pozwoli przedstawić korelacje o podanym progu dla wybranego słowa z listy najczęściej występujących słów/zwrotów.
+
+## 6.1 Przygotowanie danych
+```{r warning=FALSE}
+# Trzeba upewnić się, że program dostaje oddzielne pliki:
+
+corpus2 <- VCorpus(
+  VectorSource(corpus_vector_lemmatised$text)
+)
+
+# usówanie niepotrzebnych słów
+stopwords_pl <- readLines("stopwords.txt")
+corpus2 <- tm_map(corpus2, removeWords, stopwords_pl)
+corpus2 <- tm_map(corpus2, stripWhitespace)
+
+# Zamiana na macierz
+tdm2 <- TermDocumentMatrix(corpus2)
+m2 <- as.matrix(tdm2)
+
+# ładowanie pakietu
+p_load(shiny, plotly)
+
+```
+
+
+## 6.2 Zliczanie częstości słów
+
+```{r warning=FALSE}
+# Zliczanie samych częstości słów w macierzach
+v <- sort(rowSums(m2), decreasing = TRUE)
+tdm_df <- data.frame(word = names(v), freq = v)
+head(tdm_df, 10)
+
+```
+
+## 6.3 Interaktywny wykres
+
+```{r warning=FALSE}
+library(shiny)
+
+# wybieramy tylko często występujące słowa
+valid_terms <- tdm_df |>
+  filter(freq >= 10) |>
+  arrange(desc(freq)) |>
+  pull(word)
+
+# Panel sterowania
+inputPanel(
+
+  selectInput(
+    inputId = "selected_word",
+    label = "Wybierz termin:",
+    choices = sort(valid_terms),
+    selected = "inflacja"
+  ),
+
+  sliderInput(
+    inputId = "corr_limit",
+    label = "Próg korelacji:",
+    min = 0.1,
+    max = 0.9,
+    value = 0.4,
+    step = 0.05
+  )
+
+)
+
+# Wykres
+renderPlot({
+
+  target_word <- input$selected_word
+  cor_limit <- input$corr_limit
+
+  associations <- findAssocs(
+    tdm2,
+    target_word,
+    corlimit = cor_limit
+  )
+
+  assoc_vector <- associations[[1]]
+
+  # zabezpieczenie przed pustym wynikiem
+  if(length(assoc_vector) == 0) {
+
+    plot.new()
+
+    title(
+      paste0(
+        "Brak asocjacji dla terminu: ",
+        target_word
+      )
+    )
+
+    return()
+
+  }
+
+  # dataframe do wykresu
+  assoc_df <- data.frame(
+    word = names(assoc_vector),
+    score = assoc_vector
+  ) |>
+    arrange(desc(score)) |>
+    slice_head(n = 15)
+
+  # wykres
+  ggplot(
+    assoc_df,
+    aes(
+      x = score,
+      y = reorder(word, score),
+      color = score
+    )
+  ) +
+
+    geom_segment(
+      aes(
+        x = 0,
+        xend = score,
+        yend = word
+      ),
+      linewidth = 1.2
+    ) +
+
+    geom_point(size = 4) +
+
+    geom_text(
+      aes(label = round(score, 2)),
+      hjust = -0.3,
+      size = 4,
+      color = "black"
+    ) +
+
+    scale_color_gradient(
+      low = "#a6bddb",
+      high = "#08306b"
+    ) +
+
+    scale_x_continuous(
+      limits = c(
+        0,
+        max(assoc_df$score) + 0.1
+      ),
+      expand = expansion(mult = c(0, 0.2))
+    ) +
+
+    theme_minimal(base_size = 13) +
+
+    labs(
+      title = paste0(
+        "Asocjacje z terminem: ",
+        target_word
+      ),
+      subtitle = paste0(
+        "Próg korelacji r ≥ ",
+        cor_limit
+      ),
+      x = "Korelacja Pearsona",
+      y = NULL,
+      color = "Siła\nasocjacji"
+    ) +
+
+    theme(
+      plot.title = element_text(face = "bold"),
+      legend.position = "right"
+    )
+
+})
+
+```
+
+# 7 Bibliografia
+
+
+```{r warning=FALSE, echo=FALSE}
+zrodla<-read.table("Zrodla.txt", sep = "\n", col.names="tekst")
+
+
+wypisz<-function(x){
+  for(i in 1:length(x)){
+    cat("[", i,"]", x[i], "\n\n")
+  }
+}
+
+
+wypisz(zrodla$tekst)
+
+```

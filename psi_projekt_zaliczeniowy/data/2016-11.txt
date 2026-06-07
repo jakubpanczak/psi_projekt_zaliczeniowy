@@ -1,0 +1,390 @@
+[SPEAKER_02] Dzień dobry Państwu.
+[SPEAKER_02] Witamy na konferencji prasowej po posiedzeniu Rady Polityki Pieniężnej.
+[SPEAKER_02] W dzisiejszej konferencji biorą udział prezes Narodowego Banku Polskiego, pan prof. Adam Krapiński oraz członkowie Rady Polityki Pieniężnej, pan prof. Jerzy Rzyżyński oraz pan prof. Eryk Łom.
+[SPEAKER_02] Panie prezesie, zapraszam do zaprezentowania komunikatu po posiedzeniu Rady.
+[SPEAKER_01] Dzień dobry Państwu.
+[SPEAKER_01] Cieszę się, że Państwa jest tak dużo, to znaczy tyle, co zawsze.
+[SPEAKER_01] Informacja po posiedzeniu Rady Polityki Pieniężnej.
+[SPEAKER_01] Rada postanowiła utrzymać stopy procentowe NBP na niezmienionym poziomie.
+[SPEAKER_01] Stopa referencyjna 1,50, stopa lombardowa 2,50, stopa depozytowa 0,50 i stopa redyskonta Wexli 1,75.
+[SPEAKER_01] Wzrost aktywności gospodarczej na świecie pozostaje umiarkowany, przy utrzymującej się niepewności co do jego perspektyw.
+[SPEAKER_01] W strefie euro, mimo negatywnego oddziaływania słabej koniunktury w pozaeuropejskich gospodarkach wschodzących na jej eksport, wzrost gospodarczy jest stabilny.
+[SPEAKER_01] Wskazują na to dane o rachunkach narodowych za trzeci kwartał.
+[SPEAKER_01] Z kolei w Stanach Zjednoczonych dynamika PKB wzrosła w trzecim kwartale, po kilku kwartałach spadku.
+[SPEAKER_01] W Chinach wzrost gospodarczy ustabilizował się na niższym niż w poprzednich latach poziomie.
+[SPEAKER_01] Towarzyszy temu zmniejszenie się skali recesji w Rosji.
+[SPEAKER_01] W warunkach umiarkowanego wzrostu gospodarczego oraz niższych niż w poprzednich latach cen surowców, dynamika cen w otoczeniu polskiej gospodarki jest nadal bardzo niska.
+[SPEAKER_01] Roczna dynamika cen surowców jest jednak dodatnia, co przyczynia się do pewnego wzrostu inflacji w części gospodarek.
+[SPEAKER_01] Europejski Bank Centralny utrzymuje stopy procentowe na poziomie bliskim zera, w tym stopę depozytową poniżej zera, a także kontynuuje zakupy aktywów finansowych.
+[SPEAKER_01] Rezerwa Federalna po podwyżce w grudniu ubiegłego roku utrzymuje stopy procentowe na niezmienionym poziomie, sygnalizując ich prawdopodobny wzrost w przyszłości.
+[SPEAKER_01] W Polsce utrzymuje się stabilny wzrost gospodarczy, choć dane wskazują, że dynamika PKB w trzecim kwartale mogła się nieznacznie obniżyć.
+[SPEAKER_01] Głównym czynnikiem wzrostu jest rosnący popyt konsumpcyjny, wspierany przez systematyczną poprawę sytuacji na rynku pracy.
+[SPEAKER_01] Korzystne są nastroje gospodarstw domowych oraz wypłaty świadczeń wychowawczych w ramach programu Rodzina 500+.
+[SPEAKER_01] Dane o produkcji budowlano-montażowej wskazują, że nadal ograniczająca na aktywność gospodarczą wpływa spadek inwestycji.
+[SPEAKER_01] Obniżenie inwestycji jest związane z przejściowym zmniejszeniem wykorzystania środków unijnych po zakończeniu poprzedniej perspektywy finansowej UE oraz utrzymującą się niepewnością wśród przedsiębiorstw co do otoczenia regulacyjnego i gospodarki.
+[SPEAKER_01] Roczna dynamika cen towarów i usług konsumpcyjnych pozostaje ujemna, jednak skala deflacji maleje.
+[SPEAKER_01] Na wygasanie tendencji deflacyjnych wskazuje również wzrost cen produkcji sprzedanej przemysłu.
+[SPEAKER_01] Do wzrostu dynamiki cen przyczynia się osłabienie efektów wcześniejszego spadku cen surowców na rynkach światowych, a także wyższa niż w poprzednich kwartałach dynamika płac polskiej gospodarce.
+[SPEAKER_01] Natomiast czynnikiem ograniczającym dynamikę cen jest nadal niski wzrost cen za granicą oraz ujemna luka popytowa w krajowej gospodarce.
+[SPEAKER_01] Jednocześnie oczekiwania inflacyjne utrzymują się na niskim poziomie.
+[SPEAKER_01] Rado zapoznało się z przygotowaną przez Instytut Ekonomiczny projekcją inflacji i PKB.
+[SPEAKER_01] Zgodnie z listopadową projekcją z modelu Nekmot przygotowaną przy założeniu niezmienionych stóp procentowych NBP, z uwzględnieniem danych dostępnych do 21 października 2016 roku, roczna dynamika cen znajdzie się z 50-procentowym prawdopodobieństwem,
+[SPEAKER_01] W przedziale od minus 0,7 do minus 0,6 w 2016 roku.
+[SPEAKER_01] Wobec minus 0,9 do minus 0,3 w projekcji z lipca 2016 roku.
+[SPEAKER_01] Od 0,5 do 2,0 w 2017 roku.
+[SPEAKER_01] Wobec 0,3 do 2,2 oraz od 0,3 do 2,6 w 2018 roku.
+[SPEAKER_01] Wobec 0,3 do 2,6.
+[SPEAKER_01] Natomiast roczne tempo wzrostu PKB według tej projekcji znajdzie się z 50-procentowym prawdopodobieństwem w przedziale od 2,5 do 3,4%.
+[SPEAKER_01] W 2016 roku oczywiście, wobec 2,6 do 3,8 w projekcji z lipca 2016 roku.
+[SPEAKER_01] Następnie w 2017 roku znajdzie się od 2,6 do 4,5, wobec poprzednio przewidywanego 2,4 do 4,5.
+[SPEAKER_01] a w 2018 roku znajdzie się w przedziale od 2,2 do 4,4, wobec poprzednio przewidywanych 2,1 do 4,3.
+[SPEAKER_01] W ocenie rany dymiarka cen będzie nadal stopniowo rosnąć i w kolejnych kwartałach stanie się dodatnia.
+[SPEAKER_01] Oprócz wygaśnięcia efektów wcześniejszych spadków cen surowców, wzrostowi cen w przyszłym roku będzie sprzyjało oczekiwane przyspieszenie wzrostu PKB, następujące w warunkach dalszego wzrostu dynamiki wynagrodzeń oraz zwiększonych świadczeń wychowawczych.
+[SPEAKER_01] W kolejnych kwartałach wzrosnąć powinna również dynamika inwestycji.
+[SPEAKER_01] Czemu będzie sprzyjać dobra sytuacja finansowa firm, wysokie wykorzystanie ich zdolności produkcyjnych oraz stopniowe zwiększanie stopnia absorpcji funduszy unijnych.
+[SPEAKER_01] Taką ocenę wspiera listopadowa projekcja NBP.
+[SPEAKER_01] Źródłem niepewności dla oczekiwanego kształtowania się dynamiki cen jest ewentualność obniżenia się cen surowców.
+[SPEAKER_01] Rada podtrzymuje ocenę, że w świetle dostępnych danych i prognoz obecny poziom cen stóp procentowych sprzyja utrzymaniu polskiej gospodarki na stopieć ścieżce zrównoważonego wzrostu oraz pozwala zachować równowagę makroekonomiczną.
+[SPEAKER_01] Rada przyjęła raport do inflacji listopad 2016 roku i opinię do projektu ustawy budżetowej na rok 2017.
+[SPEAKER_01] Dziękuję bardzo.
+[SPEAKER_02] Bardzo dziękuję Panie Prezesie.
+[SPEAKER_02] Zapraszam do zadawania pytań.
+[SPEAKER_02] Pan redaktor Jacek Barszczewski, proszę.
+[SPEAKER_04] Dziękuję.
+[SPEAKER_04] Ja mam prośbę o podzielenie się kilkoma odczuciami Państwa odnośnie najnowszej projekcji.
+[SPEAKER_04] Pamiętam, jak w lipcu Pan Prezes wskazywał, że Rada była jednak bardziej optymistyczna
+[SPEAKER_04] wobec tych zrewidowanych wówczas ścieżek, głównie chodzi mi tu o PKB.
+[SPEAKER_04] Czy w tym wypadku jest tak, że Państwo, że tak powiem, zgadzacie się z tą projekcją i ją przyjmujecie z dobrodziejstwem inwentarza, czy macie do niej jakieś zastrzeżenia, jesteście na przykład bardziej optymistyczni, czy bardziej pesymistyczni może?
+[SPEAKER_01] Opracowania Instytutu są jednym z głównych elementów naszych przewidywań i projekcji.
+[SPEAKER_01] Każdy z członków Rady odnosi się do tego indywidualnie.
+[SPEAKER_01] Jedni się zgadzają bardziej, inni mniej.
+[SPEAKER_01] Mają własne przewidywania, ale generalnie to jest podstawa naszych przewidywania.
+[SPEAKER_04] Czy to jest w zgodzie z Państwa odczuciami, czy tutaj są jakieś różnice?
+[SPEAKER_01] No to każdy by się musiał wypowiedzieć indywidualnie.
+[SPEAKER_04] A Pan Prezes?
+[SPEAKER_01] Ja mam nastawienie optymistyczne.
+[SPEAKER_01] No wyraźnie obserwujemy, że jeśli chodzi o tempo wzrostu, to spadek tego tempa jest związany tylko i wyłącznie z wolniejszym napływem i absorpcją środków unijnych.
+[SPEAKER_01] No tak, tak mówią wszystkie analizy.
+[SPEAKER_01] I teraz na ile przywrócenie tempa absorpcji tych środków spowoduje skok tempa wzrostu w górę, no to jest
+[SPEAKER_01] kwestią oceny.
+[SPEAKER_01] Pozostaje też kwestia, czy to nastąpi w końcu tego roku, czy w pierwszym kwartale tego roku, czy jak są pesymiści w drugim kwartale dopiero przyszłego roku.
+[SPEAKER_01] Ja uważam, że tak właśnie bliżej przełomu lat.
+[SPEAKER_01] Z czego to wnoszę?
+[SPEAKER_01] Z informacji, które mamy na bieżąco z Ministerstwa Rozwoju.
+[SPEAKER_01] czy Ministerstwo Rozwoju i Finansów, z którego mamy informacje o dużym tempie podpisywanych umów związanych z wykorzystaniem środków unijnych.
+[SPEAKER_01] To jest rzeczywiście imponujące tempo.
+[SPEAKER_01] Przypuszczam, że już koniec roku, początek przyszłego roku będzie lawina tych umów, które już będą wchodziły w grę i tempo wzrostu skoczy w górę.
+[SPEAKER_04] Moje pytanie kolejne dotyczy tego, czy ta projekcja w jakiś istotny sposób wpływa na prezentowaną przez Pana Prezesa ostatnio taką pożądaną możliwą ścieżkę, jeśli chodzi o stopy procentowe w najbliższych kwartałach.
+[SPEAKER_01] Moją opinię Państwo znacie.
+[SPEAKER_01] No nie nastąpiły żadne nowe fakty, nowe czynniki, które by powodowały zmiany tej opinii.
+[SPEAKER_01] Ja osobiście nie spodziewam się zmiany stóp w przyszłym roku.
+[SPEAKER_01] Tego się zazwyczaj nie powinno robić.
+[SPEAKER_01] To wyrażam moje osobiste stanowisko, nie całej Rady.
+[SPEAKER_01] Oczywiście te zdania są różne.
+[SPEAKER_01] Mnie się wydaje, że tempo wzrostu w przyszłym roku będzie dobre.
+[SPEAKER_01] bliskie tym przewidywaniom rządowym, to są wszystko przecież szacunki, zasadniczo wyższe niż w drugiej połowie tego roku, ale nie aż tak wysokie, żeby trzeba było zmieniać poziom stóp procentowych.
+[SPEAKER_01] No inflacja też będzie już pozytywna na początku roku, tak jak się to przewiduje, ale może też tak być, że na przykład w grudniu już ta inflacja będzie pozytywna w związku z zakupami świątecznymi,
+[SPEAKER_01] i zwiększonym popytem, potem w styczniu znów lekko spadnie, no ale generalnie ta inflacja będzie koło jednego czy jeden z kawałkiem w przyszłym roku.
+[SPEAKER_01] To też nie jest taki poziom inflacji, to nie jest takie tempo wzrostu inflacji, żeby myśleć o zmianie
+[SPEAKER_01] stóp.
+[SPEAKER_01] Tak mi się wydaje, no ale tu nie przywiązuję się do swoich własnych przewidywań.
+[SPEAKER_01] Patrzę, jak się to naprawdę dzieje.
+[SPEAKER_01] Być może będzie tak, że tempo wzrostu będzie zaskakująco wyższe i tempo wzrostu inflacji.
+[SPEAKER_01] Sytuacja międzynarodowa.
+[SPEAKER_01] No tu mieliście Państwo chyba kilka razy nawet powtórzone w tym komunikacie, że cena surowców jest niezwykle istotna.
+[SPEAKER_01] No i jeśli chodzi o ceny surowców, to obserwują to Państwo
+[SPEAKER_01] Tu się nic wielkiego nie dzieje.
+[SPEAKER_01] Są różne powody.
+[SPEAKER_01] Dzisiaj sporo czasu temu poświęciliśmy na posiedzeniu.
+[SPEAKER_01] Dlaczego te ceny surowców się tak kształtują?
+[SPEAKER_01] Dlaczego są niskie?
+[SPEAKER_01] Dlaczego się stabilizują na tym niskim poziomie?
+[SPEAKER_01] Jak ten rynek funkcjonuje międzynarodowy?
+[SPEAKER_01] To jest złożony ekonomiczno-polityczny taki mechanizm.
+[SPEAKER_01] One są niskie cały czas.
+[SPEAKER_01] Jak ceny surowców ruszą w górę, to inflacja ruszy.
+[SPEAKER_01] w zachodniej Europie, a tym samym i u nas.
+[SPEAKER_01] A jak nie ruszy, to się będzie wolno działo.
+[SPEAKER_01] Tak naprawdę mówimy o stanie pożądanym.
+[SPEAKER_01] Stan pożądany to byłby taki, żebyśmy mieli 3,6 powiedzmy tempo wzrostu, 1,5 inflacja bez powstawania żadnych nierównowag.
+[SPEAKER_01] To byłoby dla nas
+[SPEAKER_01] optymalne rozwiązanie w przyszłym roku i w tej sytuacji bym nie przewidywał działań Rady Polityki Pieniężnej na stopach procentowych, chyba, żeby Rada zdecydowała inaczej.
+[SPEAKER_01] Mam tam jeden głos tylko.
+[SPEAKER_01] To jest wspólna mądrość.
+[SPEAKER_02] Bardzo proszę redaktor.
+[SPEAKER_03] Jeżeli można, jeżeli można się wypowiedzieć tutaj, dopowiedzieć do tego, co powiedział Pan Prezes, że ja myślę, że Rada wykazuje dużą elastyczność tutaj, jeżeli chodzi o te prognozy zaprezentowane przez Instytut Ekonomiczny.
+[SPEAKER_03] Generalnie to jest duża zgodność, że wierzymy w to, że rzeczywiście
+[SPEAKER_03] po takim przejściowym słabszych danych te właśnie prognozy będą się poprawiać i w 2017 roku rzeczywiście to jest duża szansa i poprzez właśnie to, że są też stymulacje ze strony właśnie polityki gospodarczej rządu tutaj no te efekty 500 plus i też są zapowiadane właśnie inwestycje plus tutaj jest na pewno to jest czynnik, który stymuluje.
+[SPEAKER_03] Natomiast oczywiście jesteśmy elastyczni w tym sensie, że
+[SPEAKER_03] Generalnie no też jeżeli będzie sytuacja, a tutaj właśnie osobiście jeżeli chodzi o mnie tutaj właśnie Pan Prezes słusznie tutaj właśnie zauważył, że bardzo ważnym czynnikiem są ceny surowców, a konkretnie ja osobiście biorę pod uwagę ceny ropy naftowej i to jakby z dwóch stron, to znaczy z jednej strony od strony właśnie tej deflacji, tak, to znaczy
+[SPEAKER_03] Jeżeli ceny ropy będą się, tendencje, gdy rzeczywiście cena się będzie poprawiać, to będzie wyższa tendencja, to rzeczywiście to będzie wpływało na szybsze wyjście z deflacji.
+[SPEAKER_03] Natomiast tutaj troszeczkę myślę, że z cenami ropy, jak patrzę na analizę techniczną, to są pewne takie czynniki,
+[SPEAKER_03] Troszeczkę niepokojące, bo z analizy technicznej, którą wykorzystuję w swoich analizach, wynika w horyzoncie rocznym, że jednak te ceny ropy niekoniecznie będą rosły.
+[SPEAKER_03] Raczej zakładam trend spadkowy, ale to wcale nie musi oznaczać, że to będzie miało negatywny wpływ na naszą gospodarkę.
+[SPEAKER_03] Też obok cen ROP-y biorę też pod uwagę sytuację na indeksy giełdowe ceny akcji.
+[SPEAKER_03] Generalnie z badań, które tutaj prowadzę, to właśnie występuje właśnie to powiązanie cen akcji w roku T i realnego tempa PKB w roku następnym.
+[SPEAKER_03] Jeżeli po prostu również tendencje na rynkach akcji byłyby np. niepokojące, byłyby trendy boczne czy nawet trendy spadkowe, to oczywiście to są czynniki, które mogą trochę negatywnie wpływać.
+[SPEAKER_03] No i też oczywiście biorę pod uwagę też nastroje tak, nastroje konsumentów, przedsiębiorców, ale generalnie tutaj zakładamy pozytywny scenariusz, optymistyczny i dlatego uważamy, że niski poziom stóp procentowych, obecny poziom stóp procentowych jest optymalny, jest przede wszystkim
+[SPEAKER_03] Ten niski poziom stóp procentowych, on właśnie daje tę szansę naszej polskiej gospodarce, żeby gospodarka się mogła rozwijać stosunkowo szybko.
+[SPEAKER_03] Pamiętajmy, że ten wzrost gospodarczy jest stosunkowo wysoki na tle krajów Europy Środkowo-Wschodniej.
+[SPEAKER_03] To jest naprawdę niezły wzrost.
+[SPEAKER_03] Mamy też dobre dane z rynku pracy.
+[SPEAKER_03] mamy rekordowe niskie bezrobocie.
+[SPEAKER_03] Też właśnie tutaj z projekcji, które nam prezentuje Instytut Ekonomiczny, też wynika, że raczej się będzie ta sytuacja na rynku pracy w 2017 poprawiać.
+[SPEAKER_03] Także są mocne argumenty za tym, żeby rzeczywiście te stopy procentowe pozostawić bez zmian.
+[SPEAKER_03] Ale oczywiście jesteśmy elastyczni, tak jak powiedziałem na początku, że gdyby były tutaj jakieś czynniki, które to właśnie z tych powodów, które tutaj ja przedstawiłem, akurat jak ja na te czynniki patrzę,
+[SPEAKER_03] Tutaj rzeczywiście Rada jest tutaj bardzo elastyczna i będzie po prostu obserwować sytuację.
+[SPEAKER_01] Generalnie wzrost jest ściągnięty, jak Państwo wiedzą, przez konsumpcję w Polsce.
+[SPEAKER_01] Taka jest sytuacja, że od kilku kwartałów jest ściągnięto przez konsumpcję.
+[SPEAKER_01] No tak jest nadal.
+[SPEAKER_01] Oczekujemy, że w przyszłym roku przejdziemy jakąś inną sytuację, że znów inwestycje będą ciągnąć wzrost gospodarczy w Polsce.
+[SPEAKER_01] To, że wzrost jest ściągnięty przez konsumpcję, nie jest niczym dziwnym.
+[SPEAKER_01] W całej Europie, czy na całym świecie tak naprawdę, w całym świecie zachodnim, ale także w emerging markets,
+[SPEAKER_01] Mamy taką sytuację.
+[SPEAKER_01] My zakładamy, że u nas jest trochę inna sytuacja i że u nas jest to przejściowe zjawisko, że konsumpcja ciągnie wzrost i że to wynika z faktu tej spowolnionej absorpcji środków unijnych.
+[SPEAKER_01] Do końca 2020 my będziemy cały czas z tych środków korzystać.
+[SPEAKER_01] I te środki uruchomiono oczywiście razem z naszymi własnymi środkami.
+[SPEAKER_01] spowodują, że znów przyjdziemy do takiego szybszego wzrostu.
+[SPEAKER_01] Ten wzrost, który mamy w tej chwili, którego się spodziewamy, to jest wzrost bliski temu, co ekonomiści uważają za naturalną stopę wzrostu, czyli bliską takim optymalnemu wykorzystaniu zasobów w rozwoju warunków równowagi.
+[SPEAKER_01] Czyli to jest wzrost, który nas w pełni satysfakcjonuje, nie powodujący równowagi, wysokie tempo wzrostu.
+[SPEAKER_01] No ale oczywiście tu jest różnica między 3, a 4, między 3, a 3,6.
+[SPEAKER_01] Chcielibyśmy, żeby to było na przykład 3,6.
+[SPEAKER_01] Podobnie jak rząd, to by naprawdę… Naszą takie ocenę, że 3,6… No to naprawdę dobry, naprawdę dobry wzrost.
+[SPEAKER_01] No z tą inflacją to jest tak, no jak Państwo wiedzą, no nikt nie chce, inflacja nie jest dobrem samym w sobie, ale inflacja taka niewielka, stabilna, no jest dobra zarówno z punktu widzenia ministra finansów, a trzeba mu życzyć wszystkiego dobrego, prawda?
+[SPEAKER_01] budżetu, jak i jest dobra z punktu widzenia przedsiębiorców.
+[SPEAKER_01] Przedsiębiorcy w warunkach inflacji łatwiej podejmują decyzje inwestycyjne, bo im się te możliwości inwestycyjne lepiej prezentują.
+[SPEAKER_01] Są bardziej skorzy, żeby dokonywać inwestacji.
+[SPEAKER_01] W tych milionach, setkach tysięcy decyzji, małych, średnich, dużych przedsiębiorstw, inflacja jest takim pozytywnym bodźcem.
+[SPEAKER_01] Oczywiście nie jakaś inflacja poza kontrolą, wielka, ale taka niewielka właśnie.
+[SPEAKER_01] Dlatego spodziewamy się, że w przyszłym roku będą optymalne warunki.
+[SPEAKER_01] Właśnie inflacja 1,5, tempo wzrostu 3,6, brak tych nierównowag.
+[SPEAKER_01] Bardzo dobry mamy popyt na kredyty mieszkaniowe, ale też nie jakiś taki, co grozi jakimiś bąblami.
+[SPEAKER_01] Na kredyty złotowe, jak Państwo wiedzą, tylko takie w tej chwili praktycznie są udzielane.
+[SPEAKER_01] Sytuacja jest wyjątkowo dobra.
+[SPEAKER_01] Niezręcznie mi to mówić, bo to jest tak, jakbym chwalił zarządzających polską gospodarką i finansami, oczywiście to jest ich zasługa, ale trudno powiedzieć w jakim stopniu, może większym, okoliczności wszystkich i jakoś tak, że to się tak układa w skali międzynarodowej.
+[SPEAKER_01] Na tle innych krajów i wysoko rozwiniętych, i rozwijających się tych emerging market, mamy wyjątkowo dobrą sytuację gospodarczą i finansową.
+[SPEAKER_01] No tak to się składa i jeśli przyjdą odpukać jakieś niepokojące z zewnątrz silne impulsy negatywne,
+[SPEAKER_01] To tak przez jakiś czas będzie.
+[SPEAKER_01] Chcielibyśmy, żeby było tak 20 lat, ale możemy powiedzieć o przyszłym roku, o następnym.
+[SPEAKER_01] Sytuacja jest bardzo dobra.
+[SPEAKER_01] Narodowy Bank Polski nie jest od tego, żeby jakoś działał tak bardzo energicznie w gospodarce.
+[SPEAKER_01] My raczej stabilizujemy, my zabezpieczamy równowagę, my się staramy, żeby to było stabilne, wyrównane, żeby nie narastały żadne nierównowagi.
+[SPEAKER_01] Tego pilnujemy.
+[SPEAKER_01] Interesujemy się stabilnością też systemu bankowego w tej trudnej bardzo dla banków sytuacji.
+[SPEAKER_01] I to jest takie przesłanie, jakie dla Państwa mamy.
+[SPEAKER_01] Rada Polityki Pieniężnej zajmuje się także już teraz właśnie stabilnością systemu bankowego.
+[SPEAKER_01] Myśli o tym, zajmuje się tym, bo to są ważne tematy.
+[SPEAKER_02] Bardzo proszę, redaktor Berenda.
+[SPEAKER_07] Dzień dobry, Krzysztof Berenda, Radio RMF.
+[SPEAKER_07] Nie sposób podejrzewam uciec od tego, co dzisiaj rano nam się objawiło, czyli zmiana w Waszyngtonie.
+[SPEAKER_07] Mam wrażenie, że pewnie też o tym wymienialiście parę słów, nie wiem, czy politycznie, czy ekonomicznie.
+[SPEAKER_07] Pytanie dwuczęściowe, więc najpierw pierwsza część.
+[SPEAKER_07] Czy w tym krótkim terminie, jeżeli popatrzymy rynkowo, to, co się dzisiaj wydarzyło, ta niewielka w sumie reakcja, może poza meksykańskim peso, to jest wszystko, co się działo, jeżeli popatrzymy na akcje, na waluty rynkowe?
+[SPEAKER_07] na surowce, czym trzeba się spodziewać właśnie w tym krótkim, średnim terminie jeszcze jakiejś większej reakcji?
+[SPEAKER_01] Rada poświęciła temu sporo czasu, bo to są po prostu ludzie, członkowie rady i to wszystkich bardzo interesuje.
+[SPEAKER_01] Temat jest interesujący.
+[SPEAKER_01] Były wahania różnego rodzaju na rynku, także dotyczące nas, niewielkie i one stopniowo gasły.
+[SPEAKER_01] Także jak na razie można powiedzieć, że jakiś zasadniczych
+[SPEAKER_01] zasadniczych nowych czynników tutaj nie ma, ale to jest o wiele, wiele, wiele, wiele za wcześnie, żeby w ogóle coś mówić.
+[SPEAKER_01] No nie wiadomo tak naprawdę.
+[SPEAKER_01] Na pana pytanie bym odpowiedział wszystkim nie wiem.
+[SPEAKER_01] Zobaczymy, co się będzie działo w następnych tygodniach, miesiącach.
+[SPEAKER_01] No bardzo nas interesuje, kto oczywiście będzie jakby twarzą ekonomiczną, w szczególności finansową nowego amerykańskiej administracji, kto będzie uosabiał tą politykę prowadzoną przez
+[SPEAKER_01] nowego prezydenta, jacy tam będą ci ministrowie za to odpowiedzialni, no co z tego, co prezydent zapowiadał, będzie przez niższą i wyższą izbę procedowane.
+[SPEAKER_01] No z tych informacji, które na razie mamy, wynika, że republikanie będą kontrolować i niższą i wyższą izbę, no więc może dużo.
+[SPEAKER_01] Tam nic takiego niepokojącego dla nas w tym programie ekonomicznym tego domniemanego nowego prezydenta, który wydaje się w tej chwili
+[SPEAKER_01] że będzie na pewno prezydentem nie ma dla nas.
+[SPEAKER_01] Dla Meksyku jest bardzo dużo,
+[SPEAKER_01] Dla nas nie, ale to trudno, proszę Państwa, powiedzieć.
+[SPEAKER_01] Zmieni się nastrój, trochę międzynarodowy, zmienią się opcje, ale we wszystkich krajach trochę podobne prądy są teraz w polityce ekonomicznej, finansowej.
+[SPEAKER_01] To jest trochę czas konserwatystów, tak bym to powiedział, jak film był, czas patriotów, to jest trochę czas konserwatystów i politycy amerykańskiej, też prawdopodobnie i finansowej, i banku centralnego jest trochę czas konserwatystów.
+[SPEAKER_03] Jeżeli można jeszcze dopowiedzieć do tego, co Pan Prezes powiedział, że generalnie to oczywiście to, że wynik tych wyborów na pewno jest zaskoczeniem trochę dla uczestników życia gospodarczego, uczestników rynków finansowych i to było widać, tak jak Pan zwrócił słusznie uwagę tutaj na początku.
+[SPEAKER_03] Natomiast można patrzeć jeszcze trochę inaczej, że wynik wyborów w kontekście w ogóle sondaży.
+[SPEAKER_03] Też widzimy, że czasami jest tak, że w ogóle samo robienie prognoz jest jednak widać, że jest obarczone pewnym ryzykiem.
+[SPEAKER_03] Doskonale wiedzą to uczestnicy rynku finansowych.
+[SPEAKER_03] Ja też mogę powiedzieć tak o sobie, że zanim zostałem członkiem Rady Polityki Pieniężnej też przez wiele lat byłem inwestorem na giełdzie warszawskiej.
+[SPEAKER_03] i no też wiadomo, że czasami tak to jest właśnie, że czasami nadchodzą pewne informacje dla inwestorów giełdowych, dosyć zaskakujące czasami informacje, są niezgodne z oczekiwaniami i w takich sytuacjach po prostu trzeba zachować spokój i tutaj właśnie tak myślę, że my postrzegamy tą sytuację, trzeba zachować właśnie ogromny spokój wewnętrzny i po prostu to jest... O aspektach politycznych nie dyskutowaliśmy, to nie jest nasze zadanie.
+[SPEAKER_01] Każdy prezydent amerykański, ktokolwiek by wygrał, jest dla nas dobry.
+[SPEAKER_01] Stany Zjednoczone są naszym najbliższym sojusznikiem, czy jednym z najbliższych sojuszników.
+[SPEAKER_01] Cieszymy się za każdym razem, że jakiś nowy powiew tam się pojawia, ale każde zwycięstwo przyjmie każdego kandydata z radością i nasza współpraca nie ma żadnych rys.
+[SPEAKER_07] Panie profesorze, co prawda zapowiedział, że będzie pan na pytanie o przyszłość w tym kontekście odpowiadał, nie wiem, ale jednak coś powiedział, więc chciałbym spróbować mimo wszystko już w tym najdalszym terminie, może nawet odchodząc też trochę od tej części rynkowej.
+[SPEAKER_07] Jeżeli zmaterializują się zapowiedzi kampanii na nowego amerykańskiego prezydenta, no to szykuje się spore przeorientowanie gospodarcze, tak?
+[SPEAKER_07] sugerował, że może pojawić się problem z WTO, z Partnerstwem Transpacyficznym, zapowiadał, no może nie wojnę handlową, ale pewne przeorientowanie stosunków z Chinami, z Meksykiem, zwłaszcza jeżeli chodzi o import towarów.
+[SPEAKER_07] Czy naszą pozycję w tym długim terminie, albo naszą politykę to może jakoś zmienić, albo my powinniśmy coś zrobić, żeby zyskać, a przynajmniej nie stracić na tym, jeżeli oczywiście zapowiedzi wyborcze się spełni.
+[SPEAKER_01] Nie, my nie jesteśmy Meksykiem ani Chinami.
+[SPEAKER_01] Jakby dla nas to nie ma większego znaczenia, czy będzie TTIP, czy będzie TTP, czy będzie nafta.
+[SPEAKER_01] To z punktu widzenia polskiej gospodarki, polskich finansów nie ma większego znaczenia.
+[SPEAKER_01] Chociaż oczywiście te łańcuchy połączone jakoś nie spodziewanie czasami przebiegają się, może kazać, że jednak ma, ale zasadniczo nie ma.
+[SPEAKER_01] Także to polscy ekonomiści nie mieli powodu, żeby trzymać kciuków specjalnie za jakimś, podkreślam ekonomiści, za jakimś kandydatem.
+[SPEAKER_01] A z natury, jak pan wie, ale tu nie wyrażam żadnych sympatii w stosunku do konkretnych kandydatów prezydenckich, z natury jestem konserwatystą także.
+[SPEAKER_05] Bardzo proszę Pani redaktor Bartosza.
+[SPEAKER_05] Dorota Bartyszel, Bloomberg News.
+[SPEAKER_05] Ja z natury jestem miłą osobą, ale niestety muszę czasem zadać bardzo niemiłe pytanie.
+[SPEAKER_05] Pierwsze to jest takie, że nasze spotkania tutaj układają się w dosyć taką konsekwentną sekwencję i nie możemy udawać, że nie pamiętamy, co zostało powiedziane miesiąc temu albo dwa miesiące temu.
+[SPEAKER_06] Ja sam i nie pamiętam.
+[SPEAKER_05] To ja panu prezesowi bardzo chętnie przypomnę, aczkolwiek nie mam w tym żadnej satysfakcji w związku z tym, co powiedziałam na początku na temat swojej osobowości.
+[SPEAKER_05] Więc dwa miesiące temu pan prezes zapowiedział podwyżkę stóp procentowych w 2017 roku.
+[SPEAKER_05] Zapowiedział może za mocne słowo, zasygnalizował taką możliwość.
+[SPEAKER_01] Nie, ja powiedziałem, że chciałbym, żeby powstała sytuacja, w której będziemy rozważali podwyżkę stóp.
+[SPEAKER_01] Taką pamięć to ja mam.
+[SPEAKER_01] No to wspaniale.
+[SPEAKER_01] Czyli żeby tempo wzrostu było na tyle wysokie i inflacja na tyle szybko rosła, żebyśmy rozważali podwyżkę stóp.
+[SPEAKER_01] Nadal to podtrzymujemy.
+[SPEAKER_05] W 2017 roku.
+[SPEAKER_05] Chciałbym, chciałbym.
+[SPEAKER_05] ale później Pan powiedział, że nam się to przesuwa na początek 2018 roku.
+[SPEAKER_05] Natomiast dzisiaj, jakbym nie zapytała, może koledzy by też zapytali ostatecznie, to jeszcze póki co na razie nie było ani słowa na temat podwyżki.
+[SPEAKER_05] Czy to znaczy, że sytuacja, którą widzimy, niezależnie od tego, na ile nam się podoba projekcja, nie daje nam w tej chwili podstaw do tego, żeby przewidywać, iż następnym krokiem będzie podwyżka stuprocentowa?
+[SPEAKER_01] Tak jak mówię, decyzja Rady Polityki Pieniężnej to jest wynik głosowań.
+[SPEAKER_01] Ja mówię zawsze o tym, czego sam się spodziewam i na co liczę.
+[SPEAKER_01] Jeśli będzie tempo wzrostu 3,6, a inflacja 1,3-1,5,
+[SPEAKER_01] to nie widzę powodu, żeby podwyższać stopy procentowe, ani żeby obniżać stopy procentowe.
+[SPEAKER_01] Jeśli wzrost będzie szybko przybierał na sile, będzie się przyspieszał.
+[SPEAKER_01] Jeśli inflacja się będzie przyspieszać, no to wszystkie opcje są otwarte.
+[SPEAKER_01] A czy to by była zła możliwość, czy dobra?
+[SPEAKER_01] Dobra możliwość.
+[SPEAKER_01] Jeśli tempo będzie jeszcze rosło z inflacją,
+[SPEAKER_01] ta dynamika będzie taka wielka, że będzie trzeba myśleć o tym, że za ileś tam kwartałów trzeba będzie trochę schłodzić gospodarkę, no to wtedy będziemy myśleć o podwyżce stóp.
+[SPEAKER_05] Żegnamy się z deflacją, czy to znaczy, że żegnamy… Żegnamy się z deflacją, tak.
+[SPEAKER_05] Ale czy przy tym tempie wzrostu zapowiedzianym możemy powiedzieć, że pożegnaliśmy się też już z ewentualnością obniżki stóp procentowych?
+[SPEAKER_01] No my nie mówimy nigdy.
+[SPEAKER_01] To nie jest nasze życie prywatne, tylko bank centralny.
+[SPEAKER_01] My jesteśmy otwarci na wszystkie możliwości.
+[SPEAKER_01] Mamy politykę wait and see i to dokładnie oznacza to ono, że siedzimy i się przyglądamy.
+[SPEAKER_01] Natomiast mam nadzieję, że się pożegnaliśmy, to znaczy nie będziemy musieli starać się przyspieszyć wzrostu, bo on będzie z jakichś powodów osłabiony.
+[SPEAKER_01] Natomiast z tą deflacją, no to jest tak, że może nawet tak być, ponieważ my mówimy o minimalnych poziomach, że ta deflacja na chwilę zniknie, będzie na przykład zero,
+[SPEAKER_01] i się na chwilę może znowu odrodzić na przykład.
+[SPEAKER_01] To są możliwe sytuacje.
+[SPEAKER_01] Najważniejsze, proszę Państwa, jest to, w przeciwieństwie do prawie innych krajów, prawie do wszystkich innych krajów, u nas deflacja według wszystkich możliwych badań wewnętrznych naszych NBP-owskich i zewnętrznych ośrodków nie wywiera żadnego negatywnego skutku na gospodarkę.
+[SPEAKER_01] To jest jakby najważniejsze.
+[SPEAKER_01] Inflacja ma specyficzny u nas charakter i to nie jest żaden dla nas problem.
+[SPEAKER_01] Jest ogromny problem dla różnych gospodarek, szczególnie wyżej rozwiniętych.
+[SPEAKER_01] Dla nas nie.
+[SPEAKER_01] Także my tego nie przeżywamy jakoś traumatycznie bardzo.
+[SPEAKER_01] Przydałaby nam się taka inflacja właśnie 1%, 1,3%.
+[SPEAKER_01] Chociaż z punktu widzenia teorii ekonomii przecież inflacja w ogóle jest zła.
+[SPEAKER_01] Ale tak to jest w dzisiejszym świecie, że rosnąca gospodarka, dynamiczna,
+[SPEAKER_01] taką niską inflację ma, no i to tylko tyle, no ale jeśli tam będzie do 0 jakoś wróci na chwilę, znów się trochę pojawi dodatni inflacji, to jest kwestia mierzenia też tej inflacji, no to nie są żadne ważne rzeczy.
+[SPEAKER_05] Chciałabym poprosić o głos...
+[SPEAKER_01] Nie złapała mnie Pani na niczym, z czego ja się wycofuję, no nadal mówię, że chciałbym,
+[SPEAKER_01] żeby Rada w przyszłym roku pod koniec roku zaczęła się zastanawiać, czy czasem nie podwyższyć stóp, żeby za ileś tam kwartałów no już lekko przymrozić ten zbytni wzrost i zbytnią inflację.
+[SPEAKER_01] No ale to jest trochę takie w formie takiego trochę marzenia.
+[SPEAKER_05] Chciałabym poprosić Pana Profesora Rzeżyńskiego i Pana Profesora Łona o to, żeby jako znani reprezentanci najbardziej gołębiego skrzydła w Radzie Polityki Pieniężnej powiedzieli, czy są...
+[SPEAKER_05] Mówimy teraz o poglądach, a nie o wyglądzie.
+[SPEAKER_01] Nie wszystko, co tak mówią o ludziach jest prawdą.
+[SPEAKER_05] Natomiast czy Panowie są tak samo zadowoleni z poziomu wzrostu i czy w związku z tym, znaczy czy też nie uważają Panowie, że może zapowiadanie, czy myślenie o podwyżce na obecnym etapie jest nieco przedwczesne?
+[SPEAKER_00] W takim razie, jeżeli Pani mnie wywołała, będę tak uprzejmy, a proszę Pani... Pamiętaj, że to trochę jest prowokacja.
+[SPEAKER_00] Tak, wiem.
+[SPEAKER_00] Proszę Pani, jest taka sytuacja, że to, co prezes powiedział, na ogół jest tak, że jak jest deflacja, to jest ona symptomem stagnacji gospodarczej albo wręcz recesji.
+[SPEAKER_00] Mamy taką sytuację, że pomimo deflacji gospodarka rośnie i to rośnie w porównaniu z innymi krajami stosunkowo dobrze, o czym prezes powiedział.
+[SPEAKER_00] Także musimy patrzeć na gospodarkę w porównaniu z innymi krajami.
+[SPEAKER_00] Otóż to porównanie daje nam takie pewne optymistyczne spojrzenie na tę rzeczywistość, bo Europa ma problem właśnie ze stagnacją.
+[SPEAKER_00] W zasadzie ten wzrost jest niemały albo jest bardzo jeszcze mizerny.
+[SPEAKER_00] Przy takim układzie między Polską a resztą Europy mamy szansę dogonić Europę Zachodnią w jakimś rozsądnym czasie.
+[SPEAKER_00] Natomiast jak było powiedziane bardzo słusznie, gdyby się pojawiła taka sytuacja, że
+[SPEAKER_00] będzie groziło przegrzanie gospodarki, wszystko pójdzie w drugie, to wtedy będzie hamowanie podwyższaniem stóp procentowych.
+[SPEAKER_00] Pytanie, czy jest potrzeba póki co pobudzania gospodarki poprzez obniżanie stóp procentowych.
+[SPEAKER_00] No więc niestety, jak Państwo dobrze wiecie, wszystko wskazuje na to, że takie obniżanie by nie było efektywne za bardzo, ponieważ stopy bankowe się różnią od stóp banku centralnego, one są wyższe.
+[SPEAKER_00] Także te działania Banku Centralnego byłyby po prostu nieskuteczne, o czym na ogół wszyscy wiedzą.
+[SPEAKER_00] Więc bank nie widzi powodu, żeby zmieniać swoją politykę.
+[SPEAKER_00] Stąd jest ta strategia, o której mówił prezes.
+[SPEAKER_00] Czekamy i zobaczymy, co będzie dalej.
+[SPEAKER_00] Jeżeli zajdzie potrzeba pobudzenia gospodarki przez obniżanie stóp, będziemy obniżać.
+[SPEAKER_00] ale tego luzu mamy niewiele, bo ileż można obniżyć przy i tak niskich stopach banku centralnego.
+[SPEAKER_00] Wtedy być może wymusimy na bankach komercyjnych obniżenie stóp, ale to muszą być też warunki w bankach komercyjnych do tego, żeby takie działania podjęły.
+[SPEAKER_03] Generalnie ja tutaj, pani redaktor tutaj właśnie użyła tych określeń, które się tak często używa, gołąb, jaszcząb.
+[SPEAKER_03] Ja się bardziej czuję orłem, to już tam kiedyś mówiłem.
+[SPEAKER_03] Chciałem wprowadzić właśnie pojęcie orła tutaj do dyskusji.
+[SPEAKER_03] Orzeł to jest ktoś, kto jest zwolennikiem krajowej polityki monetarnej.
+[SPEAKER_03] Tutaj w naszym przypadku polskiej polityki monetarnej, polskiej waluty.
+[SPEAKER_03] I tutaj oczywiście każdy z nas może mieć różne poglądy, są zawsze różnice w poglądach dotyczących gospodarki i polityki monetarnej, ale to co jest wartością uważam i to niezależnie od różnych poglądów, to jest to, że powinniśmy bronić własnego banku centralnego, strzec własnego pieniądza i strzec polityki monetarnej.
+[SPEAKER_03] I to jest bardzo wielka wartość, to jest po prostu dobro narodowe nasze i to nie podlega w ogóle żadnych tam dyskusji i sporo nie powinno to podlegać.
+[SPEAKER_03] A natomiast jeżeli chodzi o to pytanie odnośnie tego ewentualnego złagodzenia, to ja tutaj nie widzę sprzeczności, bo tutaj Pan Prezes uważam, że to bardzo dobrze tutaj wielokrotnie to mówi, że generalnie my wierzymy w to, wierzymy w polską gospodarkę, że ona się będzie rozwijać szybko i uważamy, że jeżeli będzie się rozwijać szybko, no oczywiście byłoby
+[SPEAKER_03] Wspaniale, gdybyśmy nie musieli w ogóle podejmować żadnych decyzji o obniżkach, a wręcz właśnie w drugą stronę, wręcz myśleć o zaostrzaniu, bo właśnie to jest taka nasza nadzieja, wiara w polskie fundamenty i to jest w takim duchu było to mówione i to ja się tutaj też zgadzam bardzo mocno z Panem Prezesem.
+[SPEAKER_03] Natomiast oczywiście też, tak jak powiedziałem wcześniej, że też dostrzegamy, jesteśmy elastyczni, tutaj nie jesteśmy doktrynerami, bo właśnie dobra polityka monetarna to jest taka, która
+[SPEAKER_03] patrzy na to, co się dzieje w gospodarce.
+[SPEAKER_03] Jeżeli gospodarka będzie w słabności, tutaj też zgoda, też co mówił Pan Profesor Rzeżyński, że jeżeli by się pojawiły pewne ryzyka, tak, znaczy ja tu tam też jak powiedziałem, no wyobrażam sobie hipotetycznie oczywiście, jeżeli by na przykład ceny surowców, ceny ropy bardzo spadały, ponieważ ten związek widzę między ceną surowców w roku T, a realnym temtem PKB w roku T plus 1, zwłaszcza jeżeli chodzi o rynki wschodzące, a Polska jest rynkiem wschodzącym, gdyby tutaj ceny surowców spadały, no to
+[SPEAKER_03] można brać to jeden z czynników, ceny akcji, drugi czynnik, który biorę, nastroje konsumentów, nastroje przedsiębiorców, gdyby się tutaj osłabiało i osłabłoby realne tempo PKB, w warunkach deflacji, gdyby z deflacji byśmy mieli ciężko z wyjściem, z tą deflacją by się ta deflacja utrzymywała, no to oczywiście to są pewne warunki, gdzie można myśleć o złagodzeniu, natomiast w tej chwili wierzymy, że jednak w większym takim,
+[SPEAKER_03] Bardziej takim realnym scenariuszem jest jednak to, co właśnie Pan Prezes powiedział, że generalnie chcemy, żeby gospodarka się rozwijała szybciej, w to po prostu wierzymy tutaj.
+[SPEAKER_03] Natomiast jeszcze odnośnie tych stuprocentowych, to co powiedział Pan Profesor Żyżyński, tutaj bym się troszeczkę, znaczy bym trochę odmienny miał pogląd.
+[SPEAKER_03] Generalnie uważam tak, że właśnie zmiany stuprocentowych,
+[SPEAKER_03] mogą mieć wpływ również na stopy procentowe właśnie kredytowe, depozytowe, zwłaszcza jeżeli to, co bardzo pozytywnie dostrzegam w programie Morawieckiego, że jest mowa właśnie o repolonizacji polskich banków, w ogóle idea patriotyzmu gospodarczego mi się bardzo podoba,
+[SPEAKER_03] Jeżeli będzie więcej polskich banków o polskim kapitale w systemie bankowym, uważam, że te reakcje między polityką monetarną, jeżeli chodzi o zmiany stóp procentowych, a zmiany oprocentowania kredytów i depozytów będą mocniejsze i generalnie się to będzie ładnie przekładać w naszą gospodarkę.
+[SPEAKER_06] Dzień dobry, Paweł Sobczak z Agencji Rejtera.
+[SPEAKER_06] Chciałem się spytać, chciałem jeszcze na chwilkę wrócić do inwestycji.
+[SPEAKER_06] Chciałem się spytać, kiedy Panów zdaniem to odbicie w inwestycjach może się przełożyć na szybszy wzrost gospodarczy w przyszłym roku w tej jego części i co przez to rozumiemy?
+[SPEAKER_06] Czy wzrost na poziomie 3,5 czy może szybszy?
+[SPEAKER_01] A są takie granice w ogóle, kiedy to nastąpi?
+[SPEAKER_01] No to są takie widełki, koniec tego roku, początek drugiego kwartału.
+[SPEAKER_01] W tym okresie to nastąpi.
+[SPEAKER_01] Najbardziej prawdopodobne, że pierwszy kwartał przyszłego roku, a pierwsze symptomy w końcu tego roku.
+[SPEAKER_01] No i tempo wzrostu się ukształtuje tak, że w przekroju całego przyszłego roku to będzie jakieś trzy i sześć, trzy i osiem, coś takiego.
+[SPEAKER_01] Państwo wiedzą, jest pewien problem na poziomie samorządów ze środkami własnymi.
+[SPEAKER_01] To wszystko trudno jest ocenić.
+[SPEAKER_01] Niewątpliwie będzie to przyspieszenie w tych granicach.
+[SPEAKER_01] Chciałem też zwrócić uwagę, że to Polska nie jest jedynym krajem, który ma problem z tą absorpcją.
+[SPEAKER_01] To występuje we wszystkich krajach, które są objęte tym programem.
+[SPEAKER_01] W niektórych o wiele to jest głębszy problem, na przykład na Węgrzech.
+[SPEAKER_01] Ten program jest trochę inny niż poprzednie.
+[SPEAKER_01] Jest dużo okoliczności, o których dużo Ministerstwo Rozwoju może informować.
+[SPEAKER_05] Krótkie bardzo takie pytania, ale kilka niestety.
+[SPEAKER_05] Chciałam zapytać, kiedy Rada Polityki Pieniężnej opublikuje swoją opinię na temat budżetu 2017?
+[SPEAKER_01] To jakby jest dokument nie dla opinii publicznej, tylko dla władz państwowych, a chyba wywieszony będzie na stronie 14, o ile pamiętam, na stronie internetowej NBP-u.
+[SPEAKER_05] To znaczy Państwo już dziś dyskutowali trochę o uwarunkowaniach polityki fiskalnej dla polityki monetarnej?
+[SPEAKER_01] No dyskutowaliśmy wszystko, co upoważniło nas do przyjęcia przez aklamację tej opinii o budżecie.
+[SPEAKER_05] Czyli także to.
+[SPEAKER_05] To ja mimo wszystko chciałabym jednak zadać takie to chyba najbardziej nieprzyjemne pytanie, bo Pan Prezes mówi cały czas, że głównym, a może nawet jedyną, Pan użył takiego słowa, przyczyną spowolnienia inwestycyjnego to jest jednak opóźnienie w absorpcji środków unijnych.
+[SPEAKER_05] Tymczasem Państwo nawet w swoim komunikacie piszecie wyraźnie, że to jest utrzymująca się niepewność wśród przedsiębiorców co do otoczenia regulacyjnego gospodarki.
+[SPEAKER_05] Czy ja mogę się dowiedzieć o co chodzi?
+[SPEAKER_01] Zawsze jest niepewność przedsiębiorców co do czynienia regulacyjnego gospodarki.
+[SPEAKER_05] Ale nie zawsze ona, panie prezesie, powoduje takie spowolnienie inwestycji.
+[SPEAKER_01] Ale to nie ono powoduje opóźnienie się inwestycji.
+[SPEAKER_01] To jest jakiś dodatkowy czynnik, na który wskazujemy, bo 95% przyczyn to jest opóźnienie wdrażania, absorpcji środków unijnych.
+[SPEAKER_01] Nie widzę żadnych jakichś szczególnych problemów.
+[SPEAKER_01] To przy każdym budżecie można powiedzieć.
+[SPEAKER_01] Zawsze się pojawiają nowe regulacje.
+[SPEAKER_01] Nie następuje żadna zmiana istotna z punktu widzenia działania przedsiębiorców.
+[SPEAKER_01] Trudno powiedzieć, żeby większe przestrzeganie prawa np. przy łamaniu prawa podatkowego wpływało na decyzję przedsiębiorców.
+[SPEAKER_05] I wprawdzie mamy listopad, ale z naszej rozmowy na temat wzrostu PKB wynika tak, jakbyśmy już 2016 zupełnie pogrzebali i w ogóle się nim nie interesowali, a tymczasem chyba z centralnej ścieżki wynika, że wzrost według projekcji spadnie jednak poniżej 3%, więc moje pytanie jest takie, jak Państwo widzą czwarty kwartał?
+[SPEAKER_01] No niewykluczone, że być może, może lekko spadnie poniżej 3, a może nie, no będzie gdzieś koło 3.
+[SPEAKER_01] No i tak się będzie czwarty kwartał.
+[SPEAKER_01] Czwarty kwartał jest szczególny jak zawsze.
+[SPEAKER_01] Szczególnie święta powodują zmożony popyt.
+[SPEAKER_01] To zresztą jak już mówiłem, to jest też z cenami.
+[SPEAKER_01] Może ceny lekko się właśnie zmienią.
+[SPEAKER_01] Może już wtedy właśnie w fazie tych zakupów zmożonych świątecznych przekroczymy już pułap zerowej inflacji.
+[SPEAKER_01] No i generalnie myślę, że będzie 3%, a może 2,9%, no ale stawiałbym i chyba większość członków Rady, to nie było jakoś specjalizowane, stawiamy około 3%.
+[SPEAKER_03] Jeżeli można jeszcze tak dopowiedzieć, bo sam Instytut Ekonomiczny Narodowego Banku Polskiego, właśnie to już tam troszeczkę mówiłem, że on jednak przejściowo uważa, że to jest takie spóźnienie przejściowe, a potem w 2017 roku
+[SPEAKER_03] Polska gospodarka znowu wróci na ścieżkę zrównoważonego tempa wzrostu gospodarczego.
+[SPEAKER_03] Także tak tutaj zakładamy, że poza tym też sytuacja na rynku pracy się będzie poprawiać i też z projekcji właśnie wynika, że... Tak, no ważnym elementem jest szybki wzrost płac.
+[SPEAKER_01] Dostępuje szybki wzrost płac, szybki wzrost wynagrodzeń.
+[SPEAKER_01] Cały czas niejasny jest jeszcze wpływ programu 500+.
+[SPEAKER_01] To się dopiero rozpędza.
+[SPEAKER_01] Będzie wyraźnie widoczne w przyszłym roku.
+[SPEAKER_01] No i ten popyt konsumpcyjny niewątpliwie ciągnie gospodarkę.
+[SPEAKER_01] No i ten moment, kiedy ten popyt konsumpcyjny przestanie być głównym czynnikiem ciągnącym wzrost i przejdziemy na wzrost ciągnięty przez inwestycje, no właśnie tam gdzieś nastąpi w pobliżu przełomu roku, może na początku pierwszego kwartału.
+[SPEAKER_01] To będzie zasadniejsza zmiana związana z przyspieszeniem, bo nie ma powodu, żeby płace dalej tak nie rosły.
+[SPEAKER_01] No te płace rosną, a jednocześnie proszę pamiętać, że mamy na rynku pracy niedostatek teraz pracowników.
+[SPEAKER_01] Mamy milion pracujących Ukraińców legalnie, mamy szybki wzrost płac, a mamy najniższe bezrobocie w historii.
+[SPEAKER_01] Instytut wskazał, że prawdopodobnie po raz pierwszy poziom bezrobocia zszedł poniżej poziomu naturalnego bezrobocia.
+[SPEAKER_01] Czyli jesteśmy już w fazie prawdopodobnie takiego bezwzględnego deficytu pracowników.
+[SPEAKER_01] To jest bardzo korzystne oczywiście, chociaż żaden deficyt na dłuższą metę nie jest dobry, ale my mamy tą dobrą sytuację, że po naszej wschodniej granicy są gotowi do pracy młodzi, wykwalifikowani, wyedukowani ludzie.
+[SPEAKER_01] Poza tym w dłuższym okresie liczymy na wzmożoną dynamikę demograficzną Polaków.
+[SPEAKER_01] Nie ma takich słabych punktów, proszę Państwa, które możecie tutaj znaleźć jakby w naszym teraz rozwoju gospodarczym i sytuacji finansowej.
+[SPEAKER_01] Obiektywnie mówiąc, nie ekscytując się, to po prostu sytuacja jest w tej chwili dobra.
+[SPEAKER_01] Jakichś takich słabych elementów w tej sytuacji nie ma, ale w każdej chwili z zagranicy oczywiście coś się może pojawić.
+[SPEAKER_01] To są takie inne elementy.
+[SPEAKER_01] Taka jest sytuacja i to jest dobrze, jakby do świąt się przynajmniej nie zmieniało.
+[SPEAKER_00] Jeśli mogę dodać, jest taka obserwacja, o której można też powiedzieć, efekt programu 500+, być może i wzrostu wynagrodzeń.
+[SPEAKER_00] Depozyty gospodarstw domowych rosną.
+[SPEAKER_00] Depozyty przedsiębiorstw w porównaniu z innymi latami rosną mniej więcej tak jak w poprzednich latach.
+[SPEAKER_00] Natomiast depozyty gospodarstw domowych rosną, czyli pojawia się więcej środków w bankach.
+[SPEAKER_00] Dynamika kredytów dzięki temu też jest już trochę lepsza i być może będzie jeszcze lepsza w przyszłości.
+[SPEAKER_00] I to rodzi pewne nadzieje na to, że te inwestycje staną się, jak prezes mówi, czynnikiem ciągnącym wzrost gospodarczy.
+[SPEAKER_01] Co do 500+, jak mówiłem, intensywne badania Instytut prowadzi, trudno jednoznacznie jakieś tutaj tendencje wskazać i strukturę wydatków, no to musi trochę potrwać jeszcze, ale natychmiast będziemy Państwa o tym oczywiście informować, bo bardzo to wszystkich interesuje oczywiście.
+[SPEAKER_02] Bardzo dziękuję panie prezesie, dziękuję państwu za udział w dzisiejszej konferencji.
+[SPEAKER_02] I już dziś zapraszamy państwa na prezentację projekcji inflacji i PKB, którą przedstawi Instytut Ekonomiczny NBP.
+[SPEAKER_02] Ta prezentacja odbędzie się w poniedziałek, 14 listopada o godzinie 10 w tej właśnie sali.
+[SPEAKER_02] Publikacja na stronie internetowej o godzinie 9.
+[SPEAKER_02] Bardzo dziękujemy i zapraszamy na kolejną konferencję.
+[SPEAKER_01] Serdecznie państwu dziękujemy.

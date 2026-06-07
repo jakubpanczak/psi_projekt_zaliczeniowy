@@ -1,0 +1,370 @@
+[SPEAKER_04] Dzień dobry Państwu.
+[SPEAKER_04] Witamy na pierwszej konferencji prasowej po posiedzeniu Rady pod nowym przewodnictwem prof. Adama Glapińskiego.
+[SPEAKER_04] W dzisiejszej konferencji obok prezesa Narodowego Banku Polskiego wezmą udział również pan prof. Jerzy Rzeżyński oraz pan dr hab. Łukasz Hart.
+[SPEAKER_04] Panie profesorze, bardzo proszę o zabranie głosu i przedstawienie komunikatu po posiedzeniu Rady.
+[SPEAKER_03] Dziękuję Państwu.
+[SPEAKER_03] Myślałem, że będzie więcej dziennikarzy zainteresowanych.
+[SPEAKER_03] pierwszą konferencją prasową w nowym składzie, no ale wakacje.
+[SPEAKER_03] Poza tym nic ciekawego się tak naprawdę nie dzieje.
+[SPEAKER_03] No ale komunikat przeczytam.
+[SPEAKER_03] Rada postanowiła utrzymać stopy procentowe NBP na niezmienionym poziomie.
+[SPEAKER_03] Stopa referencyjna 1,5, stopa lombardowa 2,5, stopa depozytowa 0,5, stopa redyskonta Wexli 1,75.
+[SPEAKER_03] Wzrost aktywności gospodarczej na świecie pozostaje umiarkowany.
+[SPEAKER_03] Jednocześnie utrzymuje się niepewność dotycząca przyszłej koniunktury w gospodarce globalnej, związana dodatkowo z konsekwencjami referendum dotyczącego opuszczenia Unii Europejskiej przez Wielką Brytanię.
+[SPEAKER_03] Wynik tego referendum przyczynił się do wzrostu awersji do ryzyka na światowych rynkach finansowych, co znalazło odzwierciedlenie w osłabieniu kursu walut i spadku cen aktywów w wielu gospodarkach.
+[SPEAKER_03] W strefie euro, mimo negatywnego oddziaływania słabej koniunktury w krajach rozwijających się, trwa niewielkie ożywienie.
+[SPEAKER_03] Czynnikiem ryzyka dla koniunktury w tej strefie jest przewidywane osłabienie wzrostu w Wielkiej Brytanii.
+[SPEAKER_03] W Stanach Zjednoczonych utrzymuje się umiarkowany wzrost gospodarczy, jednak obserwowane w ostatnich miesiącach osłabienie poprawy sytuacji na rynku pracy utrudnia ocenę przyszłej koniunktury w tym kraju.
+[SPEAKER_03] W Chinach tempo wzrostu prawdopodobnie nadal maleje, a Rosja i Brazylia pozostają w recesji.
+[SPEAKER_03] Ceny ropy naftowej oraz wielu innych surowców na rynkach światowych, pomimo pewnego wzrostu w ostatnich miesiącach, pozostają wyraźnie niższe niż w poprzednich latach.
+[SPEAKER_03] Niskie ceny surowców wraz z umiarkowaną aktywnością gospodarczą na świecie są główną przyczyną utrzymywania się dynamiki cen konsumpcyjnych w wielu gospodarkach na bardzo niskim poziomie.
+[SPEAKER_03] Europejski Bank Centralny utrzymuje stopy procentowe na poziomie bliskim zera, w tym stopę depozytową poniżej zera, a także kontynuuje zakupy aktywów finansowych.
+[SPEAKER_03] W Stanach Zjednoczonych dane z rynków finansowych sugerują opóźnienie dalszych podwyżek stóp procentowych.
+[SPEAKER_03] Jednocześnie wzrosła niepewność dotycząca kolejnych decyzji rezerwy federalnej.
+[SPEAKER_03] W Polsce napływające dane wskazują na przyspieszenie wzrostu aktywności gospodarczej po obniżeniu dynamiki PKB w pierwszym kwartale bieżącego roku.
+[SPEAKER_03] Na krajową koniunkturę korzystnie wpływa relatywnie szybki wzrost funduszu płac i korzystne nastroje konsumentów, a także dobra sytuacja finansowa firm oraz wysokie wykorzystanie ich zdolności produkcyjnych.
+[SPEAKER_03] Towarzyszy temu stabilny wzrost kredytu dla sektora niefinansowego.
+[SPEAKER_03] Na wzrost dynamiki PKB w kolejnych kwartałach będą oddziaływały wypłaty środków z programu Rodzina 500+, zwiększające dochody do dyspozycji gospodarstw domowych.
+[SPEAKER_03] Czynnikiem ryzyka dla krajowej aktywności gospodarczej jest niepewność dotycząca koniunktury za granicą, w tym skutku w referendum dotyczącego wystąpienia Wielkiej Brytanii z Unii Europejskiej.
+[SPEAKER_03] Ze względu na ujemną lukę podpytową, a także umiarkowaną dynamikę przeciętnych nominalnych wynagrodzeń, w gospodarce nie ma obecnie presji inflacyjnej.
+[SPEAKER_03] Roczna dynamika cen konsumpcyjnych oraz cen produkcji pozostają ujemne.
+[SPEAKER_03] Do spadku cen przyczyniają się nadal głównie czynniki zewnętrzne, w szczególności wcześniejszy silny spadek cen surowców na rynkach światowych oraz niska dynamika cen w otoczeniu polskiej gospodarki.
+[SPEAKER_03] Towarzyszą temu niskie oczekiwania inflacyjne.
+[SPEAKER_03] Utrzymująca się deflacja nie wywiera jak dotąd negatywnego wpływu na decyzje podmiotów gospodarczych.
+[SPEAKER_03] Rada zapoznała się z przygotowaną przez Instytut Ekonomiczny NBP projekcją inflacji PKB, stanowiącą jedną z przesłanek, na podstawie których Rada podejmuje decyzje dotyczące stóp procentowych NBP.
+[SPEAKER_03] Zgodnie z lipcową projekcją z modelu Nekmot, przygotowaną przy założeniu niezmienionych stóp procentowych NBP, z uwzględnieniem danych dostępnych do 24 czerwca 2016 roku, roczna dynamika cen znajdzie się z 50% prawdopodobieństwem w przedziale minus 0,9 do minus 0,3 w 2016 roku.
+[SPEAKER_03] wobec minus 0,9 do minus 0,2 w projekcji z marca 2016.
+[SPEAKER_03] W roku 2017 0,3 do 2,2, wobec przewidywanych w marcu 0,2 do 2,3 oraz 0,3 do 2,6 w 2018 roku.
+[SPEAKER_03] wobec uprzednio przewidywanego 0,4 do 2,8.
+[SPEAKER_03] Natomiast roczne tempo wzrostu PKP według tej projekcji znajdzie się z 50% prawdopodobieństwem w przedziale 2,6 do 3,8 w 2016 roku, wobec przewidywanego w marcu 3,0 do 4,5.
+[SPEAKER_03] 2,4 do 4,5 w 2017 roku wobec poprzednio przewidywanych 2,6 do 4,8 oraz 2,1 do 4,3 w 2018 roku wobec uprzednio przewidywanych projektowanych 2,1 do 4,4.
+[SPEAKER_03] W ocenie Rady w najbliższych kwartałach dynamika CPI pozostanie ujemna ze względu na wcześniejszy silny spadek cen surowców na rynkach światowych.
+[SPEAKER_03] Jednocześnie po przejściowym spowolnieniu dynamiki PKB na początku roku w kolejnych kwartałach oczekiwane jest utrzymanie stabilnego wzrostu gospodarczego.
+[SPEAKER_03] Głównym czynnikiem wzrostu pozostanie popyt konsumpcyjny wspierany rosnącym zatrudnieniem, prognozowanym przyspieszeniem wzrostu płac oraz zwiększeniem świadczeń społecznych.
+[SPEAKER_03] Źródłem niepewności dla gospodarki, w tym dla kształtowania się cen, pozostaje ryzyko pogorszenia globalnej koniunktury, zwiększane przez niepewność dotyczącą skutków referendów w Wielkiej Brytanii oraz wahania cen surowców.
+[SPEAKER_03] Rada podtrzymuje ocenę, że w świetle dostępnych danych i prognoz obecny poziom stóp procentowych sprzyja utrzymaniu polskiej gospodarki na ścieżce zrównoważonego wzrostu oraz pozwala zachować równowagę makroekonomiczną.
+[SPEAKER_03] Rada przyjęła raport o inflacji lipiec 2016.
+[SPEAKER_04] Dziękuję bardzo.
+[SPEAKER_04] Pani redaktor Bartyzel, zapraszam.
+[SPEAKER_06] Dzień dobry, Dorota Bartyzel, Bloomberg News.
+[SPEAKER_06] Wbrew temu, co Pan powiedział, Panie Profesorze, to znaczy ta frekwencja miałaby wskazywać, że nic się nie dzieje, to jednak Pańska kadencja zaczęła się tak naprawdę… Liczy się jakość, a nie ilość, oczywiście, dziennikarze.
+[SPEAKER_06] to pańska kadencja zaczęła się jednak od trzęsienia ziemi i miejmy nadzieję, że tylko nie będzie jak u Hitchcocka.
+[SPEAKER_06] Chciałabym poprosić panów o ocenę reakcji rynku w Polsce oczywiście na Brexit, w tym także zachowanie złotego, no i jakiś komentarz co do ewentualnego oczekiwania albo obawy o tak zwane wstrząsy wtórne.
+[SPEAKER_03] Nie no, trzęsieniem ziemi tego w żadnym wypadku nie można nazwać.
+[SPEAKER_03] Normalny proces demokratyczny.
+[SPEAKER_03] Obywatele brytyjscy zdecydowali tak czy nie inaczej.
+[SPEAKER_03] Referendum przebiegało prawidłowo, w dobrej atmosferze.
+[SPEAKER_03] Przewaga była niewielka, no ale jest.
+[SPEAKER_03] Wielka Brytania wyjdzie z Unii Europejskiej.
+[SPEAKER_03] Ale są dwa lata na przygotowanie warunków tego wychodzenia, na ustalenie ostatecznych warunków.
+[SPEAKER_03] Najpierw Wielka Brytania musi oficjalnie zresztą złożyć odpowiednie papiery w tej sprawie.
+[SPEAKER_03] To też potrwa.
+[SPEAKER_03] Potem dwa lata na ustalenie warunków.
+[SPEAKER_03] No i jakieś lata związane później z ustaleniem się ostatecznego kształtu relacji między Wielką Brytanią a Unią Europejską.
+[SPEAKER_03] Trudno mówić o trzęsieniu ziemi.
+[SPEAKER_03] Raczej to był psychologiczny bardzo silny element.
+[SPEAKER_03] elity we wszystkich tych krajach europejskich były wstrząśnięte tym, że jednak do końca nie dopuszczały do siebie takiej myśli.
+[SPEAKER_03] Zresztą ja też nie brałem tego poważnie pod uwagę, ale my wstrząśnięci w żaden sposób nie jesteśmy.
+[SPEAKER_03] Polskiej gospodarki to nie dotknie w ogóle albo w znikomym stopniu.
+[SPEAKER_03] Długo na ten temat dyskutowaliśmy.
+[SPEAKER_03] Dotknięcie naszej gospodarki właśnie się wiąże z tym elementem,
+[SPEAKER_03] psychologicznym, bardzo ważnym w biznesie, a w szczególności w inwestycjach, a mianowicie niepewnością.
+[SPEAKER_03] Niewątpliwie to zwiększa obszar niepewności, który się będzie utrzymywał latami.
+[SPEAKER_03] I ta niepewność oczywiście jest szkodliwa dla inwestycji zagranicznych w Polsce, a może i nawet dla inwestycji samych polskich przedsiębiorców.
+[SPEAKER_03] Ten element na rynkach finansowych jakieś tam znaczenie ma, trudno je w tej chwili ocenić.
+[SPEAKER_03] Właściwie w tej chwili skutki Brexitu dla polskiej gospodarki i finansów należałoby ocenić jako zerowe, bo to tąpnięcie kursu było dosłownie godzinne, istotne.
+[SPEAKER_03] także jako zerowe, ale oczywiście potencjalnie będzie to istotne.
+[SPEAKER_03] Trudno uwzględnić Brexit w szacowaniu tempa wzrostu PKB czy innych wskaźnikach, bo właściwie nie ma podstaw, żeby tu coś zmieniać.
+[SPEAKER_03] My nawet nie wiemy, czy zmieni się niekorzystnie statut polskich pracowników wyjeżdżających do Wielkiej Brytanii.
+[SPEAKER_03] Ci pracownicy mają bardzo różny status i w ogóle czy się zmieni ich status.
+[SPEAKER_03] Tu jest wiele niewiadomych.
+[SPEAKER_03] To raczej jest problem ogólnie w ogóle dla Unii Europejskiej, dla tego projektu, jak to się w Brukseli mówi, europejskiego.
+[SPEAKER_03] No i w tym sensie nas dotyczy, ale ani nasza wymiana handlowa z Wielką Brytanią, ani finansowe powiązania,
+[SPEAKER_03] nie powodują, żeby to dla nas było znaczące.
+[SPEAKER_03] No zaznaczamy to w komunikacie.
+[SPEAKER_03] Dyskutowaliśmy o tym dużo.
+[SPEAKER_03] Państwo się też tym interesują, opinia publiczna się interesuje i trzeba wszystko zbadać, zanalizować i cały czas będziemy dalej to obserwować, ale jak na razie to nie ma mowy o trzęsieniu ziemi, nie ma nawet mowy o jakimś łagodnym deszczu przelotnym.
+[SPEAKER_03] Po prostu nasza gospodarka jest tak doskonale ustabilizowana, że nas to nie dotknęło.
+[SPEAKER_06] To jeszcze jedno pytanie zadam, związane bezpośrednio z polityką monetarną.
+[SPEAKER_06] Wygłoszę trochę taką herezję, mianowicie Brexit w pewnym sensie dla Jelen, która miała takie kłopoty z tym, kiedy wreszcie zdecydować o podwyżce stóp procentowych,
+[SPEAKER_06] I dla strefy euro, która ma ciągle taki straszny problem, jak tu wyjść z quantitative easing, w jakimś stopniu ten Brexit spadł im jak z nieba, bo tak, teraz stóp już, wiadomo, nie będziemy podwyższać i wiadomo, że może...
+[SPEAKER_06] I nikt nie pyta o wychodzenie, wręcz odwrotnie.
+[SPEAKER_06] W związku z czym nadal będziemy się znajdować w środowisku bardzo ekspansywnej polityki monetarnej zewnętrznej.
+[SPEAKER_06] I co my na to?
+[SPEAKER_06] W związku z tym, czy dalej utrzymujemy nasze stanowisko co do niechęci obniżenia stóp procentowych?
+[SPEAKER_03] Doskonale to pani redaktor ujęła.
+[SPEAKER_03] To jest doskonały pretekst rzeczywiście.
+[SPEAKER_03] dla tamtych banków centralnych, ale my szczęśliwie żadnych pretekstów nie potrzebujemy.
+[SPEAKER_03] Też moglibyśmy Państwu tutaj wyobraźnie rozgrzewać jakimiś swoimi wyobrażeniami o możliwych skutkach Brexitu i przyjmować w związku z tym jakąś postawę ochronną, no ale szczerze mówimy Państwu jak jest i jak uważamy.
+[SPEAKER_03] Nie widzimy żadnych zagrożeń związanych z Brexitem, gospodarczych zagrożeń dla Polski.
+[SPEAKER_03] Ja mówię tylko w ogóle o gospodarczych oczywiście i finansowych, bo geopolitycznie, geograficznie no to jest
+[SPEAKER_03] nie chcę powiedzieć katastrofa, no ale to jest bardzo, bardzo poważny problem, ale ekonomicznie, finansowo nie.
+[SPEAKER_03] Natomiast oczywiście to luzowanie ilościowe, polityka banków centralnych, Banku Centralnego Europy i Amerykańskiego, no też dla nas tworzy taką sytuację niekomfortową, no ono w pewnym momencie zacznie być, ta polityka zacznie być ograniczana,
+[SPEAKER_03] zacieśniana, a i samo to, co w tej chwili Bank Centralny Europejski przeszedł do skupowania obligacji korporacyjnych na wielką skalę.
+[SPEAKER_03] Przekroczył od razu pułap przewidziany w tym działaniu.
+[SPEAKER_03] No to wszystko dla nas jakiś skutek będzie na pewno z tego powodu i trudno nam powiedzieć jaki.
+[SPEAKER_03] No nie ma takich tęgie głów i
+[SPEAKER_03] analitycznych, takich tanków w Polsce, które by to przewidziały, no to na pewno się na nasz rynek wszystko raczej przenosi.
+[SPEAKER_03] To nie jest sytuacja normalna.
+[SPEAKER_03] Z tym, że proszę pamiętać, no w środowisku tych bankierów centralnych mówi się i teoretykowo o nowej normalności.
+[SPEAKER_03] To jest ta nowa normalność.
+[SPEAKER_03] Jak coś trwa wiele lat, to trudno powiedzieć, że to jest coś nienormalnego.
+[SPEAKER_03] To jest ta nowa normalność, czyli z punktu widzenia nas, którzy jako jedyni prowadzimy jeszcze w świecie cywilizowanym politykę klasyczną, konserwatywną, ortodoksyjną, pieniężną, to dla nas to jest nienormalne, ale my dla nich jesteśmy jakby coraz bardziej nienormalni.
+[SPEAKER_03] Byłem w zeszłym tygodniu i w poprzednim tygodniu na tych międzynarodowych
+[SPEAKER_03] spotkaniach wszystkich bankierów centralnych europejskich, no i częściowo światowych, także z panią Jelen Bazylei, no to my jesteśmy takim rarogiem i my jesteśmy nienormalni, bo właśnie prowadzimy klasyczną, normalną politykę.
+[SPEAKER_03] Z nich nikt już takiej polityki od dawna
+[SPEAKER_03] nie prowadzi.
+[SPEAKER_03] Kiedy słyszą, że może być gospodarka, w której jest stopa wzrostu powyżej 3%, dodatnie stopy procentowe przy niskiej deflacji, która nie ma ujemnych skutków, no to
+[SPEAKER_03] no to się dziwią.
+[SPEAKER_03] Nie wiem, czy są przekonani, czy to nasze nadzwyczajne umiejętności powodują, raczej czy zbieg okoliczności, no ale my po prostu w tej dyskusji ich nie uczestniczymy.
+[SPEAKER_03] W sensie jako politycy gospodarczy, finansowi, możemy tylko teoretycznie uczestniczyć, bo my w ogóle jakby mamy inne problemy.
+[SPEAKER_03] To znaczy nie mamy tych problemów, co oni mają.
+[SPEAKER_03] I czy nas dotknie teraz
+[SPEAKER_03] to co oni robią.
+[SPEAKER_03] Nas by dotknęło, gdyby na przykład nagle właśnie zmieniali tą politykę.
+[SPEAKER_03] My się też do niej jakoś przyzwyczailiśmy.
+[SPEAKER_03] Gdyby nagle skończono szybko tą politykę luzowania ilościowego, no to byłyby jakieś potężne
+[SPEAKER_03] perturbacje, które by nas dotknęły.
+[SPEAKER_03] My mamy idealnie zrównoważoną, właściwy teraz gospodarkę i finanse, ale jesteśmy bardzo czuli, wychyleni jesteśmy na to, co się dzieje za granicą, w szczególności w sferze europejskiej.
+[SPEAKER_03] Ewentualne problemy w systemie bankowym europejskim natychmiast się przenoszą tego samego dnia.
+[SPEAKER_03] na nasz grunt.
+[SPEAKER_03] No na szczęście będziemy mieli zaraz jeszcze po vacatio legis tą ustawę o resolution.
+[SPEAKER_03] Te nasze możliwości się stają takie jak tych banków wszystkich zachodnich.
+[SPEAKER_03] i będziemy lepiej na wszystko przygotowani, ale tak jak jest, jest dobrze.
+[SPEAKER_03] Tak jak w polityce pieniężnej, Rada Polityki Pieniężnej mówi, że polityka wait and see jest najlepsza.
+[SPEAKER_03] Tak dla całego naszego kraju, dla naszej gospodarki jest dobrze tak jak jest, żeby tak dalej trwało.
+[SPEAKER_03] Nie należy jakby nic polepszać zbytnio, żeby czegoś nie pogorszyć.
+[SPEAKER_04] Pan redaktor Barszczewski, proszę.
+[SPEAKER_05] Dziękuję.
+[SPEAKER_05] Panie Prezesie, Pan tutaj tak dość optymistycznie się wypowiada, że Brexit nas nie dotknie, że jest dobrze tak jak jest.
+[SPEAKER_03] Nie dość, tylko po prostu, czy to jest optymizm.
+[SPEAKER_03] Po prostu nas nie dotyka, więc trudno powiedzieć, czy to jest optymizm.
+[SPEAKER_03] W ogóle się martwię tym bardzo, chociaż jako Brytyjczyk, szczerze mówiąc, nie wiem, jak bym głosował, ale urodzony Brytyjczyk, ale jako Polak się tym bardzo martwię.
+[SPEAKER_03] Powiedziałem bardzo, bardzo, no bo bardzo, bardzo się tym martwię.
+[SPEAKER_03] To jest dla nas bardzo zła wiadomość.
+[SPEAKER_03] Dla Polski, no i gospodarki polskiej długofalowo też.
+[SPEAKER_03] Ale bezpośrednio nas to nie dotyka.
+[SPEAKER_05] Mam pytanie o przedziały prawdopodobieństw, które znalazły się w komunikacie z najnowszej projekcji.
+[SPEAKER_05] Mam pytanie o przedziały prawdopodobieństw z najnowszej projekcji.
+[SPEAKER_05] To, co zwraca tutaj chyba uwagę najbardziej, to jest zmiana ścieżki PKB.
+[SPEAKER_05] Jeśli chodzi o inflację, to tutaj jest bardzo nieznaczna różnica, ale zwraca uwagę zmiana ścieżki PKB, która jest niższa i tak jak patrzeć na te środki przedziałów, to jest… Niższa jest, ścieżka jest niższa.
+[SPEAKER_03] Proszę Państwa, proszę pamiętać, że to Instytut pracuje, posługując się dwoma podstawowymi modelami, w szczególności my tutaj…
+[SPEAKER_03] bazujemy na Nekmodzie i oczywiście Rada Polityki Pieniężnej nic w tym nie może zmienić.
+[SPEAKER_03] W modelu jest to, co się włoży, z drugiej strony coś wychodzi, prawda, jest wydrukowane, my to mamy na stole i to Państwu prezentujemy.
+[SPEAKER_03] Tak to jest.
+[SPEAKER_03] Natomiast oczywiście są jeszcze opinie eksperckie z różnych środowisk, z różnych źródeł i tu członkowie Rady Polityki Pieniężnej także na podstawie tego, co z Instytutu otrzymujemy, mają swoje różne opinie.
+[SPEAKER_03] Tak jak dzisiaj na Radzie Polityki Pieniężnej rozmawialiśmy, to nie jest żadna tajemnica, no te opinie są różne, a prawie 100%, czy 100% nie pamiętam, członków Rady Polityki Pieniężnej zakłada, że
+[SPEAKER_03] tempo wzrostu PKB będzie wyższe.
+[SPEAKER_03] Ja osobiście przypuszczam, że tempo wzrostu PKB będzie podobne do tego, które projektuje Międzynarodowy Fundusz Walutowy w dzisiejszej chyba projekcji dla Polski, czyli 3,6, a 3,8 też jest możliwe, no powyżej 3,5.
+[SPEAKER_03] Natomiast tutaj nam wychodzi skromne, chociaż bardzo satysfakcjonujące 3,2.
+[SPEAKER_03] Inaczej z modelu wychodzi.
+[SPEAKER_03] Trzeba pamiętać, co to są modele ekonometryczne, jak z nich korzystamy.
+[SPEAKER_03] One są podstawą naszego rozumowania.
+[SPEAKER_03] Ale jest mnóstwo innych czynników, których trudno tam uwzględnić.
+[SPEAKER_03] Ale słusznie Pan zauważył, że z projekcji wychodzą niższe wskaźniki.
+[SPEAKER_05] Rozumiem, że Rada się tym jakoś tutaj mocno nie zmartwiła.
+[SPEAKER_03] Nie, nie, no dyskutowaliśmy, znaczy to trudno mówić o martwieniu się, no to jest nadal dobry wynik, ale po prostu to analizowaliśmy i Rada ma do dyspozycji te same informacje, które mają członkowie Instytutu, ale nie posługując się po prostu tylko wynikiem modelu, tylko go interpretując jeszcze.
+[SPEAKER_03] ekspercko, no wszyscy członkowie rady zakładają, że to tempo wzrostu będzie wyższe.
+[SPEAKER_00] Nie wiem, może koledzy się wypowiadają, bo oni też mają takie zdanie, tak.
+[SPEAKER_00] Jeśli można, proszę zauważyć, że ten model nie daje nam punktowej prognozy, tak, znaczy daje po prostu przedział, tak, znaczy mówimy, że, czy mówi Instytut, że z 50% prawdopodobieństwem tempo wzrostu PKB w tym roku będzie pomiędzy 2,6 a 3,8.
+[SPEAKER_00] Więc proszę zauważyć, że 3,8% z projekcji marcowej nadal się mieści w tym naszym przedziale z projekcji lipcowej.
+[SPEAKER_00] Dlatego są te przedziały, dlatego mamy też od dłuższego czasu podobnie jak inne banki centralne wykresy wachlarzowe dotyczące tych podstawowych kategorii.
+[SPEAKER_00] To świadczy o naszej ostrożności generalnie, jeśli chodzi o prognozowanie.
+[SPEAKER_00] No modele przede wszystkim wyjaśniają świat.
+[SPEAKER_00] Te służą prognozowaniu, po to je wykorzystujemy, ale podchodzimy do tego z ostrożnością, stąd ten dosyć szeroki przedział.
+[SPEAKER_00] Profesor Żerzyński, coś chce dodać?
+[SPEAKER_01] No ja myślę, że trzeba wziąć pod uwagę to, że te inne modele, które są alternatywne, były opracowywane wcześniej, a najświeższy,
+[SPEAKER_01] To jest model właśnie opracowany w naszym Instytucie i dlatego on jest może troszeczkę zmodyfikowany w porównaniu z poprzednimi własnymi prognozami.
+[SPEAKER_01] Być może te prognozy innych instytucji za niedługo będą trochę inne.
+[SPEAKER_01] Jednak ten czynnik niepewności został wzięty pod uwagę przez nasz Instytut, a tam się jeszcze nie użytniali czynników niepewności związanych chociażby z Brexitem.
+[SPEAKER_03] Słabiej wypadł ten pierwszy kwartał, który interpretujemy w ten sposób, że środki unijne jeszcze się nie rozpędziły w tym nowym budżecie.
+[SPEAKER_03] To jest główna przyczyna.
+[SPEAKER_03] No i obserwujemy uważnie tempo wzrostu inwestycji.
+[SPEAKER_03] Trochę nam się nie podoba, prawda, niskie tempo wzrostu inwestycji.
+[SPEAKER_03] Oczekujemy, że ono wzrośnie.
+[SPEAKER_03] Natomiast konsumpcja, popyt
+[SPEAKER_03] wspaniale, eksport zadowalająco.
+[SPEAKER_03] Proszę pamiętać, że ten obniżenie się kursu złotego też działa pobudzająco.
+[SPEAKER_03] No i proszę pamiętać o 500+, które też akurat przez przypadek,
+[SPEAKER_03] w takim momencie właśnie tego pierwszego kwartału słabszego zaczyna działać, zaczyna się rozwijać i też podbudowuje popyt, który też trudno jest statystycznie dobrze ująć, bo to jest prawdopodobnie popyt na szczególne produkty związane z dziećmi.
+[SPEAKER_01] Dla rynku krajowego.
+[SPEAKER_03] Dla rynku krajowego, tak że ogólnie obraz jest dobry, tak jak mówię, gdybyśmy mogli
+[SPEAKER_03] jakoś zakląć ten czas, to byśmy chcieli, żeby się utrzymał.
+[SPEAKER_03] A zakładamy, że się utrzyma, bo nie widzimy niepokojących czynników wewnętrznych, jeśli ta koniunktura międzynarodowa nam nie przyniesie jakiegoś psikusa.
+[SPEAKER_03] A to jest możliwe, bo żyjemy w czasach bardzo dynamicznych,
+[SPEAKER_03] bardzo dynamicznych zmian.
+[SPEAKER_03] Nie tylko Brexitu nikt nie przewidział, ale też, że ta polityka tych zerowych stóp procentowych, czy nawet minusowych i deflacji tak długo się utrzymującej i praktycznie sytuacji bliskiej stagnacji, że się tak długo może utrzymać.
+[SPEAKER_03] Każdy student, gdyby coś takiego przewidział kilka lat temu, nie miałby żadnych szans.
+[SPEAKER_01] Nawet profesora by oblał.
+[SPEAKER_03] I że można bezkarnie, jak to się mówi eufemistycznie, teraz luzować ilościowo.
+[SPEAKER_03] Kiedyś się to bardziej dosadnie określało, a teraz to już elegancko weszło do normalnej polityki banków centralnych.
+[SPEAKER_03] I my się jak gdyby tłumaczymy i jest zdziwienie, dlaczego my tego nie robimy.
+[SPEAKER_03] A u nas nie ma najmniejszej potrzeby, nie ma na to zapotrzebowania i w ogóle nie widać w przyszłości takiej sytuacji.
+[SPEAKER_05] Czy można taką tezę postawić, biorąc pod uwagę właśnie to, co się wydarzyło w Wielkiej Brytanii, plus macie Państwo nową projekcję, czy można postawić tezę, czy wyznąć taki wniosek na podstawie tego, co Pan Prezes powiedział, że ta polityka wait and see jest taką polityką w tej chwili najbardziej właściwą, że te wszystkie czynniki nie są takimi czynnikami ani propodwyżkowymi, ani proobniżkowymi, tylko raczej wpływającymi na wydłużanie tego oczekiwanego horyzontu stabilizacji stuprocentowej.
+[SPEAKER_03] Każdy członek Rady oczywiście decyduje za siebie.
+[SPEAKER_03] ostateczną decyzję z wynikiem głosowań.
+[SPEAKER_03] Na razie jest pełna zbieżność stanowisk.
+[SPEAKER_03] Jeśli coś by się zmieniało, np. tempo wzrostu by się, tak optymistycznie powiem, właśnie radykalnie wzrosło tempo wzrostu, w związku z tym procesy inflacyjne też by się odblokowały, no to oczywiście zaczniemy się w pewnym momencie dyskutować i wspierać prawdopodobnie, kiedy te stopy podnosić i o ile.
+[SPEAKER_03] No ale daj Bóg, żeby tak było, prawda, że wchodzimy na 5% ścieżkę wzrostu, inflacja się ruszyła, czyli my przewidując kilkanaście kwartałów nawet do przodu zaczynamy coś robić, ale w tej chwili się na to nie zanosi.
+[SPEAKER_03] Natomiast jeśli chodzi o obniżanie stóp, no to sytuacja jest dosyć skomplikowana, bo poza tymi wszystkimi wartościami, które zwykle politycy pieniężnej się bierze pod uwagę, no my jednak w coraz większej mierze też myślimy, tak jak wszystkie banki europejskie, znaczy wszystkie banki światowe,
+[SPEAKER_03] Europejski Bank Centralny, bierzemy pod uwagę też elementy stabilności systemu bankowego, makroostrożności i tak dalej.
+[SPEAKER_03] Jeżeli można, dzień dobry, Paweł Sopczak z Agencji Rejtera.
+[SPEAKER_02] Chciałbym się spytać, jak Panu zdaniem ten okres stabilizacji, jak długo może potrwać okres stabilizacji stuprocentowych?
+[SPEAKER_02] Czy to jest kwestia również przyszłego roku?
+[SPEAKER_01] Co ja może powiem.
+[SPEAKER_03] Prostaram się kolegów rozruszać, bo trudno siedzieć obok tego.
+[SPEAKER_01] No właśnie, no zależy jak się potoczy świat rzeczywisty.
+[SPEAKER_01] Pan prezes
+[SPEAKER_01] Tak trochę żartem powiedział, że to co się dzieje w rzeczywistości, gdyby kiedyś nam student coś takiego powiedział, to by miał kłopoty na egzaminie, ale zarówno luzowanie ilościowe, które jest na świecie przez inne banki realizowane,
+[SPEAKER_01] Kiedyś było nie do pomyślenia, prawda?
+[SPEAKER_01] Czyli ta rzeczywistość jest zupełnie inna.
+[SPEAKER_01] Pytanie, jak się potoczy dalej.
+[SPEAKER_01] Jesteśmy w sytuacji niepewności, przypominam.
+[SPEAKER_01] Niepewności związanej m.in. ze skutkami tego, co się stało w Wielkiej Brytanii.
+[SPEAKER_01] Wobec tego w sytuacji niepewności najlepiej trochę odczekać.
+[SPEAKER_01] Stąd ta polityka wait and see.
+[SPEAKER_01] Polska gospodarka nie jest w złym stanie, prawda?
+[SPEAKER_01] Idzie do przodu.
+[SPEAKER_01] Jak zacznie siadać wzrost, no to wtedy zgodnie z regułami sztuki będziemy obniżać stopy procentowe
+[SPEAKER_01] albo dyskutować o obniżaniu stóp procentowych.
+[SPEAKER_01] Jak prezes powiedział, jak pójdzie wzrost do góry, inflacja do góry, to też zgodnie z regułami sztuki będziemy myśleć o podwyższaniu stóp procentowych.
+[SPEAKER_01] Takie są zasady, a w sytuacji niepewności najlepiej odczekać, popatrzeć co się będzie działo przez miesiąc, a może przez pierwszy kwartał.
+[SPEAKER_01] Znaczy drugi kwartał.
+[SPEAKER_03] My mamy otwartą drogę w obie strony zresztą.
+[SPEAKER_03] Mamy dodatnie stopy.
+[SPEAKER_03] Inni już jakby nie mają ruchu w drugą stronę.
+[SPEAKER_03] Mogą tylko luzować ilościowo w nieskończoność i rozszerzać to luzowanie na kolejne.
+[SPEAKER_03] elementy rynku finansowego.
+[SPEAKER_03] My mamy ruch w obie strony, ale szczęśliwie nie zanosi się, żebyśmy musieli jakiegokolwiek ruchu dokonywać.
+[SPEAKER_03] Nie ma się co tłumaczyć z tego, że nic nie robimy, bo to nic nie robienie jest bardzo przemyślane i najbardziej financyjną formą ruchu.
+[SPEAKER_03] To dotyczy każdego człowieka zresztą.
+[SPEAKER_03] To znaczy, że się intensywnie myśli w tym.
+[SPEAKER_00] Jeśli można tak do tego coś dodać, to proszę zobaczyć, że wydaje się, że wraz z kolejnymi kwartałami tego luzowania ilościowego, chociażby w strefie euro, będziemy widzieli coraz więcej negatywnych aspektów tego procesu.
+[SPEAKER_00] Nie osobiście wydaje się, że luzowanie ilościowe zawsze gdzieś na koniec dnia prowadzi do luzowania jakościowego.
+[SPEAKER_00] Po prostu jakość tego kredytu maleje, kredyt nie płynie tam, gdzie płynąłby, gdyby koszt tego kredytu był na odpowiednim poziomie.
+[SPEAKER_00] Na szczęście my takich problemów nie mamy i w ramach dyskusji seminaryjnych, pewnych ćwiczeń intelektualnych oczywiście rozmawiamy o tym, o naszych opiniach dotyczących strefy euro.
+[SPEAKER_00] Natomiast jeśli chodzi o Polskę, wydaje mi się, że w sytuacji tak wysokiej niepewności, nawet jeśliby tempo wzrostu spadło,
+[SPEAKER_00] to i tak jestem dosyć sceptyczny, jeśli chodzi o możliwość pobudzania chociażby poziomu inwestycji obniżeniem koszty pieniądza.
+[SPEAKER_00] Koszt pieniądza już jest niski.
+[SPEAKER_00] Jak pytamy co kwartał firmy, dlaczego nie podobają działalności inwestycyjnej, to koszt pieniądza nie jest na pierwszym miejscu.
+[SPEAKER_00] Na pierwszym miejscu jest cały czas niepewność.
+[SPEAKER_03] Oczywiście jest pole do jakichś działań pobudzających gospodarkę, ale w tej chwili nie w naszym ogródku.
+[SPEAKER_03] My takich środków, metod nie mamy, ale oczywiście minister finansów, minister gospodarki w szczególności, która odgrywa szczególną w tej chwili rolę,
+[SPEAKER_03] mają i przygotowują i stosują różne wysublimowane narzędzia dotyczące różnych sektorów, różnych typów przedsiębiorstw, splatania inwestycji publicznych, finansowanych też z różnych źródeł unijnych i prywatnych i rządowych, razem z prywatnymi, no różne sposoby działania na gospodarkę, żeby tą
+[SPEAKER_03] tempo wzrostu i jakość wzrostu poprawić?
+[SPEAKER_03] Są, ale jakby NBP ich w tej chwili nie ma, bo często padają pytania, czy nie powinniśmy jakichś szczególnych form wspierania akcji kredytowej w bankach komercyjnych rozwijać.
+[SPEAKER_03] Nie ma takiego zapotrzebowania, nikt do nas tego nie kieruje, takiego oczekiwania.
+[SPEAKER_03] My w swoim arsenale prawnym mamy różnego rodzaju działania, ale naprawdę w tej chwili takiej konieczności nie ma.
+[SPEAKER_03] Publicystycznie się pojawiają czasami takie wezwania, ale one
+[SPEAKER_03] naprawdę nie mają racji byta.
+[SPEAKER_03] Natomiast minister finansów w sytuacji deflacji i minister gospodarki w sytuacji pozytywnego tempa wzrostu może różne działania podejmować i starać się zwiększyć właśnie udział oszczędności inwestycji w PKB, bo to jest coś, co na pewno Polska jako główne zadanie w sferze gospodarczej, finansowej przed sobą ma.
+[SPEAKER_03] A co może zrobić bank?
+[SPEAKER_03] Jakoś wspierać oszczędzanie,
+[SPEAKER_03] ale przez stabilną złotówkę, przez stabilną złotówkę, stabilne finanse, stabilnego złotego, przepraszam, stabilną finansę, stabilną gospodarkę, no co robimy?
+[SPEAKER_01] Jeżeli można jeszcze dwa słowa.
+[SPEAKER_01] Szanowni Państwo, chcę też zwrócić uwagę Państwa na to, że działania rządu też się nie ukonkretyzowały.
+[SPEAKER_01] Mamy program rozwoju, ale jeszcze ten program na dobrą sprawę nie ruszył.
+[SPEAKER_01] Jest ciągle w sferze pewnych projektów i planów.
+[SPEAKER_01] Oczywiście bardzo pozytywnych oby ruszyły, ale muszą najpierw ruszyć.
+[SPEAKER_01] Jeśli chodzi o działania fiskalne rządu, rząd walczy ze ściągalnością podatków, przede wszystkim podatków VAT, ale jeszcze nie ma
+[SPEAKER_01] takich widocznych efektów, prawda?
+[SPEAKER_01] I wobec tego wszystko musi ruszyć.
+[SPEAKER_01] Dopiero bank się dostosowuje do swoją polityką, do rzeczywistości taka, jak ona się wyłoni z tego, co w rzeczywistości będzie realizowane.
+[SPEAKER_03] Z tym, że w planie premiera Morawieckiego nie jest przewidziana żadna rola dla Narodowego Banku Polskiego.
+[SPEAKER_03] Nasza rola jest taka, żeby stabilizować gospodarkę, stabilizować złotego, stabilizować gospodarkę, stwarzać warunki do oszczędzania, zapewniać pewność działania.
+[SPEAKER_03] to robimy, to się na razie udaje dobrze robić w przeszłości i teraz i oby tak było dalej.
+[SPEAKER_03] Powtarzam, jedyny element jakichś niepokoju może być związany z sytuacją w Europie, w gospodarkach, z którymi
+[SPEAKER_03] najbardziej współpracujemy, czyli przede wszystkim z gospodarką niemiecką.
+[SPEAKER_03] Koniektura w gospodarce niemieckiej dla nas jest kluczowa, cały czas ją obserwujemy.
+[SPEAKER_03] Tam z wyprzedzeniem się mogą pokazywać jakieś elementy pozytywne lub negatywne, które do nas w następnych kwartałach przychodzą, ale też nic się nie dzieje
+[SPEAKER_03] negatywnego w gospodarce niemieckiej w tej chwili.
+[SPEAKER_03] Te oczekiwania, że się ożywi bardziej co prawda przeminęły, bo był taki moment, że się wydawało, że w Europie Zachodniej rusza gospodarka do szybszego rozwoju, to jakby się nie zrealizowało, ale nie ma pogorszenia też, dla nas to wystarczy.
+[SPEAKER_03] My cały czas rozwijamy się w tempie szybszym niż kraje bogatsze europejskie i oby tak dalej było.
+[SPEAKER_03] Jeżeli jeszcze można, zmieniając na chwilę temat.
+[SPEAKER_02] Kancelaria Pana Prezydenta finalizuje prace nad ustawą o kredytach hipotecznych, denominowanych w walutach obcych.
+[SPEAKER_02] Pierwsze pytanie jest takie, czy Państwo w jakiś sposób jesteście konsultowani w tej sprawie?
+[SPEAKER_02] I też proszę o jakiś komentarz, ocenę jednej z tych propozycji, jaką jest na przykład wymiana, czy dokładnie konwersji w pokusie sprawiedliwym, czy w ogóle jest to możliwe?
+[SPEAKER_02] Jaka mogła być rola banku centralnego w tych operacjach?
+[SPEAKER_03] My nie jesteśmy czynnym elementem w przygotowywaniu jakichkolwiek koncepcji czy projektów ustaw.
+[SPEAKER_03] Oczywiście się interesujemy tym, bo każda ustawa, która będzie dotyczyć kredytów frankowych, będzie miała wpływ na system bankowy.
+[SPEAKER_03] Konsultujemy to w jakiś sposób, jak ktoś się do nas zwraca z jakimś pytaniem, no to staramy się odpowiedzieć, przeliczyć coś, wypowiedzieć swoją opinię.
+[SPEAKER_03] Mamy tutaj wyselekcjonowany zespół ludzi, którzy się najlepiej do tego banku nadają.
+[SPEAKER_03] Oni z różnych departamentów są, bo tam jest wiele bardzo różnych skomplikowanych aspektów i zawsze takie wyliczenie czy jakąś taką konsultację, analizę możemy zrobić.
+[SPEAKER_03] Na jakąś skalę to się znacząco nie odbywało do tej pory.
+[SPEAKER_03] Aha i pytał pan o ten kurs sprawiedliwy, no to jakby są kwestie techniczne, no to nie my robimy, nie my przygotowujemy, nie my będziemy decydować, to przecież będzie ustawa ostatecznie.
+[SPEAKER_03] Nie przychodzi nam nawet do głowy, żeby komentować coś, co się dzieje w parlamencie najjaśniejszej Rzeczpospolitej czy w rządzie.
+[SPEAKER_03] Jesteśmy niezależni, ale też się nie wtrącamy w prace innych, chyba że przy herbacie, prawda.
+[SPEAKER_04] Jeszcze raz pani redaktor Bartysel, zapraszam.
+[SPEAKER_06] Nie lubię być niemiła, ale chciałabym się zapytać, na czym państwo opierają swoje przekonanie, że wzrost gospodarczy jednak będzie przyspieszał w sytuacji, kiedy
+[SPEAKER_06] Przynajmniej w ciągu ostatnich dwóch dni mieliśmy okazję zaobserwować wręcz falę rewizji w dół oczekiwań PKB dla Polski.
+[SPEAKER_06] To są największe banki, którym nie odbierałabym kompetencji.
+[SPEAKER_06] JP Morgan, HSBC, Bank of America, no i na koniec IMF.
+[SPEAKER_06] No i jeszcze nasz ukochany Nekmo, czy jak on się nazywa, a tymczasem Państwo twierdzą, że jednak...
+[SPEAKER_03] będzie lepiej.
+[SPEAKER_03] No to my, czy poszczególni członkowie Rady, bo my w tej sprawie stanowisko nie zajęliśmy przecież jako Rada, zrelacjonowaliśmy Państwu to, co wynika z nakładu.
+[SPEAKER_03] No my też obniżyliśmy swoje przewidywania.
+[SPEAKER_03] Nie będę wymieniał z nazwiska profesorów, ale niektórzy członkowie Rady przewidywali 4%, 4% wzrost, a nawet wyższy.
+[SPEAKER_03] Teraz nie mówimy o tym, czyli też obniżyliśmy, tylko że nie obniżyliśmy aż tak, tylko obniżyliśmy do 3,6, 3,8, 3,5, ale trochę obniżyliśmy, no bo nastroje są gorsze w Europie i na świecie i niepewność jest większa.
+[SPEAKER_03] To są niewymierne rzeczy, do modelu trudno wstawić niepewność, prawda.
+[SPEAKER_03] czy ogólnie psychologiczny nastrój mniej skłonny do inwestowania.
+[SPEAKER_03] Natomiast śledząc jakby to, co się dzieje, to się wyczuwa, że ta niepewność, w rozmowie z przedsiębiorcami.
+[SPEAKER_03] My tutaj przyjmujemy codziennie zwykle, chyba nie przesadzam, że codziennie albo prawie codziennie, największych inwestorów światowych, którzy tu przychodzą i rozmawiają z poszczególnymi członkami rady, zarządu, sądują.
+[SPEAKER_03] Widzimy u nich, że jest takie trochę niepewność i trochę takie zawahanie, jak te rynki światowe
+[SPEAKER_03] no i polski, europejski będą wyglądać.
+[SPEAKER_03] Jest takie trochę zaniepokojenie.
+[SPEAKER_03] Brexit psychologicznie oczywiście tutaj zadziałał, chociaż nikt nie jest w stanie skonkretyzować, na czym by miały polegać tu negatywne skutki, ale ponieważ tak się sufit niektórym na głowę zwalił, bo w ogóle nie brali pod uwagę, że jakiś kraj może z Unii wystąpić, to zawsze tak jest, że jak coś się dzieje pierwszy raz, to jest takie szczególne, prawda.
+[SPEAKER_03] No to taki nastrój jest i biorąc ten nastrój pod uwagę,
+[SPEAKER_03] i obawy, że ewentualnie to na jakieś inwestycje może wpływać, szczególnie kapitałowe, zagraniczne, no to właśnie obniżyliśmy, ale obniżyliśmy.
+[SPEAKER_03] No ja osobiście do tego 3,6 właśnie, tak jak HMF przypuszczam, no ale zobaczymy, kto z członków Rady będzie miał rację.
+[SPEAKER_03] No nikt z nas nie poszedł tak daleko, jak właśnie kolega Nakmot.
+[SPEAKER_06] To jeszcze chciałam dopytać po raz pierwszy.
+[SPEAKER_06] W ostatnich tygodniach pojawiły się jakieś zawirowania, jeśli chodzi o nadpłynność.
+[SPEAKER_06] Już chyba nie ma nadpłynności na rynku bankowym, wręcz odwrotnie.
+[SPEAKER_06] Moje pytanie jest takie, czy NBP jest gotowe dostarczać bankom?
+[SPEAKER_03] Jak już mówiłem, no my mamy taką opcję, gdyby się pojawiała potrzeba, ale to chociaż czytałem też teksty na ten temat, no jesteśmy daleko od takiej sytuacji i banki nie zgłaszają zupełnie takiego problemu.
+[SPEAKER_06] Mamy mało tych instrumentów.
+[SPEAKER_06] Czy pojawiła się na nowo rozmowa na temat ewentualnego obniżenia rezerwy obowiązkowej?
+[SPEAKER_03] Dyskusje na ten temat już były dawno.
+[SPEAKER_03] Nie wracaliśmy do nich przez ostatni chyba rok.
+[SPEAKER_03] Ale wszystkie opcje są, ale jak powtarzam, nie ma żadnej potrzeby i nikt się z tym nie zwraca i banki nie mają takich potrzeb.
+[SPEAKER_06] I tak już zupełnie na koniec, Panie Prezesie.
+[SPEAKER_03] Ale gdyby kryzys się pojawił, no jakiś taki jak 2008, odpukać czy coś, no to oczywiście to wszystko wtedy było w powijakach.
+[SPEAKER_03] Dopiero jak był kryzys 2008, to ten pakiet został tych działań przewidziany prawnie i on jest w różnych dokumentach w NBP-ie powstałych, w różnych dokumentach, nawet w uchwałach Rady Polityki Pieniężnej.
+[SPEAKER_03] wewnętrznych i my jesteśmy na to przygotowani.
+[SPEAKER_03] No prosiłoby się, żeby to wszystko w jedną ustawę zebrać.
+[SPEAKER_03] Był ten projekt ustaw, jak Państwo wiedzą, przy poprzedniej Radzie jeszcze i on przeszedł wszystkie uzgodnienia w ramach rządu i NBP-u i innych instytucji, ale w końcu nie trafił na
+[SPEAKER_03] do parlamentu i nie jest przyjęty.
+[SPEAKER_03] I to jest tylko taka szkoda, że to nie jest elegancko zebrane razem.
+[SPEAKER_03] Natomiast wszystkie te elementy my mamy porozrzucane w różnych miejscach i gdyby się pojawił taki problem, to byśmy natychmiast mogli to zrobić.
+[SPEAKER_06] Już zupełnie na sam koniec.
+[SPEAKER_06] Mario Draghi, jak rozpoczynał swoją kadencję, to rozpoczął od redukcji stóp procentowych.
+[SPEAKER_06] Nie miał Pan, Panie Prezesie, dzisiaj ochoty, żeby zrobić coś niestandardowego?
+[SPEAKER_03] Widocznie nie jestem taki małostkowy, ani nie mam takiego ego dużego.
+[SPEAKER_03] Poznałem dobrze teraz Mario Draghi, bo siedziałem dwa razy z nim przy kolacji.
+[SPEAKER_03] na tych spotkaniach, no to właściwie jedyna korzyść z tych spotkań jest taka głównie, że się poznaje osoby i można do nich później dzwonić, tym bardziej, że jest specjalny tajny telefon, który tylko do tego służy, ale daj Bóg, żeby nie było, prawda, potrzeby.
+[SPEAKER_03] No i on taki jest, taka silna osobowość, ale był wstrząśnięty tak samo jak wszyscy.
+[SPEAKER_03] wstrząśnięty był tak samo jak wszyscy, tylko pani Jelen nie była wstrząśnięta i dla niej to nie był jakiś znaczący fakt.
+[SPEAKER_03] Natomiast wszyscy poza tym byli wstrząśnięci i zmieszani.
+[SPEAKER_03] Nie bardzo jakieś inne problemy były dyskutowane.
+[SPEAKER_03] Z tym, że konkretów negatywnych gospodarczych, finansowych nikt nie był w stanie
+[SPEAKER_03] wskazać.
+[SPEAKER_03] Tylko ten ogromny wstrząs, że nie wiadomo jak dalej cała ta konstrukcja będzie wspólnoty przebiegać.
+[SPEAKER_03] Jakiś taki spór, czy trzeba zrobić krok do tyłu i więcej wolności w gospodarkę wprowadzić, czy przeciwnie, czy zacieśniać się jeszcze ściślej, szczególnie politycznie.
+[SPEAKER_03] To na razie są takie wstępne pomysły od ściany do ściany.
+[SPEAKER_03] Osobiście znając sposób działania Brukseli, Unii Europejskiej, Banku Centralnego to przypuszczam, że będzie taka bardzo gwałtowna dyskusja, bardzo radykalne stanowisko i ostatecznie nic nie będzie zrobione.
+[SPEAKER_03] A to nie jest złe wcale, no bo żyjemy w świecie całkiem przyzwoitym i zrównoważonym w naszej cywilizacji, w naszej części świata i aby tak było.
+[SPEAKER_03] Ja zawsze jak rozmawiam z kolegami właśnie tam na takich spotkaniach i oni się gorączkują jakimiś planami, to tylko zawsze mówię, no z perspektywy kraju, który wyszedł z komunizmu, a przyszedł tam z II wojny światowej, długo walczył o niepodległość, to my się zadowalamy małymi rzeczami.
+[SPEAKER_03] jak coś chcemy poprawiać, to drobnymi krokami, a jakieś plany radykalnej poprawy szczęśliwości ludzi w danym kraju, czy w całej Europie, to trochę dreszczyk niepokoju wprowadzają, że to się może źle skończyć.
+[SPEAKER_03] No i to z Brytanią, z Wielką Brytanią trochę tak się stało, ale powtarzam, ja osobiście nie widzę w tym żadnych problemów, poza problemami dla Polski geopolitycznymi i, no geopolitycznymi, tak to powiedzmy, ale i to
+[SPEAKER_03] Jak będziemy mieli cały czas 3,5%, czy jak pani redaktor woli 3,2% czy 3,8%, to naprawdę za 20 lat stałego takiego ciągłego wzrostu, bez jakiejś wpadki po drodze, no to nie będziemy mieli żadnych tego typu problemów.
+[SPEAKER_03] Będziemy bardzo zamożnym krajem, pewnym swojej suwerenności nie tylko gospodarczej.
+[SPEAKER_03] otoczanym przyjaznymi krajami, w stosunku do których nie będziemy mieli też żadnych kompleksów.
+[SPEAKER_03] No może tylko tym, że Niemcy będą do nas emigrować, czy Holendrzy, ale to sobie damy radę, jakoś ich zintegrujemy.
+[SPEAKER_04] Bardzo dziękuję pani prezesie, bardzo dziękuję państwu.
+[SPEAKER_04] Zapraszamy na kolejną konferencję po posiedzeniu rady, która odbędzie się dopiero we wrześniu, więc mamy teraz wakacje.
+[SPEAKER_03] No i jakieś spotkanie zorganizujemy po wakacji w ogóle dla dziennikarzy, publicystów ekonomicznych, żeby się lepiej poznać.
+[SPEAKER_03] Państwo i mnie nie znają, no bo tak te 6 lat szybko minęło, że się słabo poznaliśmy.
+[SPEAKER_03] No i nowych członków Rady Polityki Pieniężnej.
+[SPEAKER_03] Także pewnie w tym wnętrzu właśnie, bo nie mamy większej sali, albo może w jakimś hotelu zrobimy takie spotkanie całej Rady, Zarządu i moje z szerszym gronem publicystów ekonomicznych i agencyjnych dziennikarzy.
+[SPEAKER_04] Przy okazji poinformuję, że w najbliższy poniedziałek o godzinie 10.00 odbędzie się prezentacja projekcji inflacji i PKB przygotowanej przez Instytut Ekonomiczny, na którą serdecznie zapraszamy.
+[SPEAKER_03] I życzymy Państwu miłych wakacji.

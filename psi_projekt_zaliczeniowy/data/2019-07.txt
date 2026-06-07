@@ -1,0 +1,399 @@
+[UNKNOWN_SPEAKER] Muzyka
+[SPEAKER_05] Dzień dobry Państwu.
+[SPEAKER_05] Witamy bardzo serdecznie na konferencji prasowej po posiedzeniu Rady Polityki Pieniężnej.
+[SPEAKER_05] W dzisiejszej konferencji udział biorą Pan Profesor Adam Glapiński, Prezes Narodowego Banku Polskiego, Przewodniczący Rady Polityki Pieniężnej oraz członkowie Rady Pani Profesor Grażyna Ancyparowicz i Pan Profesor Łukasz Hart.
+[SPEAKER_05] Panie Prezesie, bardzo proszę, oddaję Pan głos.
+[SPEAKER_04] Informacja po posiedzeniu Rady Polityki Pieniężnej w dnia 2-3 lipca
+[SPEAKER_04] 2019 rok.
+[SPEAKER_04] Rada postanowiła utrzymać 100% NBP na niezmienionym poziomie.
+[SPEAKER_04] Stopa referencyjna 1,5%, stopa lombardowa 2,5%, stopa depozytowa 0,5%, stopa redyskonta Wexli 1,75%.
+[SPEAKER_04] Napływające dane wskazują, że tempo wzrostu w gospodarce światowej pozostaje relatywnie niskie przy podwyższonej niepewności dotyczącej kształtowania się globalnej koniunktury w kolejnych kwartałach.
+[SPEAKER_04] W strefie euro, mimo nadal dobrej sytuacji w sektorze usług, utrzymuje się relatywnie słaby wzrost aktywności.
+[SPEAKER_04] W Stanach Zjednoczonych koniunktura pozostaje dobra, ale ostatnie odczyty wskaźników koniunktury sygnalizują możliwe osłabienie aktywności w kolejnych kwartałach.
+[SPEAKER_04] W Chinach napływające dane wskazują na pogorszenie koniunktury w drugim kwartale.
+[SPEAKER_04] W ostatnim okresie utrzymywała się podwyższona zmienność cen ropy naftowej na rynkach światowych, które są nadal niższe niż przed rokiem.
+[SPEAKER_04] Towarzyszył temu wzrost cen części produktów żywnościowych na rynkach światowych.
+[SPEAKER_04] Inflacja w wielu krajach utrzymuje się na umiarkowanym poziomie.
+[SPEAKER_04] Europejski Bank Centralny utrzymuje stopy procentowe na poziomie bliskim zera.
+[SPEAKER_04] w tym stopę depozytową poniżej zera oraz reinwestuje zapadające papiery wartościowe zakupione w ramach programu skupu aktywów.
+[SPEAKER_04] Jednocześnie EBC wydłużył sygnalizowany okres utrzymywania stóp procentowych na obecnym poziomie.
+[SPEAKER_04] Rezerwa Federalna Stanów Zjednoczonych utrzymuje stopy procentowe na niezmienionym poziomie.
+[SPEAKER_04] FED stopniowo ogranicza zmniejszanie swojej sumy bilansowej, sygnalizując możliwość poluzowania polityki pieniężnej w kolejnych kwartałach.
+[SPEAKER_04] W Polsce, mimo osłabienia wzrostu gospodarczego za granicą, utrzymuje się nadal dobra koniunktura.
+[SPEAKER_04] Wzrostowi aktywności gospodarczej sprzyja rosnąca konsumpcja wspierana przez zwiększające się zatrudnienie i płace,
+[SPEAKER_04] bardzo dobre nastroje konsumentów oraz wypłaty świadczeń społecznych.
+[SPEAKER_04] Napływające dane wskazują także na kontynuację znaczącego wzrostu inwestycji i eksportu.
+[SPEAKER_04] W ostatnich miesiącach wzrosła dynamika cen konsumpcyjnych, do czego przyczynił się wzrost cen paliw i żywności, a także wyższa inflacja bazowa.
+[SPEAKER_04] Mimo to inflacja utrzymuje się na umiarkowanym poziomie.
+[SPEAKER_04] Rado zapoznała się z wynikami lipcowej projekcji inflacji i PKB przygotowanej przy założeniu niezmienionych stóp procentowych NBP.
+[SPEAKER_04] Lipcowa projekcja uwzględnia dane i informacje opublikowane do 18 czerwca bieżącego roku.
+[SPEAKER_04] Zgodnie z lipcową projekcją z modelu Nekmot roczna dynamika cen znajdzie się z 50-procentowym prawdopodobieństwem w przedziale 1,7% do 2,3% w 2019 r.
+[SPEAKER_04] wobec przewidywanych w marcu 1,2% do 2,2%, 1,9% do 3,7% w 2020 roku, wobec 1,7% do 3,6% przewidywanych w marcu,
+[SPEAKER_04] oraz 1,3% do 3,5% w 2021 roku.
+[SPEAKER_04] Wobec przewidywanych w marcu 1,3% do 3,5%.
+[SPEAKER_04] Z kolei roczne tempo wzrostu PKB w tej projekcji znajdzie się z 50% prawdopodobieństwem.
+[SPEAKER_04] w przedziale 3,9% do 5,1% w 2019 r. wobec przewidywanych poprzednio 3,3% do 4,7% 3,0% do 4,8% w 2020 r. wobec przewidywanych poprzednio 2,7% do 4,6% oraz 2,4% do 4,3% w 2021 r.
+[SPEAKER_04] wobec przewidywanych w marcu 2,4 do 4,3.
+[SPEAKER_04] W ocenie Rady perspektywy krajowej koniunktury pozostają korzystne, a dynamika PKB utrzyma się w najbliższych latach na relatywnie wysokim poziomie.
+[SPEAKER_04] Jednocześnie inflacja pozostanie umiarkowana i w horyzoncie oddziaływania polityki pieniężnej będzie się kształtować w pobliżu celu inflacyjnego.
+[SPEAKER_04] Taką ocenę wspierają wyniki lipcowej projekcji NBP.
+[SPEAKER_04] Rada ocenia, że obecny poziom stóp procentowych sprzyja utrzymaniu polskiej gospodarki na ścieżce zrównoważonego wzrostu oraz pozwala zachować równowagę makroekonomiczną.
+[SPEAKER_04] Rada przyjęła dzisiaj raport o inflacji, lipiec 2019.
+[SPEAKER_04] Dziękuję bardzo.
+[SPEAKER_05] Dziękuję bardzo panie prezesie.
+[SPEAKER_05] Bardzo państwa proszę o pytania.
+[SPEAKER_05] To pierwszy.
+[SPEAKER_05] Pan redaktor Tuszyński, bardzo proszę.
+[SPEAKER_00] Dzień dobry, Rafał Tuszyński, Polska Agencja Prasowa, Redakcja Ekonomiczna.
+[SPEAKER_00] Chciałbym zacząć od ścieżki projekcji, której nie dostaliśmy, a mianowicie od inflacji bazowej,
+[SPEAKER_00] z roboczych wyliczeń wynika, że ścieżka inflacji w tej projekcji jest nieznacznie wyższa na 2019 i 2020 rok i jaka jest struktura tej inflacji?
+[SPEAKER_00] To znaczy czy inflacja bazowa w horyzoncie projekcji najnowszej będzie wyższa niż w horyzoncie poprzedniej?
+[SPEAKER_00] I moje drugie pytanie, jaką ścieżkę stóp procentowych Państwa zdaniem wspiera najnowsza projekcja?
+[SPEAKER_04] Mogę mówić o swoim przekonaniu,
+[SPEAKER_04] wspiera tą ścieżkę stóp, którą realizujemy od marca 2015 roku, czyli pozostawianie stóp na tym samym poziomie, co dotychczas.
+[SPEAKER_04] Natomiast jeśli chodzi o inflację bazową, to ona także lekko wzrośnie.
+[SPEAKER_00] A jaki jest horyzont stabilizacji stóp?
+[SPEAKER_00] Czy podtrzymuje pan zdanie, że do końca obecnej kadencji Rady… Do końca 2021 roku.
+[SPEAKER_00] To dlaczego w takim razie skrócił pan ten horyzont?
+[SPEAKER_00] No nie do końca.
+[SPEAKER_04] No nie do końca.
+[SPEAKER_00] Dobrze.
+[SPEAKER_00] To jeszcze jedno pytanie, również myślę istotne.
+[SPEAKER_00] W ostatnich tygodniach mieliśmy woltę w retoryce banków centralnych, głównych Fedu i EBC.
+[SPEAKER_00] I jak ta polityka, jak ta perspektywa łagodzenia polityki monetarnej na świecie wpisuje się w politykę RPP?
+[SPEAKER_00] Jak mocno musi brać, jak mocno RPP będzie brała pod uwagę ewentualne luzowanie w Eurolandzie i przez Fed?
+[SPEAKER_04] My tą woltę
+[SPEAKER_04] Odbieraliśmy już wcześniej, bo na nieformalnych różnego rodzaju spotkaniach prezesi banków centralnych, w tym EEC-u i FED-u to sygnalizowali.
+[SPEAKER_04] Jakiś czas trochę potrwało, zanim to zostało publicznie ujawnione przez odpowiednie gremia i wiedzieliśmy, że taki zwrot nastąpił.
+[SPEAKER_04] Ale to jakieś brujorkratyczne procedury inne, formalne, emerytoryczne spowodowały, że to się z pewnym kilkumiesięcznym opóźnieniem ujawniło i jest realizowane.
+[SPEAKER_04] Byliśmy na to przygotowani.
+[SPEAKER_04] Jesteśmy doskonale przygotowani do takiej zmiany sytuacji, ponieważ nasze stopy są stabilne i cały czas dodatnie.
+[SPEAKER_04] Nasze stopy są dodatnie, nasza sytuacja fiskalna zresztą też jest znakomita.
+[SPEAKER_04] Także my stosując tę konserwatywną politykę, na co pozwala stan gospodarki, znajdujemy się w takiej pozycji, że mamy przestrzeń do działania zarówno w polityce pieniężnej i fiskalnej, gdyby to było potrzebne.
+[SPEAKER_04] W moim przekonaniu nie jest potrzebne i jeszcze dłuższy czas nie będzie.
+[SPEAKER_04] Z takim prawdopodobieństwem, z jakim można to przewidzieć.
+[SPEAKER_04] jeśli nie zajdą tak zwane nadzwyczajne okoliczności.
+[SPEAKER_04] Już w tej chwili jest taką rzeczą przyjemnie zaskakującą, że mimo pogorszenia się koniunktury w Niemczech u naszego głównego partnera, polscy przedsiębiorcy radzą sobie doskonale i polska gospodarka utrzymuje się cały czas na ścieżce dobrej koniunktury.
+[SPEAKER_04] Chociaż notujemy pewne przecież zwolnienie.
+[SPEAKER_04] Jest pewne przyspieszenie inflacji i pewne zwolnienie tempa wzrostu.
+[SPEAKER_05] Kolejne pytanie, bardzo proszę.
+[SPEAKER_05] Pani Renata Oliarz.
+[SPEAKER_03] Czy w takim razie w kontekście wyższej inflacji w maju zanotowanej od oczekiwań i też nieco wyższej ścieżki inflacji z najnowszej projekcji, kiedy możemy się oczekiwać?
+[SPEAKER_03] Kiedy możemy oczekiwać i na jakim poziomie szczytu tej inflacji?
+[SPEAKER_04] Inflacja ma wzrosnąć w przyszłym roku i ponownie się obniżyć w następnym roku.
+[SPEAKER_03] Na jakim poziomie maksymalnie?
+[SPEAKER_04] No tak jak to jest w projekcie inflacji, co zobaczą Państwo w poniedziałek o godzinie 12.
+[SPEAKER_05] Bardzo proszę.
+[SPEAKER_04] Nie są to jakieś radykalne zmiany duże.
+[SPEAKER_05] Kolejne pytanie, bardzo proszę.
+[SPEAKER_05] Pani redaktor Bartyzel.
+[SPEAKER_07] Okej, to tak.
+[SPEAKER_07] Dzień dobry.
+[SPEAKER_04] To ja bym się chciała… Przez cały przewidywany okres projekcji utrzymujemy się w celu inflacyjnym.
+[SPEAKER_07] Chciałabym zapytać o reakcję na te projekcje, zwłaszcza po tym, co stało się ze wzrostem cen konsumpcyjnych od początku tego roku.
+[SPEAKER_07] A co się stało?
+[SPEAKER_07] Dynamika wzrostu cen konsumpcyjnych w Polsce była najwyższa w Unii Europejskiej.
+[SPEAKER_07] W żadnym innym kraju ceny nie rosły tak szybko, jak w Polsce.
+[SPEAKER_04] Tak nie można powiedzieć.
+[SPEAKER_07] Można tak powiedzieć, panie prezesie, dlatego że oczywiście inflacja nie jest najwyższa w Polsce, to jest jasne, ale ja nie mówię o poziomie inflacji, ja mówię o tempie wzrostu.
+[SPEAKER_04] Poszczególnych jakichś produktach.
+[SPEAKER_07] Ja mówię o całym tempie wzrostu.
+[SPEAKER_07] Zachęcam wszystkich, żeby zajrzeli do Bloomberga.
+[SPEAKER_07] Mamy bardzo piękny czat zrobiony, który doskonale tę dynamikę właśnie odwzorowuje.
+[SPEAKER_04] W Polsce co najszybciej wzrosło?
+[SPEAKER_04] Co pani mówi, że najszybciej w Polsce wzrosło?
+[SPEAKER_07] Ceny konsumpcyjne.
+[SPEAKER_07] Najszybciej w Polsce wzrosły ceny żywności.
+[SPEAKER_04] Mówimy w ogóle o cenach konsumpcyjnych.
+[SPEAKER_07] Chciałabym zapytać w takim razie, nie wchodząc już w szczegóły, czy państwo nie byli zaskoczeni, że projekcja nie pokazuje wyższej inflacji?
+[SPEAKER_07] Dlatego, że z modeli, które myślę, że są w sumie podobne, stosują ekonomiści, wynika, że przewidują inflację jednak na wyższym poziomie.
+[SPEAKER_07] zarówno w tym roku, jak i w przyszłym roku.
+[SPEAKER_04] O jakich modelach pani redaktor mówi?
+[SPEAKER_04] Mamy wszystkie modele, które w bankach centralnych są używane i analizowane.
+[SPEAKER_04] Nic nadzwyczajnego nikt inny nie może mieć.
+[SPEAKER_07] Moje pytanie jest takie, czy Państwo nie byli przyjemnie zaskoczeni tym, że inflacja pokazana w projekcji nie jest wyższa?
+[SPEAKER_07] To jest jedno.
+[SPEAKER_07] A drugie, co się stało z cenami energii?
+[SPEAKER_07] Jaki poziom cen energii został uwzględniony w tej projekcji na przyszły rok?
+[SPEAKER_07] To tak na początek.
+[SPEAKER_04] Zaczynając od końca Pani pytania, uwzględniamy oczywiście wzrost cen energii w przyszłym roku.
+[SPEAKER_04] Zgodnie z tym, jak rząd zamierza te regulacje modyfikować.
+[SPEAKER_04] To jest przewidziane.
+[SPEAKER_04] Natomiast nie znam żadnych modeli, które by wykazywały bardziej znaczący wzrost inflacji, których my nie bierzemy pod uwagę.
+[SPEAKER_04] Mamy dwa podstawowe modele.
+[SPEAKER_04] Jeden podstawowy, jeden, który też w innych bankach jest stosowany.
+[SPEAKER_04] Nic innego nie wymyślono lepszego do przewidywania cen.
+[SPEAKER_04] Nasze projekcje zawsze były trafione.
+[SPEAKER_04] na poziomie średnio wyższym niż w innych bankach centralnych w Europie.
+[SPEAKER_04] Niczego się tutaj nie możemy wstydzić.
+[SPEAKER_04] Mamy wszystkie najnowsze narzędzia z zakresu modelowania ekonometrycznego i każdego innego.
+[SPEAKER_04] Tak że tutaj się z panią nie zgadzam.
+[SPEAKER_04] Ceny u nas nie rosną wynajmniej najszybciej.
+[SPEAKER_04] W ogóle rosną w umiarkowany bardzo sposób.
+[SPEAKER_04] Inflacja się cały czas znajduje w celu inflacyjnym.
+[SPEAKER_04] czyli właściwie znikła inflacja.
+[SPEAKER_04] Odchyla się czasami w górę, czasami w dół.
+[SPEAKER_04] Rzeczywiście było tak, że przez ostatnie wiele lat ta inflacja się odchylała w dół od środka centrum oscylacji dopuszczanych w celu naszym inflacyjnym, czyli od 2,5 w dół była odchylona.
+[SPEAKER_04] Ale nie robiliśmy z tego powodu żadnych
+[SPEAKER_04] nerwowych ruchów, przecież też moglibyśmy reagować, tak jak teraz, z powodu tego, że się odchyliło 0,2% w górę.
+[SPEAKER_04] To naprawdę prawie, że w granicach błędu statystycznego jest.
+[SPEAKER_04] Nas interesują dłuższe tendencje, dłuższe okresy analizy.
+[SPEAKER_04] A tu wszystko wskazuje na to, że inflacja bardzo lekko wzrośnie w przyszłym roku i opadnie w następnym roku.
+[SPEAKER_04] Czyli w całym horyzoncie znajdujemy się cały czas dokładnie prawie w celu inflacyjnym.
+[SPEAKER_07] To ewentualnie bym tylko dopytała może Panią Profesor i Pana Profesora tutaj, czy Państwa postrzeganie właśnie wzrostu cen jest podobne i skąd w takim razie, no bo rozumiem, że na poprzedniej Radzie dyskutowali Państwo troszeczkę więcej na temat
+[SPEAKER_07] pewnej takiej rozbieżności, która jest między indeksem CPI, a tym, jak część Polaków postrzega wzrost cen.
+[SPEAKER_04] Pani redaktor naprosiłbym, żeby na tej sali, gdzie są sami specjaliści, bo wy też, żebyśmy nie mówili o odczuciach części Polaków.
+[SPEAKER_07] Inflacja to jest statystyczne zjawisko.
+[SPEAKER_04] Przy każdym wzroście cen dowolnego produktu część
+[SPEAKER_04] konsumentów dotyka ta podwyżka, a części nie dotyka.
+[SPEAKER_04] Część konsumentów ma mały budżet i inne produkty są dla nich ważne, część jest w innej grupie i inne produkty.
+[SPEAKER_04] Zawsze jest tak.
+[SPEAKER_04] Tu się nic nie zmienia.
+[SPEAKER_04] Rzeczywiście niektóre produkty żywnościowe, ich ceny wzrosły bardziej niż ta dynamika w poprzednim okresie, ale z kolei inne produkty żywnościowe nie zdrożały.
+[SPEAKER_04] Na przykład mięso wieprzowe zdrożało,
+[SPEAKER_04] Także to jest odczuwalne dla gospodyń domowych, a wołowe nie.
+[SPEAKER_04] Jajka poprzednio budziły niepokój także państwa, że tak zdrożały.
+[SPEAKER_04] Jajka już staniały w międzyczasie.
+[SPEAKER_04] Masło staniało.
+[SPEAKER_04] Pietruszka bardzo teraz zdrożała, a inne warzywa i owoce potaniały, ale ogólnie warzywa wdrożały ze względów klimatycznych, na które Rada Polityki Pieniężnej i nikt ze śmiertelników nie ma wpływu.
+[SPEAKER_04] Są przejściowe.
+[SPEAKER_07] Niezależnie od takiego rozbioru na składniki, ceny żywności wzrosły o 5,7%, przynajmniej według tego wstępnego szacunku.
+[SPEAKER_07] Generalnie chciałabym wrócić do swojego pytania.
+[SPEAKER_02] To może ja tutaj postaram się odpowiedzieć.
+[SPEAKER_02] Po pierwsze mieliśmy już do czynienia z taką sytuacją, nawet identyczną w 2017 roku.
+[SPEAKER_02] Dlatego, że od stycznia zaczęła nam przyspieszać nieco inflacja, czyli wskaźnik CPI mierzony przez GUS i według tej metodologii krajowej.
+[SPEAKER_02] No i pojawiły się bardzo alarmujące opinie różnych środowisk akademickich i nie tylko, żeby po prostu już do końca roku to będziemy mieli niemal galopującą inflację.
+[SPEAKER_02] Jak się okazało, to jednak nasze prognozy, czyli Narodowego Banku Polskiego były trafne, bo rzeczywiście po tym przejściowym wzroście cen okazało się, że potem inflacja wrzuciła na swoją ścieżkę i nie było żadnego zagrożenia, żeby ten cel był przebity i to tak w sposób trwały.
+[SPEAKER_02] No bo tam w jakimś miesiącu może się zdarzyć, że ten wskaźnik przekroczy nawet te nasze 3,5%, ale to nie jest jeszcze powód do tego, żeby zmieniać założenia polityki pieniężnej
+[SPEAKER_02] narażać się na to, że będziemy jakieś tutaj niespodzianki sprawiali inwestorom i rynkowi.
+[SPEAKER_02] Jeżeli natomiast chodzi o odczucia, to rzeczywiście to jest chyba trochę taka sytuacja, bo ja nie lekceważyłabym jednak odczuć, dlatego że mamy dosyć spolaryzowane majątkowo nasze społeczeństwo.
+[SPEAKER_02] Są ludzie dosyć zamożni i są ludzie mniej zamożni.
+[SPEAKER_04] A większość jest nadal niezamożna.
+[SPEAKER_02] Ale też jest bardzo ważne, gdzie się mieszka, bo ten sam wzrost cen w małej miejscowości będzie inaczej odczuwany niż w dużej gier, gdzie są przyzwyczajeni w ogóle do wyższego poziomu cen.
+[SPEAKER_02] Czyli mamy tutaj do czynienia, jeżeli chodzi o tzw. odczucia z sytuacją, która nie tylko wypływa z tego, jaki mamy model konsumpcji w danym gospodarstwie domowym czy danego typu,
+[SPEAKER_02] Podobnie jak mamy ten dochód rozporządzalny czy subiektywne odczucie ubóstwa.
+[SPEAKER_02] Mamy ustawową granicę ubóstwa i mamy subiektywną granicę ubóstwa i one się jak wiadomo znacznie różnią.
+[SPEAKER_02] Ale tu właśnie będą się nakładały różne takie, powiedziałabym nawet indywidualne cechy tych gospodarstw domowych, a poza tym ja jeszcze nigdy nie słyszałam, jeżeli mam być do końca szczera, nawet w okresie deflacji.
+[SPEAKER_02] żeby była opinia powszechna o tym, że nie ma drożyzny.
+[SPEAKER_02] Żeby nie wiem, jak by się kształtowały te ceny i wskaźniki, które są liczone prawidłowo, to trzeba wyraźnie powiedzieć, bo one są przecież ciągle rewidowane przez...
+[SPEAKER_02] Mówią w Urząd Statystyczny to Pana.
+[SPEAKER_02] Tak, ale one są bez przerwy rewidowane przez Eurostat i ja nie sądzę, żeby tam jakiekolwiek istotne błędy mogły być, jeżeli chodzi o sam pomiar wskaźnika cen, jak również w wskaźnikach kosztów utrzymania poszczególnych typów gospodarstw domowych, bo to jest, na to tak trzeba patrzeć.
+[SPEAKER_02] to ja sobie nie przypominam takiej sytuacji nawet w okresie, kiedy mieliśmy do czynienia z można powiedzieć uporczywą deflacją, żeby w odczuciu takim potocznym społecznym, czy nawet powiedziałabym mediów, bo tam są różne opinie wygłaszane przez polityków
+[SPEAKER_02] przez dziennikarzy i przez znawców tematu, żeby ktoś powiedział kiedyś wprost, że jednak ceny nie rosną.
+[SPEAKER_02] Ja bym w tej chwili spokojnie czekała na rozwój wydarzeń, bo jeżeli byśmy przyjęli, że prognozy do tej pory Narodowego Banku Polskiego były bardzo wiarygodne,
+[SPEAKER_02] i one się sprawdzały i były na pewno bardziej trafne niż jakiekolwiek inne prognozy, które też się pojawiają.
+[SPEAKER_02] No to nie widzę powodu, żeby podważać akurat tę projekcję, która na pewno Państwu będzie przekazana ze szczegółami i wtedy przekonacie się, że być może i tym razem, a właściwie nawet ze stuprocentowym prawdopodobieństwem mogę powiedzieć, że okaże się, że jednak Narodowy Bank Polski ma rację.
+[SPEAKER_02] Poza tym chciałam jeszcze na jedną rzecz zwrócić uwagę.
+[SPEAKER_02] My mamy rzeczywiście w tej chwili poważne wyzwanie wyborcze.
+[SPEAKER_02] Może się wiele po wyborach zmienić.
+[SPEAKER_02] Miejmy nadzieję, że nie do końca, ale nastawienie czy pewne konsekwencje określonych decyzji, takich czy innych, mogą też się przełożyć na sytuację ekonomiczną i na dynamikę cen.
+[SPEAKER_02] ale będziemy mieli projekcję listopadową, która już te decyzje, bo tam będą różne zapowiedzi, prawda, że to zmienimy, tam damy, tu odbierzemy, na pewno będzie w programach poszczególnych partii taki punkt, który będzie dotyczył właśnie również kwestii gospodarki rynku i to będzie mogło wpływać później na, powiedzmy sobie, nasze projekcje.
+[SPEAKER_02] I na pewno w listopadzie, gdyby rzeczywiście okazało się, co wydaje mi się prawie nieprawdopodobne, no ale jednak,
+[SPEAKER_02] Gdyby się okazało, że jednak te nasze prognozy wymagają korekty, to bez wątpienia takie korekty będą wprowadzone.
+[SPEAKER_02] Ale jak mówię, prawdopodobieństwo, że trzeba będzie w jakiś istotny sposób zmieniać te wskaźniki, które w tej chwili są państwu tu udostępnione na razie w takim ogólnym planie, ale potem szczegółowo, to wydaje mi się, że naprawdę jest bardzo małe.
+[SPEAKER_04] Proszę pamiętać, my bazujemy na bazach GUS-u.
+[SPEAKER_04] Nie ma jak na razie jakichś kwestionowania danych GUS-u.
+[SPEAKER_04] tego, co dotyczy badania koszyka konsumenckiego.
+[SPEAKER_04] My to przyjmujemy i badamy.
+[SPEAKER_04] My operujemy oczywiście na wielkościach średnich.
+[SPEAKER_04] Dostrzegalny jest wyraźnie dla każdego, kto chodzi do sklepu i na bazar wzrost cen warzyw.
+[SPEAKER_04] Ale warzywa, proszę pamiętać, to jest jedynie 2,6% przeciętnych wydatków gospodarstw domowych w Polsce.
+[SPEAKER_04] 2,6%.
+[SPEAKER_04] A mięso wieprzowe, które także znacząco zdrożało, to jest tylko 1,3% wydatków.
+[SPEAKER_04] My analizujemy wielkości średnie oczywiście.
+[SPEAKER_04] Natomiast poszczególne produkty mogły oczywiście zdrożeć, inne mogły potanieć.
+[SPEAKER_04] To różnie to bywa.
+[SPEAKER_04] My odnotujemy średnie ceny.
+[SPEAKER_04] My dane co do cen przyjmujemy z Głównego Urzędu Statystycznego i nie słyszeliśmy, żeby ktoś kwestionował
+[SPEAKER_04] te metody badań i ich wiarygodność w poprzednich latach, tak i teraz.
+[SPEAKER_04] Nic się chyba tutaj nie zmieniło.
+[SPEAKER_04] GUS jest pod ścisłym nadzorem z kolei Eurostatu, Europejskiej Instytucji Statystycznej.
+[SPEAKER_04] Metody są te same we wszystkich krajach europejskich, są przyjęte te same metody badań budżetów i koszyków konsumpcyjnych.
+[SPEAKER_04] Tak że tu nic raczej uwagi nie mogło umknąć.
+[SPEAKER_04] Czasami się pojawiają jakieś nowe tendencje, które po latach muszą być uwzględnione w koszyku.
+[SPEAKER_04] My Państwu mówiliśmy o takiej wątpliwości do niektórych asortymentów, że one już nie powinny być w ogóle w koszyku, bo nie są tak reprezentatywne ze względu na globalizację i zakupy internetowe.
+[SPEAKER_04] Ale podstawowe składniki tego koszyka się zmieniają wolno.
+[SPEAKER_04] Profesor Hart.
+[SPEAKER_01] Dziękuję za to pytanie.
+[SPEAKER_01] To, że inflacja przyspieszyła nieznacznie, absolutnie nie oznacza, że w Polsce mamy drożyznę.
+[SPEAKER_01] A propos tego, o czym powiedziała pani redaktor Bartyzel, Polska nie jest w tym momencie krajem, w którym dynamika inflacji jest najwyższa w Europie.
+[SPEAKER_01] Proszę zobaczyć, jaka jest dynamika inflacji na przykład na Węgrzech.
+[SPEAKER_01] Nie jesteśmy krajem, gdzie dynamika inflacji jest najwyższa w Europie.
+[SPEAKER_06] W Rumunii.
+[SPEAKER_01] Nie mówiąc już o Rumunii.
+[SPEAKER_07] Przepraszam bardzo, muszę się wtrącić, bo mówicie panowie o poziomie inflacji, a ja mówię o przyspieszeniu inflacji.
+[SPEAKER_07] To ja wyjaśnię.
+[SPEAKER_01] W strategii bezpośredniego celu inflacyjnego, którą my realizujemy zgodnie z założeniami polityki pieniężnej, wpływamy na dynamikę cen.
+[SPEAKER_01] Nie realizujemy strategii oddziałującej na poziom cen.
+[SPEAKER_01] To są dwie zupełnie różne strategie.
+[SPEAKER_01] Dynamikę cen rozumiemy jako roczną dynamikę cen, zgodnie z założeniami polityki pieniężnej.
+[SPEAKER_01] Gdybyśmy stosowali strategię...
+[SPEAKER_01] oddziaływanie na poziom cen, to powinniśmy w naszej funkcji reakcji pamiętać deflację sprzed kilku lat i na przykład być w stanie tolerować przejściowo bardzo, bardzo wysoką inflację.
+[SPEAKER_01] Nie będziemy tego robili, ponieważ stosujemy strategię bezpośredniego celu inflacyjnego.
+[SPEAKER_01] Wracając do poziomu inflacji, no po raz pierwszy rzeczywiście od dłuższego czasu
+[SPEAKER_01] Przekroczyliśmy ten cel na poziomie 2,5, ale cały czas jesteśmy w paśmie odchyleń od celu.
+[SPEAKER_01] Jesteśmy w paśmie odchyleń od 2,5.
+[SPEAKER_01] Jeśli chodzi o moją opinię, wydaje mi się, że ta inflacja rzeczywiście będzie przyspieszała w najbliższym czasie.
+[SPEAKER_01] Tak jak powiedział Pan Prezes, Pan Przewodniczący, pewnie osiągnie szczyt gdzieś na początku roku 2020.
+[SPEAKER_01] Jeśli miałaby ta tendencja wzrostowa tak być kontynuowana, czyli miałaby nie wygasnąć po tym szczycie, który osiągnie na początku roku 2020, to byłaby nowa sytuacja.
+[SPEAKER_01] Ja na pewno wtedy byłbym bardziej skłonny do zmiany swojego nastawienia w polityce pieniężnej, ale my tego w tym momencie nie wiemy.
+[SPEAKER_01] Dużo więcej będziemy wiedzieli w listopadzie, przy projekcji listopadowej, czy mamy do czynienia z permanentnym procesem wzrostu cen, czy ten proces się
+[SPEAKER_01] czy ten proces się zatrzyma.
+[SPEAKER_01] Tego w tym momencie nie wiemy, tak więc nie jest to w tym momencie moim zdaniem na zmianę poziomu stóp procentowych, ale zobaczymy.
+[SPEAKER_01] Nie mam tak mocnego przekonania jak pan prezes, że do końca 2021 poziom stóp się nie zmieni, ale to też nie jest wykluczony scenariusz.
+[SPEAKER_01] Zobaczymy, co będzie się działo z poziomem inflacji.
+[SPEAKER_01] Tak jak mówiłem kilkukrotnie, ja w tej swojej funkcji reakcji jestem pewnie dużo bardziej adaptacyjny niż kiedyś, znaczy przewidywanie przyszłości.
+[SPEAKER_01] zawsze jest bardzo trudna.
+[SPEAKER_01] Co też pokazuje, to Państwo mówili o retoryce innych banków centralnych.
+[SPEAKER_01] Przewidywali jeszcze nie tak dawno, że będą politykę pieniężną zaostrzali.
+[SPEAKER_01] Proszę zobaczyć, jakiej wolty dokonali w ciągu zaledwie kilku miesięcy.
+[SPEAKER_01] Wydaje się, że ta nasza adaptacyjna strategia w tym kontekście jest strategią jednak bezpieczniejszą.
+[SPEAKER_04] Do innych krajów mamy ten luksus, że mamy przestrzeń i dla polityki pieniężnej, i dla polityki fiskalnej, bo mamy cały czas dodatnie stopy procentowe, podczas gdy w krajach Unii Europejskiej i na zachodzie Europy te stopy są zbliżone do zera i mamy bardzo dobrą sytuację fiskalną, budżetową, gdzie też możliwość manewru jest.
+[SPEAKER_04] W gruncie rzeczy te wypłaty
+[SPEAKER_04] różnego rodzaju 500+, itd., one znakomicie przyczyniły się do utrzymania dobrej koniunktury.
+[SPEAKER_05] Pan redaktor Augustyniak, bardzo proszę.
+[SPEAKER_06] Dzień dobry.
+[SPEAKER_06] Ja w zasadzie miałem jedno pytanie, ale po wypowiedzi pani profesor Ancytorewicz mam jeszcze drugie pytanie, bo pani profesor odnosząc się do przyszłej projekcji listopadowej powiedziała coś takiego, że mamy po drodze jeszcze wybory, w których wiele się może zmienić i użyła pani profesor sformułowania, że miejmy nadzieję, że nie do końca.
+[SPEAKER_06] Czy nie boi się pani profesor, że to zostanie opacznie zrozumiane?
+[SPEAKER_02] Ja nie wiem, czy będę opatrznie zrozumiała, bo ja nie mam wpływu na to, jak ktoś interpretuje to, co powiedziałam.
+[SPEAKER_02] Ja powiedziałam, że są wybory i będą różne deklaracje związane z programem wyborczym.
+[SPEAKER_02] W zależności od tego, jak się ukształtuje sytuacja po wyborach, no bo możemy tutaj prognozować, kto ma większe szanse według sondaży, ale nikt nie może
+[SPEAKER_02] stwierdzić, że będzie taki czy inny rząd.
+[SPEAKER_02] No wiem, staram się nie wchodzić, tylko chciałam powiedzieć, że na przykład mamy w projekcji naszej... Chodzi o politykę fiskalną, że ona jest niepewna po prostu.
+[SPEAKER_02] No jest niepewna, bo przecież są zapowiedzi, że na przykład 500 plus będzie zredukowane, czy też poważnie ograniczone, że nie będzie żadnych wypłat dla emerytów i tak dalej.
+[SPEAKER_02] To zupełnie zmienia całą optykę, bo możemy nagle z inflacji przejść do deflacji.
+[SPEAKER_02] Może być różnie.
+[SPEAKER_02] Natomiast ja również mówiąc o tym, miałam na myśli to, co dotyczy zamrożenia cen energii dla gospodarstw domowych i tych misiów.
+[SPEAKER_02] Myśmy przyjęli w naszych założeniach, że to będzie jeszcze jakiś czas, przynajmniej do końca tego roku utrzymywane, ale też przecież nikt nie powie w tej chwili dokładnie, że jeśli nawet będzie decyzja o tym, że
+[SPEAKER_02] te ceny będą w przyszłości korygowane, to nie wiemy ani w jakim tempie, ani kiedy, ani jak to nastąpi.
+[SPEAKER_02] Także nie mówiąc już o zewnętrznych obszarach niepewności.
+[SPEAKER_02] Także z tego punktu widzenia ja po prostu uważam, że pewne sprawy wyjaśnią się nam do końca, powiedzmy października, czy nawet trochę wcześniej i będziemy mieli więcej również danych tych twardych, rzeczywistych, dotyczących faktycznego poziomu inflacji.
+[SPEAKER_02] W mojej ocenie raczej ta projekcja, którą mamy jest na pewno poprawna według tej wiedzy, jaką dzisiaj mamy.
+[SPEAKER_02] I nie ma podstaw, żeby ją podważać, ani tym bardziej oczekiwać, że nastąpi jakieś trwałe przebicie górnej granicy celu inflacyjnego, bo jak mówię, to takie sytuacje, że nam w pewnym momencie te ceny zaczynają przyspieszać.
+[SPEAKER_02] a potem następowało spowolnienie, było zwykle pod wpływem jakiegoś jednorazowego impulsu.
+[SPEAKER_02] I tutaj też takie sytuacje można wziąć pod uwagę.
+[SPEAKER_02] Nie chciałabym właśnie tutaj wyręczać kolegów, którzy będą dokładnie referowali, jakie przyjęli założenia, jak wyglądał ten raport o inflacji, ale z naszego punktu widzenia, czyli z punktu widzenia polityki pieniężnej, nie ma zagrożenia dla realizacji celu inflacyjnego, tak jakbyśmy to zdefiniowali w założeniach polityki pieniężnej.
+[SPEAKER_02] Tego celu nie ma.
+[SPEAKER_04] W przyszłym roku wzrost do 2,9, a w następnym obniżenie się do 2,5.
+[SPEAKER_04] Dokładnie w celu.
+[SPEAKER_04] Proszę pamiętać, że mamy cel 2,5 plus minus 1.
+[SPEAKER_04] Także tutaj absolutnie wszystko jest tak, jakbyśmy sobie tego mogli życzyć.
+[SPEAKER_04] Natomiast od dłuższego czasu po raz pierwszy jesteśmy w górę od środka przedziału.
+[SPEAKER_04] celu i to wzbudza pewne takie zainteresowanie.
+[SPEAKER_04] Gdyby ta wahania stale powyżej i poniżej tego, to pewnie by tak uwagi nie zwracało.
+[SPEAKER_04] Przyzwyczaili się Państwo do tego, że inflacja jest poniżej środka tego przedziału i to już nie wzbudzało Państwa zdziwienia.
+[SPEAKER_04] Natomiast teraz jesteśmy lekko powyżej.
+[SPEAKER_06] Dziękuję.
+[SPEAKER_06] Jeszcze chciałem zapytać o nową spodziewaną szefową Europejskiego Banku Centralnego, pana profesora Glopińskiego, też państwa oceny, spodziewania, oczekiwania też w kontekście może potencjalnych nacisków.
+[SPEAKER_06] Czy nie obawiają się państwo, że Christine Lagarde na przykład będzie naciskała na Polskę, jeśli chodzi o wstąpienie do strefy euro?
+[SPEAKER_04] To znaczy tak, Narodowy Bank Polski nie podlega, nie podlegał i nie może podlegać żadnym naciskom.
+[SPEAKER_04] pani prezes Lagarde nie będzie miała żadnego tytułu, żeby na Polskę czy na jakiś inny kraj poza strefą euro naciskać.
+[SPEAKER_04] Równie dobrze mogę pan spytać, czy ja będę naciskał panią prezes Lagarde.
+[SPEAKER_04] To ja też mogę ją werbalnie naciskać.
+[SPEAKER_04] Na pewno tego nie zrobi, bo wie, że też bym odpowiedział w ten sposób.
+[SPEAKER_04] Znam ją od dawna, od wielu, wielu lat, na wszystkich konferencjach, seminariach i tak dalej.
+[SPEAKER_04] Bardzo dobrze znam jej poglądy, jej podejście do wielu spraw, szczególne uczulenie na parytet kobiet w zarządach np. banków i wśród dyrektorów.
+[SPEAKER_04] Z satysfakcją jej przesłałem dokładne wyliczenie, z którego wynika, że w Polsce dokładnie spełniamy, jeśli chodzi o dyrektorów, parytet 50-procentowy, jeśli chodzi o dyrektorów w banku centralnym.
+[SPEAKER_04] nie należy ona do ekonomistów i polityków finansowych, którzy by uchodzili za szczególnie twardych.
+[SPEAKER_04] Także jeśli ktoś się spodziewa, że będzie tu nacisk na stopy, na politykę stóp procentowych i to w kierunku ich podwyższania, no to wprost przeciwnie powiedziałbym.
+[SPEAKER_04] Można się spodziewać czegoś zupełnie przeciwnego.
+[SPEAKER_04] Ale proszę zwrócić uwagę, że w ostatnich wystąpieniach Mario Dragiego
+[SPEAKER_04] To już było wprost powiedziane.
+[SPEAKER_04] Niektórzy mówią, a on już ustępował, to mógł sobie pozwolić na pewną dezynwolturę, ale jest zupełnie odwrotnie.
+[SPEAKER_04] Ustępujący prezesi jak gdyby nabierają na szczerości wypowiedzi i klarowności wypowiedzi, bo pozostawiają jakby to wszystko komuś innemu do pokierowania.
+[SPEAKER_04] Mario Draghi powiedział wyraźnie, jeśli chodzi o luzowanie ilościowe
+[SPEAKER_04] to będzie Europejski Bank Centralny będzie jeszcze mocniej luzował niż w poprzednim cyklu.
+[SPEAKER_04] Przekroczymy te limity, które sobie nałożyliśmy, jeśli chodzi o luzowanie polityki pieniężnej.
+[SPEAKER_04] A jeśli chodzi o stopy procentowe, to mimo tego, że są minusowe, wiele z tych stop jest na minusie, to nie będziemy się wahali przed pogłębieniem tej minusowości.
+[SPEAKER_04] Czyli przestawienie jest w ogóle
+[SPEAKER_04] steru, że tak powiem, na politykę wspierania koniunktury.
+[SPEAKER_04] Nie na obawę przed inflacją i usztywnianie polityki, tylko wprost przeciwnie, na podtrzymywanie koniunktury, bo nie ma obawy przed inflacją.
+[SPEAKER_04] Nie ma obawy przed inflacją, tylko jest obawa przed dekoniunkturą, wzrostem z bezrobocia, a ewentualnie deflacją.
+[SPEAKER_04] To, z czym się
+[SPEAKER_04] Europa kilka dobrych lat tak zmagała i z czym sobie nie mogła dać rady.
+[SPEAKER_04] Dla nas te wnioski są w pewnej mierze tylko istotne, bo my sobie radzimy lepiej niż oni.
+[SPEAKER_04] Polacy niechętnie przyjmują tego rodzaju uwagi, że my się uważamy za lepszych.
+[SPEAKER_04] Nie o to chodzi.
+[SPEAKER_04] Mamy inną sytuację.
+[SPEAKER_04] My nie mieliśmy tych wahań jak oni, nie mieliśmy deflacji, nie mieliśmy dekoniunktury, nie mieliśmy ujemnego wzrostu, czyli spadku PKB.
+[SPEAKER_04] Cały czas się utrzymujemy w dobrym tempie wzrostu gospodarczego i z umiarkowaną bardzo inflacją.
+[SPEAKER_04] Taką, którą we współczesnym świecie uważa się tak naprawdę za brak inflacji, bo 2% inflacja.
+[SPEAKER_04] Oczywiście dla różnych grup społecznych każdy produkt ma inne znaczenie.
+[SPEAKER_04] Dla mnie książki mają duże znaczenie, ceny dla innych mogą w ogóle nie mieć znaczenia.
+[SPEAKER_04] bo nie kupują książek.
+[SPEAKER_04] Dla kogoś Włoszczyzna robi codziennie zupę jarzynową, ktoś nie je jarzyn na przykład i nie odczuwa tego.
+[SPEAKER_04] Generalnie rzeczywiście produkty żywnościowe, które wspomniałem, a w szczególności jarzyny i mięso wieprzowe znacząco zdrożały.
+[SPEAKER_04] Ale zwracam uwagę, że tak samo bulwersujący był wzrost cen jaj, które teraz znacząco potaniały o ponad 7%.
+[SPEAKER_04] Staniało masło, które też bulwersowało opinię publiczną jakiś czas temu.
+[SPEAKER_04] Cały szereg produktów, które tu możemy mieć, owoce bardzo potaniały, w tym jabłka o kilkadziesiąt procent.
+[SPEAKER_04] Mleko staniało, ogórki o kilkanaście procent.
+[SPEAKER_04] Ja nie jestem gospodynią domową, zdarza mi się robić zakupy, ale oczywiście to przede wszystkim moja żona.
+[SPEAKER_04] Niektóre zdrożały, niektóre potaniały.
+[SPEAKER_04] Dla niektórych grup społecznych rzeczywiście może to być znaczące i może przenosić się takie wyobrażenie, że to wszystko drożeje.
+[SPEAKER_04] Tak nie jest.
+[SPEAKER_04] My operujemy wielkościami średnimi, bo my jesteśmy bankiem centralnym, nas interesują zjawiska w skali makro.
+[SPEAKER_04] Jesteśmy odpowiedzialni za politykę socjalną na przykład, za jakieś analizowanie sytuacji poszczególnych grup społecznych.
+[SPEAKER_04] My badamy sytuację z punktu widzenia makro, kierując się takimi podstawowymi wskaźnikami, jak inflacja, tempo wzrostu, tempo wzrostu zatrudnienia i tak dalej.
+[SPEAKER_04] Szanowni Państwo, bardzo proszę.
+[SPEAKER_01] Trudno mi oceniać nominację nowego prezes Europejskiego Banku Centralnego.
+[SPEAKER_01] Znamy poglądy pani Lagarde, nie są to na pewno bardzo jastrzębie poglądy i w tym sensie pewnie prawdopodobieństwo bardziej luźnej polityki Europejskiego Banku Centralnego w tym momencie jest większe.
+[SPEAKER_01] Natomiast niezręcznie jest mi czy nam komentować te szczegóły.
+[SPEAKER_01] Czyli już nie daj Boże mówić, jaka według nas byłaby optymalna polityka Europejskiego Banku Centralnego.
+[SPEAKER_01] To nie jest nasze zadanie.
+[SPEAKER_04] Chociaż były takie spekulacje, że w zależności od tego, czy Weidemann będzie twardsza, a pani Lagarde bardziej miękka.
+[SPEAKER_04] Ale to są spekulacje.
+[SPEAKER_04] Proszę Państwa, decyzje są podejmowane zawsze zbiorowo, kolektywnie.
+[SPEAKER_04] Ja też się wypowiadam w imieniu banku i to tak czasami wygląda, że ja coś samodzielnie decyduję.
+[SPEAKER_04] Statut banku jest taki, ustawa, która mówi, że to prezes się kontaktuje z otoczeniem, żeby uniknąć jakiejś kakofonii wypowiedzi.
+[SPEAKER_04] Ale decyzje są podejmowane przez dziesięcioosobową radę, realizowane przez zarząd wieloosobowy.
+[SPEAKER_04] To wszystko poprzedzone analizami.
+[SPEAKER_04] jakichś departamentów.
+[SPEAKER_04] Departament z analitykami to jest stół najwybitniejszych ekspertów w Polsce.
+[SPEAKER_04] Jesteśmy wspomagani całym aparatem GUS-u, wszystkich możliwych instytucji.
+[SPEAKER_04] To nie jest tak, że jest tu jakaś dowolność w tym zakresie.
+[SPEAKER_04] Jakieś tam akcenty mogą być różnie rozłożone, czy optymizm lub pesymizm, ale on nie wpływa na bieżące decyzje.
+[SPEAKER_04] W tej chwili jest tak, że najbardziej właściwą polityką jest utrzymywanie stabilnych stóp procentowych, które
+[SPEAKER_04] o dziwo dla całego świata, otrzymujemy już od marca 2015.
+[SPEAKER_04] Ale nie dlatego, że tak sobie to wymyśliliśmy i twardo wbrew okolicznościom tego się trzymamy.
+[SPEAKER_04] Taka jest obiektywna sytuacja.
+[SPEAKER_04] To nie znaczy, że wszyscy członkowie Rady muszą mieć jedno zdanie.
+[SPEAKER_04] Dzisiaj te zdania były, nie zdradzę żadnej tajemnicy, bardzo podzielone.
+[SPEAKER_04] bo po to jest ta Rada właśnie tak jest pomyślana, że są profesorowie z różnych uniwersytetów, z różnych ośrodków, no różni praktycy życia gospodarczego, mają różne poglądy.
+[SPEAKER_04] I te same dane mają na stole przed sobą, czy tam w komputerze, na monitorze, ale jednak wyciągają różne wnioski, różne przewidywania.
+[SPEAKER_04] A od tego są nasi analitycy, Departament Analiz Ekonomicznych, żeby te wszystkie dane do modeli ekonometrycznych, że tak powiem, wsadzić, umieścić i zobaczyć, co z tego wynika.
+[SPEAKER_04] plus korekta jeszcze ekspercka, którą zawsze mamy na to nakładana i tak dalej.
+[SPEAKER_04] Ale ona nie jest, ta projekcja nie jest jakimś takim ewenementem, żeby odbiegała daleko od dosyć powszechnych opinii wyrażanych w Polsce przez makroekonomistów.
+[SPEAKER_04] Szanowni Państwo… No ja nie wiem, nie czytałem tym razem, ilu ekonomistów przewidywało zmianę stop procentowej, pewnie jeden czy nikt nawet.
+[SPEAKER_04] Tak, tak.
+[SPEAKER_04] Tak, więc gdyby się sytuacja zmieniała, to też się zmieni.
+[SPEAKER_04] Obiektywna sytuacja.
+[SPEAKER_04] Ja przewiduję, że do końca kadencji się nie zmienią, ale jeśli by się cokolwiek zmieniło z tych fundamentalnych elementów, o których mówił profesor Hart, to przecież tak samo będę za tym, żeby odpowiednio reagować.
+[SPEAKER_04] W tej Radzie, wydaje mi się, nie ma żadnych dogmatyków, jastrzębi czy gołębi.
+[SPEAKER_04] Niektórzy się wypowiadają bardziej stanowczo i z obawą.
+[SPEAKER_04] o następne kwartały czy lata, a inni bardziej optymistyczni.
+[SPEAKER_04] Ta ścieżka, którą my ostatecznie wyznaczamy, to jest 50-procentowa ścieżka.
+[SPEAKER_04] Znaczy z 50-procentowym prawdopodobieństwem.
+[SPEAKER_04] Po obu stronach jest to prawdopodobieństwo mniejsze, ale jednak duże.
+[SPEAKER_04] z 25% prawdopodobieństwa wydarzenia się.
+[SPEAKER_04] To jest sporo.
+[SPEAKER_04] Nie wiemy, co się będzie działo na Bliskim Wschodzie, czy będzie wojna z Iranem.
+[SPEAKER_04] Wielu okoliczności nie wiemy.
+[SPEAKER_05] Dużo rzeczy się może stać.
+[SPEAKER_04] Ropa naftowa tanieje i powinna tanieć, zdroworozsądkowo myśleć, jak słabnie koniunktura.
+[SPEAKER_04] Ale różnie to bywa.
+[SPEAKER_04] Żywność, kto jest w stanie przewidzieć, jakie będą warunki pogodowe w przyszłym roku.
+[SPEAKER_04] Są tacy, co wierzą w jakieś powszechne ocieplenie i pogarszanie się warunków.
+[SPEAKER_04] Są tacy, którzy takiej możliwości w ogóle nie biorą pod uwagę, ale my się w to nie bawimy.
+[SPEAKER_05] Jeszcze pani profesor Ancy Pawłowicz.
+[SPEAKER_02] Ja chciałam tylko dodać jeszcze, że w ocenie zwłaszcza mniejszych firm, które są w dużej mierze skazane na samofinansowanie, ale też korzystają z kredytu bankowego, to ta nasza polityka jest właśnie bardzo dobra ze względu na to, że jest transparentna i przewidywalna.
+[SPEAKER_02] bo chyba najgorszą rzeczą w biznesie, tak przynajmniej jak ja miałam kontakty ze środowiskami przedsiębiorstw i przedsiębiorców, to jest właśnie niepewność.
+[SPEAKER_02] Niepewność co do tego, jak należałoby w przyszłości obliczać sobie swoje koszty, swoje… Proszę pamiętać, że są też okoliczności… Także z tego punktu widzenia wydaje mi się, że to jest… Są elementy od nas niezależne, które się dokonują.
+[SPEAKER_04] Dokonuje się, jak Państwo widzą,
+[SPEAKER_04] Nie ingerujemy w kurs złotego, ale dokonują się pewne zmiany kursowe, które też wpływają
+[SPEAKER_04] na koniunkturę, na inflację.
+[SPEAKER_04] Dokonuje się aprecjacja złotego z różnych powodów dotyczących dolara itd.
+[SPEAKER_04] i różnego rodzaju napięć międzynarodowych, ale i innych głębszych zdarzeń.
+[SPEAKER_04] Aprecjacja złotego działa tak, jak podwyżka stów inflacyjnie.
+[SPEAKER_04] Ale to nie jest naszym zamiarem i my tylko obserwujemy, notujemy, bierzemy pod uwagę.
+[SPEAKER_05] Szanowni Państwo, bardzo dziękujemy za dzisiejsze spotkanie.
+[SPEAKER_05] Zapraszamy w poniedziałek na projekcję inflacji PKB i zapraszamy na kolejną konferencję po przerwie wakacyjnej we wrześniu.

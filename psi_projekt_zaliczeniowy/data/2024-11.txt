@@ -1,0 +1,693 @@
+[SPEAKER_04] Ocena bieżącej sytuacji ekonomicznej listopad 2024.
+[SPEAKER_04] Plansza początkowa.
+[SPEAKER_04] Na granatowym tle logo Narodowego Banku Polskiego.
+[SPEAKER_04] Poniżej napis Transmisja konferencji rozpocznie się za kilka minut.
+[SPEAKER_04] Wystąpienie prezesa Narodowego Banku Polskiego Adama Glapińskiego.
+[SPEAKER_04] Scena.
+[SPEAKER_04] Na scenie w centralnej jej części personalizowana mównica prezesa Narodowego Banku Polskiego z logo Narodowego Banku Polskiego.
+[SPEAKER_04] Obok mównicy po lewej stronie trzy flagi.
+[SPEAKER_04] Pierwsza i ostatnia to flagi w barwach narodowych.
+[SPEAKER_04] Flaga środkowa granatowa z logo Narodowego Banku Polskiego oraz napisem Dbamy o wartość polskiego pieniądza.
+[SPEAKER_04] Za sceną ekran multimedialny, na którym wyświetlane jest logo Narodowego Banku Polskiego
+[SPEAKER_04] oraz wszystkie szczegółowo omawiane podczas wystąpienia wykresy, slajdy i materiały.
+[SPEAKER_04] Po prezentacji prezesa Adama Glapińskiego odbyła się część pytań od publiczności.
+[SPEAKER_01] Dzień dobry Państwu.
+[SPEAKER_01] Witam na kolejnej konferencji prasowej po posiedzeniu Rady Polityki Pieniężnej w Niezależnym Narodowym Banku Polskim.
+[SPEAKER_01] Jak Państwo wiedzą, wczoraj Rada Polityki Pieniężnej zdecydowała o utrzymaniu stóp procentowych na niezmienionym poziomie.
+[SPEAKER_01] Rynek był na to przygotowany.
+[SPEAKER_01] Właściwie żaden z analityków ani żaden z podmiotów ekonomicznych nie przewidywał innej decyzji.
+[SPEAKER_01] Przedstawię Państwu pokrótce uwarunkowania tej decyzji, które brało pod uwagę Rada Polityki Pieniężnej.
+[SPEAKER_01] Przede wszystkim oczywiście dynamika cen.
+[SPEAKER_01] Przypomnę, że w pierwszej połowie roku inflacja była zgodna z celem NBP, dokładnie.
+[SPEAKER_01] W tym drugim kwartale to było 2,5%.
+[SPEAKER_01] Dokładnie tak, jak to mamy zapisane w założeniach polityki pieniężnej.
+[SPEAKER_01] Bardzo się z tego byliśmy usatysfakcjonowani.
+[SPEAKER_01] Niestety od lipca inflacja wzrosła i w październiku według wstępnych danych GUS wyniosła już 5%.
+[SPEAKER_01] Obecny wzrost inflacji nie jest dla nas niespodzianką, bo wynika przede wszystkim z silnego wzrostu cen energii.
+[SPEAKER_01] Było jasne, że jeśli dojdzie do podwyżek cen energii, to inflacja wyraźnie wzrośnie.
+[SPEAKER_01] Ostrzegaliśmy przed tym z dużym wyprzedzeniem.
+[SPEAKER_01] Jednak wzrost cen energii to nie jest jedyny czynnik regulacyjny, który podwyższa inflację.
+[SPEAKER_01] Według pełnych danych za wrzesień, bo za październik jeszcze nie mamy danych, w kierunku wyższej dynamiki cen oddziałuje również wzrost cen towarów objętych akcyzą.
+[SPEAKER_01] To jest dynamika roczna wyrobów tytoniowych, na które akcyza wzrosła w bieżącym roku.
+[SPEAKER_01] To jest 9,5%.
+[SPEAKER_01] Wzrost cen zimnej wody to jest dynamika 12,9% rok do roku.
+[SPEAKER_01] I usług kanalizacyjnych to jest dynamika wzrostu cen 12,2% rok do roku.
+[SPEAKER_01] To na tym wykresie Państwo za mną widzą.
+[SPEAKER_01] Wkład wszystkich tych elementów regulowanych i administrowanych
+[SPEAKER_01] a więc takich, które można nazwać nierynkowe, takich, co do których decyzję ponosi administracja, czy to rządowa, czy samorządowa, jest wyjątkowo duży i on wynosi nawet we wrześniu 2,3 punktu procentowego.
+[SPEAKER_01] Czyli 2,3 punktu procentowego wynika ze wzrostu cen administrowanych i regulowanych.
+[SPEAKER_01] Gdyby nie było wzrostu cen regulowanych i administrowanych, inflacja byłaby odpowiednio 2,3 punktu procentowego niższa.
+[SPEAKER_01] Nie zapominajmy też, że w rocznym wskaźniku widzimy też dodatkowy efekt zmian na liście leków refundowanych rok wcześniej.
+[SPEAKER_01] To podwyższyło inflację we wrześniu o 0,2 punktu procentowego.
+[SPEAKER_01] To razem się składa na taki obraz.
+[SPEAKER_01] Dodatkowo roczną dynamikę cen podwyższa wcześniejszy wzrost podatku VAT na żywność.
+[SPEAKER_01] On nastąpił w kwietniu bieżącego roku.
+[SPEAKER_01] I w tym samym kierunku działują niestety relatywnie niskie zbiory niektórych krajowych warzyw i owoców.
+[SPEAKER_01] Co ważne,
+[SPEAKER_01] powyższe źródła podwyższonej inflacji są całkowicie niezależne od polityki pieniężnej, od polityki Narodowego Banku Polskiego, od stóp procentowych i wszystkich innych elementów polityki pieniężnej.
+[SPEAKER_01] To są czynniki zewnętrzne, to są czynniki wynikające z decyzji administracyjnych i regulacyjnych.
+[SPEAKER_01] Jednak również inflacja bazowa, to jest inflacja, która po wyłączeniu cen żywności i energii,
+[SPEAKER_01] Jest podwyższona.
+[SPEAKER_01] Można to częściowo wiązać z utrzymującą się niestety wysoką dynamiką płac.
+[SPEAKER_01] Ona jest niższa, ale nadal dwucyfrowa.
+[SPEAKER_01] W szczególności z silnymi podwyżkami w sferze publicznej, w sektorze publicznym.
+[SPEAKER_01] Szczególnie podwyższona jest dynamika cen usług.
+[SPEAKER_01] Dynamika cen rynkowych jest wyjątkowo niska, jest bardzo niska.
+[SPEAKER_01] Jest to spójne z niską dynamiką sprzedaży detalicznej, o której ostatnio tak dużo mówiono.
+[SPEAKER_01] Podwyższona inflacja bazowa to jest problem nie tylko Polski, ale problem na całym świecie.
+[SPEAKER_01] Dotyczy Stanów Zjednoczonych, Europy Zachodniej, wszystkich krajów naszego regionu, które są jak zawsze najlepszym punktem odniesienia.
+[SPEAKER_01] I podobnie jak u nas jest to związane z szybkim wzrostem cen usług i wynagrodzeń.
+[SPEAKER_01] Wszędzie nastąpiły te same zjawiska i procesy.
+[SPEAKER_01] Przy czym według ostatnich porównywalnych danych, a więc za wrzesień, inflacja bazowa w Polsce jest niższa niż w Czechach, Węgrzech, Słowacji czy Rumunii.
+[SPEAKER_01] Często w mediach jest stawiana teza, najczęściej przez polityków różnego rodzaju,
+[SPEAKER_01] że szczególną cechą inflacji w Polsce jest inflacja bazowa, wysoka, wynikająca z czynników wewnętrznych, nie zewnętrznych.
+[SPEAKER_01] Otóż tak nie jest.
+[SPEAKER_01] To jest całkowicie nieprawdziwe.
+[SPEAKER_01] Mają Państwo tutaj diagram.
+[SPEAKER_01] mają Państwo 3,7 w Polsce i np. 6,4 w Rumunii, 5,6 na Węgrzech, 4,3 na Słowacji i 3,8 w Czechach.
+[SPEAKER_01] W istocie polska inflacja bazowa jest najniższa w regionie.
+[SPEAKER_01] Jednocześnie warto pamiętać cały czas,
+[SPEAKER_01] że to przyspieszenie inflacji, które obserwujemy, o którym się tak dużo mówi, jest nieporównywalnie mniejsze od tego odnotowanego w latach 2022-2023.
+[SPEAKER_01] Skala szoków pandemicznego po pandemii i wojennego, związanego z agresją rosyjską, była dużo większa.
+[SPEAKER_01] Przypomnę, że obniżenie inflacji do celów NBP w pierwszej połowie tego roku
+[SPEAKER_01] w tamtych trudnych bardzo czasach, kiedy nastąpiły zjawiska błyskawicznego podwyższenia inflacji, całkowicie niezależne od naszej polityki pieniężnej, a w ogóle od polityki wewnętrznej polskiej, to przyszło z zewnątrz całkowicie.
+[SPEAKER_01] że to obniżenie inflacji do celu NBP w pierwszej połowie tego naszego bieżącego roku, obecnego, przy niewielkich kosztach dla sfery realnej, było jednym z największych osiągnięć polskiej polityki pieniężnej ostatnich dekad.
+[SPEAKER_01] Często to ostatnio podkreślamy, idąc na przekór kłamliwym różnego rodzaju oskarżeniom.
+[SPEAKER_01] Jednym z największych sukcesów ostatnich dekad jest polityka pieniężna Narodowego Banku Polskiego i Rady Polityki Pieniężnej, będącego organem Narodowego Banku Polskiego.
+[SPEAKER_01] Tak szybko od tej bardzo wysokiej inflacji spowodowanej wojną, podwyżką cen surowców energetycznych wynikających z wojny i postpandemicznym wzrostem inflacji zeszliśmy do celu inflacyjnego do 2,5.
+[SPEAKER_01] Dokonało się to wyjątkowo szybko i sprawnie.
+[SPEAKER_01] Pomimo szybkiej dezinflacji, bo to była bardzo szybka dezinflacja, czyli obniżenie inflacji, polski PKB, polski produkt krajowy brutto, jest mimo tego o 13% większy niż przed pandemią.
+[SPEAKER_01] O 13% większy niż przed pandemią.
+[SPEAKER_01] A stopa bezrobocia w Polsce pozostaje jedną z najniższych w Unii Europejskiej.
+[SPEAKER_01] Zdecydowanie.
+[SPEAKER_01] Polityka pieniężna NBP, ta właściwa polityka, ta reakcja NBP zarówno na kryzys pandemiczny, jak i na kryzys związany z rosyjską agresją były ze wszech miar właściwe.
+[SPEAKER_01] Im dalej się znajdujemy od tego czasu, tym bardziej wyraźnie i tym bardziej dokładnie można zanalizować wszystkie procesy i decyzje, które były podejmowane i tym bardziej wyraźnie widać, że wszystkie nasze decyzje i działania były właściwe.
+[SPEAKER_01] W związku z tym opublikowaliśmy broszurę, książkę na ten temat, którą rozprowadzamy bezpłatnie wszystkim zainteresowanym.
+[SPEAKER_01] Można też wejść na stronę NBP, można wejść na YouTube i to wszystko, z tym się zaznajomić.
+[SPEAKER_01] Charakterystyczne, że na YouTubie mój wykład zawierający krótkie syntezę, opisanie tego, co w tamtym czasie miało miejsce, w ciągu miesiąca weszło półtora miliona oglądających, czyli zainteresowanie tych, którzy się w ogóle interesują takimi rzeczami było duże.
+[SPEAKER_01] Nie muszę mówić całkowicie przeciwne lansowanym różnego rodzaju tezom.
+[SPEAKER_01] Szkodliwym, negatywnym, skierowanym przeciwko NBP.
+[SPEAKER_01] Jeśli chodzi o łagodzenie z kolei polityki pieniężnej NBP w 2020 roku, to wpisywało ono się całkowicie w działania innych banków centralnych w tamtym czasie.
+[SPEAKER_01] To jest też kolejne takie oskarżenie NBP, że niepotrzebnie złagodził politykę pieniężną w 2020.
+[SPEAKER_01] Inne banki centralne działały analogicznie, bo miały podobną sytuację, czy taką samą.
+[SPEAKER_01] Otóż w obliczu ryzyka bezprecedensowej recesji banki centralne łagodziły politykę pieniężną, w szczególności przez programy skupu aktywów.
+[SPEAKER_01] Program skupu aktywów, skup dłużnych papierów wartościowych jest przedmiotem, jak wiecie, bez przykładnego ataku na NBP, na prezesa NBP.
+[SPEAKER_01] Nie wiadomo dlaczego jedna osoba jest wybrana, ale na NBP.
+[SPEAKER_01] Przez polityków.
+[SPEAKER_01] Jest kilku polityków, szczególnie się w tym specjalizujących, którzy w bezprzekładnie skłamliwy, demagogiczny sposób w mediach, w publicznych środkach przekazu, atakują Elbep z tego tytułu, twierdząc, że została złamana konstytucja.
+[SPEAKER_01] Trudno coś bardziej niemądrego i sprzecznego z faktami.
+[SPEAKER_01] Tylko zła wola tłumaczy tego rodzaju tezy.
+[SPEAKER_01] Kup dłużnych papierów wartościowych sektora publicznego był wtedy prowadzony przez wszystkie wiodące banki centralne.
+[SPEAKER_01] Takie jak Rezerwa Federalna Stanów Zjednoczonych, Bank Anglii, Bank Japonii, a także przez Europejski Bank Centralny, czyli cała strefa euro i poszczególne banki strefy euro.
+[SPEAKER_01] Warto podkreślić, że wiele z tych banków kontynuowało ten skup aktywów również w 2021 roku, czyli dłużej jeszcze.
+[SPEAKER_01] A Europejski Bank Centralny i Bank Centralny Stanów Zjednoczonych prowadziły skup aktywów jeszcze w 2022 roku.
+[SPEAKER_01] Tutaj mają Państwo za mną mapy Europy.
+[SPEAKER_01] Na niebiesko zaznaczone są kraje, w których był skup aktywów.
+[SPEAKER_01] To, co u nas się nazywa papiery wartościowe, emitowane przez rząd i banki centralne, które to z wtórnego rynku skupowały.
+[SPEAKER_01] Na żółto są zaznaczone kraje, które tego nie robiły.
+[SPEAKER_01] Nieliczne.
+[SPEAKER_01] No w tym specyficzne, także jak Szwajcaria na przykład.
+[SPEAKER_01] Prawie wszystkie, a wszystkie ważne, z finansowego punktu widzenia dokonywały tego rodzaju operacji.
+[SPEAKER_01] Przy czym podkreślam, żeby to było jasne, bo są tacy, a szczególnie jeden, taki polityk, który bez przerwy w tym zakresie, jak to się mówi eufemistycznie, mija się z prawną.
+[SPEAKER_01] Całkowicie się mija z prawną, w odległości kilku metrów.
+[SPEAKER_01] Wszystkie te banki mają bardzo podobną albo prawie identyczną regulację dotyczącą zakazu kupowania papierów wartościowych dłużnych od rządu.
+[SPEAKER_01] Taką jak my mamy, konstytucyjną, ustawową.
+[SPEAKER_01] Wszystkie te kraje mają taką samą regulację.
+[SPEAKER_01] Podobną ma też Europejski Bank Centralny.
+[SPEAKER_01] Dlatego, że ten skup nie łamał tej zasady.
+[SPEAKER_01] Nie łamał tej zasady.
+[SPEAKER_01] To jest skup z rynku wtórnego.
+[SPEAKER_01] Bank centralny wchodził na rynek wtórny obligacji, w tym obligacji Skarbu Państwa, który to rynek był wtedy rozsadzony przez dużą ilość obligacji emitowanych przez rząd.
+[SPEAKER_01] Gwałtownie się zmieniała ich rentowność.
+[SPEAKER_01] Zderegulowany ten rynek byłby bez tej interwencji.
+[SPEAKER_01] Bank centralny wkroczył na ten rynek,
+[SPEAKER_01] żeby zwiększyć skuteczność transmisji swojej polityki pieniężnej na gospodarkę.
+[SPEAKER_01] Zgodnie ze swoim ustawowym celem i obowiązkiem.
+[SPEAKER_01] Ile to można, proszę Państwa, powtarzać i wciąż napotykać na mur kłamstwa i złej woli.
+[SPEAKER_01] Zgodnie z konstytucją, zgodnie z ustawą, zgodnie z uchwałami podjętymi przez Radę Polityki Pieniężnej.
+[SPEAKER_01] Z różnych okresów i w różnym składzie.
+[SPEAKER_01] Sądkowo złej woli, żeby w tym kierunku dalej działać i tak się wypowiadać.
+[SPEAKER_01] Albo być analfabetą, ale głuchym też, bo się nie słucha argumentów, które są wypowiadane ustnie.
+[SPEAKER_01] I tą mapę proszę pamiętać.
+[SPEAKER_01] No Czechy są specyficznym krajem.
+[SPEAKER_01] Rozmawialiśmy wielokrotnie z kolegami z Czech zarządu, dlaczego tak zrobili, no to jest na osobną rozmowę.
+[SPEAKER_01] Mieli swoje powody, tak uważali.
+[SPEAKER_01] No w niczym to nie poprawiło ich sytuacji, wprost przeciwnie.
+[SPEAKER_01] No specyficzne powody mogły być, ale to jest rutynowe, normalne działanie.
+[SPEAKER_01] Powtarzam, do którego bank centralny jest zobowiązany.
+[SPEAKER_01] Natomiast nie wolno mu oczywiście, i to byłoby łamanie konstytucji, gdyby kupował bezpośrednio od rządu papiery dłużne.
+[SPEAKER_01] I nigdy tego rodzaju działania nie było rozważane, nie było analizowane i nie było planowane.
+[SPEAKER_01] I powtarzam, nasze regulacje prawne, konstytucyjne i ustawowe są analogiczne albo identyczne do tych wszystkich krajów, które te działania podejmowały.
+[SPEAKER_01] Dzięki poluzowaniu polityki pieniężnej NBP, w tym poprzez skup aktywów, udało się uchronić polską gospodarkę przed głęboką i długotrwałą recesją, która nam groziła.
+[SPEAKER_01] Jakbym chciał tu się pastwić nad tymi politykami czy innymi nieszczęsnymi pseudoekonomistami, to bym przedstawił państwu tytuły najpoważniejszych polskich gazet i portali z tamtego czasu.
+[SPEAKER_01] Jaką przewidywano recesję, jakie przewidywano bezrobocie, jaką zapaść gospodarczą, jaką tragedię narodową spowodowaną, ludzką także tą zapaścią.
+[SPEAKER_01] Uniknęliśmy tego.
+[SPEAKER_01] Inne kraje w pewnej mierze też.
+[SPEAKER_01] Skala spadku PKB w Polsce przy tym, i teraz proszę słuchać uważnie, była trzykrotnie mniejsza niż średnio w Unii Europejskiej.
+[SPEAKER_01] Trzykrotnie mniejsza niż w Unii Europejskiej.
+[SPEAKER_01] A gospodarka szybko powróciła na ścieżkę wzrostu.
+[SPEAKER_01] Jednocześnie należy zaznaczyć, że NBP widząc w 2021 roku zagrożenia inflacyjne wynikające z globalnych szoków, czyli ogólnoświatowych szoków, rozpoczął szybko zacieśnianie polityki pieniężnej.
+[SPEAKER_01] I tu też wbrew tym, już nie wiem jak je określać,
+[SPEAKER_01] czy głupim, myślę, że wynikającym ze złej woli raczej, bo trudno sobie wyobrazić, że ktoś może być tak niemądry, polityk czy jakiś tam człowiek, który się uważa za ekonomistę.
+[SPEAKER_01] Narodowy Bank Polski rozpoczął zacieśnianie polityki pieniężnej jako jeden z pierwszych na świecie, jeden z pierwszych w Europie, a ciągle są powtarzane przez wydawałoby się, no ale tylko wydawałoby się, poważne nazwiska,
+[SPEAKER_01] tezy o tym, że Bank Narodowy zwlekał z tym i że za późno zaczął zacieśniać Policję Pieniężną.
+[SPEAKER_01] No wbrew elementarnym faktom.
+[SPEAKER_01] My to zrobiliśmy istotnie wcześniej niż inne banki centralne, w szczególności te ważne.
+[SPEAKER_01] I tu też Państwo mają, i to będzie wszystko w Internecie, to jest już w Internecie, to jest w tej książce, w tej naszej broszuli, są dokładnie daty.
+[SPEAKER_01] Proszę zwrócić uwagę.
+[SPEAKER_01] Polska.
+[SPEAKER_01] Październik 2021.
+[SPEAKER_01] Pierwszy kraj to Węgry, Czechy, Norwegia praktycznie w tym samym czasie.
+[SPEAKER_01] Czyli jako trzeci kraj w Europie, w grupie trzeciej w Europie.
+[SPEAKER_01] A proszę zobaczyć, kiedy to zrobiły Stany Zjednoczone.
+[SPEAKER_01] Trzeć miesięcy później i Europejski Bank Centralny dziewięć miesięcy później.
+[SPEAKER_01] My byliśmy absolutnie jednym z pierwszych krajów, który to zrobił.
+[SPEAKER_01] Jeden z pierwszych banków centralnych, który zaczął zacieśniać politykę pieniężną, widząc nadchodzącą wysoką inflację.
+[SPEAKER_01] Z powodowanymi mega szokami, globalnymi szokami, ogólnoświatowymi szokami.
+[SPEAKER_01] Całkowicie błędna, fałszywa, złośliwie chyba kłamliwa, albo niemądra w najlepszym wypadku.
+[SPEAKER_01] Teza o tym, że się spóźniliśmy w czymś.
+[SPEAKER_01] W efekcie tego podwyższania stóp procentowych zaczęliśmy zacieśniać politykę pieniężną wcześniej i w większej skali niż większość państw europejskich, a także państw OECD w ogóle, świata.
+[SPEAKER_01] Robiliśmy to bardzo szybko.
+[SPEAKER_01] Dzięki zdecydowanej reakcji NBP podwyżki stóp rozpoczęły się 9 miesięcy, jak mówię wcześniej, niż we wszystkich krajach strefy euro, w 19 krajach strefy euro.
+[SPEAKER_01] pół roku wcześniej niż w Stanach, wcześniej niż w tych bankach pozostałych – Wielka Brytania, Szwecja, Szwajcaria, które często porównujemy.
+[SPEAKER_01] I jak my to zrobiliśmy?
+[SPEAKER_01] Podnieśliśmy stopy o 6,65 punktów procentowych.
+[SPEAKER_01] 6,65.
+[SPEAKER_01] Niesłychanie radykalnie i szybko.
+[SPEAKER_01] Najsilniej w historii Rady Polityki Pieniężnej.
+[SPEAKER_01] Najsilniej od początku istnienia Rady Polityki Pieniężnej.
+[SPEAKER_01] Dzięki temu szybkiemu i zdecydowanemu zacieśnieniu, inflacja wróciła do celu w pierwszej połowie bieżącego roku, obecnego roku.
+[SPEAKER_01] Dużo szybciej niż wielu oczekiwało.
+[SPEAKER_01] Też mógłbym pokazać państwu tytuły gazet, portali wydrukowane.
+[SPEAKER_01] Kiedy przewidywano, że to da jakiś efekt?
+[SPEAKER_01] Dało w pierwszej połowie bieżącego roku.
+[SPEAKER_01] Znaleźliśmy się dokładnie w celu inflacyjnym 2,5.
+[SPEAKER_01] Dzisiaj jednak, tak jak tutaj jesteśmy, inflacja znowu przekracza cel inflacyjny NBP.
+[SPEAKER_01] Czyli 2,5 plus minus 1.
+[SPEAKER_01] Dlatego właśnie prowadzimy politykę pieniężną nakierowaną na jej ponowne obniżenie do celu w średnim okresie, czyli około dwóch lat.
+[SPEAKER_01] I utrzymujemy stopę referencyjną na poziomie 5,75.
+[SPEAKER_01] Niektórzy się dziwią, dlaczego 5,75, dlaczego tak dużo.
+[SPEAKER_01] No dlatego.
+[SPEAKER_01] Choć obecny wzrost inflacji wynika w dużym stopniu z podwyższania cen energii,
+[SPEAKER_01] przez działania administracyjne, decyzje administracyjne czy regulacyjne, ale tego nie bagatelizujemy.
+[SPEAKER_01] Naszym zadaniem ustawowym, konstytucyjnym jest dopilnować, by spowodowany tymi czynnikami wzrost dynamiki cen nie utrwalił się, nie przeszedł w oczekiwania inflacyjne, nie rozlał się na całą gospodarkę i wynagrodzenia, żeby się nie zrobiła spirala cen i płac.
+[SPEAKER_01] I by inflacja w tym średniookresowym
+[SPEAKER_01] celu się znalazła, czyli w granicach tych dwóch lat, żeby się znalazła znowu w pobliżu 2,5, plus minus 1, czyli w 2026 roku.
+[SPEAKER_01] Warto tu wspomnieć, chociaż nie uważam, że to jest najważniejsze, ale myślę, że wobec tych demagogicznych krytyk tak, że niedawno, tydzień czy dwa temu,
+[SPEAKER_01] Polityka pieniężna NBP została ponownie pozytywnie oceniona przez ekspertów Międzynarodowego Funduszu Walutowego.
+[SPEAKER_01] Taki największy autorytet międzynarodowy w tym zakresie.
+[SPEAKER_01] Międzynarodowy Fundusz Walutowy podkreślił, że polityka pieniężna Narodowego Banku Polskiego przyczyniła się do obniżenia inflacji, a także, że obecnie jest całkowicie odpowiednia, że obecne nasze stopy procentowe są całkowicie właściwe z punktu widzenia do prowadzenia inflacji do celu w średnim okresie.
+[SPEAKER_01] Jak ktoś szuka jakichś innych autorytetów, dla mnie najwyższym autorytetem jest Narodowy Bank Polski, jego eksperci, jego organy.
+[SPEAKER_01] To jest najlepszy staw, jaki istnieje w Europie.
+[SPEAKER_01] Ale Międzynarodowy Fundusz Walutowy po wnikliwej analizie specjalnej misji w Polsce uznał, że obecny poziom stóp jest właściwy, a polityka pieniężna, która zredukowała inflację, była właściwa.
+[SPEAKER_01] Fundusz odniósł się przy okazji, tylko o tym mówię, do polityki fiskalnej, czyli do polityki rządu finansowej.
+[SPEAKER_01] Fundusz wskazał, że bardziej restrykcyjna polityka fiskalna, zacieśniająca, budżetowa,
+[SPEAKER_01] zwiększyłaby przestrzeń oczywiście do ewentualnego złagodzenia polityki pieniężnej w bliskim czasie.
+[SPEAKER_01] Gdyby budżet był oszczędny, zmniejszył wydatki, zmniejszył deficyt, to wtedy pojawiłaby się przestrzeń do szybkiego obniżenia stóp procentowych.
+[SPEAKER_01] Ale tak, jak Państwo wiedzą, nie jest.
+[SPEAKER_01] Jest to w pełni zgodne z naszą oceną, czyli MB Polską, czyli Rady Polityki Pieniężnej.
+[SPEAKER_01] Na listopadowym posiedzeniu
+[SPEAKER_01] Przyjęliśmy opinię Rady do projektu ustawy budżetowej na przyszły rok.
+[SPEAKER_01] Na podstawie szacunku w NBP oceniamy, że deficyt sektora finansów publicznych zarówno w tym, jak i w przyszłym roku może być nawet wyższy niż prognozuje rząd.
+[SPEAKER_01] Co więcej, w przyszłym roku wedle obecnych prognoz, w tym rządowych, zmniejszy się on jedynie w niewielkim stopniu i pozostanie na bardzo wysokim poziomie.
+[SPEAKER_01] Na bardzo, bardzo wysokim poziomie chciałoby się widzieć.
+[SPEAKER_01] Tymczasem wyraźne zmniejszenie deficytu sprzyjałoby w szczególności ograniczeniu presji inflacyjnej.
+[SPEAKER_01] Byłoby to oczywiście też pożądane z punktu widzenia wysokiego poziomu nierównowagi fiskalnej oraz objęcia Polski procedurą nadmiernego deficytu.
+[SPEAKER_01] Ta procedura jest taka łagodna, tym razem ze strony Komisji Europejskiej, ale jest.
+[SPEAKER_01] Nie mówię tego, proszę państwa, z punktu widzenia jakiegoś recenzowania działań rządu.
+[SPEAKER_01] Tego nie robię, nigdy nie robiłem i nie będę robił.
+[SPEAKER_01] I tego zakazuję innym przedstawicielem Narodowego Banku Polskiego.
+[SPEAKER_01] My nie jesteśmy ustawowo upoważnieni do żadnego recenzowania działań jakiegokolwiek innego organu, a w szczególności rządu czy parlamentu.
+[SPEAKER_01] To są pewne elementy, które przychodzą do nas z zewnątrz.
+[SPEAKER_01] Oni podejmują jakieś decyzje, my się do nich odnosimy.
+[SPEAKER_01] Gdyby nastąpiło zmniejszenie deficytu i zacieśniająca polityka fiskalna by miała miejsce, byśmy mogli szybciej przystąpić do luzowania polityki pieniężnej i obniżania stóp.
+[SPEAKER_01] Jeśli tego nie ma, a wprost przeciwnie, to przesuwa w czasie początek decyzji o podjęciu cyklu obniżki stóp procentowych.
+[SPEAKER_01] Co istotne, to Dandal cytuje tę opinię przyjętą przez Radę, brak wyraźnego obniżenia deficytu budżetowego w przyszłym roku jedynie w niewielkiej części wynika ze zwiększenia wydatków na obronę narodową.
+[SPEAKER_01] W części jest on bowiem całkiem efektem zmian legislacyjnych, skutkujących zwiększeniem wydatków w innych obszarach.
+[SPEAKER_01] w których skala jest większa niż działań na rzecz ograniczenia deficytu.
+[SPEAKER_01] No a w żadnym wypadku nie jest związana z powodzią czy z jakimiś takimi wydarzeniami, które publicyści czy jacyś tam domorośli ekonomiści podnoszą czasem w artykułach prasowych.
+[SPEAKER_01] Rząd w tzw. średniookresowym planie budżetowo-strukturalnym przekazywanym Komisji Europejskiej sam zresztą wskazał, że w bieżącym roku doszło do wzrostu tzw. pierwotnego deficytu strukturalnego, co oznacza, przekładając na ludzki język, poluzowanie polityki fiskalnej.
+[SPEAKER_01] Nie odnosimy się do tego, nie mówimy, czy to jest dobrze, czy to jest źle.
+[SPEAKER_01] To nie jest nasza sprawa i nasza kwestia.
+[SPEAKER_01] Nie recenzujemy działań rządu i oczekujemy, że rząd nie recenzuje naszych.
+[SPEAKER_01] I tak jest.
+[SPEAKER_01] Mamy bardzo dobrą współpracę z Ministerstwem Finansów i nawzajem się nie komentujemy.
+[SPEAKER_01] I oby tak było.
+[SPEAKER_01] W tym rządzie i w każdym innym rządzie, z którym mieliśmy do czynienia.
+[SPEAKER_01] Jeśli chodzi o perspektywy inflacji.
+[SPEAKER_01] To nadal nie wiemy, tak jak tu siedzimy dzisiaj, ja stoję, państwo siedzą, to nadal nie wiemy, co się będzie działo z cenami energii w przyszłym roku.
+[SPEAKER_01] Rząd nie podjął jeszcze decyzji w tej sprawie.
+[SPEAKER_01] A jeśli podjął, to nie ogłosił.
+[SPEAKER_01] Ale nic na ten temat nie wiemy.
+[SPEAKER_01] Jak będą wyglądały ceny energii w przyszłym roku?
+[SPEAKER_01] Niektórzy przedstawiciele rządu, mam na myśli ministrów, zapowiadają kontynuowanie działań osłonowych.
+[SPEAKER_01] Czyli, że będzie jakaś utrzymana część tarczy, która będzie chronić gospodarstwo domowe przed podwyżką cen.
+[SPEAKER_01] Choć jednocześnie w obowiązującym projekcie budżetu, nie obowiązującym, ale oficjalnym, założono wzrost cen energii.
+[SPEAKER_01] Także w sumie nie wiemy, jak będzie.
+[SPEAKER_01] Środki przewidziane na blokowanie wzrostu cen energii w budżecie są zbyt małe na to, żeby można było ten wzrost zablokować.
+[SPEAKER_01] Mniej więcej o połowę.
+[SPEAKER_01] W związku z tym przygotowaliśmy projekcję w dwóch zasadniczych wariantach.
+[SPEAKER_01] Już tak robiliśmy, pamiętają Państwo jakiś czas temu.
+[SPEAKER_01] No bo musimy operować tymi danymi, które są.
+[SPEAKER_01] W wariancie bazowym
+[SPEAKER_01] Wariant bazowy jest zawsze robiony na podstawie obowiązującego obecnie stanu prawnego, nie jakichś wypowiedzi, domniemań, spekulacji naszych, czy jakichś analityków, czy obserwatorów.
+[SPEAKER_01] Zgodnie z obowiązującym w tej chwili, dzisiaj stanem prawnym, od stycznia nastąpi pełne odmrożenie cen energii.
+[SPEAKER_01] Tak jak w prawo wygląda dzisiaj.
+[SPEAKER_01] Jutro się może zmienić, czy tam w najbliższych tygodniach, ale dzisiaj tak to wygląda.
+[SPEAKER_01] Nastąpi pełne odmrożenie cen energii i to spowoduje istotne dalsze podwyższenie inflacji.
+[SPEAKER_01] I to do poziomu powyżej 6% w pierwszej połowie 2025 roku.
+[SPEAKER_01] W wariancie alternatywnym to jest dalszego mrożenia przez rząd cen energii,
+[SPEAKER_01] Inflacja wzrośnie tylko nieznacznie.
+[SPEAKER_01] Mają Państwo dwa wykresy.
+[SPEAKER_01] Czerwona przerywana linia to jest zamrożone są ceny energii.
+[SPEAKER_01] Rząd może taką decyzję podjąć i są pewne wypowiedzi, które sugerują, że w całości czy w części to może mieć miejsce.
+[SPEAKER_01] Inflacja nie wyskakuje do góry na początku roku i potem stopniowo schodzi.
+[SPEAKER_01] Obecny stan prawny to jest linia niebieska.
+[SPEAKER_01] I wtedy ceny energii wyskakują w górę na początku roku, bardzo silnie.
+[SPEAKER_01] I mamy inflację powyżej 6%.
+[SPEAKER_01] To potem razem się zbiega oczywiście, te skutki tych podwyżek gdzieś tam się wchłaniają i schodzimy do poziomu.
+[SPEAKER_01] W 2026 roku przy utrzymaniu obecnych stóp procentowych, w 2026 roku wchodzimy znowu w pasmo,
+[SPEAKER_01] celu inflacyjnego NBP, czyli 2,5% plus minus 1, a na koniec roku jesteśmy w tym punkcie 2,5.
+[SPEAKER_01] Jak będzie w rzeczywistości, która z tych linii, czy co jest też możliwe, prawdopodobne, że gdzieś między jedną a drugą, to znaczy, że rząd zablokuje wzrost cen, ale częściowo, albo odmrozi, ale częściowo, to jest wybór rządu.
+[SPEAKER_01] I to nie jest łatwa decyzja i rząd nad tym pracuje na pewno i coś zdecyduje.
+[SPEAKER_01] Jak zdecyduje, to powiadomi, a jak powiadomi, to my natychmiast to naniesiemy na projekcie.
+[SPEAKER_01] I to natychmiast się przełoży na jakieś dyskusje w Radzie Polityki Pieniężnej i ewentualnie decyzje.
+[SPEAKER_01] Niezależnie więc od tego scenariusza,
+[SPEAKER_01] dotyczącego podwyżki cen energii, albo niepodwyżki, albo częściowej podwyżki, w 2026 schodzimy do celu inflacyjnego NBP.
+[SPEAKER_01] Oczywiście przy założeniu niezmienionego poziomu stóp procentowych.
+[SPEAKER_01] Gdyby te stopy procentowe się zaczęły zmieniać, czy maleć, to oczywiście ten okres się wydłuży.
+[SPEAKER_01] Czyli obecny poziom stóp procentowych wraz z wygaszaniem się efektów podwyżki cen energii
+[SPEAKER_01] a także oczekiwane, wyglądane przez nas spowolnienie dynamiki wynagrodzeń spowodują, że inflacja zejdzie do celu w 2026.
+[SPEAKER_01] W dalszym ciągu niezwykle dużą uwagę przywiązujemy do kształtowania się inflacji bazowej.
+[SPEAKER_01] Już Państwu mówiłem, wiele posiedł Rady wstecz, że to jest dla nas taki najważniejszy punkt odniesienia.
+[SPEAKER_01] To jest jakby te wewnętrzne nasze źródła inflacji i poziom, bez tych zewnętrznych szoków związanych z tym, co przychodzi z zewnątrz.
+[SPEAKER_01] W kolejnych kwartałach inflacja bazowa może nieznacznie przekraczać 4%.
+[SPEAKER_01] Jednak wobec ujemnej dynamiki konsumpcji, konsumpcja ma ujemną dynamikę, czyli rośnie coraz wolniej, podwyższona inflacja bazowa w znacznej mierze będzie wynikać także z czynników regulacyjnych, tych poza polityką pieniężną, że jakieś podmioty regulują ceny w ten czy inny sposób.
+[SPEAKER_01] Jak Państwo wiedzą, są zaplanowane dalsze podwyżki akcyzy,
+[SPEAKER_01] cen zimnej wody, usług kanalizacyjnych i wywozu śmieci.
+[SPEAKER_01] Więc to będzie podbijać oczywiście inflację w górę, tą bazową.
+[SPEAKER_01] Do podwyższonej inflacji bazowej przyczyniają się także szybko rosnące płace, które podbijają ceny usług.
+[SPEAKER_01] Płace od razu się przekładają na ceny usług.
+[SPEAKER_01] Ale przewidujemy, że tempo wzrostu wynagrodzeń będzie stopniowo hamować.
+[SPEAKER_01] Już to obserwujemy, ale nadal to jest tempo dwucyfrowe, czyli szybkie.
+[SPEAKER_01] Natomiast co do kształtowania się koniunktury w Polsce, czyli tempa wzrostu PKB, która ma oczywiście bardzo duży wpływ na perspektywy inflacji.
+[SPEAKER_01] Im szybszy będzie wzrost, tym większa będzie presja inflacyjna i odwrotnie.
+[SPEAKER_01] W tym inflacja bazowa oczywiście.
+[SPEAKER_01] Napływające dane sygnalizują, że PKB w trzecim kwartale 2024 roku mógł być nieco niższy niż w drugim kwartale.
+[SPEAKER_01] Z tych danych, które są dostępne w tej chwili.
+[SPEAKER_01] W szczególności spadek sprzedaży detalicznej z września świadczy o relatywnie słabym pobycie konsumenckim.
+[SPEAKER_01] To, co zaskoczyło obserwatorów.
+[SPEAKER_01] Popyt konsumencki na towary znacząco osłabł.
+[SPEAKER_01] Wciąż trwają spory na temat przyczyn tego.
+[SPEAKER_01] Wciąż słaba koniunktura panuje w przemyśle.
+[SPEAKER_01] To proste jest do wytłumaczenia z kolei.
+[SPEAKER_01] Słaba koniunktura w przemyśle wynika po prostu ze stagnacji czy nawet recesji w niemieckim przemyśle.
+[SPEAKER_01] Gospodarka niemiecka przeżywała ogromne problemy od kilku lat, zatrzymała się w miejscu, nawet cofa, nie jest w stanie się przestawić na nowe parametry, na nowe warunki, na nowe źródła energii przede wszystkim.
+[SPEAKER_01] i eksport niemiecki padł, a co za tym idzie, także osłabł bardzo eksport polski.
+[SPEAKER_01] My dokonujemy eksportu przede wszystkim do Niemiec.
+[SPEAKER_01] Naszym głównym partnerem jest strefa euro, w szczególności Niemcy i to jest główny wyznacznik naszej koniunktury.
+[SPEAKER_01] Jak tam to słabnie, to u nas także słabnie.
+[SPEAKER_01] Trochę mniej, ale także słabnie.
+[SPEAKER_01] Ceny energii, proszę Państwa,
+[SPEAKER_01] w Europie jaskrawo odbiegają od cen energii na świecie.
+[SPEAKER_01] Nie będę tego też komentował, to nie jest zadanie Narodowego Banku Polskiego, ale polityka klimatyczna europejska spowodowała, że ceny europejskie powodują wytwórczość europejską niekonkurencyjną wobec świata.
+[SPEAKER_01] W szczególności wobec Chin, ale także wobec innych krajów.
+[SPEAKER_01] No i na tym tylu Polska, która ma w tej chwili dla biznesu, dla podmiotów ekonomicznych najdroższą energię w Europie.
+[SPEAKER_01] Najdroższą energię.
+[SPEAKER_01] Już nie będę przytaczał wielokrotności, bo to jest często wielokrotność ceny.
+[SPEAKER_01] Niesamowicie drogo.
+[SPEAKER_01] Już nie mówię o Chinach, bo to w ogóle astronomiczne są porównania.
+[SPEAKER_01] Ale nawet na tle Europy ceny energii dla gospodarki, dla podmiotów ekonomicznych, dla przedsiębiorstw są niebotycznie wysokie.
+[SPEAKER_01] To rujnuje konkurencyjność polskiej wytwórczości.
+[SPEAKER_01] Tak się długo nie da funkcjonować.
+[SPEAKER_01] Będą zamykane zakłady i przenoszone w te miejsca, gdzie jest energia tańsza.
+[SPEAKER_01] No chyba, że coś z tym jakoś uda nam się zrobić.
+[SPEAKER_01] To nie nasze zadanie.
+[SPEAKER_01] Nie zajmujemy się, nie myślimy o tym.
+[SPEAKER_01] My opisujemy rzeczywistość i się do niej odnosimy, a my jej nie kształtujemy.
+[SPEAKER_01] Ale tak nie może być, że ta energia jest tak droga na tle innych krajów.
+[SPEAKER_01] Nawet Europy, bo to, że już Europy do reszty świata, no to oczywiście też.
+[SPEAKER_01] Następuje niesamowita degradacja udziału Europy w PKB światowym, w handlu światowym, to Państwo wiedzą.
+[SPEAKER_01] Ale to jest problem całej Europy.
+[SPEAKER_01] Polska na tle Europy wygląda nadal bardzo dobrze.
+[SPEAKER_01] Mówiłem Państwu, Polska jest tym tygrysem, jest tym wyjątkiem, jest tym cudem gospodarczym.
+[SPEAKER_01] Ale to w nieskończoność nie może trwać przy tych cenach energii.
+[SPEAKER_01] Szczegóły projekcji inflacji i projekcji PKB, jak zawsze, zostaną przedstawione jutro na specjalnej konferencji, właściwie konferencji o seminarium.
+[SPEAKER_01] naszych analityków, będą wszyscy do dyspozycji, z publicystami, analitykami z rynku i dziennikarzami.
+[SPEAKER_01] I w szczegółach wszystko będzie wyjaśniane i przedstawiane.
+[SPEAKER_01] Czyli wielowariantowo, co może być, jeśli jakieś parametry się zmieniły.
+[SPEAKER_01] Ja tylko państwu mogę jeszcze dodać, że Polska
+[SPEAKER_01] Na tle Niemiec szczególnie, ale także Włoch, Francji prezentuje się bardzo dobrze.
+[SPEAKER_01] Cały czas prezentujemy się bardzo dobrze.
+[SPEAKER_01] Udział Polski w handlu międzynarodowym, porównując w dłuższym czasie, było 250% większy w ubiegłym roku niż w połowie lat 90.
+[SPEAKER_01] 250% większy niż w połowie lat 90.
+[SPEAKER_01] 2,5-krotnie wyższy.
+[SPEAKER_01] A państwa Europy Zachodniej w tym czasie, kiedy my tyle zyskiwaliśmy, traciły pozycję w handlu światowym, w tym Niemcy.
+[SPEAKER_01] Udział Polski w światowym produkcie krajowym brutto w PKB rośnie.
+[SPEAKER_01] I w ubiegłym roku był o 1,25%, o 25% wyższy niż w 1995 roku.
+[SPEAKER_01] A przecież też inne kraje się szybko i silnie rozwijały, w szczególności Chiny, w ogóle kraje wschodzące.
+[SPEAKER_01] Mimo tego udało nam się zwiększyć udział w handlu światowym i zwiększyć udział w PKB.
+[SPEAKER_01] Natomiast inne kraje europejskie radykalnie ten udział straciły.
+[SPEAKER_01] Oczywiście w nieskończoność nie uda nam się takiej pozycji.
+[SPEAKER_01] Jakiś czas jeszcze ją utrzymamy.
+[SPEAKER_01] Ale wzrost cen energii, podwyższanie kosztów produkcji, zmniejszanie się konkurencyjności w dłuższym czasie każdego dobija.
+[SPEAKER_01] Konkurencyjność Europy spada z tytułu tej wysokiej energii, ale nie tylko.
+[SPEAKER_01] Fiasko poniósł ten plan wielki.
+[SPEAKER_01] Jeśli chodzi o nowoczesność, o technologię, prezentuje się bardzo dobrze.
+[SPEAKER_01] Cały czas prezentujemy się bardzo dobrze.
+[SPEAKER_01] Udział Polski w handlu międzynarodowym, porównując w dłuższym czasie, było 250% większy w ubiegłym roku niż w połowie lat 90.
+[SPEAKER_01] Jeśli chodzi o poziom inwestycji w nowe technologie, niestety.
+[SPEAKER_01] No i poziom regulacji rynków.
+[SPEAKER_01] Tu z kolei poziom regulacji rynków jest jaskrawo wyższy niż na świecie.
+[SPEAKER_01] Gospodarka europejska jest przeregulowana, przebiurokratyzowana.
+[SPEAKER_01] To są oczywiście strukturalne problemy, które wykraczają poza naszą dzisiejszą projekcję, częściowo się tylko do niej odnoszą, na inną okazję.
+[SPEAKER_01] Coś tu się musi zmienić albo uderzymy w mur rozwojowy.
+[SPEAKER_01] Europa jest spychana na margines stopniowo, jeszcze tak nie jest.
+[SPEAKER_01] Wracając do naszych aktualnych decyzji.
+[SPEAKER_01] Jeszcze raz te uwarunkowania podsumuję.
+[SPEAKER_01] Tego, że Rada Polityki Pieniężnej po dyskusji, nie mówię Państwu, czy było głosowanie, jaki był wynik głosowania, jeśli by było.
+[SPEAKER_01] Jak Państwo wiedzą, o tym się zawsze później dowiadują, ale dyskusja zawsze jest gorąca.
+[SPEAKER_01] Uwarunkowania zasadnicze w skrócie są takie.
+[SPEAKER_01] Od połowy roku inflacja wzrosła.
+[SPEAKER_01] I obecnie kształtuje się powyżej celu NBP.
+[SPEAKER_01] Przyczyną tego odchylenia w górę inflacji jest częściowe odmrożenie cen energii i inne czynniki regulacyjne.
+[SPEAKER_01] Nie czynniki związane z polityką pieniężną.
+[SPEAKER_01] Wyniki listopadowej projekcji, nasz główny punkt odniesienia, wskazują na dalszy wzrost inflacji na początku przyszłego roku.
+[SPEAKER_01] Co do poziomu tej inflacji w pierwszej połowie przyszłego roku, nie wiemy dokładnie jak będzie.
+[SPEAKER_01] Zależy to od rządowych decyzji dotyczących cen energii.
+[SPEAKER_01] Natomiast od połowy przyszłego roku, 2025, inflacja powinna się tak czy inaczej, w obu wariantach decyzji rządowych, powinna zacząć się wyraźnie obniżać.
+[SPEAKER_01] i zgodnie z danymi, z obecnymi przewidywaniami, gdzie zakładam utrzymanie obecnych stóp procentowych, powróci do poziomu zgodnego z celem w 2026 roku.
+[SPEAKER_01] To w modelu się tak zakłada.
+[SPEAKER_01] Ja nie mówię, że będzie tak czy inaczej.
+[SPEAKER_01] Coś trzeba przyjąć.
+[SPEAKER_01] Jeśli chodzi o przyszłe decyzje Rady na następnych posiedzeniach, one będą zależały od napływających informacji.
+[SPEAKER_01] Informacji co do perspektyw inflacji i aktywności gospodarczej.
+[SPEAKER_01] Oczywiście wszystkie prognozy są barczone dużą niepewnością, jak zawsze.
+[SPEAKER_01] Co działa w kierunku wyższej inflacji ewentualnie?
+[SPEAKER_01] Co się może pojawić?
+[SPEAKER_01] Wysoka dynamika płac, jeśli się nadal utrzyma.
+[SPEAKER_01] Dwucyfrowa, wysoka dynamika płac.
+[SPEAKER_01] To podwyższy inflację.
+[SPEAKER_01] Silniejsze ożywienie gospodarcze, czynnik skądinąd pożądany i którego byśmy chcieli, żeby się szybciej Polska zaczęła znów rozwijać, ale ona podniesie presję inflacyjną.
+[SPEAKER_01] Nie wiadomo, tu jest związana z wykorzystaniem funduszy unijnych z KPO.
+[SPEAKER_01] Te fundusze spójności już zaczynają działać w przyszłym roku i lekko powiększą nasze tempo wzrostu, ale nie wiadomo, jak będzie z tą absorpcją środków z KPO, bo jest mało czasu na ich zaabsorbowanie.
+[SPEAKER_01] W pewnej mierze się da, czy w całości, to wszystko jest przed nami.
+[SPEAKER_01] Innym czynnikiem niepewności jest niepewna koniunktura u naszych partnerów handlowych, czyli w Niemczech przede wszystkim i w strefie euro.
+[SPEAKER_01] Jeśli nadal w Niemczech będzie stagnacja albo recesja i w strefie euro będzie różnie, to się może przełożyć na niższą presję popytową, przez to na niższą inflację.
+[SPEAKER_01] Pozytywnie z punktu widzenia walki z inflacją, natomiast negatywnie z punktu widzenia naszego wzrostu gospodarczego.
+[SPEAKER_01] Ta strefa euro oczywiście jest bardzo zróżnicowana nawiasem mówiąc.
+[SPEAKER_01] Teraz krajem, który się najszybciej rozwija jest Hiszpania.
+[SPEAKER_01] Ni stąd, ni zowąd.
+[SPEAKER_01] Hiszpania ma tą najwyższą dynamikę.
+[SPEAKER_01] Ale to dla Polski nic nie zmienia Hiszpania.
+[SPEAKER_01] Niewielkie mamy wymiany z Hiszpanią.
+[SPEAKER_01] Nieznany jest, nie da się go wyliczyć ani przewidzieć, wpływ decyzji regulacyjno-administracyjnych na oczekiwania inflacyjne.
+[SPEAKER_01] Na to, jak podmioty ekonomiczne, gospodarstwo domowe i przedsiębiorstwa ukształtują swoją świadomość dotyczącą tego, co dalej.
+[SPEAKER_01] Czy założą, że inflacja będzie wysoka, czy założą, że to jest coś, co nastąpiło, ale teraz inflacja będzie maleć.
+[SPEAKER_01] Od tego zależą ich decyzje zakupowe, zachowania na rynku i to, czy będą wywierać jakąś presję inflacyjną, czy nie.
+[SPEAKER_01] Czy będą akceptować wyższe ceny, czy nie będą.
+[SPEAKER_01] Jak państwo wiedzą, to jest taki czynnik, który badamy cały czas, GUS też bada, ale on jest właśnie tą niewiadomą zawsze.
+[SPEAKER_01] Ta reakcja podmiotów i te oczekiwania inflacyjne, czego ludzie oczekują.
+[SPEAKER_01] Ostatecznie zawsze rytualnie wymieniam jako niepewność przebieg wojny za naszą wschodnią granicą.
+[SPEAKER_01] To się często już teraz o tym zapomina.
+[SPEAKER_01] Tam jest dynamiczna bardzo sytuacja.
+[SPEAKER_01] Wojska rosyjskie bardzo szybko postępują do przodu, zdobywają nowe terytoria.
+[SPEAKER_01] Jednocześnie szykuje się jakiś rodzaj, prawdopodobnie śledząc wypowiedzi zachodnich polityków, jakieś porozumienie, jakieś zawieszenie broni, stabilizacja na linii frontu.
+[SPEAKER_01] Dlatego może Rosjanie tyle terenu zajmują teraz.
+[SPEAKER_01] Trudno powiedzieć.
+[SPEAKER_01] I trudno powiedzieć, jaki to będzie miało wpływ na naszą sytuację.
+[SPEAKER_01] Na razie nie ma.
+[SPEAKER_01] Jest też niepewność z innymi obszarami geopolitycznymi, które mogą wpłynąć na cenę ropy naftowej czy gazu.
+[SPEAKER_01] Na razie głównie na gaz wpłynęły.
+[SPEAKER_01] I w tych okolicznościach wszystkich to jest wszystko, co Rada analizowała przez dwa dni.
+[SPEAKER_01] W tych okolicznościach uzasadnione jest utrzymanie stóp procentowych na niezmienionym poziomie.
+[SPEAKER_01] W ten sposób najlepiej dążymy do trwałego powrotu inflacji do celów w średnim okresie.
+[SPEAKER_01] Dodałbym jeszcze dzisiaj, proszę Państwa, tuż poza tym merytorycznym wykładem, że Narodowy Bank Polski uruchomił pomoc różnego rodzaju dla ludności objętej powodzią.
+[SPEAKER_01] Jak Państwo wiedzą, udostępniliśmy swoje bankowozy.
+[SPEAKER_01] No i udostępniliśmy też jedyny ośrodek wypoczynkowy, jaki posiadamy w Zakopanem – Bankowiec.
+[SPEAKER_01] Udostępniliśmy dla dzieci w ramach programu Szkoła na Bank.
+[SPEAKER_01] Zielone szkoły, one trwają w tej chwili w tym bankowcu, jeszcze jakiś czas będą trwały.
+[SPEAKER_01] To jest okazja dla 300 dzieci, 300 uczniów z 11 szkół podstawowych.
+[SPEAKER_01] Przy okazji robimy wykłady z finansów, historii pieniądza, roli Narodowego Banku Polskiego w Polsce itd.
+[SPEAKER_01] Na poziomie właściwym dla nich.
+[SPEAKER_01] I to potrwa od 20 października do 14 grudnia.
+[SPEAKER_01] Cała grama innych też tematów, innych działań podejmowanych w innych miejscach niż Zakopane.
+[SPEAKER_01] Inwestujemy dużo naszych zasobów w edukację młodego pokolenia i najmłodszego pokolenia, bo to jest przyszłość naszej gospodarki i naszego kraju.
+[SPEAKER_01] Dziękuję bardzo.
+[SPEAKER_01] Proszę o pytania.
+[SPEAKER_03] Dziękuję bardzo.
+[SPEAKER_03] Bardzo prosimy o pytania w temacie konferencji.
+[SPEAKER_03] Bardzo proszę pan redaktor Rafał Tuszyński, PABiznes.
+[SPEAKER_02] Dzień dobry.
+[SPEAKER_02] Panie prezesie, czy przedstawiona przez pana ocena polityki fiskalnej na przyszły rok oraz dojście Donalda Trumpa do władzy, co według obecnych przewidywań będzie oznaczać globalnie wyższe stopy procentowe, może wpłynąć na moment i skalę docelowej obniżki stóp w przyszłym roku?
+[SPEAKER_02] I druga kwestia stopa rezerwy obowiązkowej.
+[SPEAKER_02] Ostatnio w mediach pojawiły się doniesienia, że były takie analizy prowadzone w banku co do systemów rezerwy w Europie.
+[SPEAKER_02] Czy to są po prostu zwykłe analizy informacyjne, czy jakaś przymiarka do zmiany parametrów tej stopy rezerwy obowiązkowej w Polsce?
+[SPEAKER_01] Zacznę od drugiego tematu i dementuję informację, jakoby w banku trwały intensywne prace, czy jakiekolwiek prace z tym związane.
+[SPEAKER_01] I to, że pojawiła się informacja, pan eufemistycznie nazywa informację rozprzestrzenianą przez jedną osobę, członka Rady Polityki Pieniężnej, ale jedną osobę.
+[SPEAKER_01] Powtarzam i dementuję, Narodowy Bank Polski nie prowadzi żadnych analiz i żadnych prac związanych z jakimkolwiek działaniami dotyczącymi rezerwy obowiązkowej, a w szczególności zmiany oprocentowania tej rezerwy.
+[SPEAKER_01] Ja już rozmawiałem o tym z prezesem Związku Banków Polskich, wyjaśniałem, ale teraz to mówię publicznie, jak pan pyta.
+[SPEAKER_01] Nic takiego nie ma miejsca.
+[SPEAKER_01] Nie ma miejsca.
+[SPEAKER_01] Okropnie to nie jest po polsku, ale nic takiego się nie dzieje.
+[SPEAKER_01] Natomiast pierwsze pytanie.
+[SPEAKER_01] Oczywiście polityka fiskalna wpływa na politykę pieniężną.
+[SPEAKER_01] w drugą stronę tak samo.
+[SPEAKER_01] Ja już o tym wspomniałem.
+[SPEAKER_01] W naszej opinii na temat projektu ustawy budżetowej my się do tego odnosimy.
+[SPEAKER_01] Mówimy to tak eufemistycznie, że
+[SPEAKER_01] Projektowana ustawa budżetowa luzuje politykę fiskalną i w związku z tym nie sprzyja procesowi przystąpienia do cyklu obniżek stóp procentowych.
+[SPEAKER_01] Czyli przesuwa w czasie, tak to mówiąc po ludzku.
+[SPEAKER_01] Tak bym to określił.
+[SPEAKER_01] Jeśli chodzi o Trumpa, zwycięstwo prezydenta Donalda Trumpa, któremu gratulujemy, oczywiście składamy serdecznie gratulacje i życzymy jak najlepiej.
+[SPEAKER_01] To wpływ na polską gospodarkę, tak jak w tej chwili to można postrzegać, jest znikomy, głównie poprzez rynek obligacji, rentowności obligacji.
+[SPEAKER_01] No niestety, może to z naszego punktu widzenia niestety, nie amerykańskiego, może to wpłynąć na wzrost kursu dolara.
+[SPEAKER_01] Już się jakby to rysuje.
+[SPEAKER_01] No i na atrakcyjność obligacji amerykańskich względem naszych, czyli mówiąc tak po ludzku, zwykłym językiem, na podrożenie obsługi polskiego zadłużenia.
+[SPEAKER_01] Że my jako kraj, jako rząd będziemy musieli więcej płacić za obsługę naszego zadłużenia.
+[SPEAKER_01] A to zadłużenie szybko rośnie, jak państwo wiedzą.
+[SPEAKER_01] No to taki może być wpływ.
+[SPEAKER_01] Czy tak będzie, to trudno powiedzieć.
+[SPEAKER_01] Reszta jest nie wiadomo.
+[SPEAKER_03] Bardzo proszę kolejne pytanie.
+[SPEAKER_03] Pani redaktor Agnieszka Barteczko, Bloomberg News.
+[SPEAKER_05] Dzień dobry.
+[SPEAKER_05] Panie Prezesie, czy w takim razie ta luźniejsza polityka fiskalna, o której Pan powiedział i powiedział Pan, że przesuwa w czasie potencjalne decyzje o obniżkach stóp, czy to znaczy, że tych obniżek pierwszych należy się spodziewać raczej w drugiej połowie roku, później niż właśnie sygnalizowali Państwo
+[SPEAKER_05] jeszcze niedawno i czy dobrze rozumiem, że troszeczkę zaostrza pan swoje stanowisko, jeśli chodzi o politykę?
+[SPEAKER_01] Nie, nie zaostrzą stanowiska.
+[SPEAKER_01] My będziemy podejmować decyzje stosownie do napływających danych.
+[SPEAKER_01] My nie wiemy przecież, jak to dokładnie się wszystko ukształtuje.
+[SPEAKER_01] Przede wszystkim nie wiemy, jaka będzie decyzja rządu dotycząca tego,
+[SPEAKER_01] odmrożenia, nieodmrożenia, częściowego odmrożenia, rozłożenia w czasie tego i tak dalej.
+[SPEAKER_01] Tego nie wiemy.
+[SPEAKER_01] No i to jest jeden z czynników, który bierzemy pod uwagę.
+[SPEAKER_01] Generalnie, jak Państwo widzieli na wykresie,
+[SPEAKER_01] No w połowie przyszłego roku, ja mówiłem Państwu nie o dacie i żadnym z członków Rady, może tam jednemu się wymknęło publicznie, ma jakieś swoje, swoją wizję, kiedy to mogło nastąpić.
+[SPEAKER_01] Ja nie mówiłem o dacie, tylko mówiłem o okolicznościach.
+[SPEAKER_01] Kiedy może być moment, kiedy Rada zacznie się spierać, czy dyskutować, kiedy się pojawią wnioski o obniżenie.
+[SPEAKER_01] Ja nie mogę mówić, co było na poprzednim posiedzeniu, na wczorajszym posiedzeniu i chyba jeszcze poprzednim, ale mają Państwo tych 20 posiedzeń poprzednich.
+[SPEAKER_01] Widzą Państwo, że żadnych wniosków o obniżanie stóp nie było.
+[SPEAKER_01] i to też wbrew niektórym gorąco krewkim jakichś politykom, to niezależnie czy członek Rady był wybrany przez obecnie rządzące, czy poprzednio, to nie ma znaczenia.
+[SPEAKER_01] Rada Polityki Pieniężnej jest bardzo, że tak powiem, zintegrowana z tego punktu widzenia, bo obcuje z faktami, a nie z ideologią, czy z jakimiś tezami, czy z polityką.
+[SPEAKER_01] Prawie wszyscy członkowie
+[SPEAKER_01] Z wyjątkiem jednego głosują tak samo od bardzo wielu posiedzeń.
+[SPEAKER_01] A jest rzeczywiście jeden członek, ale wybrany przecież przez większość obecnie rządzącą Senatu.
+[SPEAKER_01] Jest jeden członek, który rzeczywiście od 20 posiedzeń, nie mówię o wczorajszym, a nie o poprzednim jeszcze, od 20 posiedzeń głosuje za podwyżką stóp o 2 punkty procentowe.
+[SPEAKER_01] Ale poza tym wszyscy głosują tak samo za utrzymaniem stóp na niezmienionym poziomie.
+[SPEAKER_01] Kiedy to się zmieni?
+[SPEAKER_01] Kiedy inflacja po pierwsze, proszę Państwa, według wszystkich badań GUS-owskich i naszych, się ustabilizuje.
+[SPEAKER_01] Znaczy będziemy widzieli, wynosi tyle czy tyle, pięć, sześć, ale już dalej nie będzie rosła.
+[SPEAKER_01] Jest ustabilizowana na jakimś poziomie.
+[SPEAKER_01] Uderzyła już w ten sufit.
+[SPEAKER_01] I projekcja pokazuje, że w następnych kwartałach ta inflacja będzie maleć.
+[SPEAKER_01] Że w kilku kolejnych kwartałach będzie maleć.
+[SPEAKER_01] i będzie schodzić do tego celu inflacyjnego w perspektywie tych dwóch lat czy wcześniej, to jest moment, że mogą paść wnioski członków Rady i mogą zapaść decyzję o rozpoczęciu cyklu obniżek.
+[SPEAKER_01] Musi nastąpić zatrzymanie procesu wzrostu inflacji, stabilizacja tego poziomu inflacji na jakimś tam poziomie, 5 czy 6 czy innym.
+[SPEAKER_01] I projekcja, że w następnych kwartałach będzie maleć.
+[SPEAKER_01] W tym momencie można proponować obniżkę.
+[SPEAKER_01] No nikt zdrowy na ciele i umyśle wcześniej takiej obniżki nie zaproponuje.
+[SPEAKER_01] Czasami osoby czy podmioty, no jestem zbulwersowany tym podmiotem, co wczoraj to o tym pisał, co osób nieodpowiedzialnych i się do tego nie będę odnosił, mówią, że można obniżać stopy procentowe, no bo ta inflacja wynika z czynników poza poliką pieniężną, właśnie regulacyjnych, administracyjnych i tak dalej.
+[SPEAKER_01] No to jest zwykła demagogia albo niełudztwo albo demagogia.
+[SPEAKER_01] No nie jest tak.
+[SPEAKER_01] Inflacja, niezależnie z jakiego pochodzi źródła, się roznosi na całą gospodarkę, rozlewa się, zaraża.
+[SPEAKER_01] Nie tylko przez oczekiwania inflacyjne.
+[SPEAKER_01] Mieliśmy najlepszy przykład wzrostu cen surowców energetycznych po agresji rosyjskiej i już przed, co się stało na całym świecie.
+[SPEAKER_01] A to nie wynikało z polityki pieniężnej.
+[SPEAKER_01] I co z tego?
+[SPEAKER_01] Także tu się nic nie zmienia.
+[SPEAKER_01] Nie chciałbym, żeby poszedł taki przekaz.
+[SPEAKER_01] Pani pytanie, takie było pytanie o to, czy ja utwardzam dzisiaj stanowisko Rady, czy mówię, że Rada stwierdziła, że w takim razie przesuwa początek obniżek dalej w czasie?
+[SPEAKER_01] Nie, Rada nic takiego nie stwierdziła, nikt się tak nie wypowiadał.
+[SPEAKER_01] Rada powiedziała, że ten początek roku może wyglądać tak, że inflacja wzrośnie, ale nie wiemy po pierwsze, czy tak będzie.
+[SPEAKER_01] A po drugie, to się i tak zacznie szybko wchłaniać w inne ceny, w inne koszty, w płace itd.
+[SPEAKER_01] Tak czy inaczej, w drugiej połowie roku, według naszej dzisiejszej projekcji, znaczy listopadowej, jutro przedstawimy szczegóły, tak czy inaczej, inflacja w drugiej połowie przyszłego roku będzie spadać i to dosyć szybko.
+[SPEAKER_01] Tak, żeby na początku 2026 zgodnie z wykresem wejść w pasmo odchyleń od celu inflacyjnego, czyli w pasmo już 3,5 powiedzmy patrząc od góry, maleć dalej w ciągu 2026 i zejść na koniec roku do 2,5.
+[SPEAKER_01] Tak to w tej chwili wygląda, niezależnie co rząd zrobi na początku przyszłego roku.
+[SPEAKER_01] Natomiast w zależności od tego, co rząd zrobi na początku roku, to będzie bieżący wzrost cen albo brak tego wzrostu.
+[SPEAKER_01] Rzeczywiście ten moment, w którym Rada przystąpi do obniżania stóp, może się przyspieszyć albo opóźnić z tego punktu widzenia, ale to nie zmienia nastawienia Rady.
+[SPEAKER_01] Powiedziałbym tak, z punktu widzenia Rady,
+[SPEAKER_01] Rada jest całkowicie gotowa do tego i chętna, że tak powiem, z punktu widzenia intelektualnego i woli, aby natychmiast, kiedy powstaną takie warunki, kiedy inflacja przestanie rosnąć
+[SPEAKER_01] I projekcja będzie przewidywanie, że w następnych kwartałach będzie maleć, żeby natychmiast przystąpić do obniżania stóp.
+[SPEAKER_01] Będzie też dyskusja o jakim tempie, czy szybkim ruchem od razu, czy stopniowo, wolno, w cyklu.
+[SPEAKER_01] To jest inna dyskusja w zależności od danych.
+[SPEAKER_01] Ale nic się tu nie zmienia.
+[SPEAKER_01] Rada jest nastawiona na to, żeby natychmiast zacząć obniżanie stóp, kiedy się instalacja ustabilizuje i zacznie spadać.
+[SPEAKER_03] Proszę bardzo, kolejne pytanie.
+[SPEAKER_03] Pan redaktor Karol Bedochal, Reuters.
+[SPEAKER_00] Dzień dobry, panie prezesie.
+[SPEAKER_00] Chciałem spytać, czy wciąż pan uważa, że możliwe jest rozpoczęcie dyskusji o rozpoczęciu luzowania polityki pieniężnej w marcu po kolejnej projekcji?
+[SPEAKER_01] Tak, no bo ta projekcja może pokazać, jaki optymistyczny już obraz.
+[SPEAKER_01] W marcu będziemy w takiej sytuacji.
+[SPEAKER_01] Będziemy wiedzieli, jak zdecydowano w sprawie poduszki, w sprawie tej tarczy antyinflacyjnej w kwestii energii.
+[SPEAKER_01] Będziemy mogli to wszystko policzyć, sparametryzować, przez ekonometryczne modele zanalizować.
+[SPEAKER_01] Także wtedy tak, zdecydowanie.
+[SPEAKER_01] Szczerze mówiąc, nie zdziwiłbym się, jakby jakiś członek Rady już po projekcji marcowej na przykład jakiś wniosek przedstawił.
+[SPEAKER_01] Ale czy on uzyska większość?
+[SPEAKER_01] Państwo o tym dobrze wiedzą, ale publiczność, a politycy to w ogóle, pożal się Boże, często tak myślą, że to ja osobiście coś mogę zdecydować.
+[SPEAKER_01] Jestem jednym z 10 członków Rady.
+[SPEAKER_01] Jak Państwo widzieli przez ostatnie 20 posiedzeń, ja zdanie miałem takie, jak większość członków Rady.
+[SPEAKER_01] ale może się zdarzyć inaczej.
+[SPEAKER_01] Znam przypadki, że prezesi i przewodniczący Rady Polityki Pieniężnej w tym wypadku byli izolowani w swoim stanowisku i przegrywali głosowania.
+[SPEAKER_01] Ja tutaj nie mam większej władzy.
+[SPEAKER_01] Gdyby był remis w głosowaniu, to wtedy zdanie przewodniczącego jest wiążące, ale to tylko wtedy.
+[SPEAKER_01] Ale to jakoś tak się dzieje, jak siła faktów, analiz jest tak miażdżąca,
+[SPEAKER_01] że członkowie Rady, niezależnie od tego, przez kogo są wybrani do Rady, skierowani, z jakiego ośrodka akademickiego pochodzą, czy są z natury monetarystami, czy keynesistami, czy socjalistami, to w tym samym momencie podejmują podobne decyzje.
+[SPEAKER_01] To jest miażdżąca siła faktów po prostu.
+[SPEAKER_01] Tak jest we wszystkich bankach centralnych.
+[SPEAKER_01] Żaden bank centralny nie zachowuje się w sposób nieodpowiedzialny, chociaż głosowania są różne.
+[SPEAKER_01] Czasami są na styk.
+[SPEAKER_01] Myślę, że po projekcji marcowej mogą się pojawić, czy może się pojawić jeden głos.
+[SPEAKER_01] Wtedy by była taka sytuacja, że patrząc tak po tym, co się działo przez ostatnie 22 posiedzenia, to ten członek rady, co cały czas chce podwyżki o 2 punkty procentowe, to nadal będzie chciał podwyżki, a już się może pojawić jakiś, co będzie chciało obniżki.
+[SPEAKER_01] Proszę nie myśleć, że to wynika wtedy z jakiegoś zanarchizowania, no tylko po prostu ludzie mają różne poglądy, różne koncepcje, różne wizje, jak się powinno osiągnąć pożądany cel i w jakim tempie.
+[SPEAKER_01] Ale decyduje, dlatego rada jest dziesięcioosobowa, żeby to się jakoś tam utarło i wypośrodkowało, żeby żaden radykał, żaden profesor radykał nie narzucił swojej wizji.
+[SPEAKER_01] Ten radykał jest temperowany przez innych i to zdanie jest zawsze umiarkowane i pragmatyczne.
+[SPEAKER_01] Nie ma, proszę Państwa, bardziej pragmatycznej, apolitycznej, pragmatycznej, takiej praktycznej instytucji niż Narodowy Bank Polski i w ogóle banki centralne jako takie.
+[SPEAKER_01] To są instytucje konserwatywne.
+[SPEAKER_01] One nigdy nie są, nie gonią za nowinkami, nie ekscytują opinii publicznej.
+[SPEAKER_01] To są bardzo konserwatywne, umiarkowane, spokojne instytucje.
+[SPEAKER_01] Te ciała główne są pomyślane jako kolegialne i to temperuje jakby tego rodzaju działania.
+[SPEAKER_01] Zarząd cały jest dziewięcioosobowy.
+[SPEAKER_01] I to, że jeden członek zarządu się ekscentrycznie zachowuje, nie zmienia działania zarządu.
+[SPEAKER_01] Oczywiście dziennikarze mają pole do popisu, mogą cytować jedną osobę, że jakiś taki wykwit emocji ze strony jednego członka zarządu na przykład, ale to nie zmienia faktu, że zarząd decyduje jako zarząd w głosowaniu.
+[SPEAKER_01] I tak samo jest w Radzie.
+[SPEAKER_01] Także ten marzec jest możliwy, jak najbardziej.
+[SPEAKER_01] My tu po prostu nie wiemy, co będzie.
+[SPEAKER_01] Ale my się spotykamy co miesiąc, proszę Państwa, i z Państwem też co miesiąc.
+[SPEAKER_01] Także Państwo będą wiedzieli na bieżąco, jak się zmienia opcja, a nie nagle, za kilka miesięcy.
+[SPEAKER_01] My teraz, tak jak Pani Lagarde już od kilku lat, my mówimy, że przyszłe decyzje będziemy podejmować stosownie do napływających danych.
+[SPEAKER_01] Wiem, że dla dziennikarzy, dla obserwatorów jest takie nieciekawe, bo to znaczy, że nic się nie mówi.
+[SPEAKER_01] My mówimy więcej.
+[SPEAKER_01] My mówimy, że podejmiemy decyzję o rozpoczęciu obniżki, kiedy się ustabilizuje inflacja i będzie projekcja, że będzie spadać.
+[SPEAKER_01] Państwo to zobaczą przed nami.
+[SPEAKER_01] Państwo będą widzieli, że się pojawiły informacje, że inflacja się ustabilizowała, nie grozi jej dalszy wzrost, a przewidywania są takie, że będzie maleć.
+[SPEAKER_01] Państwo będą wiedzieli, zanim ja tu przyjdę i Państwu to powiem.
+[SPEAKER_01] I tylko państwo potwierdzą to.
+[SPEAKER_01] Wszyscy członkowie Rady mają takie same źródła informacji.
+[SPEAKER_01] No i więcej tych informacji nie ma.
+[SPEAKER_01] Oni mają wszystko, co jest potrzebne.
+[SPEAKER_03] Bardzo proszę.
+[SPEAKER_03] Jeszcze jedno pytanie, tak?
+[SPEAKER_03] Bardzo proszę, pan redaktor Karol Baduchal-Reuters.
+[SPEAKER_00] Jeszcze chciałem dopytać, panie prezesie, czy byłby pan zaskoczony, gdyby któryś członek Rady zaproponował obniżkę stóp przed marcem?
+[SPEAKER_01] No byłbym bardzo zaskoczony, ale to na pewno nie nastąpi, bo to są poważni ludzie i oni też dbają, proszę pamiętać, o swój osobisty życiorys, CV.
+[SPEAKER_01] To są najczęściej przedstawiciele świata uniwersyteckiego.
+[SPEAKER_01] Nikt się nigdy nie kompromituje przez jakieś takie niepoważne wypowiedzi.
+[SPEAKER_01] Jakby wyglądała propozycja obniżki stóp procentowych, jak przewidujemy wzrost inflacji?
+[SPEAKER_01] I wszystko na to wskazuje.
+[SPEAKER_01] Nie wiemy, kiedy ten wzrost się ustabilizuje.
+[SPEAKER_01] To jakby taki członek wyglądał?
+[SPEAKER_01] Najniepoważniej by wyglądał, że się kieruje jakimiś innymi motywami albo się źle czuje.
+[SPEAKER_01] Trudno mi powiedzieć.
+[SPEAKER_01] Także się proszę nie przejmować, że politycy tam popędzają.
+[SPEAKER_01] We wszystkich krajach tak jest.
+[SPEAKER_01] Politycy popędzają Bank Centralny.
+[SPEAKER_01] My to wszystko wiemy.
+[SPEAKER_01] Ta historia powtarza się od dziesiątków lat czy setek.
+[SPEAKER_01] Oczywiście, jakbyśmy my jako Rada Polityki Pieniężnej tworzyli rząd aktualny, też byśmy patrzyli na bank centralny.
+[SPEAKER_01] Kiedy ten bank centralny wreszcie zacznie obniżać stopy procentowe?
+[SPEAKER_01] Punkt widzenia ministra finansów jest inny.
+[SPEAKER_01] Dla ministra finansów trochę wyższa inflacja jest dobra.
+[SPEAKER_01] Nie powyżej 5%, ale umiarkowanie wyższa inflacja typu do 5%, bo przynosi wyższe przychody do budżetu z podatków.
+[SPEAKER_01] I niska stopa jest dobra, bo zmniejsza obsługę zadłużenia.
+[SPEAKER_01] To jest zrozumiałe.
+[SPEAKER_01] I to, że minister tego oczekuje, jak kaniadżu wygląda, to jest normalne i prawidłowe i właściwe.
+[SPEAKER_01] I czasami minister o tym mówi.
+[SPEAKER_01] No i tu nie możemy się o to żalu.
+[SPEAKER_01] Ale minister też wie, że jakby usiadł po drugiej stronie świętokrzyskiej,
+[SPEAKER_01] to by patrzył, kiedy inflacja się zatrzyma, ten wzrost inflacji, wzrost, dynamika, wzrost inflacji się zatrzyma i będzie przewidywany spadek.
+[SPEAKER_01] No i tutaj decyzje wcześniejsze byłyby błędne.
+[SPEAKER_01] No nam się udało uniknąć takich decyzji od początku pandemii, wbrew temu, co jest twierdzone, nawet na jakichś tam komisjach czy pseudokomisjach i tak dalej.
+[SPEAKER_01] Udało nam się tego uniknąć, chociaż jakby był jakiś tam błąd, to bym się nie zdziwił.
+[SPEAKER_01] Czas szybko biegnie, a też słabo to pamiętam.
+[SPEAKER_01] Znaczy pamiętam, bo moja żona została ciężko dotknięta pandemią, ledwo przeżyła.
+[SPEAKER_01] Ale ludzie nie pamiętają, jakie były przewidywania i co się działo w czasie pandemii, a potem w czasie ataku rosyjskiego.
+[SPEAKER_01] Jakie w ekonomii, w gospodarce się działy procesy straszne.
+[SPEAKER_01] My zachowaliśmy zimną krew.
+[SPEAKER_01] Może dlatego, że to były takie duże ciała.
+[SPEAKER_01] Niektórzy proponowali bardziej zdecydowane działania.
+[SPEAKER_01] Ale zachowaliśmy się, z zimną krwią działaliśmy.
+[SPEAKER_01] O wielu jeszcze działaniach przyjdzie mówić w przyszłości, może za jakiś czas, w przyszłych latach.
+[SPEAKER_01] Może, bo mają jakiś charakter tam tajny przez połówkę.
+[SPEAKER_01] Dotyczący wymiaru międzynarodowego naszego działania.
+[SPEAKER_03] – I jeszcze jedno pytanie, pan redaktor Rafał Tuszyński, PAP Biznes.
+[SPEAKER_02] To ja bym jeszcze dopytał, czy gdy już dojdzie do tej pierwszej obniżki stóp procentowych, to tak jak w przypadku rezerwy federalnej w grę może wchodzić 50 punktów bazowych, a nie 25?
+[SPEAKER_01] No właśnie przed chwilą o tym mówiłem, nie jestem w stanie przewidzieć.
+[SPEAKER_01] No to wtedy w zależności… Od czego to będzie zależało, proszę pana?
+[SPEAKER_01] No pan to zresztą doskonale wie, pan chce potwierdzić moje odpowiedzi, żeby to napisać.
+[SPEAKER_01] To będzie zależało od tego, jaka będzie projekcja spadku inflacji.
+[SPEAKER_01] Jeśli będzie projekcja, że w następnych kwartałach inflacja, jak to kiedyś powiedziałem, leci na łeb, na szyję, na dół, no to wtedy jest możliwa ta decyzja.
+[SPEAKER_01] A jeśli inflacja bardzo powoli się obniża, no to wtedy po 25 będziemy, po 0,25 postępować, 25 punktów bazowych.
+[SPEAKER_01] To zależy jak będzie, ale jeśli ta inflacja gwałtownie się będzie obniżać w projekcie, no to trzeba będzie jakby stosownie do tego działać.
+[SPEAKER_01] My naprawdę, tutaj nie ma żadnych przeciwwskazań w stosunku do tego.
+[SPEAKER_01] Tak od strony czysto ludzkiej, to bym powiedział tak, jak rozmawiałem z członkami rady, nie ma okazji niestety ostatnio, żeby tak dużo mówić, no ale się rozmawia przez te dwa dni.
+[SPEAKER_01] bo mamy inne problemy, to wszyscy są zmęczeni tym, że tak długo nie możemy zacząć obniżać stóp.
+[SPEAKER_01] Już odetchnęliśmy bardzo, jak było 2,5.
+[SPEAKER_01] Myśleliśmy, że już jesteśmy w domu.
+[SPEAKER_01] Rząd podjął decyzję o tym, żeby znieść tę tarczę.
+[SPEAKER_01] Czy musiał, bo taka jest sytuacja budżetowa, czy podjął.
+[SPEAKER_01] To są skomplikowane procesy, o nich się nie mówi na konferencjach.
+[SPEAKER_01] Utrzymywanie tarcz i nie utrzymywanie, jakie konsekwencje i tak dalej.
+[SPEAKER_01] Niektóre kraje utrzymały tarczę, inne nie utrzymały tarczy.
+[SPEAKER_01] Ale jeśli rząd podjął decyzję o odejściu od tarcz, to było wiadomo, że inflacja wystrzeli w górę.
+[SPEAKER_01] I się skończył ten okres, że jesteśmy w 2,5%.
+[SPEAKER_01] My się do tego dostosowujemy, tak jak do deszczu, do pogody, do mrozu, do wichury, do powodzi.
+[SPEAKER_01] Coś następuje i my się do tego odnosimy.
+[SPEAKER_01] Do dobrego albo do złego.
+[SPEAKER_01] My musimy naszym zadaniem, żeby inflację przez dwa lata, ten średni okres, dopchnąć, doprowadzić do 2,5.
+[SPEAKER_01] Spyta Pan, czy zawsze to trzeba zrobić.
+[SPEAKER_01] Jeśli grozi, żeby bezrobocie było kilkadziesiąt procent z tego tytułu, to
+[SPEAKER_01] Podejrzewam, że jakaś tam Rada by przedłużyła ten okres na 3 lata, żeby to bezrobocie nie było 25%, tylko 10%.
+[SPEAKER_01] Ale na szczęście takiej sytuacji nie ma.
+[SPEAKER_01] Tutaj w ogóle, proszę pamiętać, mamy dobrą sytuację.
+[SPEAKER_01] To nie jest ta wysoka inflacja, ta bardzo wysoka, o której mówiliśmy.
+[SPEAKER_01] Natomiast się borykamy z tym normalnie, ale w literaturze takiej dla studentów do 5% inflacja to jest niska inflacja.
+[SPEAKER_01] Ale my teraz wejdziemy być może na 6, może 6,6.
+[SPEAKER_01] Trudno powiedzieć.
+[SPEAKER_01] Ale proszę Państwa, wyglądajmy dobrego.
+[SPEAKER_01] Patrzmy z optymizmem.
+[SPEAKER_01] Tym bardziej, że rok się kończy, będą święta.
+[SPEAKER_01] Zakładam, że to się ułoży korzystniej.
+[SPEAKER_01] Cały czas jest tak, że Polacy pracują ciężej o wiele od innych Europejczyków.
+[SPEAKER_01] i świata, poza wyjątkami, że się rozwijamy szybciej, czasami kilkukrotnie szybciej.
+[SPEAKER_01] Niemcy w recesji, cały czas wzrost powyżej 3%.
+[SPEAKER_01] Patrzmy na to.
+[SPEAKER_01] Młodzi są niecierpliwi, ale cały czas rośnie polska gospodarka szybko.
+[SPEAKER_01] Nadal jest aktualne to, że w ciągu 10 lat dochodzimy do Francji i Anglii.
+[SPEAKER_01] Trzymajmy się tego, co prawda oczywiście studenci to zauważyli.
+[SPEAKER_01] I wskazują, że my ich doganiamy dlatego, że oni stoją w miejscu, ale niektórzy się cofają.
+[SPEAKER_01] Ale Francja się jakoś tam teraz rozwija.
+[SPEAKER_01] Trochę tak jest, ale po prostu Zachód musi znaleźć swoją właściwą ścieżkę, żeby odzyskać konkurencyjność i rozwój, bo się staje powoli takim domem starców, gdzie jest socjal bardzo dobry, jakieś tam bezpieczeństwo, przynajmniej było.
+[SPEAKER_01] Ale dynamiki to nie ma w tym ciele.
+[SPEAKER_01] Dynamiki w Europie już nie ma.
+[SPEAKER_01] Polska, Rumunia, Hiszpania teraz są złożone powody, ale Polska, Rumunia są najbardziej dynamiczne kraje, takie większe, które się rozwijają, ale dzięki pracy.
+[SPEAKER_01] Jak młodzi myślą, że można już tak żyć, w takim stylu życia, jak te kraje zamożne, to nie.
+[SPEAKER_01] A nawet tamte kraje, zmieniając styl życia kosztem pracy, popadają w stagnację.
+[SPEAKER_01] Ale tak zawsze w historii było.
+[SPEAKER_03] Szanowni Państwo, bardzo dziękujemy za dzisiejsze spotkanie.
+[SPEAKER_01] Dziękuję.
+[SPEAKER_03] Zapraszamy na jutro.
+[SPEAKER_04] Plansza końcowa.
+[SPEAKER_04] Na granatowym tle logo Narodowego Banku Polskiego.
+[SPEAKER_04] Poniżej napis.
+[SPEAKER_04] Koniec transmisji.
+[SPEAKER_04] Dziękujemy za uwagę.

@@ -1,0 +1,232 @@
+[UNKNOWN_SPEAKER] Muzyka
+[SPEAKER_06] Dzień dobry Państwu.
+[SPEAKER_06] Witamy serdecznie na konferencji prasowej po posiedzeniu Rady Polityki Pieniężnej.
+[SPEAKER_06] W dzisiejszej konferencji udział biorą Pan Profesor Adam Glapiński, Przewodniczący Rady Polityki Pieniężnej, Prezes Narodowego Banku Polskiego oraz członkowie Rady Polityki Pieniężnej, Pan Profesor Jerzy Osiatyński i Pan Dr Kamil Zubelewicz.
+[SPEAKER_06] Panie Prezesie, bardzo proszę, oddaję Panu głos.
+[SPEAKER_04] Informacja po posiedzeniu Rady Polityki Pieniężnej w dniach 15-16 maja
+[SPEAKER_04] 2018 roku.
+[SPEAKER_04] Rada postanowiła utrzymać stopy procentowe NBP na niezmienionym poziomie.
+[SPEAKER_04] I tak stopa referencyjna wynosi nadal 1,5, stopa lombardowa 2,5, stopa depositowa 0,5 i stopa dyskonta weksli 1,75.
+[SPEAKER_04] W gospodarce światowej utrzymuje się dobra koniunktura, mimo osłabienia tempa wzrostu PKB w największych gospodarkach rozwiniętych na początku roku.
+[SPEAKER_04] W strefie euro, po prawdopodobnie przejściowym obniżeniu wzrostu PKB w pierwszym kwartale bieżącego roku, napływające dane sygnalizują utrzymywanie się korzystnej sytuacji gospodarczej.
+[SPEAKER_04] Także w Stanach Zjednoczonych koniunktura pozostaje dobra, chociaż również sam wzrost PKB w pierwszym kwartale bieżącego roku się osłabiał.
+[SPEAKER_04] Z kolei w Chinach wzrost aktywności gospodarczej od kilku kwartałów kształtuje się na stabilnym poziomie.
+[SPEAKER_04] Mimo korzystnej globalnej koniunktury, inflacja za granicą pozostaje umiarkowana.
+[SPEAKER_04] Przyczyniła się do tego wciąż niska wewnętrzna presja inflacyjna w wielu krajach.
+[SPEAKER_04] Ponadto nadal niższe niż przed rokiem są ceny surowców rolnych.
+[SPEAKER_04] Jednocześnie ceny ropy naftowej wzrosły w ostatnim okresie.
+[SPEAKER_04] Europejski Bank Centralny utrzymuje stopy procentowe na poziomie bliskim zera, w tym stopę depozytową poniżej zera, a także nadal skupuje aktywa finansowe.
+[SPEAKER_04] Rezerwa Federalna Stanów Zjednoczonych kontynuuje natomiast stopniowe zmniejszanie swojej sumy bilansowej, sygnalizując kolejne podwyżki stóp procentowych w przyszłości.
+[SPEAKER_04] Według szybkiego szacunku GUS roczna dynamika PKB w Polsce w pierwszym kwartale bieżącego roku wyniosła 5,1%.
+[SPEAKER_04] Wzrostowi gospodarczemu sprzyja rosnąca konsumpcja wspierana przez zwiększające się zatrudnienie i płace, wypłaty świadczeń oraz bardzo dobre nastroje konsumentów.
+[SPEAKER_04] Towarzyszy temu ożywienie inwestycji.
+[SPEAKER_04] Czynnikiem wspierającym wzrost aktywności gospodarczej pozostaje również dobra koniunktura zagraniczna.
+[SPEAKER_04] Mimo relatywnie wysokiego wzrostu gospodarczego oraz szybszego niż w ubiegłym roku wzrostu płac, dynamika cen konsumpcyjnych pozostaje umiarkowana.
+[SPEAKER_04] Towarzyszy temu nadal niska inflacja po wyłączeniu cen żywności i energii.
+[SPEAKER_04] W ocenie Rady bieżące informacje nadal wskazują na korzystne perspektywy wzrostu aktywności w polskiej gospodarce, mimo oczekiwanego nieznacznego obniżenia się dynamiki PKB w kolejnych latach.
+[SPEAKER_04] Zgodnie z dostępnymi prognozami w horyzoncie oddziaływania polityki pieniężnej inflacja utrzyma się w pobliżu celu inflacyjnego.
+[SPEAKER_04] W efekcie Rada ocenia, że obecny poziom stóp procentowych sprzyja utrzymaniu polskiej gospodarce na ścieżce zrównoważonego wzrostu oraz pozwala zachować równowagę makroekonomiczną.
+[SPEAKER_04] Dziękuję.
+[SPEAKER_06] Dziękuję bardzo.
+[SPEAKER_06] Panie prezesie, bardzo proszę Państwa o zadawanie pytań.
+[SPEAKER_06] Pan redaktor Pudłowski, bardzo proszę.
+[SPEAKER_00] Panie prezesie, w zeszłym miesiącu nakreślił Pan scenariusz stabilnych stóp przez kolejne dwa lata.
+[SPEAKER_00] Jak rozumiem, te napływające dane pewnie nie zmieniły tego.
+[SPEAKER_00] Chciałem zapytać, czy w kontekście tego, co się dzieje na rynku walutowym, nie obawia się Pan, że te stabilne stopy mogą spowodować niestabilną sytuację złotego i dalsze osłabianie się go?
+[SPEAKER_00] Nie, nie obawiam się.
+[SPEAKER_00] Nawet jeśli przez kolejne dwa lata wzrosną stopy w innych krajach, bo przecież jak sami Państwo piszecie, rosną stopy w Stanach.
+[SPEAKER_00] W Stanach.
+[SPEAKER_00] I w Europie też w ciągu dwóch lat się rynek spodziewa, że te stopy wzrosną.
+[SPEAKER_04] Trudno powiedzieć.
+[SPEAKER_04] Wróciłem chyba w zeszłym tygodniu z Bazylei, z tego co dwumiesięcznego spotkania czołowych banków świata.
+[SPEAKER_04] No i właściwie tam przez wszystkich prezesów tych najważniejszych banków deklarowana była wola kontynuacji dotychczasowej polityki.
+[SPEAKER_04] Trwała dyskusja, czy już zaczyna się przegrzanie gospodarki, czy jeszcze jesteśmy w tej fazie szczytowej koniunktury, która trwa od dłuższego czasu.
+[SPEAKER_04] Przeważała opinia, że ta dobra koniunktura trwa i jeszcze będzie trwała.
+[SPEAKER_04] Natomiast potem będzie raczej spadek koniunktury, a nie jej wzrost.
+[SPEAKER_04] Dlatego podnoszenie stóp procentowych byłoby nieadekwatne.
+[SPEAKER_06] Pani redaktor Bartyszel, bardzo proszę.
+[SPEAKER_02] Dorota Bartyszel, Bloomberg News.
+[SPEAKER_02] W sumie jestem wdzięczna koledze za to pytanie, bo też troszeczkę mnie to drąży.
+[SPEAKER_02] Wcześniej wśród ryzyk, które wskazywano przy Państwa takim uporczywym trwaniu przy wait and see, mówiono m.in., że istnieje ryzyko, że bank centralny w Polsce pozostanie osamotniony, ponieważ wszędzie indziej
+[SPEAKER_02] narasta ta tendencja do zacieśniania.
+[SPEAKER_02] Teraz wydaje się, że w obliczu słabszej niż oczekiwano inflacji za granicą, zdecydowanie nasilających się sygnałów jednak pewnego osłabienia koniunktury za granicą, no i przede wszystkim w obliczu lęku przed wojną handlową,
+[SPEAKER_02] nikt już w tej chwili nie deklaruje pośpiechu z zacieśnianiem stóp procentowych.
+[SPEAKER_02] Czy w związku z tym państwo czują się mniej osamotnieni i cieszą się trochę z tego?
+[SPEAKER_04] Pani to tak powiedziała jakby od strony negatywnej, że byliśmy osamotnieni, dzisiaj czujemy się mniej osamotnieni, a my to odczuwamy po prostu jako potwierdzenie trafności naszych przewidywań, a nie tych, co prorokowali jakieś zacieśnianie polityki monetarnej.
+[SPEAKER_04] Dzieje się tak, jak to przewidywaliśmy.
+[SPEAKER_04] Koniunktura doszła do pewnego wysokiego pułapu, utrzymuje się na nim, może lekko schodzi w dół, ale łagodnie.
+[SPEAKER_04] Nadal mamy wyjątkowo dobry okres w naszej historii finansowej i w historii finansowej Europy, ale przewidywany, że w pewnym momencie ten ruch będzie już w dół.
+[SPEAKER_04] Natomiast cały czas cieszymy się czymś, co w Bazylei, ku pewnym rozbawieniu może innych nazwałem cudem finansowym, że mamy do czynienia tak długo z bezinflacyjnym wzrostem.
+[SPEAKER_04] To jest naprawdę swego rodzaju cud, że mamy tak długi okres, tyle kwartałów bezinflacyjnego wzrostu.
+[SPEAKER_04] To nie zostało dostatecznie zresztą dobrze jakoś zinterpretowane przez teoretyków, przez świat profesury, tych, co się zajmują od strony bardziej teoretycznych finansami, ale tak jest.
+[SPEAKER_04] Mamy wiele, wiele kwartałów bezinflacyjnego wzrostu.
+[SPEAKER_04] No i to w naszym przypadku ostatnio 5,1.
+[SPEAKER_04] To jest wysoki wzrost, a inflacji nie ma.
+[SPEAKER_04] Co więcej, nawet tego, czego się niektórzy bardzo obawiali, presji płacowej nie ma.
+[SPEAKER_04] Tak to się składa.
+[SPEAKER_04] W Niemczech mamy teraz od kilku miesięcy gorszą koniunkturę.
+[SPEAKER_04] Jeszcze analitycy, zarówno Niemieccy, jak i my obserwując to nie wiemy, czy to jest przejściowy stan, czy on zwiastuje jakąś dłuższą tendencję.
+[SPEAKER_04] Tam były szereg zjawisk jednorazowych.
+[SPEAKER_04] Zakładamy, że nie jest to stałe wydarzenie, ale raczej wszyscy się spodziewają, że pewnego dnia to nastąpi.
+[SPEAKER_04] Natomiast jeśli chodzi o moje przewidywania,
+[SPEAKER_04] który tak śmiało wobec Państwa prezentuję.
+[SPEAKER_04] Proszę pamiętać, to są na zasadzie takie kobiece intuicje w dużej mierze, chociaż oparte na naszych projekcjach.
+[SPEAKER_04] Wydaje mi się, że raczej na pewno do końca tego roku i przez cały następny rok nie będzie powodów, żeby zmieniać poziom stóp procentowych, a może dłużej.
+[SPEAKER_04] A może dłużej.
+[SPEAKER_04] Myślę o 2020 roku, ale z czym zapewnia np. pan dr Zubelewicz się na pewno nie zgodzi.
+[SPEAKER_04] Ale wydaje mi się, że takie tu będzie większościowe stanowisko, że nie będzie obiektywnych przyczyn.
+[SPEAKER_04] Przyczyną mogłoby być tylko przewidywanie pewnych przyszłych zdarzeń.
+[SPEAKER_04] co jest dalece niepewne.
+[SPEAKER_04] A ja się mieszczę w głównym nurcie projekcji naszego staffu, który, jak wiecie Państwo, jest w Polsce najlepszy, a być może i szerzej niż w Polsce.
+[SPEAKER_04] Jak dotąd, to oni mieli rację, a nie różni inni z banków komercyjnych czy zagranicznych, którzy przewidywali inny rozwój sytuacji.
+[SPEAKER_04] Stopy procentowe i zacieśnianie polityki monetarnej ma miejsce w Stanach Zjednoczonych.
+[SPEAKER_04] Zgodnie z opowiedziami wyborczymi konsekwentnie ekipa prezydenta Trumpa realizuje ten zamysł luzowania fiskalnego, bardzo istotnego, prorozwojowego, prowzrostowego i zacieśniania monetarnego.
+[SPEAKER_04] W związku z tym dolar się szalenie umocnił, wprowadził w dalece ambarasujący stan całą Amerykę Południową, gdzie sytuacja jest bardzo trudna z tego powodu, że oni są zadłużeni w dolarach.
+[SPEAKER_04] I znaleźli się w bardzo nieprzyjemnej sytuacji.
+[SPEAKER_04] No i następuje pewien wyciek kapitału, odpływ kapitału z innych krajów do papierów amerykańskich.
+[SPEAKER_04] Ale nas to w żaden sposób nie dotyka, tak żebyśmy to jakoś negatywnie odczuwali.
+[SPEAKER_06] I kolejne pytanie, bardzo proszę.
+[SPEAKER_05] Paweł Sobczak z agencji Reuters.
+[SPEAKER_05] Dzień dobry.
+[SPEAKER_05] Chciałem się spytać, czy w Pana ocenie, Panie Prezesie, te dane, o których Pan wspominał i te, które napłynęły w ciągu ostatniego miesiąca, zwiększają szanse stabilizacji stóp procentowych również w 2020 roku?
+[SPEAKER_04] to jest daleko idąca projekcja.
+[SPEAKER_04] Naprawdę jest trudno przewidzieć, co będzie w 2020, przede wszystkim w planie politycznym, społecznym itd.
+[SPEAKER_04] Mamy bardzo nagłe, o tym nawet dzisiaj rozmawialiśmy, chociaż to nie należy do rzasych zadań, ale to jakby jest silny czynnik, z którym się możemy liczyć.
+[SPEAKER_04] Następuje cały szereg niespodziewanych zdarzeń w kwestiach zagranicznych, politycznych na arenie światowej, świecie Zachodu, na Bliskim Wschodzie.
+[SPEAKER_04] ta potencjalna wojna handlowa, to są czynniki niemożliwe do przewidzenia.
+[SPEAKER_04] Oczywiście, gdyby jakieś takie gwałtowne zjawiska nastąpiły, które by miały silny skutek ekonomiczny, finansowy, to się do tego odniesiemy, ale my zakładamy, że nie ma żadnej nadzwyczajnej sytuacji.
+[SPEAKER_04] I w ramach tej nienadzwyczajnej sytuacji, to ja bym ten 2020 rok jeszcze widział, jako właśnie w ramach projekcji, jako ten rok, gdzie tą stabilność bym widział.
+[SPEAKER_04] Natomiast do końca 2018 i 2019 wydaje mi się przy założeniu, że nie ma tych niespodziewanych wydarzeń, jako takie pewne.
+[SPEAKER_04] Ale powtarzam, w Radzie są różne stanowiska.
+[SPEAKER_04] Dzisiaj też mają Państwo tutaj dwóch przedstawicieli Rady.
+[SPEAKER_04] W różnych kwestiach mamy różne stanowiska, różne przewidywania, ale mówię o takim dominującym, jeśli tak można powiedzieć, mainstreamowym podejściu członków Rady i moim osobiście.
+[SPEAKER_05] To w takim razie, jeżeli Pan pozwoli, Panie Profesorze, chciałem spytać Pana Profesora Osiatińskiego i Pana Doktora Zubelewicza, czy oni zgadzają się z taką pewnością utrzymywania stóp bez zmian, przynajmniej do końca 2019 roku?
+[SPEAKER_01] Dzień dobry Państwu.
+[SPEAKER_01] To jest bardzo długi horyzont i w gruncie rzeczy chcielibyśmy, żeby nie było potrzeby zaciskania.
+[SPEAKER_01] Nie umiemy powiedzieć dobrze,
+[SPEAKER_01] co się dzieje z marżami zysku przedsiębiorstw.
+[SPEAKER_01] W sytuacji, w której jednak jest pewien nacisk ze strony jednostkowych kosztów pracy i następuje takie wyciskanie marż w sektorze przedsiębiorstw.
+[SPEAKER_04] Chociaż dyskutowaliśmy dzisiaj, że ten wzrost płac przyhamował.
+[SPEAKER_01] Trochę przyhamował, ale mimo wszystko jest niższy niż dynamika wydajności pracy.
+[SPEAKER_01] Jedne i drugie mierzone.
+[SPEAKER_01] Wyższe.
+[SPEAKER_01] Tak, wyższe, tak.
+[SPEAKER_01] Wobec tego ten nacisk jest.
+[SPEAKER_01] Widzimy także pewne kłopoty w niektórych segmentach rynku nieruchomości, więc
+[SPEAKER_01] Nie jestem przekonany, czy byłbym sam tak odważny w swoich przewidywaniach, ale to są tylko przewidywania i pan profesor Glapiński też mówi, że w gruncie rzeczy to jest bardzo odległy horyzont i będziemy patrzyli na to, co się będzie działo po drodze.
+[SPEAKER_01] Chodzi o to, że na podstawie dzisiaj dostępnych informacji
+[SPEAKER_01] możemy nieźle przewidywać to, co się będzie działo w ciągu najbliższego roku czy półtora roku.
+[SPEAKER_01] Wtedy, kiedy będziemy się zastanawiali nad tym, co się będzie działo w 2020 roku, to przy takim normalnym opóźnieniu pomiędzy efektami naszych decyzji dotyczących stóp procentowych, a momentem podejmowania decyzji, zważywszy, że to upływa 4 do 6 kwartałów,
+[SPEAKER_01] no to wtedy będziemy się zastanawiali, powiedzmy, za rok czy półtora roku, jakie będą nasze wyobrażenia na temat tego, co się będzie działo w 2020 roku.
+[SPEAKER_01] Dzisiaj ja nie mam takiej pewności, nie umiem powiedzieć, jak to będzie wyglądało, ale też nie wydaje mi się, że z tego, co powiedział pan prezes, wynikało, że tutaj będziemy się tak bardzo wspierali.
+[SPEAKER_01] Pan prezes też nie wie jeszcze, jakie będą nasze przewidywania za rok od dziś.
+[SPEAKER_04] Pan doktor?
+[SPEAKER_03] Jeśli o mnie chodzi to chciałem tutaj powiedzieć czym innym jest to co ja uważam, że trzeba robić, a czym innym jest to co uważa przynajmniej na razie jeszcze większość Rady, chociaż dzisiejsze posiedzenie było bardzo pod tym względem ciekawe z mojego punktu widzenia.
+[SPEAKER_03] Wydaje mi się, że dla większości Rady stabilność stóp procentowych jest też wartością.
+[SPEAKER_03] I w związku z tym, na ile dobrze to oceniam, prawdopodobieństwo zmian stóp jest dość niewielkie.
+[SPEAKER_03] To znaczy on mogłoby do tego dojść, gdyby doszło do jakichś nieprzewidzianych sytuacji negatywnych.
+[SPEAKER_03] Natomiast
+[SPEAKER_03] Przy obecnym stanie wiedzy stopy prawdopodobnie będą stabilne nie tylko do końca 2019 roku, ale przypuszczam, że nawet dłużej.
+[SPEAKER_04] Ta stabilność, tak jak podkreślił dr Zubylewicz, rzeczywiście w naszym przekonaniu jest ważna, bo obserwujemy to, co się dzieje w poprzednich latach.
+[SPEAKER_04] że to się okazało ważne dla inwestorów z całego świata.
+[SPEAKER_04] Trzy lata stabilności.
+[SPEAKER_04] Z dużym prawdopodobieństwem, graniczącym z pewnością, można zaryzykować, że następne lata też tą stabilność nadal
+[SPEAKER_04] Czyli Polska jest rzeczywiście takim obszarem przewidywalności, stabilności, gdzie inwestowanie nie nastręcza żadnego ryzyka, co nas korzystnie wyróżnia od niektórych innych miejsc na świecie.
+[SPEAKER_04] Chociaż jesteśmy w tym koszyku krajów emerging market i cierpimy czasami z powodu tego, że wycena ryzyka dotycząca innych krajów
+[SPEAKER_04] na przykład Turcji, się zmienia nagle.
+[SPEAKER_04] I my też wtedy na tym cierpimy.
+[SPEAKER_04] Natomiast my jako Polska, nasze finanse są naprawdę takim safe haven prawdziwym.
+[SPEAKER_01] Ja tylko chciałem uzupełnić, że w świecie, który z miesiąca na miesiąc, żeby nie powiedzieć z tygodnia na tydzień, staje się coraz bardziej niestabilny.
+[SPEAKER_01] w sposób naturalny skraca się horyzont naszych przewidywań.
+[SPEAKER_01] Ta niestabilność biorąca się z innych miejsc w rozwoju wydarzeń politycznych,
+[SPEAKER_01] przesądza o tym, że ten horyzont naszych przewidywań w taki trochę naturalny sposób staje się bardziej ograniczony.
+[SPEAKER_01] Patrzymy na to, co się może zdarzyć w najbliższych kwartałach, raczej niż w najbliższych dwóch latach.
+[SPEAKER_04] Cieszy nas to, że ta niestabilność nie wynika w żadnej mierze z naszej sytuacji.
+[SPEAKER_04] Mamy jakby taki właśnie cud polegający na tym, że mamy szybki wzrost, nie ma inflacji, nie ma nierównowag.
+[SPEAKER_03] Inflacja jest.
+[SPEAKER_04] Jest, ale nie ma presji inflacyjnej, nie ma nierównowag.
+[SPEAKER_01] Ale w tych warunkach niestabilności zależy nam na tym,
+[SPEAKER_01] żeby przynajmniej jeśli chodzi o sektor przedsiębiorstw w Polsce, nie tworzyć dodatkowych źródeł niestabilności, raczej żeby stwarzać warunki możliwie jak najbardziej stabilne i ułatwiające przewidywania przedsiębiorców.
+[SPEAKER_01] Zwłaszcza, że jak Państwo świetnie wiecie, to co się dzieje w obszarze inwestycji prywatnych,
+[SPEAKER_01] po ostatnich rewizjach GUS-u, no nadal dalekie jest od tego, czego byśmy chcieli.
+[SPEAKER_04] No tak długo pracujemy razem w tej Radzie, że mogę powiedzieć z zadowoleniem, że ten zespół ludzi jakoś się dobrze dotarł.
+[SPEAKER_04] Pracuje nam się dobrze.
+[SPEAKER_04] No i tak jak kolega mówił, to jest ciekawe, dlatego że są naprawdę różne stanowiska, ale dyskusja wygląda dobrze, przekonujemy się, ucieramy się.
+[SPEAKER_04] jest jakiś ostatecznie konsens i to takie też nam daje poczucie pewności co do stabilności naszych działań.
+[SPEAKER_04] Natomiast już poprzednio zdradziłem się Państwu z czymś, co mnie osobiście jakoś trapi, bo mówimy cały czas o ewentualnym zacieśnieniu.
+[SPEAKER_04] Ale jeśli gdzieś tam kiedyś koniunktura opadnie i inflacja będzie spadać, to znajdziemy się w trudnej sytuacji, że nie bardzo jest jak obniżać stopy procentowe, gdyby teoretycznie taka sytuacja kiedyś powstała.
+[SPEAKER_04] Ale to jest takie jakby wybieganie w ewentualną przyszłość.
+[SPEAKER_04] To jest raczej ten problem.
+[SPEAKER_04] Bo jeśli zajdzie konieczność podwyższania, to ten zespół ludzi nie będzie miał kłopotów.
+[SPEAKER_04] z tym, żeby odpowiednie decyzje w odpowiednim czasie podjąć, tak mi się wydaje.
+[SPEAKER_04] Natomiast z tym obniżaniem stóp oczywiście obiektywne trudności były, ze względu na strukturę naszego systemu bankowego.
+[SPEAKER_06] I kolejne pytanie, bardzo proszę.
+[SPEAKER_00] Właściwie do tego chciałem nawiązać, bo w zeszłym miesiącu pan prezes powiedział, że byłby problem z obniżaniem stóp, ale ewentualnie można by znaleźć jakieś niestandardowe rozwiązania w tym dalszym horyzoncie, jak już miną te dwa lata.
+[SPEAKER_00] I chciałem zapytać, jakie by to mogły być narzędzia, co miałyby mieć na celu.
+[SPEAKER_00] I jeszcze chciałem zapytać pozostałych panów, szczególnie doktora Zubajewicza, który postuluje jednak podwyżki cały czas.
+[SPEAKER_00] Czy dla pana podniżka, albo jakieś niestandardowe narzędzia byłyby czymś pożądanym?
+[SPEAKER_04] Ale my mówimy o hipotetycznej sytuacji kiedyś.
+[SPEAKER_04] Kiedy np. tempo wzrostu spadłaby do 1,5%, inflacja byłaby zerowa itd.
+[SPEAKER_04] To mówimy o hipotetycznej okoliczności, na którą musimy być przygotowani.
+[SPEAKER_04] Kryzysy co jakiś czas się w gospodarkach zdarzają.
+[SPEAKER_04] Miejmy nadzieję, że np. do końca naszej kadencji nic takiego nie będzie miało miejsca.
+[SPEAKER_04] Ale myślimy o następnych kadencjach, następnych Radach.
+[SPEAKER_04] Dużo narzędzi Rada Polityki Pieniężnej poprzedniej kadencji, jeszcze poprzedniej już stworzyła.
+[SPEAKER_04] My teraz to analizujemy, porządkujemy, studiujemy od dłuższego czasu już doświadczenia banków centralnych europejskich, Europejskiego Banku Centralnego.
+[SPEAKER_04] Tak patrzymy na takie ewentualne możliwości.
+[SPEAKER_04] Bo jak stare przysłowie mówi, czy mądrość ludowa,
+[SPEAKER_04] Należy takie przygotowania robić wtedy, kiedy wszystko jest doskonale i jest dobrze.
+[SPEAKER_04] Mamy spokojny czas, gdzie możemy nad tym spokojnie pracować.
+[SPEAKER_04] A jakie to są te niestandardowe działania?
+[SPEAKER_04] To jest cały katalog różnych rzeczy.
+[SPEAKER_04] To musi być dopasowane do naszej gospodarki.
+[SPEAKER_04] ale oczywiście w reżimie Europejskiego Banku Centralnego i systemu europejskiego bankowego, w ramach którego jesteśmy.
+[SPEAKER_04] Chciałem mieć uporządkowany katalog.
+[SPEAKER_04] Być może wszystko zostało w uchwałach Rad Polityki Pieniężnej już zawarte, ale nie nastąpiło coś takiego jak kodyfikacja tego wszystkiego.
+[SPEAKER_04] Chociaż były usiłowania w poprzedniej kadencji, ostatecznie to się nie udało.
+[SPEAKER_04] Był nawet projekt ustawy, jak Państwo wiedzą, przygotowywany, w którym jakoś tam uczestniczyła także Rada Polityki Pieniężnej.
+[SPEAKER_04] To nie jest ostatecznie skodyfikowane.
+[SPEAKER_04] No i my tak w ramach intelektualnych ćwiczeń to po prostu analizujemy.
+[SPEAKER_01] Ale też jest ten pakiet instrumentów zaufania, prawda?
+[SPEAKER_01] Pakiet zaufania, tak.
+[SPEAKER_01] Pakiet zaufania, który był przygotowany wtedy, kiedy był kryzys 2.8, 2.9 i właśnie to menu of options… Chociaż nie zaszła konieczność używania wtedy.
+[SPEAKER_01] Nie trzeba było go używać, prawda, ale ten…
+[SPEAKER_04] Chociaż mamy też świadomość, że kryzysy nigdy nie są takie same.
+[SPEAKER_04] Jakby gdzieś tam w przyszłości kryzys następował, to on byłby odmienny na pewno zupełnie od tego, co był poprzednio.
+[SPEAKER_04] To na tym polega problem.
+[SPEAKER_04] A może już świat się zmienił na lepsze i w ogóle już nie będzie kryzysów w historii, tylko podążamy taką oświetlaną drogę do końca historii, takiej cyklicznej.
+[SPEAKER_04] Już teraz cały czas będzie coraz lepiej.
+[SPEAKER_03] Prezes nie wiesz czy końca świata.
+[SPEAKER_04] Będziemy żyli coraz dłużej i coraz bardziej szczęśliwi będziemy.
+[SPEAKER_04] I pytanie było do pana...
+[SPEAKER_03] Jeżeli chodzi o te niestandardowe narzędzia, to jest ważny kontekst i moment, w którym o tym dyskutowaliśmy.
+[SPEAKER_03] Otóż sytuacja jest teraz taka, że wzrost gospodarczy powyżej 5%, inflacja za zeszły rok 2%, inflacja bazowa w tej chwili bardzo niska.
+[SPEAKER_03] Z całą świadomością teraz się tym zajmujemy, żeby nie było żadnego ryzyka, że tego typu narzędzia będą lada moment użyte.
+[SPEAKER_03] Takiego ryzyka nie ma.
+[SPEAKER_03] Po prostu zastanawiamy się,
+[SPEAKER_03] co by się stało, gdyby Polska miała na tyle złą sytuację gospodarczą, jak niektóre inne gospodarki.
+[SPEAKER_03] Co wtedy robić, tak?
+[SPEAKER_03] I chodzi o to, żeby nasza polityka była przewidywalna, oparta o doświadczenia dobre innych państw, nie oparta o doświadczenia złe.
+[SPEAKER_03] Także w tej chwili nie ma żadnych widoków na używanie tego typu narzędzi.
+[SPEAKER_03] I myślę, że jest to dobra i odpowiedzialna właśnie postawa, żeby się zastanawiać co w kolejnym wariancie jakimś pesymistycznym ewentualnie gdyby.
+[SPEAKER_03] Natomiast przewidywania dotyczące wzrostu gospodarczego są dość korzystne i te dotyczące inflacji również w ramach obecnie obowiązującego paradygmatu się jak najbardziej mieszczą.
+[SPEAKER_03] Także niestandardowe narzędzia, owszem, może kiedyś, ale oby nie i na razie przy tym zostajemy.
+[SPEAKER_04] Dla dziennikarzy ekonomicznych i finansowych może to nie jest najszczęśliwszy okres te lata wszystkie, bo trochę nie ma o czym pisać, ale to jest naprawdę wyjątkowy, zupełnie dobry czas.
+[SPEAKER_04] On trwa już kilka lat i wszystko wskazuje na to, jeśli nie będzie tych niespodziewanych okoliczności, o których profesor Oświatyński mówił, że jeszcze dwa lata co najmniej potrwa, może więcej, to już nie wiemy.
+[SPEAKER_04] To jest wyjątkowy zupełnie okres.
+[SPEAKER_04] Tak się stało, że akurat jestem wtedy prezesem i że koledzy są członkami Rady Polityki Pieniężnej, bo różne te Rady Polityki Pieniężnej poprzednio wyglądały.
+[SPEAKER_04] Czasami okoliczności były wymagające bardzo śmiałych decyzji i niejednoznacznych.
+[SPEAKER_04] Na razie jest tak, że jestem pierwszym prezesem Narodowego Banku Polskiego, który jeździ wszędzie za granicę i o nic nie prosi.
+[SPEAKER_04] To jest naprawdę duża satysfakcja, ale na początku nawet tak się czułem niezręcznie w takiej roli, że nas proszą.
+[SPEAKER_04] Proszą nas o środki dla Banku Światowego, dla Międzynarodowego Funduszu, pożyczkę, a my nie zabiegamy ani o pożyczkę, ani o przedłużenie pożyczki, o jakąś elastyczną linię kredytową, o prolongację spłat, o redukcję płat, o nic.
+[SPEAKER_04] Stajemy się krajem, który zaczyna pomagać innym i pomaga innym.
+[SPEAKER_04] I to jest sytuacja taka luksusowa.
+[SPEAKER_04] Chociaż też się nami nikt nie interesuje z tego względu, bo my nie jesteśmy żadnym ciekawym przypadkiem.
+[SPEAKER_04] No wszystkie konferencje, a Polska, no to wiadomo, tam wszystko dobrze idzie i mają dobry wzrost i inflację i nie mają nierównowag.
+[SPEAKER_04] No nie ma właściwie o czym mówić.
+[SPEAKER_04] Banalna taka sytuacja.
+[SPEAKER_04] Ciekawszy jest przypadek, nie wiem, Argentyny teraz na przykład.
+[SPEAKER_04] Co się dzieje w Argentynie.
+[SPEAKER_04] No jest o czym mówić i robić konferencje.
+[SPEAKER_04] Polska jest takim przypadkiem ciekawym.
+[SPEAKER_04] I sobie tego życzymy, żeby tak było dalej oczywiście.

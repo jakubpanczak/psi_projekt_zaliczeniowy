@@ -1,0 +1,335 @@
+[SPEAKER_07] Dzień dobry Państwu.
+[SPEAKER_07] Witamy bardzo serdecznie na konferencji po posiedzeniu Rady Polityki Pieniężnej.
+[SPEAKER_07] W dzisiejszej konferencji udział biorą pan prof. Adam Glapiński, przewodniczący Rady Polityki Pieniężnej, prezes Narodowego Banku Polskiego oraz członkowie Rady Polityki Pieniężnej pan dr Jerzy Kropiwnicki oraz pan prof. Eryk Łony.
+[SPEAKER_07] Panie prezesie, bardzo proszę, oddaję panu głos.
+[SPEAKER_05] Informacja po posiedzeniu RPP w dniach 2-3 października.
+[SPEAKER_05] Rada postanowiła utrzymać stopy procentowe NBP na niezmienionym poziomie.
+[SPEAKER_05] Stopa referencyjna 1,5, stopa lombardowa 2,5, stopa depozytowa 0,5, stopa redyskontowe 1,75.
+[SPEAKER_05] W gospodarce światowej utrzymuje się dobra koniunktura.
+[SPEAKER_05] W strefie euro sytuacja gospodarcza pozostaje korzystna, mimo nieco wolniejszego niż w 2017 roku tempa wzrostu gospodarczego.
+[SPEAKER_05] W Stanach Zjednoczonych wzrost gospodarczy jest szybszy niż przez rok, co potwierdza, że koniunktura w tej gospodarce jest bardzo dobra.
+[SPEAKER_05] W Chinach od kilku kwartałów wzrost aktywności gospodarczej utrzymuje się na stabilnym poziomie.
+[SPEAKER_05] Od początku roku nastąpił istotny wzrost cen surowców energetycznych, w tym ropy naftowej, na rynkach światowych.
+[SPEAKER_05] Przyczyniło się to do podwyższenia inflacji w wielu krajach.
+[SPEAKER_05] Jednocześnie inflacja bazowa w otoczeniu polskiej gospodarki, w tym strefie euro, pozostaje umiarkowana, pomimo utrzymującej się tam dobrej koniunktury.
+[SPEAKER_05] Europejski Bank Centralny utrzymuje stopy procentowe na poziomie bliskim zera,
+[SPEAKER_05] w tym stopę depozytową poniżej zera.
+[SPEAKER_05] Jednocześnie EBC nadal skupuje aktywa finansowe, choć zmniejsza skalę zakupu i zapowiada jego zakończenie z końcem 2018 roku.
+[SPEAKER_05] Rezerwa federalna Stanów Zjednoczonych podwyższyła we wrześniu stopy procentowe, kontynuując stopniowe zmniejszenie swojej sumy bilansowej.
+[SPEAKER_05] W Polsce napływające dane wskazują na utrzymywanie się dobrej koniunktury.
+[SPEAKER_05] Wzrostowi aktywności gospodarczej sprzyja rosnąca konsumpcja wspierana przez zwiększające się zatrudnienie i płace, wypłaty świadczeń oraz bardzo dobre nastroje konsumentów.
+[SPEAKER_05] Towarzyszy temu wzrost inwestycji.
+[SPEAKER_05] Czynnikiem wspierającym wzrost aktywności gospodarczej pozostaje również dobra koniunktura za granicą.
+[SPEAKER_05] Mimo wysokiego wzrostu gospodarczego oraz szybszego niż w ubiegłym roku wzrostu płac, dynamika cen konsumpcyjnych pozostaje umiarkowana.
+[SPEAKER_05] nieco wyższy niż w pierwszym kwartale bieżącego roku roczny wskaźnik CPI jest głównie efektem wzrostu cen paliw.
+[SPEAKER_05] Jednocześnie inflacja po wyłączeniu cen żywności i energii pozostaje niska.
+[SPEAKER_05] W ocenie Rady bieżące informacje wskazują na korzystne perspektywy wzrostu aktywności w polskiej gospodarce, mimo oczekiwanego obniżania się dynamiki PKB w kolejnych kwartałach.
+[SPEAKER_05] Zgodnie z dostępnymi prognozami w horyzoncie oddziaływania polityki pieniężnej, inflacja utrzyma się w pobliżu celu inflacyjnego.
+[SPEAKER_05] W efekcie Rada ocenia, że obecny poziom stóp procentowych sprzyja utrzymaniu polskiej gospodarki na ścieżce zrównoważonego wzrostu, ale pozwala zachować równowagę makroekonomiczną.
+[SPEAKER_07] Dziękuję bardzo Panie Prezesie.
+[SPEAKER_07] Bardzo proszę Państwa o zadawanie pytań.
+[SPEAKER_07] Pan redaktor Tuszyński, bardzo proszę.
+[SPEAKER_00] Dzień dobry, Rafał Tuszyński, Polska Agencja Prasowa.
+[SPEAKER_00] Doktor Zubelewicz powiedział w niedawnym wywiadzie, że w Radzie narasta niepewność odnośnie otoczenia wewnętrznego i tutaj wskazał jednoznacznie na rosnące ceny energii, o które jeszcze dopytam.
+[SPEAKER_00] I wskazał też, że wymusza to większą ostrożność w deklarowaniu horyzontu stabilnych stóp procentowych.
+[SPEAKER_00] Panie Prezesie, w trakcie ostatniej konferencji wydaje się, że również Pan złagodził stanowisko odnośnie kwestii stabilności stóp.
+[SPEAKER_00] I odszedł od jednoznacznych deklaracji, że pozostaną one bez zmian do końca 2020 roku.
+[SPEAKER_00] I chciałbym zapytać, czy również panu udziela się ta niepewność, o której doktor Zubelewicz wspomniał?
+[SPEAKER_00] Z jaką pewnością stopy procentowe pozostaną bez zmian do końca 2019?
+[SPEAKER_00] No i co z poziomem stóp w 2020 roku?
+[SPEAKER_05] Jeśli chodzi o początek pana wypowiedzi, no rzeczywiście pan doktor Zubelewicz ma takie stanowisko.
+[SPEAKER_05] Jeśli chodzi o drugą część, no to ja nigdy nie zapowiadałem stabilności do końca 2020 roku.
+[SPEAKER_05] Odważnie wybiegałem w przód i powiedziałem, że z olbrzymim prawdopodobieństwem te stabilne stopy mogą być do końca 2019 roku.
+[SPEAKER_05] A gdyby nic się nie zmieniło, to dalej, ale na 2020 rok nie śmiem rozwijać żadnych przewidywań, bo to jest zbyt odległy okres.
+[SPEAKER_05] Ale na razie sytuacja jest bardzo stabilna.
+[SPEAKER_05] I zakładam, że w 2019 roku także będzie.
+[SPEAKER_00] Kolejne pytanie?
+[SPEAKER_00] Bardzo mnóstwo.
+[SPEAKER_00] Chciałbym teraz zapytać się, jak Rada widzi kształtowanie się cen energii w krótkim i średnim terminie i ich wpływ na inflację.
+[SPEAKER_00] Ta kwestia znalazła ozwierciedlenie też w dzisiejszym komunikacie.
+[SPEAKER_00] Bo ceny ropy naftowej są najwyższe od 4 lat.
+[SPEAKER_00] Niektórzy analitycy wskazują, że będą rosnąć w kierunku 100 dolarów nawet za baryłkę.
+[SPEAKER_00] Przy czym z punktu widzenia sytuacja na rynku energii w naszym kraju wskazuje również na jednoznaczny wzrost cen prądu.
+[SPEAKER_00] Mam pytanie, czy Rada widzi ryzyko, że wzrost cen prądu i innych nośników energii może znacząco podbić inflację w 2019 roku?
+[SPEAKER_05] Jeśli widzimy ryzyko, było to przedmiotem...
+[SPEAKER_05] obszernej analizy w ciągu dzisiejszego dnia.
+[SPEAKER_05] Chyba większość czasu była poświęcona temu zagadnieniom.
+[SPEAKER_05] Proszę pamiętać, że te ceny są regulowane.
+[SPEAKER_05] No i też, że przychodzą jakby z zewnątrz.
+[SPEAKER_05] Rada Polityki Pieniężnej poprzez politykę pieniężną nie ma wpływu na ten rodzaj inflacji, który jest przynoszony z zewnątrz.
+[SPEAKER_05] Nasze decyzje odnoszą się do tego, co dotyczy innego rodzaju podwyżek cen.
+[SPEAKER_05] Także to też trzeba wziąć pod uwagę.
+[SPEAKER_05] No mamy projekcje.
+[SPEAKER_05] którą wspieramy, którą przyjęliśmy i której bronimy, z której wynika, że nic niepokojącego w tym projekcie inflacji nie powinno mieć miejsca.
+[SPEAKER_05] Natomiast kwestia decyzji urzędów regulacyjnych to jest decyzja urzędowa.
+[SPEAKER_00] A czy możemy coś powiedzieć już o projekcji, o ścieżce PKB i inflacji?
+[SPEAKER_05] Mówię o poprzedniej projekcji, a nowa dopiero będzie...
+[SPEAKER_05] w swoim czasie, ale z góry mogę powiedzieć, że żadnych rewolucyjnych zmian tak jak do dnia dzisiejszego to mogę stwierdzić nie ma.
+[SPEAKER_05] Pan prezydent chciałby coś dodać o energii, bo się specjalizuje w informacjach z rynku ropy naftowej.
+[SPEAKER_04] Obserwujemy ten rozwój sytuacji na rynkach światowych.
+[SPEAKER_04] Widzimy powody, dla których te ceny ropy naftowej, ale także ostatnio i gazu ziemnego,
+[SPEAKER_04] zwyżkują i jak to się przenosi na nasz rynek wewnętrzny, można powiedzieć, nawet czasami w sposób, który
+[SPEAKER_04] przyczynami rynkowymi nie daje się wyjaśnić.
+[SPEAKER_04] Mamy bowiem tu w kraju rynek cen regulowanych w większości tych środków energetycznych.
+[SPEAKER_04] Mamy regulację dotyczącą elektryczności, mamy regulacje dotyczące gazu i wobec powyższego zdajemy sobie sprawę z tego, że
+[SPEAKER_04] Działają tutaj dwa czynniki.
+[SPEAKER_04] To znaczy jeden to jest zewnętrzny, który w ogóle leży poza granicami naszego państwa i wynika w znacznej mierze z decyzji prezydenta Stanów Zjednoczonych odnośnie układu z Iranem oraz sankcji nałożonych na Wenezuelę.
+[SPEAKER_04] Oraz pewnych rzeczy, które już mają charakter ściśle techniczny, tam liczba wież raz mniejsza, raz wiertniczych, raz mniejsza na terenie tego zagłębia Permu.
+[SPEAKER_04] Wiemy, że Stany Zjednoczone osiągnęły, że tak powiem, maksymalny poziom wykorzystania swoich mocy przesyłowych i nie są w stanie tutaj w krótkim okresie czasu zwiększyć podaży, choć prezydentowi Trumpowi byłoby to bardzo na rękę, zważywszy, że mamy okres wyborów do Kongresu Amerykańskiego.
+[SPEAKER_04] Mamy też świadomość, że kraje OPEC, które początkowo deklarowały gotowość uzupełnienia tego, co w wyniku wyjścia
+[SPEAKER_04] Iranu z rynku wskutek sankcji amerykańskich się dokonało, mówię o stratach podaży, jak dotąd nie kompensują w pełni tej straty, co według jednych wynika stąd, że także prezydenta Trumpa, że chcą po prostu zarobić na tej sytuacji, a według drugich
+[SPEAKER_04] że ma tutaj także znaczenie to, że zapas wolnych mocy wytwórczych tak naprawdę jest tylko w obszarze Arabii Saudyjskiej i one nie są aż tak wielkie, żeby całkowicie pokryć ubytek ropy Iranu.
+[SPEAKER_04] Jesteśmy tego świadomi.
+[SPEAKER_04] Jesteśmy także świadomi tego, że urząd w Polsce
+[SPEAKER_04] wydając zgodę na takie czy inne ceny zaopatrzenia w elektryczność czy w gaz, stara się ochronić gospodarstwa domowe.
+[SPEAKER_04] Ale jednocześnie wiemy, że
+[SPEAKER_04] Przerzucenie kosztu podwyżki na przedsiębiorstwa za jakiś czas wróci w postaci wzrostu cen dóbr i usług świadczonych przez te przedsiębiorstwa.
+[SPEAKER_04] To wszystko bierzemy pod uwagę, a konkluzja jest taka, jaką Pan Prezes przed chwilą przedstawił.
+[SPEAKER_05] Analizowaliśmy też oczywiście rynek pracy w sytuacji płacową i wbrew różnym publicznie wyrażonym opiniom nie stwierdziliśmy tam żadnych
+[SPEAKER_05] alarmistycznych sygnałów, wszystko się dokonuje mniej więcej tak, jak to przewidziano w naszej projekcji.
+[SPEAKER_03] Jeżeli można o ceny innych surowców, bo tutaj rzeczywiście ceny paliw, rzeczywiście były te trendy wzrostowe, ale jak popatrzymy na ceny metali, czy ceny żywności, czyli inne segmenty, szeroko pojętych segmentów surowcowych, to jest tutaj zrównoważenie pewne.
+[SPEAKER_03] Także myślę, że to się, jeżeli chodzi o ceny surowców, się równoważy.
+[SPEAKER_03] Także tutaj bym tego też tak bardzo nie dostrzegał, że takich zagrożeń właśnie inflacyjnych.
+[SPEAKER_04] Zresztą my sobie od czasu do czasu powtarzamy, że tak naprawdę decydując o stopach procentowych, decydujemy o cenie kredytu.
+[SPEAKER_04] I wobec tego po całej analizie jeszcze raz wracamy do problemu, czy przyszedł czas na podniesienie kredytu.
+[SPEAKER_04] No i odpowiedź jest nie, nie przyszedł.
+[SPEAKER_07] Dziękuję bardzo.
+[SPEAKER_07] Pani redaktor Bartyzel, bardzo proszę.
+[SPEAKER_02] Chciałabym mimo wszystko dopytać o te ceny energii, bo wydaje mi się to troszeczkę odbiegające jednak od tego, co coraz częściej pojawia się w analizach specjalistów śledzących ceny energii w Polsce, które na rynku patrząc na kontrakty na 2019 rok wzrosły ponad 60%.
+[SPEAKER_02] I ja rozumiem z wypowiedzi Panów, że z analizy Rady Polityki Pieniężnej wynika, że to nie będzie miało przełożenia na CPI, ale w pierwszej kolejności chciałabym tylko usłyszeć, że rzeczywiście nie będzie miało to przełożenia na CPI i że już Państwo to wiedzą albo jakoś się z tym liczą.
+[SPEAKER_02] bo równocześnie ceny energii w Polsce są najdroższe w całej Europie obok Belgii, w związku z czym to jest potworne uderzenie w konkurencyjność przedsiębiorstw, w związku z czym także w rozwój gospodarczy.
+[SPEAKER_02] To chciałabym prosić o komentarz w obu tych aspektach.
+[SPEAKER_05] Proszę pamiętać, że nasze przedsiębiorstwa są wysoce konkurencyjne i polska gospodarka jest wysoce konkurencyjna ze względu na niski koszt pracy w Polsce i wiele innych czynników i to się nie zmienia.
+[SPEAKER_05] Ogólnie w całym okresie prognostycznym przewidujemy lekkie spowolnienie wzrostu i lekkie podniesienie się inflacji, ale w granicach
+[SPEAKER_05] naszego celu inflacyjnego.
+[SPEAKER_05] Bierzemy pod uwagę wzrost cen energii oczywiście.
+[SPEAKER_05] Cen energii w Polsce są wysokie z racji przestarzałego systemu energetycznego, w szczególności przesyłu źródeł energii.
+[SPEAKER_05] Temat jest bardzo szeroki.
+[SPEAKER_05] Mieliśmy pełną informację na ten temat.
+[SPEAKER_05] To jest czynnik, który jest absolutnie niezależny od nas.
+[SPEAKER_05] Nas bardziej interesuje, czy z powodu wzrostu cen energii następuje jakaś spirala, jakiś efekt w postaci na rynku pracy czy na rynku płac, czy w sferze płac.
+[SPEAKER_05] Przewidujemy pewien inflacyjną tendencję, ale
+[SPEAKER_05] w okresie docelowym nieprzekraczającą naszego celu inflacyjnego plus przewidziane pasmo odchyleń.
+[SPEAKER_03] Jeżeli można jeszcze odnośnie cen ropy, to tak krótkookresowo patrząc na wykresy Brent i WTI, to rzeczywiście na wykresie Brent, z tego co pamiętam, to ten trzyletni szczyt został przebity w górę, natomiast nie potwierdziło się jeszcze przebicie szczytu na WTI.
+[SPEAKER_03] Także tutaj nie są takie jednoznaczne argumenty za tym, czy te zwyżki będą kontynuowane.
+[SPEAKER_03] Zobaczymy, czas pokaże, zobaczymy.
+[SPEAKER_03] Tu trzeba więcej czynników brać pod uwagę.
+[SPEAKER_07] Pan redaktor Sobczak, bardzo proszę.
+[SPEAKER_06] Dzień dobry, Paweł Sobczak z Agencji Reutera.
+[SPEAKER_06] Jeżeli Państwo pozwolicie, to na chwilę chciałbym zmienić temat i spytać o Państwa komentarze dotyczące, to już ostatnio pojawiły, dotyczące niestandardowych środków polityki pieniężnej.
+[SPEAKER_06] Chciałem się spytać, jak te prace wyglądają i jakie środki są brane przez Państwa pod uwagę.
+[SPEAKER_05] Co roku odbyła się dyskusja na temat złożeń polityki pieniężnej, na przyszły rok.
+[SPEAKER_05] W tym roku wyjątkowo dużo miejsca poświęciliśmy analizie tych tzw. niestandardowych narzędzi stosowanych przez banki w krajach wyżej rozwiniętych, w szczególności w zachodniej Europie, Ebecu, ale także krajów, które nie są w strefie euro.
+[SPEAKER_05] Poddaliśmy to wszystko analizie.
+[SPEAKER_05] Zastanawialiśmy się, czy teoretycznie w przypadku kryzysu
+[SPEAKER_05] W Polsce podobnego do roku 2007 czy 2008 moglibyśmy w ramach istniejących regulacji prawnych zastosować te środki.
+[SPEAKER_05] Jak wiedzą Państwo, po kryzysie 2008 podjęto cały szereg decyzji, także przez Radę Polityki Pieniężnej, które rozszerzyły instrumentarium.
+[SPEAKER_05] Nie ma żadnej potrzeby, żebyśmy po nie sięgali, ale po długiej, długiej analizie, prawniczo-ekonomicznej w gruncie rzeczy, doszliśmy do wniosku, że to w tych naszych założeniach się skończyło.
+[SPEAKER_05] mieści.
+[SPEAKER_05] Wszystkie narzędzia niestandardowe stosowane w Europie Zachodniej są dopuszczone przez nasze założenia polityki pieniężnej.
+[SPEAKER_05] Tak to jest ogólnie u nas sformułowane i tak wygląda ustawa i konstytucja, że na to nam pozwalają.
+[SPEAKER_05] Czyli w przypadku jakiegoś hipotetycznego
+[SPEAKER_05] tryzysu, którego na horyzoncie nie widać stanowczo, moglibyśmy to robić.
+[SPEAKER_05] No ale dyskusja była bardzo długa, właściwie rok prawie trwała, a 3-4 roku to z dużym natężeniem.
+[SPEAKER_05] Ogromne dokumenty powstały, które znakomicie podniosły naszą wiedzę o sposobach implementowania tego rodzaju narzędzi.
+[SPEAKER_05] Jesteśmy na to w razie czego przygotowani.
+[SPEAKER_04] Albo nasi następcy.
+[SPEAKER_05] Raczej.
+[SPEAKER_06] A Panów zdaniem, czy Państwo się odpowiadają przed uczeniem operacji otwartego rynku?
+[SPEAKER_06] Bo tam było też rozumiem postulat 3-6 miesięcznych tej operacji tego typu.
+[SPEAKER_05] To jest nowa propozycja.
+[SPEAKER_05] No będziemy o tym dyskutować.
+[SPEAKER_05] Zobaczymy.
+[SPEAKER_05] No jak Państwo wiedzą u nas jest ustalona reguła postępowania i oddziaływania.
+[SPEAKER_05] I ona się sprawdza.
+[SPEAKER_05] Jak wiedzą Państwo, stawka Polonia jest bardzo blisko naszych stóp procentowych.
+[SPEAKER_05] To dobrze działa.
+[SPEAKER_05] Gdybyśmy czegoś innego jeszcze oczekiwali od rynku, to moglibyśmy jakiś ten instrumentarium poszerzyć.
+[SPEAKER_03] Tutaj jeszcze może powiem tak odnośnie instrumentów niestandardowych, to też osobiście uważam, że warto w przyszłości poszerzyć instrumenty banku centralnego, naszego banku centralnego, ale to tak jak tutaj powiedział Pan Prezes, że możliwość zastosowania takich instrumentów można dopuścić właśnie w sytuacjach, kiedy doszło do jakiegoś spowolnienia silnego naszej gospodarki koniunktury,
+[SPEAKER_03] Ale patrząc też na inne banki centralne, to właśnie to zwłaszcza podkreślam, że warto mieć pewne instrumenty, mieć szersze spektrum możliwości działania.
+[SPEAKER_03] Tak jak inne banki centralne wspierają swoje gospodarki, żebyśmy my też mogli wspierać polską gospodarkę, jeżeli będzie taka konieczność.
+[SPEAKER_07] Bardzo proszę, kolejne pytanie.
+[SPEAKER_07] Pan redaktor Tuszyński.
+[SPEAKER_07] Proszę.
+[SPEAKER_00] Tak, bym chciał kontynuować ten temat nowych, trzy i sześciomiesięcznych operacji otwartego rynku, o których ostatnio w wywiadzie wspomniał profesor Hart.
+[SPEAKER_00] Jaki miałby być cel wprowadzenia tych instrumentów i ewentualnie jaka miała być ich struktura, czyli czy chodziłoby o dostarczanie płynności na rynek?
+[SPEAKER_00] Jeśli tak, to dlaczego, skoro obecnie utrzymuje się w systemie nadpłynność, czy też może te instrumenty miałyby ściągać płynność?
+[SPEAKER_05] To za wcześnie, żeby na ten temat dyskutować.
+[SPEAKER_05] No będziemy...
+[SPEAKER_05] rozmawiać, tworzyć różne modele.
+[SPEAKER_05] To dopiero w tej chwili zaczęliśmy obrabiać jakby ten materiał analitycznie, do czego by to się mogło przydać, czy byłoby korzystne, czy niekorzystne.
+[SPEAKER_05] No przyjdzie czas, to o tym porozmawiamy, no pewnie za kilka miesięcy.
+[SPEAKER_00] A czy ewentualne wprowadzenie takich operacji otwartego rynku nowych, to mieściłoby się w obecnych założeniach, tak jak ten jest?
+[SPEAKER_05] No w założeniach oczywiście, że tak.
+[SPEAKER_07] Pani redaktor Bartyzel, bardzo proszę.
+[SPEAKER_02] Chciałabym tylko Panie Prezesie, ale też może to pytanie do Pana doktora Kropiwnickiego.
+[SPEAKER_02] Dopytać jednak o te niestandardowe instrumenty, jeśli wśród nich mieści się skup obligacji korporacyjnych.
+[SPEAKER_02] Czy to jest w tym instrumentarium?
+[SPEAKER_05] To się mieści w naszym instrumentarium.
+[SPEAKER_05] Taki jest zapis protokołu z posiedzenia Rady Polityki Pieniężnej.
+[SPEAKER_06] O to zadbała już poprzednia Rada.
+[SPEAKER_05] Dokonując różnego rodzaju zapisów po kryzysie 2007-2008.
+[SPEAKER_04] Oczywiście z dużymi obostrzeniami, bo te, które mogłyby być przez nas zakupywane musiałyby mieć gwarancje rządowe.
+[SPEAKER_04] Także chodzi o raczej takie i dobrze, żeby miały rating.
+[SPEAKER_04] Także chodzi o tego rodzaju papiery wartościowe, które należą do tak zwanej pierwszej ligi.
+[SPEAKER_04] O tym mówimy.
+[SPEAKER_05] Najlepiej ogólnie powiedzieć, że wszystko to co robi Ebec i banki centralne zachodnioeuropejskie mieści się w naszych założeniach, w naszym instrumentarium.
+[SPEAKER_02] Niemniej zarówno pan, panie doktorze, jak i pan profesor Hart postawiliście taką jakby wątpliwość, panowie, co do legitymizacji tego działania Europejskiego Banku Centralnego.
+[SPEAKER_02] Czy to rzeczywiście jest zgodne z unijnymi zasadami pomocy publicznej?
+[SPEAKER_05] Nie można kwestionować działania Europejskiego Banku Centralnego.
+[SPEAKER_05] Nie zostało ono nigdzie zakwestionowane.
+[SPEAKER_05] Przeciwnie.
+[SPEAKER_05] odpowiedni sąd w Niemczech zaakceptował i my w swoich narzędziach mamy wszystko to, co ma Europejski Bank Centralny.
+[SPEAKER_05] Nie jesteśmy w żaden sposób upośledzeni pod tym względem, tylko u nas nie było nigdy takiej potrzeby.
+[SPEAKER_05] Tam się zmagano z deflacją, zmagano się z zerowym tempem wzrostu gospodarczego, a my nigdy takiej sytuacji nie mieliśmy.
+[SPEAKER_05] Nasza gospodarka jest bardziej dynamiczna, prężna, ma lepsze, gorsze okresy, ale aż takiej potrzeby to nie było.
+[SPEAKER_05] Po Rumunii najwyższe stopy procentowe cały czas.
+[SPEAKER_05] Daleka droga.
+[SPEAKER_05] Gdyby przyszło nam je obniżać, to mamy duży obszar do decyzji, a dopiero przy zerowych stopach procentowych rozważa się tego rodzaju działania.
+[SPEAKER_04] Prawdą jest natomiast, że zarówno profesor Hart, jak i ja odnosiliśmy się do debaty, jaka wokół tych środków wybuchła na terenie Niemiec.
+[SPEAKER_04] Ale ona została skonkludowana w sposób, który przed chwilą przedstawił Pan Prezes.
+[SPEAKER_04] Mianowicie potwierdzono, że EBC ma prawo w ten sposób postępować i nic nadzwyczajnego tutaj się nie dzieje.
+[SPEAKER_04] Że nadzwyczajne było tylko to, że to zastosował, a przedtem tego nie stało.
+[SPEAKER_05] EBC zapowiada, że w grudniu skończy luzowanie.
+[SPEAKER_05] Zobaczymy jak to będzie.
+[SPEAKER_02] Czyli ja rozumiem, że Narodowy Bank Polski jest przygotowany do tego, że jeśli pojawią się obligacje korporacyjne z dobrym ratingiem, wiarygodne dla Państwa i gwarantowane przez rząd.
+[SPEAKER_05] To będzie taka możliwość.
+[SPEAKER_05] To nie znaczy, że to zrobimy.
+[SPEAKER_02] Ja rozumiem, ale to wtedy załóżmy, że jestem taką korporacją, to mogę złożyć wniosek do Rady Polityki Pieniężnej.
+[SPEAKER_05] Dokonaliśmy przeglądu wszystkich naszych narzędzi, którymi dysponujemy, możliwości.
+[SPEAKER_05] Także technicznych, bo tam są pewne potrzebne i jesteśmy na to przygotowani.
+[SPEAKER_04] Natomiast na pewno nie będziemy organizować tego rynku.
+[SPEAKER_04] Rozumiem.
+[SPEAKER_05] To nie nasze zadanie.
+[SPEAKER_03] Jeżeli można tak dopowiedzieć, że generalnie, jeżeli chodzi o te instrumenty niestandardowe, to oczywiście warto śledzić dokładnie, jakie są instrumenty stosowane w innych bankach centralnych tutaj, czy w Europejskim Banku Centralnym, czy też nawet w krajach tutaj naszej Grupy Wyszehradzkiej, przecież też Węgry.
+[SPEAKER_03] ale przede wszystkim to ja staram się zwłaszcza to podkreślać, żebyśmy też myśleli o wypracowaniu własnych, własnych instrumentów niestandardowych, które są dopasowane do potrzeb polskiej gospodarki, ale oczywiście to jest sprawa długookresowa, tak jak tutaj Pan Prezes powiedział.
+[SPEAKER_04] Tutaj się troszkę różnimy, dlatego że ja akurat uważam, że
+[SPEAKER_04] Nie będąc mocarstwem powinniśmy raczej korzystać z takich instrumentów, które zostały sprawdzone, czy to w Stanach Zjednoczonych, czy w polityce ECB.
+[SPEAKER_04] czy też w innych krajach, które zastosowały i nie wzbudziło to żadnych negatywnych reakcji ani na rynkach, ani w instytucjach nadzoru.
+[SPEAKER_04] Więc ja jestem bardziej konserwatywny niż kolega Eryk i wobec powyższego w pierwszym rzędzie bym jednak odwoływał się do tego, co sprawdzone i co można powiedzieć, jeżeli wybuchała debata, to już ktoś inny był zmuszony ją znieść.
+[SPEAKER_05] A ja jestem jeszcze bardziej konserwatywny.
+[SPEAKER_05] Jak Państwo widzą, założenia nie uległy żadnej zmianie.
+[SPEAKER_02] To ja w ramach tej naszej takiej konserwatywności i ostrożności chciałam zadać takie troszeczkę banalne, ale może porządkujące pytanie.
+[SPEAKER_02] Mianowicie chciałam się upewnić, że większość Rady Polityki Pieniężnej w dalszym ciągu popiera pozostawianie stóp procentowych na niezmienionym poziomie do końca przyszłego roku, ale że cel...
+[SPEAKER_05] Nie, nie, my nie podejmujemy żadnych decyzji wybiegających do końca przyszłego roku.
+[SPEAKER_05] To jest moja indywidualna taka... Czyli ten do końca 2019 to też jest...
+[SPEAKER_05] Nie, no w ogóle przecież nie zajmuje się tym Rada, ani takich decyzji nie podejmuje wybiegających do końca 2019 roku.
+[SPEAKER_04] To pani redaktor musiałaby przeprowadzić jeszcze 8 wywiadów.
+[SPEAKER_05] To państwo po prostu cisnęli mnie, żeby powiedzieć jakie są moje przewidywania dotyczące kształtowania się stóp i podejmowania decyzji przez obecną Radę Polityki Pieniężnej.
+[SPEAKER_05] Ja się wypowiedziałem, że z bardzo dużym prawdopodobieństwem, graniczącym z pewnością, jeśli nic się zasadniczo nie zmieni, to do końca 2019 roku będziemy mieli te same stopy procentowe.
+[SPEAKER_05] Przypominam najwyższe w Europie, poza Rumunią w specyficznym przypadkiem.
+[SPEAKER_05] Teraz Czesi będą mieli takie same.
+[SPEAKER_05] To nieporównywalne przypadki.
+[SPEAKER_05] My mamy najwyższe stopy.
+[SPEAKER_05] Ten dystans między naszymi stopami a stopami Banku Centralnego Europejskiego jest ogromny, wystarczający, żeby dawać tą pozycję, którą chcemy mieć na rynku i żeby nasze papiery były wartościowe i interesujące.
+[SPEAKER_03] To jeszcze chciałabym dopytać… Jeżeli można powiedzieć, to ja z kolei w swoich wypowiedziach staram się podkreślać tą stabilność stuprocentową.
+[SPEAKER_03] Gdyby się udało nam ją utrzymać jak najdłużej, tak jak w ostatnim wywiadzie swoim to mówiłem, to uważam, że jest to ogromnym atutem polskiej gospodarki.
+[SPEAKER_03] Właściwie jest to takim polskim ewenementem.
+[SPEAKER_03] Można powiedzieć, jak porównamy inne banki centralne, to ja uważam, że to jest ogromny atut.
+[SPEAKER_03] że mamy te stabilne stopy procentowe i to jest bardzo korzystne dla polskiej gospodarki, bardzo korzystne dla wsparcia sfery realnej, także tutaj myślę, że jest to, zresztą to cały czas staramy się też podkreślić.
+[SPEAKER_02] To Panie Prezesie, kiedy Pan przedstawia swoje stanowisko, jeśli chodzi o perspektywę utrzymania stóp procentowych w Polsce, to czy kiedy mówi Pan o celu inflacyjnym i rozumie Pan przedział inflacyjny, to też jest Pańskie rozumienie?
+[SPEAKER_02] Bo moim zdaniem nie ma do końca zgody.
+[SPEAKER_02] Ja wiem, że Państwo mówili, że najważniejsza jest ta górna granica 3,5%.
+[SPEAKER_05] Nie, nie, nie.
+[SPEAKER_05] Obie granice są tak samo ważne.
+[SPEAKER_02] Ale pytam teraz o cel inflacyjny.
+[SPEAKER_02] Czy my mamy punktowy cel inflacyjny i to jest 2,5?
+[SPEAKER_05] Czy też my mamy przedział?
+[SPEAKER_05] Jest ten cel plus minus.
+[SPEAKER_05] To wszystko razem trzeba brać.
+[SPEAKER_05] Nie można wydobywać jednego z drugiego.
+[SPEAKER_05] Dopóki jesteśmy w przedziale, to jesteśmy w celu.
+[SPEAKER_03] Jeżeli można jeszcze dopowiedzieć, że właśnie to co Pani redaktor powiedziała o tym celu inflacyjnym, to właściwie myślę, że mogę tak powiedzieć, że jest zgodność, że cel inflacyjny jest bardzo elastyczny i jest bardzo dobry.
+[SPEAKER_03] On bardzo dobrze odpowiada potrzebom polskiej gospodarki.
+[SPEAKER_03] Natomiast my tutaj, przynajmniej też ja staram się to podkreślać, że
+[SPEAKER_03] Staramy się tak prowadzić politykę pieniężną, żeby właśnie realizacja tego celu inflacyjnego, czy dochodzenie do tego celu inflacyjnego właśnie było robione w taki sposób, żeby jak najbardziej wspierała w sferę realną polskiej gospodarki, żeby była jak najbardziej korzystna dla sfery realnej polskiej gospodarki.
+[SPEAKER_07] Bardzo proszę, pan redaktor Turzyński.
+[SPEAKER_00] Ja bym chciał jeszcze dopytać o te niestandardowe instrumenty w kontekście prezentowanego przez panów konserwatyzmu.
+[SPEAKER_00] Czy doświadczenia węgierskie były tutaj brane pod uwagę, czyli słapy walutowe albo skup listu zestawień?
+[SPEAKER_05] Przestudiowaliśmy dokładnie doświadczenia węgierskie.
+[SPEAKER_05] Zorganizowaliśmy nawet konferencję wspólną na ten temat, która się odbyła w Krakowie w zeszłym tygodniu.
+[SPEAKER_05] z udziałem prezesa, zastępcy i analityków węgierskich, która jakby finalizowała te nasze prace wspólne.
+[SPEAKER_05] Analitycy ich przyjeżdżali tutaj, nasi tam.
+[SPEAKER_05] No znamy te wszystkie doświadczenia, ale doświadczenie Banku Centralnego Węgier jest
+[SPEAKER_05] jakby no inne zupełnie niż nasze.
+[SPEAKER_05] Mówimy o innej gospodarce, o wiele mniejszej zresztą, o innej drodze historii, prowadzenie polityki pieniężnej.
+[SPEAKER_05] Są nieporównywalne to doświadczenia, ale znamy tak wszystkie te narzędzia, które oni stosowali.
+[SPEAKER_05] Niektóre są bardzo pomysłowe.
+[SPEAKER_05] Przestudiowaliśmy i je znamy.
+[SPEAKER_05] No gdyby była jakaś konieczność, ale nie ma takiej konieczności, to
+[SPEAKER_05] Bylibyśmy gotowi także je stosować.
+[SPEAKER_05] Tak o tym dyskutowano szeroko w roku 2007-2008 w Polsce.
+[SPEAKER_05] Też analizowano węgierskie doświadczenia.
+[SPEAKER_05] Także zaznajomiliśmy się ze wszystkimi doświadczeniami, jakie w Europie zgromadzono.
+[SPEAKER_05] Banku Szwedzkiego też, no ale głównie WEC-u oczywiście.
+[SPEAKER_03] Jeżeli można dopowiedzieć, to na tej konferencji to, co było też dla mnie takie satysfakcjonujące, że właśnie prezes Banku Węgier podkreślił ogromną zaletę suwerenności monetarnej swojego kraju, to, że właśnie Węgry posiadają własną walutę, własną politykę monetarną.
+[SPEAKER_03] Jak Państwo wiecie, ja to też w swoich wypowiedziach bardzo mocno tutaj podkreślam, że też tak wymieniliśmy poglądy między sobą, to właśnie też
+[SPEAKER_03] Jest to bardzo ważne.
+[SPEAKER_03] Z tym, że tutaj odnośnie tego pytania o instrumenty niestandardowe, które Pan zapytał, to pamiętajmy, że Węgry mają wypracowane pewne instrumentarium odpowiednie do swojej węgierskiej gospodarki.
+[SPEAKER_03] Natomiast my, jeżeli byśmy w przyszłości brali to pod uwagę, to na pewno byśmy myśleli na takich, trzeba wypiszeć takie instrumenty, jak już powiedziałem wcześniej, które będą dopasowane do potrzeb polskiej gospodarki.
+[SPEAKER_05] My jesteśmy bardzo dużą, stabilną gospodarką, która wszędzie ma równowagi, nie wymaga żadnych ekwilibrystyk w polityce pieniężnej.
+[SPEAKER_04] Natomiast doszliśmy do wniosku, że jest w tej chwili taki czas, w którym wszystkie znaki na niebie i ziemi wskazują,
+[SPEAKER_04] że sytuacja jest dobra i jej perspektywa jest również dobra.
+[SPEAKER_04] I to jest najlepszy moment, żeby w takim okresie myśleć o arsenale środków, jakich moglibyśmy użyć, bo w takim momencie państwo, ani nikt inny nie będzie pytał, od kiedy je użyjecie.
+[SPEAKER_04] bo perspektywy ich użycia w tej chwili nie widać, ale dobrze je mieć i dobrze je w ten sposób opisać.
+[SPEAKER_04] Ja często przy tych rozważaniach mówiłem, że to musi być opisane tak, jak instrukcja użycia odkurzacza.
+[SPEAKER_04] Jak przyjdzie pora, to się użyje.
+[SPEAKER_04] Na razie nie widzimy takiej potrzeby.
+[SPEAKER_00] Bardzo proszę.
+[SPEAKER_07] Kolejny temat.
+[SPEAKER_00] Chciałbym jeszcze zapytać, czy Rada Polityki Pieniężnej niepokoi tempo zadłużenia się gospodarstw domowych, bo od maja wyraźnie przyspieszyła akcja kredytowa dla gospodarstw domowych, a jednocześnie spadła akcja kredytowa dla przedsiębiorstw, w szczególności na nakłady inwestycyjne.
+[SPEAKER_00] I w kontekście też inwestycji, czy przedłużający się okres stabilnych stóp procentowych może
+[SPEAKER_00] Czy ten okres nie jest za długi i czy gospodarstwa te nie zadłużają się w zbyt...
+[SPEAKER_05] Teraz pan z kolei pyta o perspektywę obniżenia stóp procentowych, rozumiem, tak?
+[SPEAKER_05] Żeby kredyt był tańszy.
+[SPEAKER_05] Przeszedł pan na drugą stronę mocy.
+[SPEAKER_00] No jeszcze nie, ale...
+[SPEAKER_05] Nie, nie przewidujemy tego.
+[SPEAKER_05] I odpowiedź ogólnie brzmi nie.
+[SPEAKER_05] Nie niepokoi nas.
+[SPEAKER_05] Jak z tymi inwestycjami przedsiębiorstw jest to też dobrze nie wiemy, bo te dane za poprzedni kwartał były jakieś takie niejasne dla nas.
+[SPEAKER_05] Wydaje mi się, że sytuacja jest nie mająca w sobie żadnych niepokojących elementów.
+[SPEAKER_05] Tempo wzrostu jest bardzo dobre.
+[SPEAKER_05] Zatrudnienie jest wysokie.
+[SPEAKER_03] Tu jeszcze można dopowiedzieć, że te stabilne stopy procentowe właśnie są z punktu widzenia kredytobiorców bardzo dobre, no bo jednak koszt obsługi tego kredytu, spłaty jest stosunkowo korzystny dla nich, a z punktu widzenia właśnie inwestycji uważam, że jednak te stabilne stopy procentowe one są bardzo korzystne dla inwestycji.
+[SPEAKER_03] One powinny wspierać te inwestycje.
+[SPEAKER_03] Myślę, że w kolejnych kwartałach
+[SPEAKER_05] Jest może szansa, że te inwestycje... Jest jakiś ogólny problem polskiej gospodarki, ale to przekracza skalę działania jednej rady w skalach kilkudziesięcioletnich.
+[SPEAKER_05] Ogólnie niski poziom wynagrodzeń, dochodów, niski poziom oszczędności związany z tym i niższy poziom inwestycji niż do naszego...
+[SPEAKER_05] poziomu rozwoju by wypadało mieć.
+[SPEAKER_05] Ale to są procesy historyczne.
+[SPEAKER_05] Po komunizmie wyszliśmy bez zasobów i on stopniowo dopiero powstaje.
+[SPEAKER_05] Powstaje klasa średnia oszczędności, także firmy się zachowują w sposób taki inny jeszcze niż w dojrzałych gospodarkach.
+[SPEAKER_05] Za 20-30 lat będzie wszystko normalnie.
+[SPEAKER_04] Zresztą jak Państwo wiecie,
+[SPEAKER_04] Pod względem wydatków inwestycyjnych świat jest bardzo różny.
+[SPEAKER_04] W Stanach Zjednoczonych 80-90% środków użytych na inwestycje pochodzi z kredytu.
+[SPEAKER_04] W Europie powyżej połowy.
+[SPEAKER_04] pochodzi z kredytu.
+[SPEAKER_04] Natomiast w Polsce jest nadal sytuacja stanowiąca pewnego rodzaju odwrotność amerykańskiej, to znaczy musisz mieć 80% środków własnych, żeby wspomóc 120% kredytem.
+[SPEAKER_04] W tym względzie niewiele jesteśmy w stanie tak naprawdę zmocnić.
+[SPEAKER_05] Polska próbuje ten rynek kapitałowy ożywić, powiększyć, pogłębić, żeby przedsiębiorcy mogli też znaleźć źródło finansowania się na rynku kapitałowym, a nie tylko w bankach biorąc kredyt.
+[SPEAKER_05] To są długie procesy, to są długie działania i długie procesy.
+[SPEAKER_01] Jeszcze jedno pytanie.
+[SPEAKER_01] Pan redaktor Augustyniak, bardzo proszę.
+[SPEAKER_01] Arkadiusz Augustyniak, Polskie Radio.
+[SPEAKER_01] Panie prezesie, ja do pana mam pytanie.
+[SPEAKER_01] Chciałbym zapytać o zwiększenie przez NBP zapasów złota w ostatnim czasie.
+[SPEAKER_01] Jak by pan to uzasadnił?
+[SPEAKER_01] Po drugie, czy planowane są kolejne takie ruchy?
+[SPEAKER_01] I w związku z tym, czy zupełną abstrakcją jest w tym momencie sprowadzenie przynajmniej części tych zapasów do Warszawy z Londynu, czy one nadal tam pozostaną?
+[SPEAKER_01] Dziękuję.
+[SPEAKER_05] Na część Pana pytań mogę odpowiedzieć.
+[SPEAKER_05] No koniec jest, każdy widzi, wiedzą Państwo, że jakieś tam działania się realizują.
+[SPEAKER_05] Jak dalece te działania idą, no to tego Państwu nie powiem.
+[SPEAKER_05] bo nie informujemy o takich operacyjnych działaniach.
+[SPEAKER_05] No raz w roku Państwo mają jakąś dobrą informację taką zbiorczą na temat tego ile, jak wygląda struktura naszych rezerw.
+[SPEAKER_05] No ale jak widzą Państwo, no zarząd podjął jakieś tam decyzje i trochę tą strukturę być może zmieniamy, nie tylko w tym zakresie, co jest normalne i różne kraje stosownie do swoich potrzeb to robią.
+[SPEAKER_05] No gdzie będziemy trzymać
+[SPEAKER_05] i gdzie trzymamy, to też nie uprzedzamy nigdy o tym, co z tym robimy.
+[SPEAKER_05] Natomiast co do trzymania w Warszawie, to jest taki postulat podnoszony przez publicystów, dziennikarzy, także niektórych posłów, jakby na to delikatnie, tak eufemistycznie odpowiedzieć.
+[SPEAKER_05] Przy takich decyzjach bierze się też uwagę położenie go polityczne, gdzie ta Warszawa się znajduje na Globusie.
+[SPEAKER_07] Dziękujemy Państwu za dzisiejsze spotkanie i udział w konferencji.
+[SPEAKER_07] Zapraszamy na kolejną konferencję w listopadzie.
+[SPEAKER_07] Dziękuję.
+[SPEAKER_07] Do zobaczenia.

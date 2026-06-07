@@ -1,0 +1,576 @@
+[UNKNOWN_SPEAKER] Muzyka Muzyka
+[SPEAKER_06] Dzień dobry Państwu.
+[SPEAKER_06] Witamy na konferencji prasowej po posiedzeniu Rady Polityki Pieniężnej.
+[SPEAKER_06] W dzisiejszej konferencji udział biorą pan prof. Adam Glapiński, prezes Narodowego Banku Polskiego i przewodniczący Rady Polityki Pieniężnej oraz członkowie Rady Polityki Pieniężnej pan prof. Jerzy Żyżyński oraz pan dr hab. Łukasz Hart.
+[SPEAKER_06] Panie prezesie, bardzo proszę, oddaję panu głos.
+[SPEAKER_07] Pan prof. Uniwersytetu Warszawskiego.
+[SPEAKER_07] Jak się zwyczajowo mówi profesor doktoru habilitowych, jeśli mają etat profesora, prawda?
+[SPEAKER_07] Przedstawiam państwu informację po posiedzeniu Rady Polityki Pieniężnej w dniach 7 i 8 listopada 2017 roku.
+[SPEAKER_07] Rada postanowiła utrzymać stopy procentowe NBP na niezmienionym poziomie.
+[SPEAKER_07] Stopa referencyjna wynosi nadal 1,5, stopa lombardowa 2,5, stopa depozytowa 0,5 i stopa redyskontowej 1,75.
+[SPEAKER_07] W gospodarce światowej trwa ożywienie koniunktury.
+[SPEAKER_07] W strefie euro utrzymuje się wyższy niż w ubiegłym roku wzrost gospodarczy.
+[SPEAKER_07] Przyczynia się do tego poprawa sytuacji na rynku pracy, dobre nastroje podmiotów gospodarczych, a także ożywienie w handlu międzynarodowym.
+[SPEAKER_07] W Stanach Zjednoczonych dynamika PKB w trzecim kwartale była zbliżona do obserwowanej w poprzednim kwartale, pomimo negatywnego wpływu niekorzystnych zjawisk atmosferycznych na aktywność gospodarczą.
+[SPEAKER_07] W Chinach wzrost gospodarczy w trzecim kwartale nieznacznie spowolnił.
+[SPEAKER_07] Mimo ożywienia globalnej koniunktury, inflacja za granicą pozostaje umiarkowana.
+[SPEAKER_07] Przyczynia się do tego wciąż niska wewnętrzna presja inflacyjna w wielu krajach.
+[SPEAKER_07] Jednocześnie w ostatnim czasie nastąpił pewien wzrost cen niektórych surowców, w tym ropy naftowej.
+[SPEAKER_07] Europejski Bank Centralny utrzymuje stopy procentowe na poziomie bliskim zera, w tym stopę depozytową poniżej zera.
+[SPEAKER_07] Jednocześnie EBEZ wydłużył czas funkcjonowania programu skupu aktywów finansowych co najmniej do września 2018 roku, ograniczając przy tym miesięczną skalę skupu w tym okresie o połowę.
+[SPEAKER_07] Rezerwa Federalna Stanów Zjednoczonych rozpoczęła natomiast zmniejszanie swojej sumy bilansowej.
+[SPEAKER_07] W Polsce miesięczne dane sygnalizują, że w trzecim kwartale dynamika PKB była prawdopodobnie wyższa niż w poprzednim kwartale.
+[SPEAKER_07] Głównym czynnikiem wzrostu pozostał popyt konsumpcyjny wspierany przez wzrost zatrudnienia i płac, wypłaty świadczeń oraz bardzo dobre nastroje konsumentów.
+[SPEAKER_07] Jednocześnie szybszy niż w pierwszej połowie wzrost produkcji budowlano-montażowej wskazuje na prawdopodobne ożywienie inwestycji.
+[SPEAKER_07] Roczna dynamika cen konsumpcyjnych utrzymuje się na umiarkowanym poziomie.
+[SPEAKER_07] Wzrosły wszystkie miary inflacji bazowej, chociaż pozostają one na umiarkowanym poziomie.
+[SPEAKER_07] Rada zapoznała się, jak Państwo wiedzą, z wynikami listopadowej projekcji inflacji i PKB przygotowanej przy założeniu niezmienionych stóp procentowych NBP.
+[SPEAKER_07] Zgodnie z listopadową projekcją z modelu Nekmot, roczna dynamika ceny znajdzie się z 50-procentowym prawdopodobieństwem w przedziale 1,9 do 2,0 w 2017 roku, wobec poprzedniej projekcji 1,6 do 2,3,
+[SPEAKER_07] 1,6% do 2,9% w 2018 roku wobec poprzednio 1,1% do 2,9% oraz 1,7% do 3,7% w 2019 roku wobec poprzednio 1,3% do 3,6%.
+[SPEAKER_07] Natomiast roczne tempo wzrostu PKB według tej projekcji znajdzie się z 50% prawdopodobieństwem w przedziale 3,8% do 4,6% w 2017 roku wobec poprzednio 3,4% do 4,7%.
+[SPEAKER_07] 2,8% do 4,5% w 2018 roku wobec 2,5% do 4,5% w lipcowej projekcji.
+[SPEAKER_07] I wreszcie 2,3% do 4,3% w 2019 roku wobec lipcowej projekcji 2,3% do 4,3%.
+[SPEAKER_07] Biorąc pod uwagę aktualne informacje, w tym wyniki listopadowej projekcji, Rada ocenia, że w najbliższych latach inflacja będzie kształtowała się w pobliżu celu inflacyjnego.
+[SPEAKER_07] W efekcie obecny poziom stóp procentowych sprzyja utrzymaniu polskiej gospodarki na ścieżce zrównoważonego wzrostu oraz pozwala zachować równowagę makroekonomiczną.
+[SPEAKER_07] Rada podjęła uchwałę w sprawie stóp rezerwy obowiązkowej.
+[SPEAKER_07] To jest nowość.
+[SPEAKER_07] Zgodnie z tą uchwałą stopa rezerwy obowiązkowej od środków pozyskanych co najmniej na dwa lata będzie wynosiła 0%.
+[SPEAKER_07] Uchwała wchodzi w życie z dniem 1 marca 2018 roku i ma zastosowanie począwszy od rezerwy obowiązkowej podlegającej utrzymaniu od dnia 30 kwietnia 2018 roku.
+[SPEAKER_07] Rada przyjęła dziś opinię do projektu ustawy budżetowej na rok 2018.
+[SPEAKER_07] Rada przyjęła też raport o inflacji listopad 2017.
+[SPEAKER_07] Dziękuję bardzo.
+[SPEAKER_06] Dziękuję bardzo panie prezesie.
+[SPEAKER_06] Bardzo państwa proszę o zadawanie pytań.
+[SPEAKER_06] Pani redaktor Bartyzel, bardzo proszę.
+[SPEAKER_03] Dzień dobry, Dorota Bartyzel, Bloomberg News.
+[SPEAKER_03] Niezależnie od tego, że mamy dzisiaj nowość i ona na pewno skupi zarówno uwagę rynków, jak i najwięcej komentarzy z naszej strony, ja chciałabym jednak tradycyjnie zacząć od tego, co też… Tradycja dobrorzeczna.
+[SPEAKER_03] Z pełnym szacunkiem.
+[SPEAKER_03] Panie prezesie, zasłynął pan już z dużej konsekwencji w przypominaniu tego, że nie widzi pan podstaw do zmiany stóp procentowych do końca 2018 roku.
+[SPEAKER_03] Publikacja dzisiejszej projekcji w jakimkolwiek stopniu zachwiała pańskim przekonaniem?
+[SPEAKER_07] Nie.
+[SPEAKER_03] A czy mógłby pan troszeczkę więcej powiedzieć?
+[SPEAKER_07] Są oczywiście pewne zmiany w danych i w przewidywaniach w tej projekcji, ale są na tyle niewielkie, że swojego poglądu nie zmieniam.
+[SPEAKER_07] Czyli rozumiem, że z punktu widzenia prezesa Narodowego Banku Polskiego i przewodniczącego… Uważam, że właściwie, jeśli by było tak, jak w tej projekcji, skąd teraz mamy do czynienia, to uważam, że do końca 2018 roku najlepiej byłoby utrzymać poziom stóp na tym poziomie, na jakim są w tej chwili.
+[SPEAKER_03] Dzisiaj troszeczkę dłużej czekaliśmy na decyzję państwa po posiedzeniu.
+[SPEAKER_03] Chciałabym się dowiedzieć, czy to dlatego, że przybyło Jastrzębi?
+[SPEAKER_07] Dlatego, że była ta uchwała dotycząca stopy rezerwy obowiązkowej.
+[SPEAKER_07] To jest dosyć skomplikowana sprawa.
+[SPEAKER_07] Jastrzębie są, latają, gołębie też.
+[SPEAKER_07] W miarę pokojowe jest współżycie.
+[SPEAKER_07] Na tyle, na ile może być pokojowe między jastrzębami i gołębiami.
+[SPEAKER_07] To się Państwo domyślają.
+[SPEAKER_06] Pan redaktor Pudłowski, bardzo proszę.
+[SPEAKER_05] Aleksander Pudłowski, Polska Agencja Prasowa.
+[SPEAKER_05] To ja może pozostałych panów zapytam, czy również nie zmienia to panów nastawienia do polityki pieniężnej, szczególnie pana profesora Harta, który wskazywał, że wyższa inflacja, szczególnie przekraczająca cel,
+[SPEAKER_07] Dzisiaj tak się składa akurat, że mamy właśnie kolegę profesora Harta, który uchodzi za Jastrzębie i kolegę profesora Żyżyńskiego, który uchodzi za Gołębie.
+[SPEAKER_07] A ja, jak widać, jestem tym centrystą, który pragmatycznie wywarzył.
+[SPEAKER_05] Mówił pan profesor, że mogłaby prognoza inflacji, która wskazuje inflację powyżej celu, byłaby wystarczającym powodem, żeby podwyższyć stopy procentowe i jak patrzę na te przedziały, to ta inflacja
+[SPEAKER_05] Chyba przekroczy w horyzoncie prognozy cel inflacyjny.
+[SPEAKER_00] Proszę pamiętać, że my mówimy o pewnym prawdopodobieństwie znalezienia się inflacji w tym przedziale.
+[SPEAKER_00] Oczywiście przewidywanie przyszłości jest trudne, stąd właśnie posługujemy się prawdopodobieństwem i tymi przedziałami.
+[SPEAKER_00] Na pewno więcej będziemy wiedzieli na początku roku 2018.
+[SPEAKER_00] Natomiast rzeczywiście są pewne symptomy w gospodarce, które mogą wskazywać na pewne nasilenie się potencjału do wzrostu presji inflacyjnej.
+[SPEAKER_00] Mamy wynagrodzenia,
+[SPEAKER_00] jednak drgnęły lekko w górę oczekiwania inflacyjne konsumentów.
+[SPEAKER_00] Natomiast też dobrze wiemy, że to jak działa transmisja od wyższych wynagrodzeń chociażby do wyższej inflacji, to nie jest takie proste w dzisiejszych czasach.
+[SPEAKER_00] Tak więc tych argumentów, które każą mi widzieć tą rosnącą presję inflacyjną, trochę się pojawiło, one są.
+[SPEAKER_00] Natomiast nie są tak mocne w tym momencie, abym teraz zgłaszał tak wniosek, czy popierał wniosek o podwyżkę stuprocentowej.
+[SPEAKER_00] To jest zdecydowanie za wcześnie.
+[SPEAKER_00] Mi się wydaje, że dużo więcej będziemy widzieli na początku roku 2018 i być może wtedy będzie ten moment, żeby taką decyzję rozważyć, jeśli rzeczywiście będziemy widzieli, że rok 2019 na przykład jest zdecydowanie powyżej
+[SPEAKER_00] powyżej 2,5%.
+[SPEAKER_00] Tylko tu oczywiście jest też pewien kontekst, czy pewien problem dla podjęcia tego typu decyzji, a mianowicie polityka Europejskiego Banku Centralnego.
+[SPEAKER_00] To znaczy podjęcie decyzji o zacieśnieniu polityki pieniężnej w sytuacji, gdy Europejski Bank Centralny będzie nadal zwlekał
+[SPEAKER_00] chociażby z jakąś istotną redukcją programu luzowania ilościowego będzie trudne.
+[SPEAKER_00] Natomiast na pewno taka dyskusja tak myślę będzie na Radzie pojawiała się już w 2018 roku.
+[SPEAKER_00] Jaka będzie decyzja finalnie?
+[SPEAKER_00] Oczywiście trudno mi powiedzieć.
+[SPEAKER_05] Czyli przy założeniu, że ta polityka skupu zostanie na razie taka, jak ogłoszona ostatnio przez EBC, rozumiem, że jednak może się pojawić potrzeba podwyższenia stóp procentowych według Pana?
+[SPEAKER_00] Może się pojawić potrzeba podwyższenia stóp procentowych, ale równie dobrze może być taka sytuacja, w której okaże się, że jednak ta presja inflacyjna nie narasta i wtedy będziemy realizowali ten scenariusz nakreślony przez Pana Prezesa, czyli status quo w roku 2018.
+[SPEAKER_05] Jak bym mógł jeszcze profesora Rzeżyńskiego poprosić o ocenę projektu?
+[SPEAKER_02] Szanowni państwo, ja uważam, że tutaj takie etykietowanie nie jest wskazane, ponieważ po prostu mamy inną optykę, inny sposób patrzenia na procesy gospodarcze.
+[SPEAKER_02] Ja osobiście uważam, że sam fakt pojawienia się pewnego wzrostu cen, czyli inflacji, nie może być powodem podwyższania ceny pieniądza, ponieważ niekoniecznie
+[SPEAKER_02] ta inflacja wynika z czynników pieniężnych związanych z stanem polskiego pieniądza, ze stopami procentowymi, inaczej mówiąc, ceną tego pieniądza.
+[SPEAKER_02] Niekoniecznie musielibyśmy podwyższać cenę pieniądza wtedy, kiedy przyczyną inflacji byłaby nadmierna ekspansja kredytowa.
+[SPEAKER_02] Popyt na kredyt, a na przykład na kredyt konsumpcyjny, nadmierny popyt
+[SPEAKER_02] albo popyt na kredyt inwestycyjny ze strony przedsiębiorstw.
+[SPEAKER_02] A póki co tak się nie dzieje, ponieważ wzrost wynagrodzeń, wzrost płac, z którym mamy do czynienia i to zarówno przeciętnych wynagrodzeń, czyli wypłat dla ludności, dla rodzin 500+, jak i funduszu płac ogólnie, bo wzrosło zatrudnienie.
+[SPEAKER_02] To nie wynika z czynników pieniężnych, to znaczy czynników fiskalnych, bo rząd w poważnym stopniu jest inicjatorem tego wzrostu, a nie przedsiębiorstwa, które miały nadmierny popyt na kredyt.
+[SPEAKER_02] Gdyby był taki popyt na kredyt, musielibyśmy ściągnąć tę cuglę, czyli przyhamować popyt na kredyt i wtedy byłoby zasadne,
+[SPEAKER_02] zwiększyć stopy procentowe.
+[SPEAKER_02] Ponieważ takiego zjawiska nie ma, to nie byłoby sensu zwiększać ceny towaru, bo pieniądz jest towarem, a stopa procentowa ze strony banku centralnego jest najistotniejszą ceną, bo określa warunki dla banków.
+[SPEAKER_02] Później banki nakładają swoją marżę i tak dalej.
+[SPEAKER_02] Więc nie możemy podwyższać ceny na ten pieniądz, skoro nie ma na niego wielkiego popytu.
+[SPEAKER_02] pobytu inwestycyjnego.
+[SPEAKER_02] Na przykład przedsiębiorstwa, jak Państwo wiecie, jeżeli realizują jakieś projekty inwestycyjne, to ze środków własnych w dużym stopniu.
+[SPEAKER_02] Istnieje też pewne otoczenie zagraniczne, gdzie kredyt jest znacznie tańszy.
+[SPEAKER_02] Polska ma stosunkowo wysokie stopy procentowe.
+[SPEAKER_02] Otoczenie Polski
+[SPEAKER_02] Unijne otoczenie oczywiście ma niższe stopy procentowe, więc nie miałoby specjalnego sensu podrażanie tego pieniądza z tego prostego powodu, że troszeczkę drgnęła inflacja.
+[SPEAKER_05] To może w tym kontekście, jeszcze zanim wrócimy do projekcji, chciałem zapytać o tą nową decyzję dotyczącą poziomu stopy rezerwy obowiązkowej.
+[SPEAKER_05] Ona została obniżona znacznie i chciałem zapytać, z czego to wynika i czy to była jednomyślna... Może podam głos profesorowi Hartowi, który zgłosił wniosek.
+[SPEAKER_00] Bardzo dziękuję.
+[SPEAKER_00] To rzeczywiście, tak jak powiedział Pan Prezes, jest pewna nowość.
+[SPEAKER_00] Ja postaram się Państwu zarysować pewien kontekst.
+[SPEAKER_00] Długo dyskutowana nowość.
+[SPEAKER_00] Dyskutowaliśmy się to już od kilku posiedzeń, na pewno co najmniej.
+[SPEAKER_00] Proszę zauważyć, że środki pasywa powyżej 2 lat, o terminie zapadalności powyżej 2 lat, lokowane w polskim systemie bankowym od podmiotów zagranicznych na mocy zapisów art. 38 ustawy NBP były od dawna zwolnione.
+[SPEAKER_00] To znaczy banki zagraniczne mogły lokować środki w polskich bankach na okres np. 3 lat,
+[SPEAKER_00] i zgodnie z zapisami ustawy NBP od tych środków rezerwa obowiązkowa nie była pobierana.
+[SPEAKER_00] Natomiast jeśli polski deponent składał depozyt w polskim banku na przykład na okres 3 lat, to takiego depozytu rezerwa obowiązkowa była pobierana.
+[SPEAKER_00] Wydaje mi się, że mogę powiedzieć, że co w zgodnej opinii Rady, jednak było sytuacją dyskryminującą polski kapitał, jeśli chodzi
+[SPEAKER_00] o warunki i oprocentowanie depozytów.
+[SPEAKER_00] Co więcej, jak Państwo pewnie wiedzą, to nie jest, prezes powiedział, nowość.
+[SPEAKER_00] Tak, nowość w Polsce, natomiast w Europejskim Banku Centralnym to funkcjonuje od dawna.
+[SPEAKER_00] To znaczy depozyty poniżej dwóch lat stopy rezerwy obowiązkowej wynosi teraz 1%, kiedyś wynosiło 2%, natomiast powyżej dwóch lat stopy rezerwy obowiązkowej wynosi 0%.
+[SPEAKER_00] W tym sensie nasza decyzja zbliża
+[SPEAKER_00] na system rezerwy obowiązkowej do tego obowiązującego w eurosystemie.
+[SPEAKER_00] Co więcej, też proszę zobaczyć, że w ostatnim okresie, i też to podkreśla Komisja Nadzoru Finansowego w swoich raportach o stanie systemu bankowego w Polsce, rósł udział w pasywach tych bieżących kosztem terminowym.
+[SPEAKER_00] I KNF zawsze podkreślał, że mamy pewien problem terminowego niedopasowania aktywów do pasywów.
+[SPEAKER_00] To znaczy długie aktywa są finansowane krótkimi pasywami i wydaje się, że ta nasza decyzja też będzie sprzyjała.
+[SPEAKER_00] Mamy taką nadzieję, chociaż mamy taką nadzieję, zobaczymy jak zareaguje system bankowy do tego, żeby system bankowy oferował tym, którzy chcą oszczędzać,
+[SPEAKER_00] depozyty dwuletnie, dłuższe być może lepiej oprocentowane od tych krótszych.
+[SPEAKER_00] Więc to jest taki kontekst tej naszej decyzji.
+[SPEAKER_00] Na to liczymy.
+[SPEAKER_00] Natomiast główny argument jest argumentem dotyczącym przywrócenia równości traktowania rezydentów i nierezydentów, jeśli chodzi o poziom rezerwy.
+[SPEAKER_00] To miało uzasadnienie, to zróżnicowanie
+[SPEAKER_00] W latach 90-tych, czyli wtedy, kiedy powstawała ustawa o Narodowym Banku Polskim, bo ten zapis znoszący obowiązek rezerwowy dla tych deponentów z zagranicy to jest w ustawie.
+[SPEAKER_00] To miało sens wtedy, kiedy polski system bankowy przeżywał trudności, a przeżywał w latach 90-tych i trzeba było zachęcać kapitał
+[SPEAKER_00] kapitał zagraniczny do wchodzenia do polskiego systemu bankowego.
+[SPEAKER_00] Teraz ta sytuacja się zmieniła i Rada stwierdziła, że dalsze utrzymywanie jednak dyskryminującego traktowania polskich deponentów w systemie po prostu nie ma uzasadnienia i stąd ta decyzja.
+[SPEAKER_05] Chciałem tylko dopytać, czy można to traktować, skoro to był Panu Profesorze wniosek jako
+[SPEAKER_05] ruch w kontekście wcześniejszych obaw o depozyty?
+[SPEAKER_00] Główny argument jest argumentem dotyczącym po pierwsze dostosowania tego mechanizmu do tego, który obowiązuje w strefie euro i tam to działa bez żadnych problemów.
+[SPEAKER_00] Co więcej sytuacja, w której rezydent składając depozyt długoterminowy jest inaczej traktowany niż nierezydent,
+[SPEAKER_00] Jest sytuacją dla mnie osobiście trudno akceptowalną i cieszę się z tej dzisiejszej decyzji Rady, która poszła w takim kierunku, żeby to zróżnicowanie znieść.
+[SPEAKER_00] Ja bym tutaj jakichś daleko idących wniosków, interpretacji tej decyzji chyba nie wyciągał.
+[SPEAKER_00] To był główny...
+[SPEAKER_00] Mówimy o stopie rezerwy obowiązkowej.
+[SPEAKER_00] Przypominamy, dwa parametry.
+[SPEAKER_00] Mamy stopę rezerwy obowiązkowej i mamy oprocentowanie środków na rezerwie obowiązkowej.
+[SPEAKER_00] Oprocentowanie środków nie zmieniliśmy, natomiast zmieniliśmy stopę rezerwy.
+[SPEAKER_00] Przypominam, że historycznie kiedyś w Polsce stopa rezerwy była zróżnicowana, jeśli chodzi o termin zapodolności posyłu.
+[SPEAKER_02] Kiedyś sięgała stopa rezerwy obowiązkowej w latach 90. nawet bodajże 30%.
+[SPEAKER_02] Chodziło o to, żeby zamrozić część środków, żeby nie wypływały na rynek i żeby nie powodowały inflacji.
+[SPEAKER_02] Teraz takiej potrzeby oczywiście nie ma.
+[SPEAKER_02] Jak powiedział mój szanowny kolega, pieniądze, które banki muszą odprowadzać na rezerwę obowiązkową do banku centralnego, były oprocentowane.
+[SPEAKER_02] Niewiele, ale z drugiej strony te środki zmniejszały możliwości banków do lokowania pieniędzy w gospodarce, udzielenia kredytów.
+[SPEAKER_02] To też w pewnym stopniu zmobilizuje banki do tego,
+[SPEAKER_02] Od takich depozytów, które są na dłuższy okres czasu, takie będę miał motywację do tego, żeby takie produkty zaproponować.
+[SPEAKER_05] Jeśli można dopytać, bo Pan Profesor najczęściej ze wszystkich członków Rady zwraca uwagę na tą akcję kredytową.
+[SPEAKER_05] Czy to można traktować jako ruch, który tej akcji kredytowej jakkolwiek pomoże?
+[SPEAKER_02] Trudno powiedzieć, bo to jest, zauważmy, tu chodzi o depozyty, prawda?
+[SPEAKER_02] Czyli te środki lokowane w bankach na okres dłuższy niż dwa.
+[SPEAKER_07] To by było, gdyby skutkiem było przedstawienie atrakcyjniejszych oprocentowań i lokat ponad dwuletni przez banki.
+[SPEAKER_07] Banki dostały przestrzeń, żeby to zrobić.
+[SPEAKER_07] No ale to jakby nie było głównym celem naszego działania.
+[SPEAKER_07] Jest zrównanie spraw podmiotów zagranicznych i krajowych.
+[SPEAKER_06] Pan redaktor Berenda, bardzo proszę.
+[SPEAKER_04] Dzień dobry, Krzysztof Berenda, Radio RMF.
+[SPEAKER_04] Czyli skoro rozumiem, mówimy, że głównie chodzi tutaj o argument równościowy, nie stawiacie sobie, a jeżeli sobie stawiacie, panowie, to jaki cel, o ile byście, kiedy byście się ucieszyli, o ile musiałoby się zwiększyć kwota deponowanych pieniędzy na tych depozytach?
+[SPEAKER_04] więcej niż dwuletnich, żebyście uznali, że ta decyzja była sukcesem i przyniosła oczekiwany skutek?
+[SPEAKER_07] Nie zastanawiamy się nad tym, ale trzeba poczekać, zobaczyć, co banki zaoferują.
+[SPEAKER_07] Mogą nic nie zaoferować, mogą zaoferować dużo.
+[SPEAKER_07] Jak mówił sam Wilson, to jest taka pozycja kobiecej propozycji.
+[SPEAKER_06] Jest otwartość, na pewno działanie.
+[SPEAKER_07] Banki mają różne kalkulacje, kierują się różnymi przesłankami.
+[SPEAKER_07] I wątpliwie mają argument, żeby atrakcyjniejszą przedstawić propozycję, tym bardziej, że jest wyciek, jak Państwo wiedzą, depozytów z banków do różnych funduszy i tak dalej, często do ryzykownych przedsięwzięć, przed którymi zresztą ostrzegamy.
+[SPEAKER_04] I skoro Pan Profesor wywołał ten temat, to chciałbym zapytać o te instytucje, do których pieniądze wyciekają, tudzież są po prostu przez klientów… Fundusze inwestycyjne głównie.
+[SPEAKER_04] Aczkolwiek chciałbym zapytać nie o fundusze inwestycyjne, a o kryptowaluty i przede wszystkim o pseudokryptowaluty, ostatnio modne, głośno reklamowane.
+[SPEAKER_07] Co znaczy pseudokryptowaluty?
+[SPEAKER_07] Wszystkie kryptowaluty są pseudowalutami, bo w Polsce obowiązuje prawo, które stanowi, że tylko bilety Naddrowego Banku Polskiego są pełnoprawnym środkiem płatniczym i oczywiście karty wszelkiego rodzaju pieniądz wirtualnych, ale nie tego rodzaju.
+[SPEAKER_07] To jest tak.
+[SPEAKER_07] Stan prawny jest oczywisty.
+[SPEAKER_07] Kryptowaluty są legalne w Polsce, w krajach Unii Europejskiej.
+[SPEAKER_07] Są kraje, w których się na świecie już zakazało używania kryptowalut.
+[SPEAKER_07] My poprzestajemy na ostrzeżeniach.
+[SPEAKER_07] Jakiś czas temu Narodowy Bank Polski z Komisją Nadzoru Finansowego, która to pilnie obserwuje także, wydaliśmy komunikat dostrzegający potencjalnych uczestników tego rynku kryptowalutowego, że robią to na własną
+[SPEAKER_07] na własne ryzyko, na własną rękę.
+[SPEAKER_07] To nie jest rynek w żaden sposób nadzorowany, regulowany.
+[SPEAKER_07] Ryzyko jest ogromne i przestrzegamy zwykłych, że tak powiem, obywateli oszczędzających, którzy by chcieli tzw. wdowi grosz tam angażować.
+[SPEAKER_07] Jeśli to robią bardzo młodzi ludzie, którzy lubią ryzyko, lubią stawiać na wyścigach konnych czy na innych ryzykownych przedsięwzięciach, to oczywiście to jest legalne, ale tutaj wahania notowań są ogromne.
+[SPEAKER_07] Tak samo wysokie wzloty, jak gwałtowne upadki.
+[SPEAKER_07] Będziemy te ostrzeżenia, to z góry mogę zapowiedzieć, wraz z KNF-em powtarzać.
+[SPEAKER_07] W najbliższym czasie uruchomimy akcję taką informacyjno-ostrzegającą na YouTubie i w Internecie szeroko.
+[SPEAKER_07] Może sięgniemy po ogłoszenia w gazetach, żeby się nie powtórzyła historia, że jacyś szarzy oszczędzacze, że tak powiem,
+[SPEAKER_07] zdeponowali tam swoje pieniądze i mogli mieć potem pretensje do instytucji państwowych czy publicznych, że nie byli ostrzeżeni, że nie wiedzieli, że to jest jakiegoś innego rodzaju inwestycja.
+[SPEAKER_07] Muszą mieć pełną świadomość osoby, które tam wchodzą, że jest ogromne ryzyko.
+[SPEAKER_07] Można się szybko wzbogacić i można szybko wszystko
+[SPEAKER_07] stracić.
+[SPEAKER_07] To młodych ludzi często pociąga i to jest normalne.
+[SPEAKER_07] Natomiast to nie jest zwykła forma inwestowania.
+[SPEAKER_07] To jest bardzo niebezpieczne.
+[SPEAKER_07] Nie mówiąc o tym, że tam są inne zagrożenia związane z praniem brudnych pieniędzy, z nieprzejrzyjstością podatkową itd.
+[SPEAKER_07] To są inne kwestie.
+[SPEAKER_07] Nas tu interesuje ostrzeganie
+[SPEAKER_07] społeczeństwa przed po prostu bezmyślnym wycofywaniem, czy pochopnym wycofywaniem z lokat bankowych, które są słabo oprocentowane i przerzucaniem w takie ryzykowne miejsce.
+[SPEAKER_07] Już fundusze inwestycyjne są bardzo ryzykowne.
+[SPEAKER_07] A kryptowaluty to jest jazda bez trzymanki.
+[SPEAKER_07] Proszę bardzo, profesor Żyżyński.
+[SPEAKER_02] Pamiętajmy, byt wirtualny.
+[SPEAKER_02] Ale chciałem Państwu zwrócić uwagę, że to jest wielka odpowiedzialność mediów.
+[SPEAKER_02] I żebyście Państwo sobie to wzięli do serca, żeby ludzi uświadamiać,
+[SPEAKER_02] że oczywiście można się podjąć jakiejś bardzo ryzykownej inwestycji, która da duże zyski, gdzieś obiecane duże zyski, ale pod warunkiem, że się samemu ma duże pieniądze i przeznacza na ten cel pewną niewielką część dużych pieniędzy, które się posiada.
+[SPEAKER_02] Powiedziałbym tak symbolicznie, jak ktoś ma powiedzmy sobie 5 milionów, no to 1 milion może zaryzykować.
+[SPEAKER_02] Jak go straci, to 4 mu zostaną, prawda?
+[SPEAKER_02] ale nie ludzie biedni, które czasami wszystkie oszczędności swojego życia lokowali w jakieś obiecanki, że dostają tam 13% czy ileś, Amber Gold i takie różne inne, bo ktoś obiecał wyższy procent.
+[SPEAKER_02] Oni wszystko wyjmowali, co mieli i wkładali w takie inwestycje, które się później okazały stratą pieniędzy.
+[SPEAKER_02] Więc to jest wielka rola mediów, żebyście Państwo uświadamiali ludzi, że takie
+[SPEAKER_07] Podejmowanie takiego ryzyka jest po prostu… To nie zmienia tego, że Narodowy Bank Polski, podobnie jak KNF, popiera ogólnie nowoczesne, różne narzędzia bankowe, finansowe, tzw. fintech w szczególności.
+[SPEAKER_07] To jest przyszłość systemu bankowego i to się bardzo szybko rozwija.
+[SPEAKER_07] Nie wiadomo też, jak będzie z tymi kryptowalutami.
+[SPEAKER_07] Ale naszym zadaniem jest ostrzegać i stabilizować.
+[SPEAKER_04] I my to robimy.
+[SPEAKER_04] Tylko jeśli taka smutna refleksja, że mam wrażenie, ani kampanie informacyjne, nawet nowoczesne, ani siła mediów nie wygra z tymi młodymi wilkami z Wall Street, które będą przychodzić.
+[SPEAKER_07] Rządza zysku.
+[SPEAKER_04] Zwłaszcza do osób mniej zorientowanych, jeżeli tam skutecznie przekonają, będzie z tym problem.
+[SPEAKER_04] W związku z tym, czy mają panowie, czy pan profesor, macie jakiś plan, żeby spróbować w jakiś sposób
+[SPEAKER_04] regulacyjny, prawny, to okiełznać, usiąść z pozostałymi instytucjami.
+[SPEAKER_07] Siedzieliśmy dłużej, rozmawialiśmy intencjonalnie.
+[SPEAKER_07] Chętnie bym tego zakazał, ale to by blokowało rozwój narzędzi, rynku i całego tego fintechu.
+[SPEAKER_07] Musimy też patrzeć, jak wyglądają regulacje w krajach Unii Europejskiej, w eurozonie.
+[SPEAKER_07] Także tutaj wszystkie banki centralne to obserwują.
+[SPEAKER_07] Zazwyczaj mają komórki mniejszych lub większe, które to obserwują, zajmują się.
+[SPEAKER_07] Mamy taką specjalną wspólną instytucję z KNF-em, z kilkudziesięcioma różnymi instytucjami.
+[SPEAKER_07] Bardzo pilnie obserwujemy.
+[SPEAKER_07] No tu się kształtuje gdzieś przyszłość na pewno systemu, ale to jest taka przyszłość, gdzie rola centralnego banku będzie coraz mniejsza, a ryzyko coraz większe.
+[SPEAKER_07] Są kraje,
+[SPEAKER_07] w których jedne nowoczesne systemy lepiej się przyjmują i pasują i spełniają pożyteczne role.
+[SPEAKER_07] Tak jak, proszę Państwa, w krajach afrykańskich wielu, wszystkie operacje prawie się prowadzi przez smartfona.
+[SPEAKER_07] Dlatego, że po prostu nie ma placówek bankowych gdzieś tam w środku dżungli, ludzi w małych miejscowościach.
+[SPEAKER_07] Wpłacanie przez telefon jest powszechne.
+[SPEAKER_07] Wpłacanie, regulowanie wszystkich zobowiązań.
+[SPEAKER_07] I to działa.
+[SPEAKER_07] I operatorzy pełnią trochę funkcję banków.
+[SPEAKER_07] To jest doświadczenie dla nas w ogóle nieprzystające.
+[SPEAKER_07] Ja bym się kierował w kierunku zakazu, ale on ma też cały szereg złych stron.
+[SPEAKER_07] Będziemy robić tak, jak cała Europa.
+[SPEAKER_04] Jeśli można zmienić w takim razie temat może na prostszy, a może trochę trudniejszy.
+[SPEAKER_04] Mamy inflację i komunikat dotyczący inflacji, że na razie generalnie powinno być spokojnie, także nie trzeba dokonywać większych ruchów, jeżeli chodzi o stopy procentowe, ale w tejże inflacji czy tych cenach jest rzecz bardzo ludzka, jak rosnące, chociaż troszeczkę stabilizujące się i zwłaszcza jeżeli chodzi o masło nawet minimalnie spadające ceny.
+[SPEAKER_04] Dlatego pytam, bo jak pytaliśmy na przykład ministra finansów co, to on odsyła właśnie do szacownej rady.
+[SPEAKER_04] Czy da się coś z tym zrobić?
+[SPEAKER_04] Czy jesteśmy skazani?
+[SPEAKER_07] To w ogóle nie jest tutaj przedmiotem dyskusji, bo są przypadkowe czynniki, które w jakimś tam momencie się pojawiają i zanikają.
+[SPEAKER_07] Ale taki poważniejszy czynnik, jak cena ropy naftowej, też w moim przekonaniu jest takim pojawiającym się i zanikającym.
+[SPEAKER_07] No bo nic nie zakłóciło tego podstawowego mechanizmu, że te ceny są sprowadzane w dłuższym czasie, w dłuższym, no kilkumiesięcznym nawet, kwartalnym, do poziomu wyznaczonego przez cenę, przez koszt wydobycia z łupków w Stanach Zjednoczonych.
+[SPEAKER_07] Blisko 50 dolarów za baryłkę to się pojawia.
+[SPEAKER_07] No te ceny wzrosły, bo były te zjawiska atmosferyczne, czyli te orkany czy huragany w Stanach Zjednoczonych,
+[SPEAKER_07] To zachłóciło trochę dostawy i wydobycie, spekulacja się pojawiła, no na tym też można zarabiać dobrze.
+[SPEAKER_07] No i to na dwa miesiące czy tam na ileś te ceny wywindowało, ale już mieliśmy komunikat wczoraj z rynków tych hurtowych, że już spadły ceny i one powinny się dostosować.
+[SPEAKER_07] Więc nie każdy wzrost cen ma takie samo znaczenie, taki krótki wzlot i spadek to nie ma większego znaczenia.
+[SPEAKER_07] Natomiast ja już mówiłem na poprzedniej konferencji prasowej,
+[SPEAKER_07] że w tej nowej projekcji i we wszystkich projekcjach pojawia się lekki wzrost cen w tej perspektywie projekcji do końca 2019 roku.
+[SPEAKER_07] Ale on jest niewielki w moim przekonaniu.
+[SPEAKER_07] U innych to wzbudza trochę więcej
+[SPEAKER_07] niepokoju, mnie nie.
+[SPEAKER_07] Jestem przekonany, że w tym 2019 roku wszystko się może zdarzyć.
+[SPEAKER_07] Może być znowu obniżenie tych wskaźników i groźba się może pojawić deflacji.
+[SPEAKER_07] Ta koniunktura na świecie w tej gospodarki wysoko rozwiniętej w Europie jest nietrwała, jest słaba, jest podtrzymywana przez ten program skupu aktywów na wielką skalę, z którego wchodzi się łatwo, a jak się okazuje wychodzi się trudno.
+[SPEAKER_07] Jest pytanie, co będzie po zakończeniu tego skupu aktywów, czy gospodarka nie siądzie znów.
+[SPEAKER_07] To tempo wzrostu nie jest wcale imponujące.
+[SPEAKER_07] Ono się będzie obniżać w najbliższych latach, prawdopodobnie w Europie, także u nas, co by znaczyło, że te ceny też pewnie będą szybować w tym kierunku.
+[SPEAKER_07] To wszystko jest zbyt kruche, a taki argument w Radzie przeważa.
+[SPEAKER_07] że inwestycje w Polsce, jak Państwo wiedzą, co jakiś czas mówimy, że się spodziewamy, że drgną.
+[SPEAKER_07] Wreszcie możemy powiedzieć, że one drgnęły, ale to jest tylko drgnięcie.
+[SPEAKER_07] Publiczne inwestycje i prywatne drgnęły.
+[SPEAKER_07] Słabo się te inwestycje mają.
+[SPEAKER_07] Wzrost w całej Europie
+[SPEAKER_07] jest ciągnięty przez popyt konsumpcyjny w całej Europie.
+[SPEAKER_07] Pytanie, jak długo możemy mieć gospodarki ciągnięte jedynie przez popyt konsumpcyjny.
+[SPEAKER_07] Znaczy, jeśli zaprzysiężeni Keynesowcy by powiedzieli, że zawsze, prawda?
+[SPEAKER_07] No, ale takich dzisiaj zaś wiecą szukać.
+[SPEAKER_07] Może jednego mamy w Radzie Polityki Pieniężnej.
+[SPEAKER_07] No więc te inwestycje nie chcą ruszyć, no z różnych powodów, no ten kredyt jest u nas relatywnie jak mówił profesor Rzeżyński drogi na tle krajów europejskich, ale w ogóle z najtańszych historii u nas tych dwudziestu iluś lat, a mimo tego
+[SPEAKER_07] Nie chcą inwestować.
+[SPEAKER_07] Jak się rozmawia z przedsiębiorcami, to ukontentowani są tym, jak jest.
+[SPEAKER_07] Słaby jest postęp techniczny.
+[SPEAKER_07] Nie ma jakichś nowych fal takich produktów, gadżetów takich rynkowych, jakichś atrakcyjnych, które by pociągnęły gospodarkę i wniosły na inny poziom technologiczny.
+[SPEAKER_07] To wszystko dosyć tak siedzi.
+[SPEAKER_07] Odpukać, proszę Państwa, to nie jest źle.
+[SPEAKER_07] My mamy to około czterech, trzy i pół do czterech z czymś.
+[SPEAKER_07] Niemcy i inni mają dwa.
+[SPEAKER_07] Poziom płac, poziom wynagrodzeń, wszystko rośnie, poziom życia u nas rośnie.
+[SPEAKER_07] Doganiamy w dodatku, jak to się mówi w cudzysłowie, te kraje Zachodu.
+[SPEAKER_07] Jakby tak było przez najbliższe 20 lat, to byśmy oczywiście dobrze na tym wyszli.
+[SPEAKER_07] ale to jakby nic nie trwa wiecznie, a ta koniunktura naprawdę nie jest zagwarantowana jako dobra.
+[SPEAKER_07] I w Stanach też.
+[SPEAKER_07] W Stanach się mówi, że to jest najwyższy poziom, jaki osiągnęli, a teraz już tylko myślą o pogarszaniu się.
+[SPEAKER_07] Ja to tak widzę.
+[SPEAKER_07] Niektórzy członkowie Rady
+[SPEAKER_07] Postrzegają ten wzrost płac, wzrost kosztów jednostkowych, jaki następuje pracy.
+[SPEAKER_07] Te elementy właśnie inflacji bazowej, że one ostrzegają, że ten proces wzrostu cen może się uaktywnić i stąd jest ich niepokój.
+[SPEAKER_07] Nie zgłaszają wniosków, ale się temu chcą bardziej ostrożnie przyglądać, a wskazuje na to, że my mamy cel inflacyjny z odchyleniem jednoprocentowym i w górę i w dół.
+[SPEAKER_07] Zobaczą Państwo w poniedziałek o 10, jaka jest ta inflacja w tej projekcji.
+[SPEAKER_07] Jest niewiele wyższa od poprzedniej projekcji, ale wyższa.
+[SPEAKER_07] To jest taka dyskusja.
+[SPEAKER_07] Szanowni Państwo,
+[SPEAKER_02] jajkami z masłem, to bym powiedział tak, jak drożeje masło i jajka, to torty drożeją.
+[SPEAKER_02] Takie inwestycje jak małżeństwo, gdzie trzeba tort weselny, też drożeje.
+[SPEAKER_02] Można pół żartem powiedzieć, ale oczywiście
+[SPEAKER_02] To jest trochę taki żart, ale zwróćcie uwagę Państwo na to, że niektóre dobra inwestycyjne tanieją.
+[SPEAKER_02] To, że inwestycje idą powoli, to też z tego powodu, jak to pisze się w literaturze, że niektóre dobra inwestycyjne po prostu tanieją.
+[SPEAKER_07] W wymiarze finansowym, prawda?
+[SPEAKER_02] Czyli koszt inwestycji jest mniejszy.
+[SPEAKER_07] Ilość komputerów na przykład na rynku rośnie, ale ich cena maleje, prawda?
+[SPEAKER_07] Konwencje i inwestycje są takim tutaj elementem, na który my czekamy, żeby dołączył do tego pozytywnego, optymistycznego obrazu.
+[SPEAKER_07] One nie ruszają.
+[SPEAKER_07] Powtarzam, w całej Europie jest ten problem, ale nas interesuje Polska.
+[SPEAKER_07] Nie ruszają i też w moim przekonaniu strach ruszać stopy procentowe nawet tam w końcu przyszłego roku, jak niektórzy się przymierzają.
+[SPEAKER_07] żeby nie zakłócić tego jakiegoś optymizmu inwestorów.
+[SPEAKER_07] Ale różnie można na to patrzeć.
+[SPEAKER_07] Zobaczymy, jak będzie.
+[SPEAKER_07] Rada podejmuje decyzje, jak Państwo wiedzą, zbiorowo.
+[SPEAKER_07] Dobrze, że są różne punkty widzenia.
+[SPEAKER_07] To jest wyjątkowa Rada.
+[SPEAKER_07] W moim przekonaniu dobrze reprezentuje różne punkty widzenia.
+[SPEAKER_07] Wszystkie są uprawnione i bazują na tych samych danych.
+[SPEAKER_07] Proszę bardzo.
+[SPEAKER_00] Ad vocem tego, co powiedział pan prezes, mamy rzeczywiście różne punkty widzenia, chociaż bardzo bliskie.
+[SPEAKER_00] Mi osobiście wydaje się, że cenowa elastyczność popytu na dobra inwestycyjne w Polsce jest niska.
+[SPEAKER_00] To znaczy zmiana poziomu stopy procentowej przy już tak niskich stopach procentowych i przy generalnie bardzo niskim
+[SPEAKER_00] koszty pieniądza tak naprawdę nie ma znaczącego wpływu na poziom inwestycji.
+[SPEAKER_00] I to jest w pewnym sensie trochę problem dla polityki pieniężnej, bo my chcielibyśmy żyć w takim świecie, że zmieniając stopę procentową możemy bardzo łatwo transmitować sygnały do przedsiębiorców, żeby oni na przykład więcej inwestowali.
+[SPEAKER_00] Natomiast to jest pewien globalny fenomen i są różne wyjaśnienia tego dlaczego, bo to nie tylko w Polsce.
+[SPEAKER_00] W Polsce mamy takie zjawisko, że firmy śpią na pieniądzach i nie inwestują.
+[SPEAKER_00] Ten koszt kredytu, moim zdaniem, nie ma w tym momencie takiego decydującego znaczenia dla poziomu inwestycji, jak miał jakiś czas temu.
+[SPEAKER_00] Jak Państwo wiedzą, tych różnych hipotez i wyjaśnień jest bardzo dużo.
+[SPEAKER_00] Nie chcę teraz tego jakoś rozwijać.
+[SPEAKER_07] Państwo się posługują terminologią głębiej, a strzebie z punktu widzenia…
+[SPEAKER_07] odnoszenie się do stóp procentowych.
+[SPEAKER_07] Ale to dla nas bardziej takie jest interesujące, że tam jest jeden członek Rady Polityki Pieniężnej, który jest najbliższa szkoła austriacka lubi, że tak powiem.
+[SPEAKER_07] Jest jeden, który jest zaprzysiężonym Keynesistą.
+[SPEAKER_07] Czytam nawet kilku.
+[SPEAKER_07] Jest jeden przedstawiciel ekonomii narodowej, wydobywany z opóźnienia.
+[SPEAKER_07] Ja się osobiście uważam za szumpeterowca, za przesiężonego.
+[SPEAKER_07] Też austriacki.
+[SPEAKER_07] Dla mnie nie ma problemu z wyjaśnieniem tego, że stoi ta gospodarka światowa.
+[SPEAKER_07] To jest po prostu oczekiwanie na nową rewolucję technologiczną.
+[SPEAKER_07] To jest brak właśnie jakiejś takiej fali innowacji, która by weszła do gospodarki, jak kiedyś kolej, czy maszyna parowa, czy przeloty lotnicze, czy coś.
+[SPEAKER_07] Podejrzewam, że to będzie coś związanego z energią, z pozyskiwaniem energii, przetwarzaniem energii słonecznej, czy gromadzeniem energii, coś takiego.
+[SPEAKER_07] Gospodarka, tak jak się spojrzy na samochody, to one się cały czas zmieniają, ale tam rewolucji żadnej wielkiej nie należy.
+[SPEAKER_07] Ktoś, kto widział samochód w początkach jego istnienia, by się nie zdziwił, jak by zobaczył dzisiejszy samochód.
+[SPEAKER_07] Tu nie nastąpiła żadna jakaś zasadnicza zmiana.
+[SPEAKER_07] I na to się jakby czeka, no to cały czas się obraca gadżetami, skraca się cykl trwania produktów konsumpcyjnych, wymienia się coraz szybciej te komputery, jakieś tam buty, spodnie, moda coraz szybciej damska, męska następuje, no ale z tego się już więcej nie da wydusić.
+[SPEAKER_07] Jest demografia też ważna.
+[SPEAKER_07] Liczba, wielkość populacji europejskiej, prawda, że się tej ludności, która tradycyjnie mieszkała się zmniejsza gwałtownie, czyli rynek się kurczy, starzeją się do społeczeństwa.
+[SPEAKER_07] Są mniej dynamiczne też w zakupach.
+[SPEAKER_07] Ale w Japonii w szczególności.
+[SPEAKER_07] Więc to wszystko są procesy, które powodują, że to takie prostagnacyjne elementy.
+[SPEAKER_07] To, że mamy teraz to 2% na zachodzie,
+[SPEAKER_07] Gdzieś tam u nas cztery.
+[SPEAKER_07] No to naprawdę jest bardzo dobre.
+[SPEAKER_07] Ale się nie spodziewam, że się da więcej, że tak powiem, wycisnąć.
+[SPEAKER_07] Nawet przy jakichś dobrych projektach.
+[SPEAKER_07] Inwestorzy się nie kwapią.
+[SPEAKER_07] Gdybym był inwestorem też pewnie bym się zadowalał tą sytuacją, jaką jest.
+[SPEAKER_07] Nie byłbym takim wielkim optymistą na przyszłość.
+[SPEAKER_07] No chyba, żebym wymyślił, bym bazował na jakimś patencie, nowym rozwiązaniu, a ich nie ma.
+[SPEAKER_07] Dlatego taki nacisk też kładzie nasz rząd i wszystkie inne rządy w tej chwili w gospodarkach wysoko rozwiniętych na promowanie różnych pomysłów, tych startupów, jakichś inwestycji itd., jakieś środki komunikacji itd., że tu może się coś znajdzie, elektryczne pojazdy, że może to pchnie gospodarkę.
+[SPEAKER_07] No i oczywiście tradycyjnie niestety takim elementem, który rozpręcił gospodarkę są zbrojenia, ale tego byśmy nie chcieli akurat.
+[SPEAKER_06] Zbliżając powoli do końca konferencji, pani redaktor… Panie Janie, co to znaczy zbliżając się do końca?
+[SPEAKER_03] Ja byłam bardzo empatyczna.
+[SPEAKER_03] Po dwóch pytaniach oddałam mikrofony kolegom, którzy w ogóle nie zwracali uwagi na to i zadawali pytania bez końca.
+[SPEAKER_03] Ja się teraz dorwałam do mikrofonu i zamierzam zadać wszystkie pytania, a im nie ma końca.
+[SPEAKER_07] Bardzo proszę, wyjątkowo spolegliwa pani redaktor dzisiaj.
+[SPEAKER_07] Dokładnie.
+[SPEAKER_07] Bardzo proszę, pani redaktor.
+[SPEAKER_03] Ja po prostu zostałam zupełnie zagłuszona.
+[SPEAKER_03] Proszę bardzo.
+[SPEAKER_03] Więc po kolei to tylko chciałam powiedzieć, że ja rozumiem, panie profesorze, kontynuując to, co pan powiedział, że z jednej strony pan nie widzi podstaw do tego, żeby zmienić swój pogląd na temat niezmienności stóp procentowych do końca przyszłego roku.
+[SPEAKER_03] Po raz pierwszy przekazał pan jednak jakieś sygnały na temat 2019, bo wcześniej mówił pan, że to jest za daleka perspektywa, nie chce pan mówić o 2019.
+[SPEAKER_03] A jednak w komunikacie zniknęło nasze słynne zdanie, że ryzyko przekroczenia celu inflacyjnego w średnim terminie jest umiarkowane.
+[SPEAKER_07] Taki był nasz cel, żeby Państwo to zauważyli, że pewien akcent jest tutaj przesunięty.
+[SPEAKER_03] Niemniej jednak ten akcent nie jest na tyle silny, żeby nawet pan profesor Hart...
+[SPEAKER_07] Ale była dyskusja o komunikacie oczywiście, bo to nie należy przesadzać.
+[SPEAKER_07] To jest bardzo minimalna zmiana, ale jest.
+[SPEAKER_07] Zobaczymy jak będą następne kwartały.
+[SPEAKER_07] To nie przesądza sprawy.
+[SPEAKER_07] Niemniej ta projekcja się różni tutaj trochę od poprzedniej.
+[SPEAKER_00] Napisaliśmy również o rosnącej inflacji bazowej.
+[SPEAKER_00] To też jest zmiana w stosunku do poprzedniego komunikatu.
+[SPEAKER_00] O wszystkich miarach inflacji bazowej, które wzrosły.
+[SPEAKER_03] Panie profesorze, ja teraz bym chciała w pierwszej kolejności zadać mądre pytanie od moich kolegów z redakcji.
+[SPEAKER_03] Tutaj napłynęło.
+[SPEAKER_00] Widzę, że pani czyta.
+[SPEAKER_03] Tak, Bloomberg pyta.
+[SPEAKER_03] Pytanie o stopę rezerwy.
+[SPEAKER_03] Czy to będzie zastosowanie także na bank Bond Holdings 70 mld zł, czy tylko depozyty, czyli 25 mld zł powyżej 2 lata?
+[SPEAKER_00] To będzie miało zastosowanie do wszystkich kategorii pasywów, od których odprowadzana jest rezerwa obowiązkowa zgodnie z ustawą o Nordem Banku Polskim, artykułem 38.
+[SPEAKER_00] I my tutaj żadnych innych zmian nie wprowadziliśmy.
+[SPEAKER_00] W polskim systemie bankowym tych depozytów od rezydentów lokowanych, niektóre banki w ogóle nie mają takiej oferty, ale generalnie depozytów lokowanych na okres powyżej dwóch lat jest około 32 miliardów.
+[SPEAKER_00] Natomiast z drugiej strony identyfikujemy w systemie bankowym depozytów od nierezydentów, które są zwolnione z rezerwy na okres powyżej 2 lat na ponad 140 miliardów złotych.
+[SPEAKER_00] Tak więc doszliśmy w Radzie do wniosku, że jednak powinniśmy tego typu depozyty w sposób równy traktować.
+[SPEAKER_00] I tak jak powiedziałem wcześniej, przestrzegam przed wyciąganiem jakichś daleko idących wniosków i interpretacji z tej naszej decyzji.
+[SPEAKER_00] Jak zareaguje sektor bankowy, zobaczymy.
+[SPEAKER_00] Mamy pewne hipotezy.
+[SPEAKER_00] Daliśmy bankom i sektorowi długi czas na dostosowanie się.
+[SPEAKER_00] Proszę zobaczyć, że uchwała wejdzie w życie 1 marca i de facto będzie miała zastosowanie od końca kwietnia 2018 roku.
+[SPEAKER_00] 2018 roku.
+[SPEAKER_00] To jest czas dla banków na dostosowanie się do tego nowego systemu.
+[SPEAKER_07] Dla nierezydentów nie ma żadnej zmiany.
+[SPEAKER_00] Dla nierezydentów nie ma żadnej zmiany, bo Rada nie jest władna zmienić ustawy.
+[SPEAKER_00] Natomiast być może rzeczywiście w przyszłości, jeśli by na przykład ustawa o Narodowym Banku Polskim była otwierana w sytuacji hipotetycznej fuzji z KNF-em, to ja, to jest moje prywatne zdanie, ja byłbym za wykreśleniem
+[SPEAKER_00] z tych zapisów, z ustawy, które ograniczają możliwość oddziaływania Rady na różne parametry systemu rezerwy obowiązkowej.
+[SPEAKER_00] Tak więc mówię za siebie.
+[SPEAKER_07] Wydaje mi się, że przynajmniej moja refleksja osobista nad systemem rezerwy będzie kontynuowana i wydaje mi się, że… Ja nie będę proponował żadnej zmiany ustawy o NBP, bo ona się zawsze kończy sporem w parlamencie wśród polityków, ilu członków Rady ma być, jakie mają być ich kadencje.
+[SPEAKER_07] Ja powiedziałem o hipotetycznej zmianie.
+[SPEAKER_07] Nie, mają kroczyć te kadencje na siebie i coś takiego.
+[SPEAKER_07] I na końcu się kończy tym, że nie ma żadnej ustawy.
+[SPEAKER_07] Także lepiej nie zaczynać.
+[SPEAKER_03] Ale czy to nie jest tak, panie profesorze, że… Bo należy panu pogratulować tego, że udało się panu doprowadzić do końca właśnie tutaj te zmiany w odniesieniu… To jest decyzja całej rady, nie mojej.
+[SPEAKER_07] Ja rozumiem, ale pan… Tak, należy pogratulować profesorowi Hartowi, przez skromność nie chcę tego powiedzieć.
+[SPEAKER_07] Natomiast nikt tutaj nie polemizował z nim.
+[SPEAKER_07] Tak, ale też… Ale on to znalazł, przedstawił i tak dalej.
+[SPEAKER_03] Ale czy też ta dzisiejsza uchwała to zamyka pańskie próby w całej restrukturyzacji funkcjonowania stopy rezerwy obowiązkowej?
+[SPEAKER_00] Na pewno w krótkim okresie i średnim tak.
+[SPEAKER_00] My będziemy musieli zobaczyć, jak działa ten system po tej zmianie.
+[SPEAKER_00] I nieodpowiedzialnie byłoby proponować zmiany w momencie, kiedy system dostosowuje się do dzisiejszej zmiany.
+[SPEAKER_00] Tak więc na pewno myślę, czy na pewno.
+[SPEAKER_00] Nie ma nigdy pewności, bo wie pani, Rada jest bardzo pluralistyczna.
+[SPEAKER_00] Nie ma pewności, ale wydaje mi się, że zmienienie tego systemu
+[SPEAKER_00] przed oceną efektów tej zmiany byłoby chyba przedwczesne.
+[SPEAKER_07] Panie redaktor, profesorowi Hartowi nie podoba mi się.
+[SPEAKER_07] To jest tak, że Rada się znalazła w tej sytuacji, że nie zmienia stóp procentowych od bardzo dawna.
+[SPEAKER_07] Została taką sytuacją.
+[SPEAKER_07] Te stóp są stabilne.
+[SPEAKER_07] W moim przekonaniu to bardzo dobrze.
+[SPEAKER_07] No i tak w poszukiwaniu jakby twórczej aktywności dzięki temu przegląda, przejrzała wszystkie pola działania, do których jest uprawniona RPP.
+[SPEAKER_07] Całe pole to przez ustawę wyznaczone, co RPP reguluje i tak dalej.
+[SPEAKER_07] I profesor Hart też jakby patrzył, co by można zrobić, żeby finanse Polski, polityka pieniężna funkcjonowała lepiej.
+[SPEAKER_07] No i dzięki temu jakby to znaleźł.
+[SPEAKER_07] Jak znajdziemy jakąś następną
+[SPEAKER_07] rzecz, którą moglibyśmy poprawić, bo po prostu nikt tego nie zauważył.
+[SPEAKER_00] To nie chodzi o działanie dla samego działania.
+[SPEAKER_00] Proszę zauważyć, że jeśli w systemie mamy ponad 140 miliardów pasywów pochodzących z zagranicy, od których nieodprowadzana jest rezerwa obowiązkowa,
+[SPEAKER_00] no to rzeczywiście, a od polskich pasywów, upraszczam oczywiście, jest odprowadzana, no to był poważny dla mnie osobiście problem.
+[SPEAKER_07] Dziwi mi się tylko, dlaczego banki przez poprzednie lata nie podjęły same tego tematu polskie, no ale też może nie zwróciły na to uwagi, przyzwyczaiły się.
+[SPEAKER_07] To jest tak, że pewne przepisy, pewne regulacje się
+[SPEAKER_07] System się przyzwyczaja do nich i one istnieją.
+[SPEAKER_00] Mówiąc o różnych szkołach myślenia ekonomicznego obecnych w Radzie mi osobiście bliska jest ekonomia instytucjonalna.
+[SPEAKER_00] I w ramach ekonomii instytucjonalnej mówimy o równowagach instytucjonalnych, czyli że regulacje muszą być dostosowane do rzeczywistości gospodarczej.
+[SPEAKER_00] Ta regulacja była dostosowana do rzeczywistości gospodarczej pewnie połowy lat 90.
+[SPEAKER_00] do obecnej rzeczywistości gospodarczej nie była dostosowana.
+[SPEAKER_00] Pojawiła się w języku ekonomii instytucjonalne nierównawaga instytucjonalna, którą znieśliśmy dzisiejszą decyzją.
+[SPEAKER_07] 50% systemu to jest polski kapitan.
+[SPEAKER_03] Panie profesorze, pan był jedną z pierwszych osób w Radzie Polityki Pieniężnej, która wyrażała zaniepokojenie negatywnymi stopami procentowymi i głównie mówił pan o tym, że rodzi się takie zasadnicze pytanie, jak długo będzie można tolerować negatywne stopy procentowe.
+[SPEAKER_03] Dzisiaj pan bardzo jest łagodny.
+[SPEAKER_07] – Państwo mają jakąś taką filozofię bodźcowania tych członków Rady Polityki Pieniężnej, żeby oni coś zrobili.
+[SPEAKER_00] – Ale my się nie damy.
+[SPEAKER_00] Ja cały czas jestem tym zaniepokojony.
+[SPEAKER_00] Natomiast wie pani, polityka Europejskiego Banku Centralnego jest tutaj dosyć istotna i ona działa hamująco.
+[SPEAKER_00] Na moją skłonność do decyzji.
+[SPEAKER_07] Proszę pamiętać, że my traktujemy odchylenia zgodnie z założeniami w dół od celu inflacyjnego, tak samo jak odchylenia w górę.
+[SPEAKER_07] W takim samym stopniu.
+[SPEAKER_03] Nie może na naszej konferencji dzisiaj zabraknąć pytania o rynek pracy.
+[SPEAKER_07] Dużo o nim rozmawiamy, obserwujemy.
+[SPEAKER_07] Niektórzy członkowie są zaniepokojeni takim domniemaniem, że może jak te płace tak rosły ostatnio, to może jeszcze nadal będą tak rosły, aż wyrosną tak, że będą proinflacyjnie jakoś działać.
+[SPEAKER_07] Ja osobiście nie sądzę.
+[SPEAKER_07] Myślę, że konkurencja tutaj jest duża.
+[SPEAKER_07] Są te czynniki takie jak imigracja, ale przede wszystkim jest konkurencja.
+[SPEAKER_07] Ceny nie mogą rosnąć, bo jest konkurencja po prostu na rynku usług na przykład bardzo wysoka.
+[SPEAKER_07] i się jakoś tego nie boję, ale oczywiście nic nie przesądzam.
+[SPEAKER_07] Jeśli będą przesłanki, to oczywiście tak, ale osobiście nie sądzę, żeby te płace jakoś bardzo szybko rosły.
+[SPEAKER_07] Nie widać tutaj sporu ze związkami zawodowymi, które by to postulowały.
+[SPEAKER_07] Raczej jest przy badaniach pracowniczych pojawia się ten element, że ludzie cenią sobie pracę i to, że mają zatrudnienie.
+[SPEAKER_07] Te płace rosną co roku kilka procent znacząco, to jest odczuwalne.
+[SPEAKER_07] I myślę, że tak będzie, że ten wzrost płac taki dynamiczny, ponad wynajmość pracy, że on jest chwilowy.
+[SPEAKER_06] I dwa ostatnie pytania.
+[SPEAKER_07] I jeszcze tutaj jest silny element determinacji oczywiście rządu.
+[SPEAKER_07] Dzisiaj dyskutowaliśmy właśnie o budżecie, opiniowaliśmy budżet.
+[SPEAKER_07] Ten budżet jest konserwatywny, jest ostrożny, zawęża deficyt budżetowy.
+[SPEAKER_07] Mamy do czynienia.
+[SPEAKER_07] Jak ja to określiłem na posiedzeniu, co nie wszyscy się z tym zgodzili, on jest w jakiś sposób restrykcyjny.
+[SPEAKER_07] Dlatego, że tutaj dochody to jest większa ściągalność.
+[SPEAKER_07] Większa ściągalność podatku oznacza, że przedsiębiorstwa legalnie czy nie, ale miały więcej środków.
+[SPEAKER_07] To nie jest to samo co podwyższenie podatków, ale jednak środki są ściągane z przedsiębiorstw.
+[SPEAKER_07] Jeszcze się zmniejsza deficyt.
+[SPEAKER_07] Także mimo tego, że się pojawiło 500+,
+[SPEAKER_07] skrócenie wieku emerytalnego, to w moim przekonaniu on jest restrykcyjny.
+[SPEAKER_07] Natomiast wszyscy się muszą zgodzić, że jest taki zdyscyplinowany, no nastawiony na zmniejszenie.
+[SPEAKER_07] To nie jest ekspansywna polityka fiskalna, no tak to by można powiedzieć.
+[SPEAKER_07] To jest też bardzo ważny element.
+[SPEAKER_07] I jeszcze proszę pamiętać, jak już pani tak wszystkie te elementy chce, no my o tym nie mówimy, tego przecież nie planujemy i nie staramy się nawet zgadnąć, ale zaaprecjacja złotego nastąpiła dużo.
+[SPEAKER_07] Ta aprecjacja złotego to jest istotne zaostrzenie
+[SPEAKER_07] zacieśnienie polityki monetarnej.
+[SPEAKER_07] Jakby ono się dzieje niezależnie od nas, no ale jest.
+[SPEAKER_07] Także to są te elementy, które powodują, że ta polityka mix jakby per saldo, ona jest dosyć konserwatywna i twarda.
+[SPEAKER_07] Co zresztą obserwatorzy zagraniczni podkreślają, zarówno polityka rządu premiera Morawieckiego w tym względzie, jak i nasza, Narodowego Banku Polskiego jest, jakby to powiedzieć, no to nie jest puszczanie lejców, tylko raczej trzymanie ich bardzo mocno na wody.
+[SPEAKER_06] I dwa ostatnie pytania.
+[SPEAKER_06] Pan redaktor Pudłowski i pani redaktor Oliarz.
+[SPEAKER_05] Bardzo proszę.
+[SPEAKER_05] Powiedział pan prezes w kontekście inwestycji, że strach ruszać stopy procentowe przed końcem przyszłego roku, kiedy inwestycje powoli ruszają.
+[SPEAKER_05] Chciałem zapytać, czy to oznacza, że według pana niska stopa procentowa może stymulować inwestycje?
+[SPEAKER_07] Proszę pana, no stała stopa procentowa.
+[SPEAKER_07] którą teraz mamy i która oznacza, że cena kredytu jest niska.
+[SPEAKER_07] W Polsce historycznie niska jest cena kredytu i ta stała stopa procentowa pokazuje, że perspektywy inwestowania są dobre, że jest optymizm, że gospodarka jest ustabilizowana i że należy inwestować.
+[SPEAKER_07] Nie ma powodu, żeby zmieniać podstawowy parametr.
+[SPEAKER_07] Na co zmiana stóp najsilniej i najszybciej oddziaływuje?
+[SPEAKER_07] Na cenę kredytu, na cenę pieniądza.
+[SPEAKER_05] Czy ewentualna podwyżka mogłaby jakoś negatywnie wpłynąć na poziom inwestycji?
+[SPEAKER_07] Wie pan, jak jest taki run inwestycyjny, że wszyscy się rzucają inwestować, to i zmiana stopy nie powoduje spadku.
+[SPEAKER_07] Ale my na razie podlewamy taki kwiatek, który bardzo tak nieśmiało dopiero te listki wypuszcza.
+[SPEAKER_07] Zaczynamy właściwie zawsze analizę, a czy inwestycje wreszcie porządnie ruszyły.
+[SPEAKER_07] Publiczne jakoś tam ruszyły, ale jeszcze te prywatne byśmy chcieli.
+[SPEAKER_07] Te środki europejskie długo nie ruszały.
+[SPEAKER_07] Staramy się, żeby te inwestycje miały jak najlepsze warunki i nastroje wśród przedsiębiorców.
+[SPEAKER_07] Podkreślamy stabilność, perspektywy.
+[SPEAKER_07] Ale można mieć różne zdanie.
+[SPEAKER_07] Ja jestem z natury optymistą.
+[SPEAKER_07] Uważam, że do końca 2018 roku
+[SPEAKER_07] Właściwe będzie stabilizacja stóp wszystkich podstawowych parametrów, a potem zobaczymy.
+[SPEAKER_07] A co do 2019 roku?
+[SPEAKER_07] Mamy projekcję, oczywiście się jej trzymam.
+[SPEAKER_07] W tym sensie, w jakim dzisiaj ta projekcja o 2019 roku może coś powiedzieć.
+[SPEAKER_07] Ale osobiście bym nie był bardzo zdziwiony, gdybyśmy
+[SPEAKER_07] zupełnie mieli inną sytuację, że na zachodzie Europy ta gospodarka trochę niestety siada po zaprzestaniu luzowania ilościowego.
+[SPEAKER_07] Nie zdziwiło?
+[SPEAKER_07] Oni mają ujemne i będą jakiś czas mieli ujemne stopy procentowe.
+[SPEAKER_07] Dysparytet między naszymi stopami a europejskimi jest dwucyfrowy.
+[SPEAKER_07] To nadal jest ogromny dysparytet.
+[SPEAKER_07] Nie powodują nam jakiś szkód, trochę, ale ma swoje zły, dobre strony zresztą też, ale jest bardzo duży.
+[SPEAKER_07] Tam Wielka Brytania, Czechy podniosły, ale z jakiego poziomu?
+[SPEAKER_07] Z jakiejś absolutnej depresji, prawda?
+[SPEAKER_07] Do minimalnych poziomów.
+[SPEAKER_07] W poprzedniej Radzie Polityki Pieniężnej ja byłem członkiem i my tam celowo w pewnym momencie zatrzymaliśmy ten ruch w dół na pewnym poziomie i taka była argumentacja, jak Państwo sięgniecie do notatek, że nie obniżamy dalej stóp, że jak się poprawi koniunktura, żeby nie trzeba było od razu reagować podwyższaniem, że te stopy dłuższy czas jeszcze będą dobre.
+[SPEAKER_07] No i mamy taką sytuację.
+[SPEAKER_07] bo nie zeszliśmy tak nisko jak Cześć i tam inni.
+[SPEAKER_07] Była duża dyskusja w Radzie, też głosy były takie prawie po równo, równo się rozkładały, no bo uzasadnienie było do obu decyzji.
+[SPEAKER_07] No teraz też tak jest, to nie jest tak, że wszyscy członkowie Rady operują na tych samych danych, mają tych samych doradców, te same wszystkie opinie z wewnątrz kraju i z zewnątrz i tylko mają jakieś takie inną intuicję czy wyczucie na podstawie swojego doświadczenia,
+[SPEAKER_07] czy są bardziej optymistyczni, czy pesymistyczni, w którym momencie należałoby coś robić.
+[SPEAKER_07] Ja uważam, że na pewno jeszcze nie, że moglibyśmy przedwcześnie coś zrobić i to jest taki sam błąd, jak za późno.
+[SPEAKER_07] Czasami rady robiły coś za późno, czasami za wcześnie.
+[SPEAKER_07] Znamy taki przypadek bardzo drastycznego działania za wcześnie i w stosunku do tej rady, co ja byłem, to był zarzut, że jedną decyzję podjęła za późno.
+[SPEAKER_07] To się zdarza, profesor Rzyżyński.
+[SPEAKER_02] Jeszcze dwa słowa co do tych niskich stóp.
+[SPEAKER_02] Chciałem zwrócić Panu uwagę na to, że niskie stopy procentowe powodują przede wszystkim to, że więcej małych i w gruncie rzeczy niskorentownych podmiotów gospodarczych, czyli takich małych, kiekujących, może skorzystać z kredytu.
+[SPEAKER_02] Bo taka jest rola tego rodzaju niskich cen pieniądza, że więcej takich małych, drobnych, niskorentownych jest gotowym wziąć kredyt, a to może tą gospodarkę trochę pchnąć od dołu.
+[SPEAKER_00] Te start-upy różne i tak dalej.
+[SPEAKER_00] Tu mamy ich inny punkt widzenia.
+[SPEAKER_00] Czy też niskie stopy procentowe mogą powodować, że będą podejmowane projekty inwestycyjne?
+[SPEAKER_00] Natomiast niekoniecznie te o najwyższej efektywności, niskie stopy procentowe, to widzimy szczególnie w tych krajach, gdzie są ujemne, mogą prowadzić wręcz do zaburzeń we właściwej alokacji kapitału.
+[SPEAKER_00] Ale wracając do Pana pytania,
+[SPEAKER_00] Ja jestem właściwie przekonany, że hipotetyczna niewielka podwyżka stopy procentowej w Polsce nie oddziaływałaby istotnie negatywnie na poziomie inwestycji.
+[SPEAKER_00] Natomiast kanał transmisji raczej byłby poprzez ograniczenie popytu konsumpcyjnego.
+[SPEAKER_00] hipotetycznie wkraczając na ścieżkę podwyżki, hipotetycznie byśmy wkraczali w sytuacji po raz pierwszy w historii tak dużego obciążenia gospodarstw domowych kredytem hipotecznym o zmiennej stopnie.
+[SPEAKER_00] Czyli hipotetyczna podwyżka bardziej wpływałaby na gospodarkę studząco poprzez kanał moim zdaniem obniżenia popytu konsumpcyjnego prywatnego niż przez ograniczenie inwestycji.
+[SPEAKER_00] Ale to oczywiście są bardzo hipotetyczne i wręcz akademickie na razie rozważania.
+[SPEAKER_07] Starają się o kredycie hipotecznym nic.
+[SPEAKER_07] Nic nie mówić, prawda?
+[SPEAKER_07] I szczęśliwie do końca konferencji jakoś się udało.
+[SPEAKER_06] I pani redaktor Oliasz, ostatnie pytanie, bardzo proszę.
+[SPEAKER_01] Czy możemy już mówić o jakichś szczegółach projekcji listopadowej?
+[SPEAKER_07] Ja mam pytanie o jednostkowe... Dzisiaj nam nie wolno, o 10 w poniedziałek, proszę państwa.
+[SPEAKER_07] Takie są zasady i nie chcę odebrać przyjemności kolegom dyrektorom, którzy będą to państwu prezentować w szczegółach i odpowiadać na pytania.
+[SPEAKER_07] My to mamy wszystko, oczywiście znamy.
+[SPEAKER_07] Ale zwyczaj jest taki, że nie udzielamy tych informacji.
+[SPEAKER_07] Te podstawowe dane macie, PKB tak jak było planowane mniej więcej jest, a inflacja jest lekko, projekcja wyższa.
+[SPEAKER_07] Lekko.
+[SPEAKER_07] Czy trochę, jak poprzednio powiedziałem, nie wiem, jakie tutaj skalowanie użyć.
+[SPEAKER_07] Takie trochę, że na mnie nie robi wrażenia, a dla innych już jest jakimś symptomem.
+[SPEAKER_06] Jestem bardziej gruboskórny.
+[SPEAKER_06] Opinia o budżecie… Gdy tylko wpłynie do właściwych organów, to poinformujemy państwa.
+[SPEAKER_00] Najpierw Sejm musi się zapoznać, posłowie.
+[SPEAKER_07] Opinia do budżetu będzie jutro zawieszona i jutro publikujemy.
+[SPEAKER_07] przez DAE, Departament Analiz Ekonomicznych.
+[SPEAKER_07] Ale rewelacji tam jakichś bulwersujących nie ma.
+[SPEAKER_06] Dziękujemy bardzo za spotkanie.
+[SPEAKER_06] Do zobaczenia na następnej konferencji.

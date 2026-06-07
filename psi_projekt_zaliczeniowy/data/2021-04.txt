@@ -1,0 +1,919 @@
+[SPEAKER_00] Szanowni Państwo, serdecznie witam na konferencji pana profesora Adama Glapińskiego, prezesa Narodowego Banku Polskiego.
+[SPEAKER_00] Pan prezes odpowie na pytania związane z sytuacją ekonomiczną.
+[SPEAKER_00] Podobnie jak w ubiegłych miesiącach będziemy czytać pytania, będę czytał pytania, a później poproszę o odniesienie się do zagadnień pana profesora.
+[SPEAKER_00] Zaczynamy od pierwszej serii sześciu pytań.
+[SPEAKER_00] Pytanie pana redaktora Pawła Florkiewicza, Reuters.
+[SPEAKER_00] W komunikacie Rada wskazała na prawdopodobieństwo dalszego przyspieszenia inflacji.
+[SPEAKER_00] Do jakiego maksymalnego poziomu według oczekiwań banku centralnego?
+[SPEAKER_00] Pytanie pana redaktora Marka Chądzyńskiego, Dziennik Gazeta Prawna.
+[SPEAKER_00] Czy NBP dostrzega ryzyko przekroczenia przez inflację w najbliższych miesiącach górnej granicy pasma odchyleń od celu inflacyjnego?
+[SPEAKER_00] Czy w ocenie pana prezesa konieczne będą w związku z tym jakieś dostosowania w polityce komunikacyjnej Banku Centralnego, np. odejście od retoryki wskazującej na możliwość dalszych obniżek stóp procentowych?
+[SPEAKER_00] Pytanie pana redaktora Bartosza Bednarza, interia.pl.
+[SPEAKER_00] Inflacja w marcu według wstępnego szacunku GUS wzrosła silniej od oczekiwań do 3,2% rok do roku.
+[SPEAKER_00] W lutym było to 2,4% rok do roku.
+[SPEAKER_00] A konsensus rynkowy na marzec zakładał wzrost o 2,9%.
+[SPEAKER_00] Gdzie NBP widzi obecnie przyczyny dla dalszego wzrostu inflacji?
+[SPEAKER_00] Jak długo podwyższony wskaźnik inflacji może się utrzymywać i do jakiego maksymalnego poziomu w najbliższych miesiącach rosnąć?
+[SPEAKER_00] Także pytanie pana redaktora Bartosza Bednarza, interia.pl.
+[SPEAKER_00] Czy NBP jest przygotowany na trwalszy wzrost inflacji, który może pojawić się po otwarciu gospodarki i będzie widoczny w ponownym rozpędzeniu się inflacji bazowej?
+[SPEAKER_00] Pytanie pani redaktor Doroty Bartyzel.
+[SPEAKER_00] z Bloomberga.
+[SPEAKER_00] W komunikacie wymienili Państwo zarówno czynniki, które w dalszym ciągu mogą podnosić inflację, jak i te, które mogą je tamować.
+[SPEAKER_00] Suma summarum jednak, czy to co się dzieje i zdarzy prowadzi do podniesienia prognozy inflacji na ten rok?
+[SPEAKER_00] W projekcji jest to 3,1%.
+[SPEAKER_00] Czy to podnosi prawdopodobieństwo podwyżek stóp procentowych w tym roku?
+[SPEAKER_00] Oraz ostatnie w tej serii pytanie Pana redaktora Rafała Tuszyńskiego, PAP Biznes.
+[SPEAKER_00] Jakie jest prawdopodobieństwo pojawienia się w 2022 roku fundamentalnej presji inflacyjnej, nie wynikającej z czynników podażowych, które według ostatniego komunikatu RPP będą podbijać inflację w 2021 roku?
+[SPEAKER_00] Proszę bardzo, Panie Profesorze.
+[SPEAKER_01] Dzień dobry Państwu.
+[SPEAKER_01] Serdecznie witam w ten piękny, słoneczny, wiosenny dzień.
+[SPEAKER_01] Przede wszystkim mogę powtórzyć to mniej więcej, co powiedziałem na poprzednim naszym spotkaniu.
+[SPEAKER_01] Po pierwsze, jak w komunikacie po posiedzeniu Rady Polityki Pieniężnej to wskazaliśmy, przyspieszenie inflacji w lutym to przede wszystkim efekt wzrostu cen paliw.
+[SPEAKER_01] który jest z kolei związany ze wzrostem cen ropy naftowej na rynkach światowych.
+[SPEAKER_01] Jest to więc czynnik całkowicie zewnętrzny, niezwiązany z polityką NBP.
+[SPEAKER_01] Przypomnę, że mniej więcej dokładnie rok temu mieliśmy dołek cen ropy naftowej i paliw na świecie, także w Polsce.
+[SPEAKER_01] W związku z tym ten poziom, od którego dzisiaj mierzymy wzrost cen, oczywiście jest wysoki.
+[SPEAKER_01] To jest to odbicie.
+[SPEAKER_01] Po drugie, roczny wskaźnik inflacji jest nadal silnie podbijany przez podwyżki cen energii elektrycznej.
+[SPEAKER_01] Z początku tego roku te podwyżki wyraźnie się pojawiły i jest to efekt polityczki klimatycznej Komisji Europejskiej czy Unii Europejskiej.
+[SPEAKER_01] Opłaty za emisję dwutlenki węgla oczywiście uderzają najsilniej w nas i to też w żadnym wypadku nie jest związane z polityką pieniężną Narodowego Banku Polskiego.
+[SPEAKER_01] Nie mamy na to żadnego wpływu.
+[SPEAKER_01] Nie jesteśmy w stanie tego ograniczyć.
+[SPEAKER_01] I po trzecie, wreszcie we wskaźniku CPI nadal mamy istotny wpływ zeszłorocznych podwyżek cen wywozu śmieci.
+[SPEAKER_01] Dużo o tym mówiłem, może aż za dużo.
+[SPEAKER_01] Nie zależą one w żadnym wypadku od pieniędzy ani koniunktury gospodarczej.
+[SPEAKER_01] Chociaż w jednym zdaniu tylko skomentuję – na pewno są do opanowania.
+[SPEAKER_01] Na pewno są metody, które pozwoliłyby ten wzrost cen śmieci ograniczyć.
+[SPEAKER_01] I to są metody na poziomie samorządów.
+[SPEAKER_01] Ale oczywiście są niemożliwe do stosowania, jeśli samorządy są zainteresowane wzrościem cen wywozu śmieci.
+[SPEAKER_01] Szczególnie mocno odbija się to w kieszeniach warszawiaków.
+[SPEAKER_01] Wreszcie w kierunku wyższej inflacji oddziaływuje także wzrost kosztów funkcjonowania przedsiębiorstw w warunkach pandemii.
+[SPEAKER_01] To jest przede wszystkim wzrost kosztów transportu, przejściowe zakłócenia w sieci dostaw bardzo wyraźnie występują.
+[SPEAKER_01] W sumie to są wszystko negatywne szoki podażowe, które są niezależne od polityki pieniężnej.
+[SPEAKER_01] Ale nie będą one trwale podnosić też dynamiki cen.
+[SPEAKER_01] Co z naszego punktu widzenia NBP i RPP?
+[SPEAKER_01] W gospodarce jako całości nie ma nadmiernego popytu.
+[SPEAKER_01] Utrzymuje się cały czas, według naszych szacunków, bardzo wyraźna, duża, ujemna luka popytowa.
+[SPEAKER_01] Mimo tego,
+[SPEAKER_01] Z drugiej strony spodziewamy się, że roczny wskaźnik CPI w kolejnych miesiącach wzrośnie.
+[SPEAKER_01] O tym już mówiłem wielokrotnie.
+[SPEAKER_01] Do czego przyczynią się przede wszystkim efekty bazy, ale nie tylko.
+[SPEAKER_01] Do tej bazy mamy różne kwestie związane właśnie z rozwojem kryzysu pandemicznego.
+[SPEAKER_01] z kolejną falą pandemii.
+[SPEAKER_01] To są oczywiście rzeczy, których nie mogliśmy przewidzieć.
+[SPEAKER_01] Ale w skrócie niska zeszłoroczna baza, działanie tych czynników, na które nie ma wpływu polityka pieniężna.
+[SPEAKER_00] Dziękuję bardzo.
+[SPEAKER_00] Pytanie pana redaktora Michała Żuławińskiego, Bankier.pl.
+[SPEAKER_01] Może tylko dodam, że to ewentualne przejście inflacji powyżej górnej granicy odchylenia o celę, jak to podkreślałem już kilka razy,
+[SPEAKER_01] jest być może przejściowo możliwe.
+[SPEAKER_01] To w tej chwili dopuszczamy.
+[SPEAKER_01] Te wskaźniki wyraźnie się podwyższyły.
+[SPEAKER_00] Wracamy do pytania pana redaktora Michała Żuławińskiego, Bankier.pl.
+[SPEAKER_00] Czy wzorem niektórych innych ośrodków analitycznych Narodowy Bank Polski monitoruje inflację w 2021 roku również z uwzględnieniem wag przedpandemicznego koszyka inflacyjnego?
+[SPEAKER_01] Robiliśmy takie szacunki uwzględniające przedpandemiczny koszyk, a więc przy założeniu struktury wydatków gospodarstw domowych z 2019 roku.
+[SPEAKER_01] Według tych szacunków w styczniu bieżącego roku ta inflacja byłaby niższa o 0,4 punktu procentowego, a w lutym o 0,2 punktu procentowego.
+[SPEAKER_01] Słowem przy sztucznym
+[SPEAKER_01] utrzymaniu teoretycznym koszyka z 2019, inflacja w styczniu lotnym wynosiłaby 2,2%.
+[SPEAKER_00] Dziękuję bardzo.
+[SPEAKER_00] Kolejne pytanie pana redaktora Michała Żuławińskiego, Bankier.pl.
+[SPEAKER_00] Czy inflacja HICP w Polsce jest najwyższa w Unii Europejskiej?
+[SPEAKER_00] Z czego zdaniem NBP wynika ten fakt?
+[SPEAKER_01] Oczywiście w zależności od tego, jak się mierzy inflację, jaką metodą, otrzymuje się różny wynik.
+[SPEAKER_01] Ważne, żeby stosować cały czas tę samą metodę, żeby te wyniki były porównywalne.
+[SPEAKER_01] To, że wychodzi wyższa inflacja w przypadku Polski, w przypadku tej metody HICP, wynika z faktu, że wzmocnione są tam czynniki regulacyjne – prąd, śmieci, które w Polsce wzrosły najsilniej, chyba w całej Europie.
+[SPEAKER_01] Na to się nakłada w przypadku Polski jeszcze bardzo silny wzrost opłat bankowych.
+[SPEAKER_01] One są silnie uwzględnione we wskaźniku HICP i to by tę inflację ciągnęły w górę.
+[SPEAKER_01] Silniej u nas także poszły w górę koszty zakwaterowania.
+[SPEAKER_01] na tle Europy.
+[SPEAKER_01] To wynika z rezygnacji Polaków z wyjazdów zagranicznych, prawdopodobnie zrozumiałego w czasie pandemii i większego popytu na usługi turystyczne w kraju, które mają określone możliwości.
+[SPEAKER_01] Natomiast w większości państw Unii nastąpił spadek cen hoteli o kilka lub nawet w niektórych krajach kilkanaście procent, prawie dwadzieścia.
+[SPEAKER_01] Wreszcie mieliśmy wyższą dynamikę usług lekarskich, co też w pandemii zrozumiałe.
+[SPEAKER_01] Tak zwane opłaty covidowe,
+[SPEAKER_01] Dodatkowe środki czystości, maseczki, fartuchy itd.
+[SPEAKER_01] I wreszcie, co może najciekawsze i optymistyczne, ta wyższa dynamika cen odzwierciedla fakt, że w Polsce jest znakomicie lepsza sytuacja gospodarcza niż w Europie, mimo pandemii.
+[SPEAKER_01] Polska najlepiej przechodzi kryzys pandemiczny.
+[SPEAKER_01] Przypomnę, że mamy najniższą stopę bezrobocia w Unii Europejskiej, a spadek PKB był jednym z najniższych i to jest także przyczyna.
+[SPEAKER_00] Dziękuję bardzo.
+[SPEAKER_00] Przed nami trzy pytania.
+[SPEAKER_00] Pierwsze pana redaktora Pawła Florkiewicza z Reuters.
+[SPEAKER_00] Czy obecna sytuacja pandemiczna, wzrost zachorowań, znaczne obciążenie służby zdrowia, przedłużenie obostrzeń będzie miała znaczący wpływ na kondycję polskiej gospodarki?
+[SPEAKER_00] Czyli w jakim stopniu może przyczynić się do osłabienia wzrostu gospodarczego Polski?
+[SPEAKER_00] Pytanie Pani redaktor Doroty Bartyzel-Bloomberg.
+[SPEAKER_00] Z jednej strony piszą Państwo, że perspektywy wzrostu gospodarczego pozostają niepewne.
+[SPEAKER_00] Z drugiej, że w miarę postępu procesu szczepień i stopniowego ograniczenia skali pandemii wygasać będzie wpływ czynników podażowych na inflację.
+[SPEAKER_00] Jak te opinie wpływają na oczekiwania Rady Polityki Pieniężnej co do wzrostu PKB w tym roku?
+[SPEAKER_00] W projekcji jest 4,1.
+[SPEAKER_00] I pytanie Pana redaktora Marcina Musiała, PAP Media Gospodarka.
+[SPEAKER_00] Rozwój epidemii COVID-19 w Polsce i związany z tym przedłużający się lockdown skłania wielu ekonomistów do rewizji tegorocznych prognoz dotyczących wzrostu gospodarczego.
+[SPEAKER_00] Czy Pana zdaniem w tej sytuacji osiągnięcie 4,1% wzrostu w tym roku jest realne, jak zakładał NBP jeszcze w ubiegłym miesiącu?
+[SPEAKER_01] Oczywiście czynnikiem podstawowym jest rozwój pandemii, kolejne fale tej pandemii.
+[SPEAKER_01] I oczywiście obecna fala pandemii, zaostrzenie restrykcji w marcu z tym związane, wpływają bardzo negatywnie na aktywność gospodarczą i bardzo negatywnie na nastroje.
+[SPEAKER_01] Nie mamy jeszcze danych za maszec.
+[SPEAKER_01] One dopiero pozwolą ocenić wpływ kolejnej fali pandemii na aktywność gospodarczą.
+[SPEAKER_01] Natomiast dane o wysokiej częstotliwości, tak zwane, pokazują, że wpływ sytuacji epidemicznej na gospodarkę jest dzisiaj istotnie mniejszy niż wcześniej.
+[SPEAKER_01] To dotyczy wszystkich krajów.
+[SPEAKER_01] Po prostu gospodarki wszystkich państw przyzwyczaiły się trochę do tych warunków pandemicznych i słabiej reagują na kolejne fale pandemii.
+[SPEAKER_00] Przed nami cztery kolejne pytania.
+[SPEAKER_00] Pierwsze, pan redaktor Paweł Florkiewicz, Reuters.
+[SPEAKER_00] Czy nadal Pana zdaniem stopy procentowe mogą pozostać bez zmian do końca kadencji obecnej RPP?
+[SPEAKER_00] Pytanie pana redaktora Marka Chodzyńskiego, Dziennik Gazeta Prawna.
+[SPEAKER_00] Czy podtrzymuje Pan opinię, że stopy procentowe pozostaną bez zmian do końca kadencji obecnej RPP?
+[SPEAKER_00] Pytanie pani redaktor Renaty Oliarz, ISB News.
+[SPEAKER_00] Rada w środowej ocenie wpływu pandemii na sytuację gospodarczą wskazała,
+[SPEAKER_00] że wpływ sytuacji epidemicznej na gospodarkę jest istotnie mniejszy niż wcześniej.
+[SPEAKER_00] Czy wraz z postępem szczepień i możliwą produkcją szczepionek na szerszą skalę, także w Polsce w trzecim kwartale bieżącego roku, możemy spodziewać się szybszego odbicia gospodarczego niż wcześniej zakładano i narastania wpływu czynników popytowych na inflację?
+[SPEAKER_00] Jaki horyzont czasowy rysuje to dla możliwych pierwszych ruchów zacieśniających i podwyżki stóp?
+[SPEAKER_00] Pytanie pana redaktora Rafała Tuszyńskiego, PAP Biznes.
+[SPEAKER_00] Czy poprzez deklarację co do braku zmian stóp procentowych do końca 2022 roku prezes NBP zamierza akceptować przegrzanie gospodarki w 2023 roku?
+[SPEAKER_01] Proszę Państwa, nie do przewidzenia są do końca ani stany te pandemiczne.
+[SPEAKER_01] ani rytm dostaw.
+[SPEAKER_01] Jeśli by założyć optymistycznie, że ten sygnalizowany ostatnio przez premiera Morawieckiego rytm dostaw, ich wielkość rzeczywiście nastąpi, to można być bardzo optymistycznie nastawionym do kolejnych kwartałów.
+[SPEAKER_01] To jest znakomite przyspieszenie.
+[SPEAKER_01] A muszę tu dodać, chociaż jednocześnie z zastrzeżeniem, że rozumiem to, że w czasach pandemii czy jakichś innych nieszczęść
+[SPEAKER_01] Odruch jest taki, że się myśli bardzo krytycznie o działaniach podejmowanych w tym zakresie przeciwdziałającym skutkom tych zjawisk kryzysowych.
+[SPEAKER_01] Jest powszechny krytycyzm, który dotyczy działań podejmowanych w zakresie szczepień przez polskie państwo.
+[SPEAKER_01] To jednak, jak się spojrzy na to obiektywnie – i tak na pewno będzie z perspektywy czasu po pandemii –
+[SPEAKER_01] Polskie państwo przedstawiło niesłychanie pozytywny swój obraz walcząc z pandemią.
+[SPEAKER_01] Cały system szczepień jest niewiarygodnie skomplikowany.
+[SPEAKER_01] Każdy logistyk, każdy informatyk odpowie na tę kwestię.
+[SPEAKER_01] To jest niesłychanie skomplikowany proces informatyczny, organizacyjny z zakresu bezpieczeństwa,
+[SPEAKER_01] z zakresu sanitarnego itd.
+[SPEAKER_01] Niesłychanie skomplikowane zadanie.
+[SPEAKER_01] Po raz pierwszy przed takim zadaniem stanęliśmy od zakończenia II wojny światowej, wliczając w to PRL, które nie było niepodległym państwem polskim.
+[SPEAKER_01] I z mojego punktu widzenia, bo często bywam blisko prac rządu w swoim życiu i mam bardzo krytyczny stosunek do jakości aparatu państwowego w Polsce nadal, po tych dwudziestu kilku latach prawdziwej niepodległości.
+[SPEAKER_01] Jestem bardzo zbudowany tym, jak aparat państwowy polski, jak wszystkie odpowiedzialne za to służby przeciwstawiają się COVID-owi.
+[SPEAKER_01] Jak sprawnie jest zorganizowany ten system szczepień, dystrybucji leków.
+[SPEAKER_01] Z tego punktu widzenia mogę powiedzieć tak, że te zwiększone dostawy
+[SPEAKER_01] wielomilionowe szczepionek, jestem przekonany, zostaną sprawnie bardzo rozdysponowane i sprawnie zaaplikowane.
+[SPEAKER_01] Jeśli tak będzie, bardzo szybko osiągniemy poziom, przy którym skutki gospodarcze pandemii będą niesłychanie ograniczone, bardzo ograniczone.
+[SPEAKER_01] Teraz przechodząc do meritum.
+[SPEAKER_01] Wszystkie główne banki centralne w krajach, które mogą być dla nas jakimś odniesieniem, czyli kraje wysoko rozwinięte, demokratyczne, utrzymują bardzo łagodną politykę pieniężną.
+[SPEAKER_01] Co więcej, prezesi tych banków, zarówno Europejskiego Banku Centralnego, jak i Fedu, jak i Banku Anglii, nie sygnalizują zacieśnienia tej polityki, wydającej się przewidzieć przyszłości.
+[SPEAKER_01] Mówią to bardzo stanowczo i jednoznacznie.
+[SPEAKER_01] Wysyłają silny sygnał do gospodarki i do świata, że pomimo pewnego wzrostu cen, przede wszystkim cen surowców, mimo pojawiania się pewnych ograniczeń podażowych w przemyśle, co podbija inflację oczywiście,
+[SPEAKER_01] będą kontynuować bardzo luźną politykę monetarną.
+[SPEAKER_01] Oczekując, aż gospodarka wyjdzie zdecydowanie z kryzysu, nabierze pewnego rozpędu i już będzie prezentowała zdrowy wzrost.
+[SPEAKER_01] I tak samo robimy i my.
+[SPEAKER_01] Pojawiły się różne takie głosy zdziwienia, że do tej pory się odwoływaliśmy do tego, że musimy stosować inną politykę pieniężną, my jako NBP, niż kraje najwyżej rozwinięte gospodarczo, najbogatsze na świecie, demokracje zachodnie.
+[SPEAKER_01] a teraz nagle się na nich wzorujemy.
+[SPEAKER_01] Tak jest.
+[SPEAKER_01] Po prostu Polska staje się krajem coraz bogatszym, coraz bardziej rozwiniętym i nadszedł czas, że metody działania banku centralnego i polityka pieniężna, którą aplikujemy, staje się bardziej podobna, zdecydowanie podobna, czy nawet tożsama prawie, z polityką pieniężną banków centralnych, tych najwyżej gospodarczo na świecie rozwiniętych demokracji.
+[SPEAKER_01] Po raz pierwszy w czasie pandemii Bank Centralny zastosował luzowanie ilościowe na wielką skalę od razu.
+[SPEAKER_01] I tak już będzie, że ta polityka u nas i tam będzie się różniła tylko jednym – tym, że posiadamy własną walutę.
+[SPEAKER_01] Tą naszą przewagą, nie ukrywam, którą mamy, że w stosunku do Unii Europejskiej my, jako państwo, mamy własną walutę.
+[SPEAKER_01] Podobnie jak Stany Zjednoczone, ale się nie porównujemy, bo to jest co innego.
+[SPEAKER_01] Oni mają walutę światową.
+[SPEAKER_01] Dzięki działaniom NBP, które wsparły sprawną realizację programów antykryzysowych rządu, Polska poradziła sobie gospodarczo lepiej niż wiele innych krajów.
+[SPEAKER_01] Kraje porównywane do nas potencjalnie zdecydowanie zostawiliśmy za sobą.
+[SPEAKER_01] I nadal musimy działać tak, by oczekiwane po ustabilizowaniu sytuacji epidemiczne ożywienie gospodarcze było solidne i trwałe.
+[SPEAKER_01] żebyśmy weszli na trwałe, stałego, trwałego, stabilnego, szybkiego rozwoju gospodarczego, wzrostu gospodarczego.
+[SPEAKER_01] Muszą ruszyć znowu inwestycje, rynek pracy musi pozostać mocny, trwale się musi ożywić konsumpcja.
+[SPEAKER_01] Wtedy oczywiście będziemy mogli zrezygnować z wydłużania okresu utrzymywania bardzo niskich stóp procentowych, nie bojąc się, że zakłócimy rytm wzrostu gospodarczego.
+[SPEAKER_01] Ale póki co
+[SPEAKER_01] w tej chwili.
+[SPEAKER_01] To jest stanowcze zbyt wcześnie, żeby w ogóle dyskutować na ten temat, żeby rozważać w ogóle jakiekolwiek zaciśnienie polityki pieniężnej.
+[SPEAKER_01] To byłoby absurdalnie, byśmy popełnili ogromny błąd, który już kiedyś w Polsce został popełniony przez Radę Polityki Pieniężnej.
+[SPEAKER_01] Nie powiem nawet kiedy i przez kogo kierowany, bo nie chcę personalizować tego problemu.
+[SPEAKER_01] To jest normalny, można popełnić taki błąd.
+[SPEAKER_01] Ale jak się raz popełniło w historii naszej nowoczesnej, to drugi raz trzeba już tego uniknąć.
+[SPEAKER_01] Nie możemy w żadnym wypadku wyhamować oczekiwanej odbudowy gospodarczej po pandemii.
+[SPEAKER_01] A dyskutowanie o tym, zanim się na dobre zaczęła ta odbudowa, to w ogóle nie ma żadnego sensu.
+[SPEAKER_01] To jest daleko przedwcześnie, żeby na ten temat dyskutować.
+[SPEAKER_01] Mamy sytuację, że inflacja jest podbijana przez te szoki podażowe, a już gdzieniegdzie się pojawiają głosy, żeby myśleć o podwyżce stóp i zamrażaniu gospodarki.
+[SPEAKER_01] To jest w ogóle, jakby to powiedzieć, wbrew sztuce oczywiście prowadzenie polityki pieniężnej, ale wbrew zdrowemu rozsądkowi i jakiekolwiek racjonalnemu myśleniu.
+[SPEAKER_01] To może wynikać z jakichś politycznych spekulacji czy jakiejś ideologii zapiekłej, dogmatycznej, ale to nie jest mądre po prostu.
+[SPEAKER_01] Natomiast co do możliwości dalszego łagodzenia polityki pieniężnej.
+[SPEAKER_01] Nie mówimy o niej w tej chwili, mówiliśmy w konkretnym momencie, kiedy to było potrzebne, ale zachowujemy taką gotowość.
+[SPEAKER_01] Wszystko zależy od koniunktury.
+[SPEAKER_01] Po prostu już nie zakładamy, że ta koniunktura się jakoś dramatycznie załamie, że pandemia się gwałtownie rozwinie.
+[SPEAKER_01] To jest nie do przewidzenia.
+[SPEAKER_01] Zakładamy, że będzie realizowany scenariusz optymistyczny.
+[SPEAKER_01] Pandemia będzie się poddawać, będziemy ją przezwyciężać.
+[SPEAKER_01] W lecie dojdziemy do normalności.
+[SPEAKER_01] Koniunktura się poprawi zasadniczo.
+[SPEAKER_01] Wejdziemy na tory wzrostu gospodarczego i zobaczymy, co dalej.
+[SPEAKER_01] Gdyby było przeciwnie, nie daj Bóg, to i poluzowanie polityki pieniężnej jest nadal możliwe.
+[SPEAKER_01] Ale teraz też nie ma potrzeby o tym mówić.
+[SPEAKER_01] Co do przegrzania gospodarki.
+[SPEAKER_01] Jest mowa o 2023 roku.
+[SPEAKER_01] szacunkiem do stuki przewidywania przyszłości.
+[SPEAKER_01] Stuka, a nie nauka oczywiście, bo tego się nie da przewidzieć, jeśli nie dotyczy jednego aspektu, jednego wąskiego jakiegoś wycinka.
+[SPEAKER_01] Nie mamy szklanej kuli,
+[SPEAKER_01] Banku Polski.
+[SPEAKER_01] Mamy najlepsze prognozy, jedne z lepszych na świecie, ale nie jesteśmy w stanie przewidzieć, jak będzie dokładnie w 2023 roku.
+[SPEAKER_01] Nasze projekcje obejmuje 2023 rok, ale w takim okresie, takich zmienności i zagrożeń, to jest zbyt niepewna perspektywa, żeby w ogóle o niej dyskutować, jaka będzie wtedy sytuacja.
+[SPEAKER_01] Jak na razie w obliczu kolejnej fazy pandemii przedłużonych restrykcji jesteśmy bardzo daleko od przegrzanej gospodarki.
+[SPEAKER_01] Jakby powiedział Tarantino pewnie, cytat z Pulp Fiction, jesteśmy cholernie daleko od okej w gospodarce i trzeba zrobić wszystko, żeby gospodarka ruszyła, rozwijała się i żeby ten wzrost był trwały i wtedy możemy prowadzić normalną politykę.
+[SPEAKER_01] Przegrzanie jest czymś, co w ogóle nawet na korytarzu czy przy obiedzie nie jest dyskutowane.
+[SPEAKER_01] Natomiast zapewniam, że obecne kierownictwo NBP i Rady Polityki Pieniężnej, i NBP jako instytucji nie dopuści do tego, żeby przegapić moment, kiedy będzie trzeba zacieśniać politykę pieniężną.
+[SPEAKER_01] Ale to jest tak odległa perspektywa, że to jest strata czasu, żeby dyskutować na ten temat.
+[SPEAKER_00] Dziękuję bardzo.
+[SPEAKER_00] Przed nami dwa kolejne pytania.
+[SPEAKER_00] Pierwsze skierowane przez redaktora Pawła Florkiewicza z Reuters.
+[SPEAKER_00] Czy przyspieszająca inflacja, która jak podała Rada w komunikacie może być jeszcze wyższa, zmniejsza lub też zupełnie wyklucza prawdopodobieństwo obniżek stóp procentowych?
+[SPEAKER_00] Czy też należałoby już myśleć o zaostrzeniu polityki monetarnej, wdającej się przewidzieć przyszłości?
+[SPEAKER_00] Oraz pytanie redaktora Marka Chądzyńskiego, Dziennik Gazeta Prawna.
+[SPEAKER_00] Czy NBP dostrzega ryzyko przekroczenia przez inflację w najbliższych miesiącach górnej granicy pasma odchyleń od celu inflacyjnego?
+[SPEAKER_00] Czy w ocenie pana prezesa konieczne będą jakieś dostosowania
+[SPEAKER_00] w polityce komunikacyjnej banku centralnego np. odejście od retoryki wskazującej na możliwość dalszych obniżek stuprocentowych.
+[SPEAKER_00] Proszę bardzo.
+[SPEAKER_01] To już powiedziałem poprzednio.
+[SPEAKER_01] Odeszliśmy od retoryki sygnalizowania tej możliwości obniżki, ale ona nadal istnieje.
+[SPEAKER_01] Ale jesteśmy bardzo, bardzo daleki od takiej sytuacji.
+[SPEAKER_01] Tak samo bardzo, bardzo daleko jesteśmy jeszcze dalej od retoryki o podwyższaniu stóp i zacieśniania polityki pieniężnej.
+[SPEAKER_01] Po prostu sytuacja jest trudna do przewidzenia.
+[SPEAKER_01] Jeśli bym zaryzykował, ale to w swoim imieniu, tylko bo państwo lubią te przewidywania, to bym przewidywał, tak jak mówiłem to już wielokrotnie, że do końca tej kadencji Rady Polityki Pieniężnej – to nie jest odległa jakaś bardzo perspektywa – stopy pozostaną na niezmienionym poziomie.
+[SPEAKER_01] To by było logiczne.
+[SPEAKER_01] Chociaż inflacja przejściowo może się znaleźć poniżej górnego pasma.
+[SPEAKER_01] Z powodu tych trzech czynników, o których mówiłem – tych szoków podażowych.
+[SPEAKER_01] Ale to nie będzie związane z efektem takiej czy innej polityki pieniężnej, czyli zjawiskami, które nie podlegają polityce pieniężnej.
+[SPEAKER_00] I kolejne dwa pytania.
+[SPEAKER_00] Pierwsze pana redaktora Rafała Tuszyńskiego, PubBiznes.
+[SPEAKER_00] Dlaczego MDP bagatelizuje wysoką inflację, gdy coraz bardziej prawdopodobny jest scenariusz, w którym CPI, ale też inflacja bazowa przez dłuższy czas będą utrzymywać się powyżej górnego ograniczenia dopuszczalnego pasma odchylenia od celu?
+[SPEAKER_00] Jak pogodzić sytuację inflacyjną i ustawowe cele NBP przy obecnej ultragołębiej retoryce?
+[SPEAKER_00] Dlaczego prezes NBP nie zmienia retoryki w związku z podwyższoną inflacją?
+[SPEAKER_00] Oraz krótkie pytanie pana redaktora Bartosza Bednarza-Interia.
+[SPEAKER_00] Jak długo NBP może akceptować inflację powyżej 4%?
+[SPEAKER_01] Jeśli to jest ultragołębia retoryka, to nie wiem, jak by miała wyglądać ultrajastrzębia, jak by miała wyglądać umiarkowana.
+[SPEAKER_01] to nie jest ultragołębia retoryka.
+[SPEAKER_01] Jak można dyskutować podwyżkę stóp procentowych w warunkach kryzysu, niejasnych perspektyw dotyczących tej fali pandemii, nie wiadomo czy nie będzie następnej, niejasnej reakcji gospodarki na podjęte środki przeciwdziałające i silnych trzech przynajmniej szoków podażowych przychodzących z zewnątrz?
+[SPEAKER_01] Jak można dyskutować wtedy podwyższanie stóp procentowych?
+[SPEAKER_01] Co by podwyższenie stóp procentowych dało w stosunku do przeciwdziałania skutkom wysokich cen ropy naftowej, statystycznie, bo w stosunku do baz z zeszłego roku, wysokich cen kosztów wywozu śmieci, czy wysokich cen energii elektrycznej wynikających ze zwiększających się wymogów finansowych dotyczących polityki energetycznej Unii Europejskiej?
+[SPEAKER_01] Co by dała polityka pieniężna?
+[SPEAKER_01] By zdusiła, zamroziła gospodarki i zwiększyłaby bezrobocie.
+[SPEAKER_01] Jedynym skutkiem takiej polityki pieniężnej, niemądrej bardzo,
+[SPEAKER_01] zapiekli dogmatycznie myślący ekonomiści, nie zważający na fakt, by się bronić, byłoby tylko wzrost bezrobocia.
+[SPEAKER_01] Nic więcej.
+[SPEAKER_01] Natomiast w żadnym wypadku nie bagatelizujemy inflacji.
+[SPEAKER_01] Śledzimy uważnie wszystkie zmiany.
+[SPEAKER_01] Powiedziałem wyraźnie – może nastąpić przejściowo wzrost inflacji powyżej górnego pasmu odchyleń.
+[SPEAKER_01] Z tych powodów, o których mówiłem.
+[SPEAKER_01] Ale w przyszłym roku – i to nie tylko nasze prognozy,
+[SPEAKER_01] ale wszystkie w zasadzie istotne, ważne, autorytatywne ośrodki zewnętrzne to mówią – w przyszłym roku inflacja znajdzie się w naszym paśmie tym podstawowym.
+[SPEAKER_01] Będzie blisko w ogóle naszego celu inflacyjnego, środka naszego pasma.
+[SPEAKER_01] Więc to byłoby kompletnie wbrew sztuce.
+[SPEAKER_01] i wbrew temu wszystkiemu, co należy robić.
+[SPEAKER_01] Jeśli inflacja w przyszłym roku ma się znaleźć blisko w ogóle środka naszego celu inflacyjnego, jeśli inflacja jest teraz podbijana przez szoki podażowe,
+[SPEAKER_01] no to oczywiście, że nie można zwiększać stóp procentowych i gospodarka jeszcze nie weszła na pasmo wzrostu.
+[SPEAKER_01] Czasowo może się inflacja kształtować powyżej lub poniżej celu.
+[SPEAKER_01] Proszę przeczytać jeszcze raz założenia polityki pieniężnej, co roku przyjmowanej w prawie niezmienionej wersji, od bardzo, bardzo, bardzo dawna.
+[SPEAKER_01] Inflacja może się znajdować przejściowo powyżej lub poniżej celu, poza określonym przedziałem odchylenia od celu.
+[SPEAKER_01] ze względu na szoki makroekonomiczne, finansowe, które nas dotykają.
+[SPEAKER_01] To się mieści w założeniach polityki pieniężnej i nie musimy w nich nic zmieniać w związku z tym.
+[SPEAKER_01] Nasz cel inflacyjny ma charakter średniookresowy.
+[SPEAKER_01] Wszystko wskazuje na to, jeśli się nic nie zmieni przecież na świecie, że w przyszłym roku znajdziemy się dokładnie w tym miejscu, w którym chcemy zgodnie z założeniami się znaleźć.
+[SPEAKER_01] I reakcja musi być elastyczna,
+[SPEAKER_01] od oceny natury tych szoków, trwałości skutków.
+[SPEAKER_01] Elastycznie określamy, jak szybko inflacja ma powrócić do celu, bo zbyt szybkie sprowadzanie inflacji, czy usiłowanie sprowadzania inflacji na celu,
+[SPEAKER_01] może powtórzę to jeszcze raz, wiązać się z bardzo wysokimi kosztami po stronie aktywności gospodarczej.
+[SPEAKER_01] Bardzo wysokimi kosztami społecznymi.
+[SPEAKER_01] Przede wszystkim o wiele wyższym bezrobociem, niższym zatrudnieniem, gorszą sytuacją firm.
+[SPEAKER_01] To jest właśnie ważny okres, w którym jasno sygnalizujemy, że przejściowo będziemy mieli wyższy wskaźnik CPI, ale w średnim okresie, który nas interesuje, jedynie on nas interesuje, wrócimy do celu.
+[SPEAKER_01] Jeśli byśmy bezrozumnie próbowali walczyć z negatywnymi szokami podażowymi, to byłby wielki błąd, który by się znalazł w podrzęcznikach do studiowania finansów i bankowości.
+[SPEAKER_01] Poniosłaby tego koszt gospodarka i wszyscy Polacy w postaci niższego zatrudnienia i płac.
+[SPEAKER_01] Nie zrobimy tego błędu.
+[SPEAKER_00] Teraz przed nami kilka pytań.
+[SPEAKER_00] Pierwsze, pan redaktor Paweł Florkiewicz, Reuters.
+[SPEAKER_00] Co oznacza fakt, że w komunikacie po kwietniowym posiedzeniu RPP zniknęło sformułowanie, że ożywienie gospodarcze może ograniczać brak wyraźnego i trwalszego dostosowania kursu złotego do globalnego
+[SPEAKER_00] wstrząsu wywołanego pandemią, które zostało zastąpione frazą, że ożywienie będzie także uzależnione od dalszego kształtowania się złotego.
+[SPEAKER_00] Pytanie redaktora Marka Chądzyńskiego, Dziennik Gazeta Prawna.
+[SPEAKER_00] Czy obecny kurs złotego jest już adekwatny do skali spowolnienia wywołanego pandemią i poluzowania polityki pieniężnej NBP?
+[SPEAKER_00] Czy też NBP będzie podejmował działania w kierunku dalszego osłabienia złotego?
+[SPEAKER_00] Pytanie pana redaktora Grzegorza Siemiączyka, Rzeczpospolita.
+[SPEAKER_00] Kwietniowy komunikat RPP sugeruje, że obecny kurs złotego nie stanowi zagrożenia dla ożywienia gospodarczego.
+[SPEAKER_00] Jednocześnie RPP podtrzymuje ocenę, że konieczne mogą być interwencje NBP na rynku walutowym.
+[SPEAKER_00] W grudniu takie interwencje były podejmowane przy kursie nieco poniżej 4,50 zł za euro.
+[SPEAKER_00] Czy NBP będzie dążył do utrzymania kursu złotego w przedziale 4,50 do 4,60 zł za euro?
+[SPEAKER_00] Pytanie pani redaktor Doroty Bartyzel-Blumberg.
+[SPEAKER_00] W komunikacie po środowym posiedzeniu Rada nie wspomina już o braku wyraźnego i trwalszego dostosowania kursu złotego.
+[SPEAKER_00] W zamian mówi, że ożywienie będzie uzależnione od dalszego kształtowania się kursu złotego.
+[SPEAKER_00] Czy ta zmiana oznacza, że według Rady obecny kurs jest już pożądany przez warunki ekonomiczne pułap, a ostatnie osłabienie do poziomu nienotowanego od 12 lat było z tego punktu widzenia przesadne?
+[SPEAKER_00] Pytanie pana redaktora Rafała Tuszyńskiego, PAB Biznes.
+[SPEAKER_00] Dlaczego RPP zmodyfikowała w komunikacie sformułowanie dotyczące kursu złotego?
+[SPEAKER_00] Czy Rada przestraszyła się osłabienia krajowej waluty w okolice granicy opłacalności importu?
+[SPEAKER_00] Czy NBP nie obawia się, że zmiana w komunikacji dotyczącej kursu może w zbyt dużym stopniu umocnić złotego?
+[SPEAKER_00] Pytanie pana redaktora Michała Żuławińskiego, Bankier.pl.
+[SPEAKER_00] Co spowodowało, że z ostatniego komunikatu po posiedzeniu RPP wykreślono fragment o obawach dotyczących braku dostosowania kursu walutowego do szoku pandemicznego i poluzowania polityki pieniężnej.
+[SPEAKER_00] Czy oznacza to, że interwencje walutowe są obecnie mniej prawdopodobne?
+[SPEAKER_00] Kolejne pytanie pana redaktora Rafała Tuszyńskiego, PAP Biznes.
+[SPEAKER_00] Czy kilkuprocentowe i nietrwałe osłabienie złotego jest według RPP właściwą odpowiedzią na pandemię?
+[SPEAKER_00] A może Rada czekała tylko na dobrą okazję, żeby wycofać się z wcześniej stosowanych zapisów dotyczących kursu, które były przez niektórych obserwatorów oceniane jako niefortunne?
+[SPEAKER_00] Kiedy i w jakiej sytuacji RPP wycofa się z komunikacji odniesienia do interwencji walutowych i kursu złotego?
+[SPEAKER_00] Pytanie pani redaktor Renaty Oliarz, ISB News.
+[SPEAKER_00] Środowy komunikat po posiedzeniu Rady sugeruje, że bieżący poziom kursu walutowego znajduje się w strefie komfortu NBP.
+[SPEAKER_00] Czy oznacza to mniejszą gotowość do interwencji walutowych?
+[SPEAKER_00] Pytanie Pani redaktor Doroty Bartyzel-Blumberg.
+[SPEAKER_00] Przełom roku naznaczony był ostrzeżeniem Pana Prezesa Glapińskiego, że aprecjacja złotego podnosi prawdopodobieństwo redukcji stóp procentowych.
+[SPEAKER_00] Czy po ostatniej deprecjacji zmalało prawdopodobieństwo dalszego łagodzenia polityki monetarnej?
+[SPEAKER_00] Czy obniżka stóp jest już mniej prawdopodobna, a może w ogóle wykluczona?
+[SPEAKER_00] I kolejne pytanie także Pani redaktor Doroty Bartyzel-Blumberg.
+[SPEAKER_00] Wstępny odczyt inflacji za marzec – 3,2% – był zaskakująco wysoki wobec tzw. konsensusu rynkowego.
+[SPEAKER_00] W jakim stopniu zmiana retoryki Rady na temat złotego wynika z obawy, że dalsza słabość polskiej waluty może dodatkowo oddziaływać proinflacyjnie?
+[SPEAKER_00] Proszę bardzo.
+[SPEAKER_01] Proszę Państwa, tak ogólnie bym powiedział w następujący sposób.
+[SPEAKER_01] Polityka Rady Polityki Pieniężnej i polityka Narodowego Banku Polskiego wraz z kryzysem pandemicznym
+[SPEAKER_01] przestała być super, bardzo ostrożna i bojaźliwa.
+[SPEAKER_01] Jesteśmy gotowi prowadzić politykę bardzo dynamiczną, odważną i nie boimy się wszystkich działań, które są dopuszczone przez prawo, przez ustawy, przez uchwały Rady Polityki Pieniężnej i praktykę międzynarodową.
+[SPEAKER_01] Polski system jest oparty na płynnym całkowicie kursie waluty polskiej.
+[SPEAKER_01] Kurs złotego jest całkowicie płynny.
+[SPEAKER_01] Natomiast w założeniach polityki pieniężnej zawsze było napisane i w pełni to podtrzymujemy, że w stosownym momencie, jeśli uznajemy to za potrzebne, dokonujemy interwencji.
+[SPEAKER_01] Na jaką skalę?
+[SPEAKER_01] Wielką, małą, dużą?
+[SPEAKER_01] Taką, jaka jest potrzebna.
+[SPEAKER_01] Jaki to są stosowne momenty?
+[SPEAKER_01] Przede wszystkim te, w których kurs złotego zmienia się nagle, zmienia się dynamicznie i w istotny sposób zmienia parametry rynkowe.
+[SPEAKER_01] Natomiast nie dążymy i nie dążyliśmy nigdy do określonego kursu, do określonego przedziału kursu itd.
+[SPEAKER_01] Wtedy to by nie był wolny
+[SPEAKER_01] płynny złoty, a taki jest.
+[SPEAKER_01] Kurs zmierza w tym kierunku, w jakim długofalowe trendy tę płynność kierują.
+[SPEAKER_01] Jest niewątpliwie szereg różnych trendów, które się na to składają.
+[SPEAKER_01] Natomiast każda nagła, dynamiczna zmiana jest niepożądana.
+[SPEAKER_01] Rujnuje spokój gospodarczy, rujnuje planowanie gospodarcze, rujnuje planowanych działań gospodarczych i w szczególności dotyka eksportu.
+[SPEAKER_01] Dlatego interweniowaliśmy.
+[SPEAKER_01] Interwencja była – jak na nasze warunki – mocna, najmocniejsza w historii i rezultat był pozytywny.
+[SPEAKER_01] Osiągnęliśmy cele, które chcieliśmy osiągnąć.
+[SPEAKER_01] Nie wyrzekamy się takich interwencji w każdym momencie, które będzie to stosowne.
+[SPEAKER_01] Może poinformuję też, że ta interwencja została w pełni zaakceptowana czy zrozumiała.
+[SPEAKER_01] przez międzynarodowe instytucje finansowe, które się tym interesują, a w szczególności Międzynarodowy Fundusz Malutowy.
+[SPEAKER_01] To była normalna, logiczna interwencja związana z kierunkiem naszej polityki pieniężnej w czasie przezwyciężania kryzysu pandemicznego.
+[SPEAKER_01] Po prostu było tak, że działania polityki pieniężnej były nakierowane na jeden kierunek,
+[SPEAKER_01] Wychodzenie z kryzysu, stwarzanie warunków dla aktywności gospodarczej.
+[SPEAKER_01] A kurs złotego akurat zaczął działać w kierunku przeciwnym.
+[SPEAKER_01] Nagle i szybko.
+[SPEAKER_01] Więc kurs złotego nie odzwierciedlał w ogóle zwrotu w naszej polityce pieniężnej.
+[SPEAKER_01] I o tym mówiliśmy, to sygnalizowaliśmy.
+[SPEAKER_01] Dostosowaliśmy kurs złotego.
+[SPEAKER_01] co chcieliśmy zrobić przez politykę pieniężną.
+[SPEAKER_01] I dlatego zaczęliśmy w ogóle mówić o kursie.
+[SPEAKER_01] Przypomnę, że wcześniej o kursie mówiliśmy bardzo sporadycznie i rzadko, bo my nie jesteśmy nastawieni na oddziaływanie na kurs złotego.
+[SPEAKER_01] W przeciwieństwie do innych krajów, nawet naszego regionu, które to robiły.
+[SPEAKER_01] Słabszy złoty nie jest powodem do zmartwień.
+[SPEAKER_01] Słabszy złoty wspiera odbudowę aktywności gospodarczej po ubiegłorocznym załamaniu.
+[SPEAKER_01] Obserwujemy sytuację, wzmacnianie się kursu, spokojne, łagodne, systematyczne, do przewidzenia, też nie jest niczym dramatycznym.
+[SPEAKER_01] Ale kurs jest istotny dla ożywienia, dla tempo ożywienia.
+[SPEAKER_01] Obecna sytuacja, ktoś z Państwa pytający, któryś z dziennikarzy sformułował, że to jest strefa komfortu,
+[SPEAKER_01] Dla NBP czy dla RPP to jest zgrabne określenie, które odzwierciedla nasz punkt widzenia.
+[SPEAKER_01] Ale zachowujemy sobie prawo do interwencji zawsze wtedy, kiedy uznamy to za konieczne.
+[SPEAKER_01] To mogą być bardzo duże interwencje, mogą być niewielkie, w zależności od warunków rynkowych.
+[SPEAKER_01] Rynek wie, że jesteśmy gotowi do tych interwencji i przygotowań.
+[SPEAKER_00] O strefie komfortu mówiła pani redaktor Renata Oliasz z ISB News.
+[SPEAKER_00] Pozdrawiamy panią redaktor.
+[SPEAKER_00] Kolejnych kilka pytań z troszkę może innej tematyki.
+[SPEAKER_00] Pierwsze pytanie pana redaktora Damiana Szymańskiego, portal Business Insider Polska.
+[SPEAKER_00] Chciałem podpytać, czy coś się zmieniło w temacie podejścia NBP do kwestii klimatycznych?
+[SPEAKER_00] Czy planują państwo przystąpienie do Network for Greening the Financial System, jak w grudniu 2020 roku zrobiła to rezerwa federalna?
+[SPEAKER_00] W ostatnich dniach również prof. Hart mówił o tym, że najwyższy czas sporządzić analizy na uwłonie banku dotyczące dalszej ścieżki polityki monetarnej w kwestiach klimatu i udziału banku centralnego w transformacji energetycznej naszego kraju.
+[SPEAKER_00] Czy zgadzacie się Państwo z członkiem RPP, że takie analizy należałoby przeprowadzić i czy zamierzacie Państwo przystąpić do Network for Greening?
+[SPEAKER_00] To było pytanie redaktora Damiana Szymańskiego, a teraz pytanie pana redaktora Rafała Tuszyńskiego, PAP Biznes.
+[SPEAKER_00] W marcowym artykule prezes NBP mówił o możliwości wsparcia przez bank centralny budowy elektrowni atomowej.
+[SPEAKER_00] Na czym miałoby to polegać?
+[SPEAKER_00] Chodzi o kupne obligacji, wymienę waluty poza rynkiem?
+[SPEAKER_00] Pytanie pana redaktora Michała Żuławińskiego, Bankier.pl.
+[SPEAKER_00] Na czym konkretnie miałoby polegać włączenie się NBP, finansowanie budowy polskich elektrowni atomowych?
+[SPEAKER_00] Pytanie pani redaktor Renaty Oliarz, ISB News.
+[SPEAKER_00] Czy NBP będzie emitował papiery dłużne celem wspierania alternatywnych źródeł energii, np. budowy polskiego atomu?
+[SPEAKER_00] Jakie inne możliwości wsparcia tego programu przez bank centralny mogą być brane pod uwagę?
+[SPEAKER_00] Pytanie pana redaktora Grzegorza Siemianczyka, Rzeczpospolita.
+[SPEAKER_00] Miesiąc temu mówił pan, że NBP jest gotów zaangażować się w finansowanie budowy elektrowni atomowej w Polsce.
+[SPEAKER_00] Na czym to zaangażowanie miałoby polegać?
+[SPEAKER_00] Czy pańskim zdaniem NBP powinien mieć wśród swoich zadań wspieranie dekarbonizacji gospodarki albo szerzej wspieranie zrównoważonego rozwoju gospodarczego?
+[SPEAKER_00] I ostatnie pytanie pana redaktora Bartosza Bednarza, Interia.pl.
+[SPEAKER_00] Czy NBP w swoich analizach zajmie się wyraźniej także zmianami klimatu oraz polityką energetyczną i ich wpływem na inflację?
+[SPEAKER_00] Proszę bardzo.
+[SPEAKER_01] Oczywiście badamy przede wszystkim kwestię dekarbonizacji i tej zielonej polityki Unii Europejskiej pod kątem wpływu na inflację.
+[SPEAKER_01] To jest fatalny wpływ na inflację.
+[SPEAKER_01] To jest jedna z głównych przyczyn,
+[SPEAKER_01] inflacji.
+[SPEAKER_01] Nie mamy na to żadnego wpływu, więc traktujemy to tak, jak zmianę pogody.
+[SPEAKER_01] Jeśli ktoś uważa, że zmiana klimatu następuje i że ta zmiana klimatu powoduje jakieś zmiany niekorzystne, to można powiedzieć sarkastycznie, że polityka
+[SPEAKER_01] Ta zielona polityka Unii Europejskiej powoduje także – to jest czynnik dla nas całkowicie zewnętrzny – niekorzystne, proinflacyjne zmiany w Polsce i zmiany w koszyku wydatków polskich rodzin.
+[SPEAKER_01] Energia elektryczna jest bardzo droga w Polsce i będzie coraz droższa w następujących dziesięcioleciach.
+[SPEAKER_01] W wyniku polityki energetycznej Unii Europejskiej, która każe nam coraz więcej płacić za
+[SPEAKER_01] za używanie węgla i zanieczyszczenia środowiska.
+[SPEAKER_01] To tyle mogę powiedzieć jako finansista i jako bankier ze strony banku centralnego.
+[SPEAKER_01] Zadanie banku centralnego ustawowym, ani nawet jakikolwiek innym, nie jest walka z klimatem, czy jakieś przeciwstawianie się siłom natury, czy wykorzystywaniu jakiejś energii natury, czy jakichś tego rodzaju rzeczy.
+[SPEAKER_01] W dużej mierze to jest ideologia, to jest moda.
+[SPEAKER_01] jakieś konferencje, organizować seminaria i na ten temat mówić.
+[SPEAKER_01] My mamy cele ściśle określone w ustawie.
+[SPEAKER_01] Będzie zmieniona ustawa, to wtedy będziemy zmieniali swój sposób działania.
+[SPEAKER_01] My mamy zapewnić stabilność cen, o ile to nie ogranicza podstawowego celu, wspieranie polityki gospodarczej rządu.
+[SPEAKER_01] I tu się pojawia właśnie zielona energia.
+[SPEAKER_01] Polityka gospodarcza rządu to jest zupełnie co innego niż polityka Narodowego Banku Polskiego.
+[SPEAKER_01] W ramach Unii Europejskiej
+[SPEAKER_01] Rząd prowadzi politykę proekologiczną i rząd zatwierdził strategiczny plan przebudowy paliwowo-energetycznego sektora w Polsce do 2040 roku.
+[SPEAKER_01] Tam jest przewidziana budowa systemu elektrowni atomowej.
+[SPEAKER_01] Kilku, wielu elektrowni atomowych o znacznej mocy.
+[SPEAKER_01] No i oczywiście NBP w ramach swojego mandatu
+[SPEAKER_01] uregulowań dysponuje odpowiednimi możliwościami finansowymi i wyraża gotowość do wspierania działań służących realizacji rządowej strategii w tym zakresie.
+[SPEAKER_01] Nie sposób sobie wyobrazić tych ogromnych wydatków związanych z budową systemu elektrowni atomowych w Polsce bez udziału NBP.
+[SPEAKER_01] To będą ogromne operacje
+[SPEAKER_01] Oczywiście przy realizacji podstawowego celu, jak jest stabilność cen.
+[SPEAKER_01] Ale oczywiście nasz udział będzie tam bardzo ważny, może nawet fundamentalny.
+[SPEAKER_01] Także kapitał zagraniczny i różnego rodzaju środki będą musiały być zmobilizowane, żeby aż takie wydatkowanie było możliwe.
+[SPEAKER_01] Bez NBP, bez każdego banku centralnego w dowolnym kraju przy naszych możliwościach byłoby to niemożliwe.
+[SPEAKER_01] Natomiast jakieś działania szczególne podejmowane przez bank nie wiem czemu miałyby służyć.
+[SPEAKER_01] W naszym mandacie tego nie ma.
+[SPEAKER_01] Oczywiście mogę sobie też wyobrazić, że rząd wyemituje na przykład pewnego dnia tzw. zielone obligacje, czyli obligacje, których zadaniem byłoby mobilizowanie jakichś środków finansowych na cele
+[SPEAKER_01] jakiejś polityki, która by zmniejszała zanieczyszczenie czy jakieś inne kwestie ekologiczne regulowała.
+[SPEAKER_01] No i te obligacje by się znalazły na rynku i w systemie bankowym.
+[SPEAKER_01] I oczywiście rola NBP wtedy też się by pojawiła, bo my jesteśmy zobowiązani, żeby ten rynek obligacji odpowiednio regulować i tworzyć tam warunki stabilności.
+[SPEAKER_01] Wtedy też nasza rola byłaby zasadnicza, tak jak przy
+[SPEAKER_01] przy finansowaniu tarcz kolejnych uruchamianych przez rząd.
+[SPEAKER_01] Nasza rola była zasadnicza.
+[SPEAKER_01] Bez nas by te tarcze nie mogły być zrealizowane.
+[SPEAKER_01] Podobnie, gdyby były jakieś obligacje na wielką skalę zielone.
+[SPEAKER_01] Ale to tyle.
+[SPEAKER_01] To dla nas są po prostu obligacje.
+[SPEAKER_01] Czy one są związane z zazielenianiem, czy z zieloną polityką, czy inną polityką, to nasz stosunek do tego byłby przecież taki sam.
+[SPEAKER_01] jak to by były obligacje w celu budowy na wielką skalę elektrowni opartych na węglu kamiennym, to też by się znalazły na rynku i też my byśmy się tam znaleźli.
+[SPEAKER_01] W tym sensie, jakby my się tam znajdujemy.
+[SPEAKER_01] Czym innym są dyskusje, seminaria, konferencje?
+[SPEAKER_01] Wśród banków centralnych też oczywiście takie dyskusje są, seminaria, konferencje.
+[SPEAKER_01] Ale to są po prostu dyskusje.
+[SPEAKER_01] Tak bym to powiedział.
+[SPEAKER_01] Specjalnie to nie jest dla banku jakoś podniecające i mieszczące się w jego mandacie i znaczące.
+[SPEAKER_00] W takim razie wracamy do pytań zbliżonych do ustawowych celów banku centralnego.
+[SPEAKER_00] Pierwsze pytanie, pani redaktor Renata Oliarz, ISB News.
+[SPEAKER_00] Czy w kolejnej kadencji pan prezes opowiedziałby się za zmianą celu inflacyjnego na dwa
+[SPEAKER_00] plus minus jeden punkt procentowy z obecnych 2,5% plus minus jeden punkt procentowy lub poszerzenie symetrycznego przedziału odchylenia wokół obecnego celu inflacyjnego do plus minus dwóch punktów procentowych.
+[SPEAKER_00] Pytanie pana redaktora Grzegorza Siemionczyka, Rzeczpospolita.
+[SPEAKER_00] Na wrześniowym posiedzeniu RPP jeden z członków złożył wniosek o obniżenie celu inflacyjnego NBP do 2%.
+[SPEAKER_00] Pan prezes, tak jak pozostałych ośmioro członków Rady, głosował przeciw tej propozycji.
+[SPEAKER_00] Dlaczego cel inflacyjny na takim poziomie, jaki obowiązuje dziś w strefie euro, ale też np. w Czechach, nie jest, pańskim zdaniem, właściwy także w Polsce?
+[SPEAKER_01] Nie widzę żadnego powodu, żeby na ten temat dyskutować.
+[SPEAKER_01] Powiedziałbym tak, jak Państwo wiedzą, jestem zdeklarowanym konserwatystą.
+[SPEAKER_01] Co prawda może takim, jak to mój majestr Józef Szumpeter powiedział, szalonym trochę konserwatystą, ale konserwatystą.
+[SPEAKER_01] Jeśli coś dobrze działa, jeśli coś się sprawdza, to nie ma powodu, żeby to zmieniać.
+[SPEAKER_01] Próba zmienienia czegoś, co jest dobre i co dobrze funkcjonuje i utrwalone w pewnej tradycji i regułach postępowania na jeszcze lepsze, zazwyczaj kończy się źle.
+[SPEAKER_01] To znaczy, że następuje pogorszenie sytuacji, a nie polepszenie.
+[SPEAKER_01] Dlatego nie podoba mi się socjalizm, a już nie mówiąc o jakichś innych
+[SPEAKER_01] systemach uszczęśliwiania ludzkości.
+[SPEAKER_01] Jak coś w miarę dobrze funkcjonuje, jest oparte na jakimś większościowym poparciu, ludziom się z tym dobrze żyje, to nie należy tego ruszać.
+[SPEAKER_01] A zmiany mogą dotyczyć bardzo drobnych, wąskich kwestii, gdzie rzeczywiście coś się poprawia.
+[SPEAKER_01] Ale taka śmiała reforma, żeby wszystko zrobić inaczej, będzie lepiej niż teraz, a teraz jest już dobrze, zupełnie do mnie nie przemawia.
+[SPEAKER_01] Nie ma żadnego powodu, żeby zmieniać
+[SPEAKER_01] cel inflacyjny w Polsce.
+[SPEAKER_01] Od wielu lat on się dobrze sprawdza w naszej gospodarce, wszystko dobrze działa w związku z tym i nikt poważnie nie sugeruje zmiany tego stanu rzeczy.
+[SPEAKER_01] Byłoby to szkodliwe, w szczególności obniżenie tego celu.
+[SPEAKER_01] Byśmy wpadli łatwo w tzw. pułapkę deflacyjną.
+[SPEAKER_01] w sytuacji, w której by ceny spadały.
+[SPEAKER_01] Bank Centralny już nie mógłby temu przeciwdziałać.
+[SPEAKER_01] Obniżałoby to wzrost gospodarczy, pogłębiało bezrobocie, utrudniało wyjście z recesji.
+[SPEAKER_01] Ryzyko pułapki deflacyjnej przy czym jest dzisiaj znacznie, znacznie większe niż w przeszłości.
+[SPEAKER_01] Bo przypominam, nominalne stopy są bliskie zeru.
+[SPEAKER_01] Nie tylko w Polsce, ale na całym świecie są bliskie zeru albo nawet zerowe, czy poniżej.
+[SPEAKER_01] To obniżenie celu zwiększałoby ryzyko konieczności obniżania stóp poniżej zera w czasie dekoniunktury.
+[SPEAKER_01] Obniżanie stóp poniżej zera, o czym Państwu mówiłem, sygnalizując, że taka możliwość się pojawiła w pewnym momencie, niesie ze sobą szereg problemów i trudności.
+[SPEAKER_01] Nasz obecny cel został przyjęty przez Radę Polityki Pieniężnej pierwszej kadencji już.
+[SPEAKER_01] Istnieje nieprzerwanie od 2004 roku, ponad 17 lat.
+[SPEAKER_01] Już samo to mówi, że jest kotwicą stabilności, przewidywalności polityki pieniężnej, co jest niezwykle ważne.
+[SPEAKER_01] Przewidywalność polskiej polityki pieniężnej jest na wysokim poziomie.
+[SPEAKER_01] W czasie mojej kadencji
+[SPEAKER_01] Przyznają Państwo, że ta przewidywalność jest wysokim walorem.
+[SPEAKER_01] Jak patrzę na przewidywanie analityków dalszych kierunków, decyzji na kolejnych Radach, to większość ekonomistów, analityków dobrze wie, czego się może spodziewać.
+[SPEAKER_01] A więc i przedsiębiorców, a więc i finansistów.
+[SPEAKER_01] Dzisiaj główne banki centralne na świecie idą w przeciwną stronę niż obniżanie stóp procentowych, niż luzowanie polityki pieniężnej.
+[SPEAKER_01] De facto, w ten czy inny sposób, są różne metody, starają się podnosić swoje cele.
+[SPEAKER_01] Za niska inflacja jest coraz większym problemem dla tych banków.
+[SPEAKER_01] Ostatnio Fed – bank centralny Stanów Zjednoczonych – zmodyfikował swoją strategię polityki pieniężnej, ogłaszając strategię uśrednionego celu.
+[SPEAKER_01] My mamy taki właśnie uśredniony cel od zawsze.
+[SPEAKER_01] Niewykluczone, że do podwyższenia celu de facto przymierza się także EBC – Europejski Bank Centralny.
+[SPEAKER_01] Nie wprost może, ale właśnie w jakiś bardziej wyrafinowany sposób.
+[SPEAKER_01] Taki jest stan rzeczy obecnie.
+[SPEAKER_01] Nasze stopy
+[SPEAKER_01] regulowane według tej zasady średniookresowego celu i tego przedziału, który mamy i 2,5% jako tego środka przedziału, to jest bardzo dobra strategia.
+[SPEAKER_01] Ona się sprawdza.
+[SPEAKER_01] Dopóki się będzie sprawdzać, będzie stosowana.
+[SPEAKER_00] Pytanie pana redaktora Rafała Tuszyńskiego, PAP Biznes.
+[SPEAKER_00] Jak NBP ocenia perspektywy zakotwiczenia oczekiwań inflacyjnych w najbliższych kwartałach?
+[SPEAKER_00] Jaką rolę odgrywają te oczekiwania w funkcji reakcji RPP?
+[SPEAKER_01] Oczekiwania inflacyjne, proszę Państwa, to jest czynnik bardzo subiektywny, bardzo zmienny.
+[SPEAKER_01] podatny na zmiany cen pojedynczych dóbr, czasami zmiana ceny jednego dobra, nie odgrywającego istotnej roli w całym koszyku, potrafi wywrzeć psychologicznie bardzo istotny skutek.
+[SPEAKER_01] I ta opinia może się zmieniać.
+[SPEAKER_01] Czasami media, czasami jakieś inne elementy powodują nagły wzrost takich oczekiwań inflacyjnych.
+[SPEAKER_01] Informacje z zewnątrz, ze świata, informacje polityczne, jakieś inne.
+[SPEAKER_01] Są one oczywiście bardzo też uzależnione od bieżących wskaźników inflacji.
+[SPEAKER_01] To jest to jedyne istotne, co można przewidzieć.
+[SPEAKER_01] Oczywiście my patrzymy na wahania tych oczekiwań, ale patrzymy zawsze na przyczynę tych wahań.
+[SPEAKER_01] Ten wzrost, do którego ciągle wracam siłą rzeczy, wzrost cen wywozu śmieci nie mają żadnych przyczyn monetarnych.
+[SPEAKER_01] Wzrost cen wywozu śmieci nie wynika z żadnych działań i przyczyn monetarnych.
+[SPEAKER_01] Podobnie wzrost ceny energii elektrycznej.
+[SPEAKER_01] To podatek węglowy europejski.
+[SPEAKER_01] Wysokie ceny uprawnień do emisji dwutlenku węgla powodują.
+[SPEAKER_01] Gdyby nie było takiej polityki Unii Europejskiej, by tego nie było.
+[SPEAKER_01] Energia byłaby o wiele, wiele tańsza i by taniała.
+[SPEAKER_01] To oczywiście podbija postrzeganą przez ludzi, przez społeczeństwo inflację.
+[SPEAKER_01] A więc krótkowzroczne, krótkookresowe oczekiwania inflacyjne rosną, ale my na to nie mamy żadnego wpływu ani w jedną, ani w drugą stronę.
+[SPEAKER_01] Ale oczywiście obywatele patrzą na takie rzeczy jak podwyżka cen wywozu śmieci.
+[SPEAKER_01] To jest istotny element w ich koszyku.
+[SPEAKER_01] miesięcznych.
+[SPEAKER_01] Już np. w Warszawie szokujące są te podwyżki i to wpływa na ich oczekiwania inflacyjne, co się jakoś przekłada na oczekiwania inflacyjne w ogóle w Polsce.
+[SPEAKER_01] Ale dla przyszłych procesów cenowych te krótkooskresowe wahania nie mają żadnego znaczenia, dokładnie żadnego.
+[SPEAKER_01] To kompletnie nic nie mówi o przyszłych procesach cenotwórczych.
+[SPEAKER_01] Oczywiście firmy reagują też na sygnalizowane obecnie wzrosty cen zaopatrzenia, surowców, energii, zaburzenia w dostawach.
+[SPEAKER_01] To wszystko, co wynika z pandemii, z ograniczeń handlu międzynarodowego, z ograniczeń przemieszczania się itd.
+[SPEAKER_01] Natomiast obserwowane przez nas oczekiwania inflacyjne długookresowe są cały czas mocno zakotwiczone na poziomie zgodnym z celem NBP.
+[SPEAKER_01] co pokazuje długofalową skuteczność naszej strategii.
+[SPEAKER_01] Istnieje głęboko umocowana, ugruntowana wiarygodność naszej strategii, zaufanie do naszej strategii.
+[SPEAKER_01] Oczywiście, gdyby się kiedyś teoretycznie, hipotetycznie pojawiło ryzyko nadmiernego, trwałego wzrostu inflacji, niesionego przyczynami monetarnymi,
+[SPEAKER_01] trwale podbitymi oczekiwaniami inflacyjnymi, to NBP będzie temu przeciwdziałał.
+[SPEAKER_01] Wiadomo w jaki sposób – zdecydowanie i szybko.
+[SPEAKER_01] Teraz wyjaśniamy po prostu przyczyny przejściowo wyższej inflacji.
+[SPEAKER_01] W tej chwili ważniejsze jest jasne komunikowanie społeczeństwu i przedsiębiorcom,
+[SPEAKER_01] w ramach społeczeństwa, jakie są przyczyny przejściowo wyższej inflacji.
+[SPEAKER_01] Przyczyny, na które nie mamy wpływu.
+[SPEAKER_01] Przyczyny, na które polityka stóp procentowych w ogóle nie oddziaływuje.
+[SPEAKER_01] Natomiast, jak się pojawią inne przyczyny, wynikające np. z dynamicznie rosnącego popytu, kiedy luka popytowa się zmniejszy znacząco albo w ogóle zniknie,
+[SPEAKER_01] będzie popyt ciągnął inflację, czy wzrost płac, czy inne przyczyny, to wtedy będziemy działać.
+[SPEAKER_01] To będzie pole do popisu dla nas dopiero wtedy.
+[SPEAKER_00] Kolejne pytanie, też pana redaktora Rafała Tuszyńskiego, PAB Biznes.
+[SPEAKER_00] Dlaczego RPP zakłada, że wraz z wygasaniem pandemii presja płacowa będzie niższa niż przed pandemią?
+[SPEAKER_00] Można raczej oczekiwać, że przy rozruchu gospodarki rynek pracy będzie względnie szybko się poprawiał i pojawią się nowe problemy podażowe w postaci realizacji odłożonego popytu w usługach.
+[SPEAKER_00] Co może podbijać presję płacową?
+[SPEAKER_01] Osobiście chciałbym oczywiście, żeby płace w Polsce
+[SPEAKER_01] jak najszybciej.
+[SPEAKER_01] Jeśli umożliwia to stan gospodarki, wzrost gospodarczy, wzrost wydajności pracy itd.
+[SPEAKER_01] Tylko wzrost płac umożliwia dalszy wzrost zamożności Polaków.
+[SPEAKER_01] krajów Zachodu, o czym zawsze myślimy i marzymy.
+[SPEAKER_01] Chcemy żyć na poziomie zamożności przeciętnych rodzin, żeby przeciętna polska rodzina żyła tak, jak przeciętna polska rodzina w krajach na zachód od nas, tych zamożnych krajów.
+[SPEAKER_01] Proszę pamiętać, że kilka z tych krajów już przegoniliśmy.
+[SPEAKER_01] Kilka właśnie przeganiamy.
+[SPEAKER_01] bardzo dynamicznie do nich zbliżamy.
+[SPEAKER_01] Myślę tu o Włoszech.
+[SPEAKER_01] Ale dlatego, że tam się obniżył bardzo poziom życia.
+[SPEAKER_01] O to nam nie chodzi.
+[SPEAKER_01] Chodzi nam, żeby doścignąć te kraje na tym poziomie, na którym one były przed pandemią.
+[SPEAKER_01] W tym kontekście warto wspomnieć, że pomimo pandemii, pomimo kryzysu, przecież bardzo ważnego kryzysu, w ujęciu realnym w Polsce, w czasie kryzysu, płace w Polsce istotnie wzrosły.
+[SPEAKER_01] Wielki sukces polityki makroekonomicznej rządu polskiego, wspomagającego go Narodowego Banku Polskiego, prowadził do tego, że pomimo pandemii płace w Polsce w ujęciu realnym istotnie wzrosły w czasie kryzysu.
+[SPEAKER_01] Ważne, żeby to zrozumieć i ten fakt sobie uświadomić.
+[SPEAKER_01] Niski poziom bezrobocia najniższych w Unii Europejskiej i wzrost płac nastąpił w trakcie kryzysu, o którym tyle myślimy, który jest tak bolesny i który pociągnął za sobą utratę życia przez tylu Polaków i zdrowia.
+[SPEAKER_01] Ale jednocześnie obroniliśmy gospodarkę, obroniliśmy finanse, obroniliśmy zatrudnienie, płace.
+[SPEAKER_01] Oczywiście dynamika płac – obecnie to jest w sektorze przedsiębiorstw 4,5% –
+[SPEAKER_01] niż z pandemią.
+[SPEAKER_01] Przed pandemią to sięgało prawie 6-7%.
+[SPEAKER_01] W najbliższych okresach dynamika płac pozostanie trwale niższa niż przez pandemię, chociaż będzie rosnąć.
+[SPEAKER_01] Takie są skutki kryzysu.
+[SPEAKER_01] Ale oczywiście z punktu widzenia procesów inflacyjnych, jak Państwo wiedzą, najważniejsza jest relacja między wzrostem płac a wzrostem wydajności.
+[SPEAKER_01] Jeśli wzrost płac dokonuje się w oparciu o wzrost wydajności, nie wyprzedza wzrostu wydajności, to zagrożenie inflacyjne cenowe się nie pojawia.
+[SPEAKER_01] Otóż wraz z ożywieniem gospodarczym, które wszyscy przewidujemy po pandemii, silnie bardzo przyspieszy dynamika wydajności pracy.
+[SPEAKER_01] Na pewno dynamika wydajności pracy bardzo silnie przyspieszy.
+[SPEAKER_01] I w związku z tym dynamika jednostkowych kosztów pracy, czyli relacji między wzrostem płaci i wydajnością pracy, ostatnio się obniży.
+[SPEAKER_01] Co nie będzie wybijało inflacji w górę, a wprost przeciwnie, będzie ograniczało inflację.
+[SPEAKER_01] Takie są nasze przewidywania i ośrodków zewnętrznych także.
+[SPEAKER_00] – Dziękuję.
+[SPEAKER_00] Pytanie też kolejne pana redaktora Rafała Toszyńskiego, PAP Biznes.
+[SPEAKER_00] – Jaką rolę w funkcji reakcji NBP odgrywają decyzje i komunikacja banków centralnych w regionie, które zaostrzają retorykę?
+[SPEAKER_00] Bank Czech zapowiada podwyżki stóp, Bank Węgier przygotowuje rynek do zakończenia skupu obligacji.
+[SPEAKER_00] Czy w związku ze zmianą komunikacji banków w regionie NBP nie powinien również powoli zmieniać retoryki?
+[SPEAKER_01] – Mówiąc tak najprościej, może zbyt skrótowo, decyzje innych banków regionu, a w szczególności z małych gospodarek regionu,
+[SPEAKER_01] nie odgrywają żadnej roli w naszych decyzjach.
+[SPEAKER_01] Dlaczego miałyby odgrywać jakąś rolę w naszych decyzjach?
+[SPEAKER_01] Polska jest dużym krajem.
+[SPEAKER_01] I oczywiście porównywanie się do polityki pieniężnej czy do decyzji banków centralnych tych małych krajów naszego regionu, małych w porównaniu z Polską, nie ma żadnego znaczenia.
+[SPEAKER_01] Absolutnie.
+[SPEAKER_01] I nasza wymiana gospodarcza też nie jest najważniejsza z tymi krajami.
+[SPEAKER_01] A już jakieś sygnały, dyskusje, wypowiedzi dotyczące przyszłych decyzji, to w ogóle nie mają znaczenia.
+[SPEAKER_01] Oczywiście zapoznajemy się z nimi, rozmawiamy na ten temat, ale to nie ma, powtórzę, kompletnie żadnego dla nas znaczenia.
+[SPEAKER_01] Polska jest zdecydowanie liderem regionu Europy Środkowo-Wschodniej, jest jedynym dużym krajem tutaj.
+[SPEAKER_01] Złoty jest najważniejszą walutą regionu, własną walutą polską.
+[SPEAKER_01] Nie ma powodu, żeby się oglądać na jakikolwiek inny kraj regionu.
+[SPEAKER_01] Przypominam, że już te, co mają euro, to w ogóle nie wchodzą w grę.
+[SPEAKER_01] Najważniejszą rzeczą jest to, że mamy polskiego złotego i mamy Polski Bank Centralny i prowadzimy własną, niezależną politykę pieniężną, dostosowaną wyłącznie do polskich warunków makroekonomicznych i optymalną dla polskich obywateli.
+[SPEAKER_01] Jeśli polityka jakichś banków centralnych ma na zaznaczenie, to tych banków, które oddziaływują w skali całego świata.
+[SPEAKER_01] I w tym sensie i dla nas jest istotna.
+[SPEAKER_01] To znaczy,
+[SPEAKER_01] systemu rezerw federalnych Stanów Zjednoczonych i Europejskiego Banku Centralnego.
+[SPEAKER_01] Ale tu też nie ma żadnego automatycznego przełożenia.
+[SPEAKER_01] Rzeczywiście w ostatnim czasie i w kryzysie prowadzimy politykę analogiczną, prawie w pełni analogiczną do tych banków centralnych.
+[SPEAKER_01] Ale może się zdarzyć, że ta analogia się skończy.
+[SPEAKER_01] Prowadzimy w pełni niezależną politykę pieniężną, która ma służyć Polsce i Polakom.
+[SPEAKER_01] Warto, żeby Polacy i przedstawiciele opinii publicznej, i analitycy, i dziennikarze docenili to, co oznacza posiadanie własnej waluty.
+[SPEAKER_01] W czasie kryzysu już drugiego, bo przedtem w latach 2008-2009, teraz kryzysu pandemicznego, jeszcze raz się okazało, jak korzystne jest posiadanie własnej waluty.
+[SPEAKER_01] Myślę, że już wszystkim z głowy zostały wybite te rozważania na temat sensu wchodzenia do euro.
+[SPEAKER_01] Jest jasne dla wszystkich, że ci, co chcieliby jak najszybciej wejść do sfery euro, nie kierują się przesłankami analiz finansowych czy ekonomicznych, tylko wyłącznie politycznych.
+[SPEAKER_01] Ci ludzie, którzy chcą, aby suwerenność Polski została ograniczona, żeby Polska się stała po prostu jedną
+[SPEAKER_01] części jakiejś federacyjnej przyszłego państwa europejskiego chcą wchodzić do euro.
+[SPEAKER_01] Natomiast zdrowy rozsądek, nie mówiąc o rachunku ekonomicznym, finansowym, mówi, że najlepiej przy naszych warunkach posiadać własną walutę i własną politykę pieniężno-kryptową, własny bank centralny, a nie podlegać decyzjom Europejskiego Banku Centralnego.
+[SPEAKER_01] Wyobraźcie sobie Państwo, że jesteśmy na miejscu Grecji, Portugalii, Hiszpanii czy Włoch.
+[SPEAKER_01] I realizowana jest u nas polityka Europejskiego Banku Centralnego, która w wrażący sposób w takich trudnych okresach jest niezgodna z interesami tych krajów, bo musi brać pod uwagę przeciętny interes państw europejskich.
+[SPEAKER_01] A to nie są kraje dominujące.
+[SPEAKER_01] My mamy własnego złotego, mamy własną możliwość przeprowadzania interwencji na rynku walutowym, jeśli to potrzeba, i własną politykę pieniężną.
+[SPEAKER_00] Pytanie pana redaktora Pawła Florkiewicza, Reuters.
+[SPEAKER_00] Czy ostatnie osłabienie kursu złotego sprawia, że prawdopodobieństwo dalszych interwencji na rynku walutowym zmniejszyło się?
+[SPEAKER_01] Oczywiście nie ma w tej chwili potrzeby przeprowadzania takiej interwencji.
+[SPEAKER_01] Jest to ta strefa komfortu, o której już mówiliśmy, ale jesteśmy przygotowani do takiej interferencji, jeśli w przyszłości będzie taka potrzeba.
+[SPEAKER_01] Mam nadzieję, że nie będzie takiej potrzeby, ale jakby była, to taką interwencję zrobimy, nawet na bardzo dużą skalę.
+[SPEAKER_00] Dziękuję.
+[SPEAKER_00] Trzy pytania.
+[SPEAKER_00] Pierwsze pana redaktora Pawła Florkiewicza, Reuters.
+[SPEAKER_00] Czy NBP skupi się teraz w większym stopniu na rynku długu?
+[SPEAKER_00] Czy to właśnie oznaczają zapowiedzi możliwości przeprowadzenia ewentualnych dodatkowych operacji strukturalnych?
+[SPEAKER_00] Pytanie Pani redaktor Renate Oliasz, ISB News.
+[SPEAKER_00] Czy w najbliższym czasie Narodowy Bank Polski zamierza zwiększyć skalę skupu aktywów w myśl zapowiedzianej ostatnio modyfikacji sposobu prowadzenia strukturalnych operacji otwartego rynku?
+[SPEAKER_00] Na czym może polegać zapowiadana elastyczność?
+[SPEAKER_00] Oraz pytanie Pana redaktora Rafała Tuszyńskiego, PAN Biznes.
+[SPEAKER_00] NBP zapowiedział na kwiecień co najmniej jeden przetarg skupu obligacji.
+[SPEAKER_00] Jak bardzo prawdopodobne jest przeprowadzenie drugiej, opcjonalnej operacji skupu na koniec kwietnia?
+[SPEAKER_00] Od czego będzie to zależeć?
+[SPEAKER_00] Jak bardzo wysokie wzrosty rentowności obligacji skarbowych jest w stanie tolerować Narodowy Bank Polski?
+[SPEAKER_01] Na większość tych powyższych pytań odpowiedź brzmi tak.
+[SPEAKER_01] Podjęliśmy decyzję o byciu bardziej aktywnym na rynku obligacji, o zwielokrotnienie ilości aukcji z kupu, jeśli jest taka potrzeba, a rynek taką potrzebę zgłosił.
+[SPEAKER_01] Jesteśmy aktywni, jeśli chodzi o oddziaływanie na rentowność obligacji.
+[SPEAKER_01] Bo to decyduje o cenie obsługi długu.
+[SPEAKER_01] I jesteśmy bardziej elastyczni, jeśli chodzi o ceny skupowanych obligacji.
+[SPEAKER_01] Jesteśmy z każdego punktu widzenia bardziej aktywni i nastawieni na większą aktywność.
+[SPEAKER_01] I rzeczywiście zamierzamy być, tak jak inne banki centralne zresztą tych krajów wysoko rozwiniętych, być tam trwale i stale obecni.
+[SPEAKER_01] Ilość tych aukcji, ich ilość w miesiącu zależy od potrzeb.
+[SPEAKER_01] Może być dowolna taka, jaka będzie wynikało z kształtowania się warunków rynkowych.
+[SPEAKER_01] Wzrost rentowności krajowych obligacji, który był zapoczątkowany w lutym,
+[SPEAKER_01] w lutym 2021 oczywiście może osłabić działania NBP, te podejmowane w czasie pandemii, które zmierzają do luzowania polityki pieniężnej, do aktywizacji gospodarki.
+[SPEAKER_01] Dlatego ta elastyczność oferowania operacji strukturalnych okazała się niezbędna, żeby skoordynować
+[SPEAKER_01] te działania, te ceny i tę tendencję kształtowania się cen obligacji z naszą polityką.
+[SPEAKER_01] I na przetargu przeprowadzonym 17 marca rzeczywiście
+[SPEAKER_01] Zaoferowaliśmy po raz pierwszy większą pulę obligacji, które jesteśmy gotowi kupić, większą liczbę serii obligacji w porównaniu do poprzednich przetargów.
+[SPEAKER_01] Jesteśmy bardziej elastyczni, jeśli ceny oferowane tej obligacji wchodzą w grę itd.
+[SPEAKER_01] To wszystko zależy od warunków rynkowych.
+[SPEAKER_01] Ale jesteśmy bardziej aktywni i już z tego nie zrezygnujemy.
+[SPEAKER_01] To jest trwała zmiana.
+[SPEAKER_00] Dziękuję.
+[SPEAKER_00] I dwa kolejne pytania.
+[SPEAKER_00] Pierwsze pytanie pana redaktora Marka Chądzyńskiego, Dziennik Gazeta Prawna.
+[SPEAKER_00] Jak pan skomentuje w kontekście niskich stóp procentowych informacje o planach wprowadzenia ujemnego oprocentowania depozytów osób fizycznych w niektórych bankach oraz rekordowo wysokiego w marcu popytu na kredyty hipoteczne według Biura Informacji Kredytowej?
+[SPEAKER_00] I pytanie pana redaktora Marcina Musiała, PAP Media Gospodarka.
+[SPEAKER_00] Czy utrzymujący się dynamiczny wzrost cen mieszkań – GUS podał, że w czwartym kwartale 2020 roku ceny wzrosły o prawie 9% rok do roku – i wzrostu zainteresowania kredytem mieszkaniowym – banki sygnalizują 35% rok do roku wzrostu zainteresowania kredytem mieszkaniowym w marcu bieżącego roku – nie są niepokojącymi sygnałami, które mogą sugerować rosnącą bańkę na rynku nieruchomości?
+[SPEAKER_01] Były jakieś wypowiedzi – już nie pamiętam czyje – sugerujące taką możliwość ujemnego procentowania
+[SPEAKER_01] ale później banki to demontowały.
+[SPEAKER_01] No i sam Związek Banków Polskich też dementował informację, że takie są plany w stosunku do środków klientów indywidualnych.
+[SPEAKER_01] To jest istotne zastrzeżenie.
+[SPEAKER_01] No i wreszcie ŁOKiK się wypowiedział.
+[SPEAKER_01] Przewodniczący ŁOKiKu czy sam urząd się stanowczo wypowiedział, że będzie temu przeciwdziałał i że nie będzie dopuszczał do tego, żeby banki mogły zastosować ujemne
+[SPEAKER_01] oprocentowanie lokat.
+[SPEAKER_01] Nawet, proszę Państwa, gdyby się pojawiły ujemne stopy referencyjne Narodowego Banku Polskiego, to nie ma powodu, żeby depozyty były ujemne.
+[SPEAKER_01] Nic takiego nie występuje.
+[SPEAKER_01] Raczej banki mogą iść w kierunku rozszerzania wachlarza płatnych usług, żeby tam znajdować jakieś korzyści, czy raczej wycofywać się z darmowych usług.
+[SPEAKER_01] Takie zjawisko zresztą jest już obserwowane.
+[SPEAKER_01] Natomiast jeśli chodzi o kredyty.
+[SPEAKER_01] Od roku jest spadek kredytu ogółem w gospodarce, co jest oczywiste w warunkach pandemii.
+[SPEAKER_01] Jedynym elementem, jedyna kategoria kredytów, która dynamicznie rośnie, jest złotowy kredyt mieszkaniowy.
+[SPEAKER_01] Tylko tak jest możliwe.
+[SPEAKER_01] Około 10% rok do roku.
+[SPEAKER_01] Jest zasadnicze odbicie popytu na kredyt mieszkaniowy.
+[SPEAKER_01] Ale kwoty udzielanych kredytów nie odbiegają od wartości udzielonych przed rokiem.
+[SPEAKER_01] Tu nie ma żadnej zmiany.
+[SPEAKER_01] My na bieżąco gromadzimy dane z rynku nieruchomości, wydajemy okresowo takie raporty w tych kwestiach, które są źródłem informacji z tego zakresu.
+[SPEAKER_01] Wydajemy znaczne środki na monitorowanie rynku nieruchomości, bo to jest ważny element.
+[SPEAKER_01] I dopóki zainteresowanie zakupem mieszkań na kredyt spotyka się z odpowiednim dostosowaniem po stronie podaży przez rozpoczynanie nowych budów, ryzyko bańki jest ograniczone.
+[SPEAKER_01] Według naszych ocen ono nie występuje.
+[SPEAKER_01] Obecna sytuacja na rynku mieszkaniowym, dynamicznie się rozwijającym, nie pokazuje napięć zagrażających nagłym, istotnym załamaniem popytu i cen.
+[SPEAKER_01] co by wynikało z sytuacji makroekonomicznej, pozytywnej przecież u nas, rosnących dochodów – o tym mówiłem – rosnących płac, stabilnego bezrobocia, najniższego w Europie.
+[SPEAKER_01] No i czynniki strukturalne.
+[SPEAKER_01] W Polsce nadal – przykro to powiedzieć i stwierdzić i zaobserwować – bardzo brakuje mieszkań.
+[SPEAKER_01] Istnieją bardzo liczne rodziny, które nie posiadają własnego mieszkania.
+[SPEAKER_01] W szczególnych miejscach, miejscu, gdzie ich bardzo brakuje, są miasta, duże miasta i tam są właśnie budowane te mieszkania.
+[SPEAKER_01] Jak dotąd nie ma jakiegoś dużego zjawiska zakupów spekulacyjnych, nadmiernego finansowania zakupów kredytem, jakąś dźwignią kredytową, to napędza zwykle wzrost cen i to jest niebezpieczne.
+[SPEAKER_01] Monitorujemy to, na razie powodów do obaw nie ma.
+[SPEAKER_00] Dwa kolejne pytania.
+[SPEAKER_00] Pierwsze pana redaktora Marka Chądzyńskiego, Dziennik Gazeta Prawna.
+[SPEAKER_00] Jakie jest stanowisko NBP w sprawie propozycji złożonej przez UKNF, by banki, które wejdą w proces ugód z frankowiczami, mogły stosować obniżone wagi ryzyka dla portfela kredytów walutowych?
+[SPEAKER_00] Czy NBP będzie popierał przyjęcie odpowiedniej rekomendacji przez KSF w tej sprawie?
+[SPEAKER_00] Oraz pytanie pana redaktora Łukasza Wilkowicza, Dziennik Gazeta Prawna.
+[SPEAKER_00] Jaki jest Pana stosunek do propozycji UKNF obniżenia wag dla hipotecznych kredytów walutowych w odniesieniu do banków, które zadeklarują chęć zawierania ugód z klientami?
+[SPEAKER_00] Czy został Pan zapoznany z propozycją UKNF i czy widzi Pan przestrzeń do tego typu zachęt regulacyjnych, nadzorczych?
+[SPEAKER_00] Proszę bardzo.
+[SPEAKER_01] To są na razie wstępne różnego rodzaju propozycje, przygotowania.
+[SPEAKER_01] Jak już mówiłem obszernie na poprzedniej konferencji prasowej – nie chcę się powtarzać – nie istnieje jakiś dokument, papier, projekt, do którego byśmy się musieli odnieść.
+[SPEAKER_01] Monitorujemy cały czas problem, obserwujemy, wymieniamy korespondencję.
+[SPEAKER_01] Ostatnio rozmawiam z przewodniczącym KNF-u, wymieniamy informacje.
+[SPEAKER_01] Nie ma nic konkretnego, do czego byśmy się musieli odnieść i co by oznaczało jakieś zaangażowanie NBP-u.
+[SPEAKER_01] Przypomnę państwu, jest taki dokument wysłany przez nas, komunikat po obradach Zarządu Narodowego Banku Polskiego, pięć punktów.
+[SPEAKER_01] przy których NBP by się włączył.
+[SPEAKER_01] W szczególności w jeden ważny element tego procesu ewentualnego masowego ugód, to znaczy dostawienia franków szwajcarskich po określonym trwałym kursie.
+[SPEAKER_01] Jakoś się do tego tam
+[SPEAKER_01] Oczywiście teoretycznie i analitycznie przygotowujemy, ale nie ma nic takiego.
+[SPEAKER_01] Banki nie sygnalizują takiej potrzeby, nie finalizują tego procesu.
+[SPEAKER_01] Jeden bank ma
+[SPEAKER_01] dynamicznie rzeczywiście to chce przeprowadzić, a to nie jest wtedy możliwość, żeby NBP się przyłączył.
+[SPEAKER_01] Nie istnieje możliwości pomocy publicznej udzielanej przez bank centralny dla jednego banku.
+[SPEAKER_01] Byłoby to sprzeczne z prawem europejskim i to jest niemożliwe.
+[SPEAKER_01] Natomiast jest możliwe jakieś takie działanie w stosunku do całej grupy banków, które posiadają na przykład większość
+[SPEAKER_01] walutowych.
+[SPEAKER_01] Wszyscy zamarli w oczekiwaniu na decyzję Sądu Najwyższego Izby Cywilnej.
+[SPEAKER_01] Ale w związku z tym, że tak jak przewidywałem, dawałem temu wyraz, ta Izba Cywilna Sądu Najwyższego znów przełożył termin wydania decyzji – myślę, że to przekładanie jeszcze może trwać – to nic się w tej kwestii nie dzieje.
+[SPEAKER_00] Kolejne dwa pytania.
+[SPEAKER_00] Pierwsze pana redaktora Rafała Tuszyńskiego, PAP Biznes.
+[SPEAKER_00] Jakie prace toczą się obecnie w NBP, jeżeli chodzi o kwestie przewalutowania kredytów hipotecznych frankowych w związku ze zbliżającym się ogłoszeniem uchwały Sądu Najwyższego?
+[SPEAKER_00] Trochę powtarzamy temat.
+[SPEAKER_00] Pytanie pana Karola Murawskiego, miesięcznik finansowy bank.
+[SPEAKER_00] Pan prezes wielokrotnie wypowiadał się na temat kredytów denominowanych i indeksowanych do waluty obcej w kontekście stabilności systemu.
+[SPEAKER_00] Jak z tego punktu widzenia można prognozować ewentualne skutki zapowiadanej uchwały Sądu Najwyższego w tej kwestii?
+[SPEAKER_01] Poczekajmy.
+[SPEAKER_01] Zobaczymy.
+[SPEAKER_01] Wszystko, co było do analizowania, to mamy w banku przeanalizowane i to nie w tej chwili, tylko na trwałe.
+[SPEAKER_01] Przecież monitorujemy to wszystko, co się dzieje w bankach, w kredytach.
+[SPEAKER_01] Mamy swoje grupy analityczne, które to robią.
+[SPEAKER_01] Jesteśmy gotowi.
+[SPEAKER_01] Tyle mogę powiedzieć.
+[SPEAKER_01] Ale nie ma decyzji sądu, nie ma decyzji banków, że chcą razem coś zrobić.
+[SPEAKER_01] Nie mamy się do czego odnosić.
+[SPEAKER_01] Tak bym to powiedział.
+[SPEAKER_01] Nasz mandat, nasze ustawowe
+[SPEAKER_01] Umocowanie nie pozwala nam na żadne działanie, abstrahując od celowości ewentualnie takich działań, od braku celowości.
+[SPEAKER_00] Pytanie pana redaktora Eugeniusza Twaroga, Puls Biznesu.
+[SPEAKER_00] Klienci, głównie tzw. frankowicze, zarzucają bankom, że dowolnie ustalały kurs franka szwajcarskiego, a klient musiał wymienić walutę po tak określonym kursie.
+[SPEAKER_00] Odpowiedź banków – tabele ustalone są w relacji do rynku, kurs jest płynny, klient ma możliwość spłaty w walucie kredytu, unikając tym samym kursu bankowego.
+[SPEAKER_00] NBP codziennie określa kurs kupna i kurs sprzedaży oraz kurs średni franka szwajcarskiego.
+[SPEAKER_00] W jaki sposób NBP te kursy określa?
+[SPEAKER_00] Czy zdaniem Pana Prezesa nie powinno być zasadą prawa, że w rozliczeniach z klientami banki stosują kursy określone przez NBP?
+[SPEAKER_01] Z ekonomicznego punktu widzenia finansowego, jako bankowiec centralny – tak brzydko można to określić – uważam, że byłoby to dobre rozwiązanie, gdyby obowiązywały tabele Narodowego Banku Polskiego.
+[SPEAKER_01] Jeśli by to skutkowało ograniczeniem ryzyka prawnego – tego, z którym mamy w tej chwili do czynienia na wielką skalę – to oczywiście byłoby dobrze.
+[SPEAKER_01] Byłoby to zgodne zresztą z aktualnym kodeksem cywilnym.
+[SPEAKER_01] Kurs NBP może być wykorzystywany do określenia wartości zobowiązań, ale też umowa może, czy prawa szczegółowe mogą stanowić inaczej.
+[SPEAKER_01] Tyle mogę powiedzieć.
+[SPEAKER_01] Obowiązku nie ma w tej chwili.
+[SPEAKER_00] Pytanie pana redaktora Macieja Rutke, Gazeta Giełdy Parkiet.
+[SPEAKER_00] Tylko jeden bank z dużym portfelem hipotek frankowych i trzy z małymi chcą przystąpić do programu UGUD.
+[SPEAKER_00] Łącznie mają mniej niż 30% udziału w rynku hipotek frankowych.
+[SPEAKER_00] Jak NBP ocenia niewielką skłonność branży do zawierania porozumień?
+[SPEAKER_00] Czy jest jakaś inna niż sądy możliwość rozwiązania frankowych sporów?
+[SPEAKER_01] Chciałbym, żeby państwo dobrze zrozumieli rolę Narodowego Pałacu Polskiego.
+[SPEAKER_01] Nasza rola jest żadna w całym tym zagadnieniu, dopóki pewne kwestie nie dojrzały do rozwiązań o charakterze systemowym.
+[SPEAKER_01] Mamy do czynienia przecież z rynkiem, z dobrowolnymi umowami.
+[SPEAKER_01] Mamy do czynienia z problemami prawnymi.
+[SPEAKER_01] Czyli mamy ten aspekt,
+[SPEAKER_01] umów wolnych podmiotów na rynku i decyzjami prawnymi, które może rozstrzygnąć tylko Sąd Najwyższy.
+[SPEAKER_01] No i TSUE oczywiście jeszcze wcześniej swoimi decyzjami.
+[SPEAKER_01] Jeśli będzie jakieś rozwiązanie kredytu walutowego o charakterze systemowym przygotowane, na które się zgodzą banki, klienci, a to jest indywidualna decyzja każdego banku, nikt nie ma wpływu na decyzję indywidualną każdego banku.
+[SPEAKER_01] wtedy my oczywiście możemy się tam pojawić z powodów takich, że będzie miał to wymiar makroekonomiczny, ogólnogospodarczy.
+[SPEAKER_01] Natomiast jakieś prywatne kwestie między bankami a klientami to jest przecież sfera wyłącznie prawna i decyzji tych podmiotów.
+[SPEAKER_01] Nic więcej nie mogę powiedzieć.
+[SPEAKER_00] Kolejne pytanie, także pana redaktora Macieja Rutkę, Giełda Gazety Parkiet.
+[SPEAKER_00] W debacie publicznej o kredytach frankowych profesor Ewa Łętowska stawia zarzut bankom, że zataiły przed klientami informacje o tym, że kursy walut się zmieniają.
+[SPEAKER_00] NBP posiada najsilniejsze instrumentarium prognostyczne w polskiej gospodarce.
+[SPEAKER_00] Czy NBP jest w stanie przewidzieć kurs franka szwajcarskiego w perspektywie 25-30 lat?
+[SPEAKER_00] Czy zasada płynnego kursu walutowego wymaga, by banki informowały o niej dodatkowo swoich klientów?
+[SPEAKER_01] – Co ja tu mogę powiedzieć?
+[SPEAKER_01] Jako prywatna osoba potrzeba informowania klientów, że kursy się zmieniają.
+[SPEAKER_01] To można by też mieć pretensje, że nie informują, że po dniu jest noc, po nocy dzień, że są zmiany pór roku, że są przypływy i odpływy.
+[SPEAKER_01] Trudno informować na każdy możliwy temat.
+[SPEAKER_01] Myślę, że każdy człowiek w Polsce, może nie każde dziecko, wie, że kurs się zmienia, jakoś się z tym zetknął, jeśli nie bezpośrednio, to jakoś słyszał coś na ten temat.
+[SPEAKER_01] Dosyć to jest niepoważne, na tyle mogę powiedzieć.
+[SPEAKER_01] Kurs walutowy można prognozować oczywiście, ale nie da się skutecznie prognozować.
+[SPEAKER_01] Gdyby tak było, to by wszyscy byli bogaci, bo wszyscy by wygrywali, lokując swoje środki i grając na forexie.
+[SPEAKER_01] Natomiast w warunkach płynnego kursu walutowego, jaki mamy w Polsce i płynnego kursu walut, o których mowa, należy się liczyć z jego zmiennością.
+[SPEAKER_01] Po prostu to są zmienne kursy.
+[SPEAKER_01] Coś może się bardzo długo nie zmieniać, a potem się nagle może zmienić.
+[SPEAKER_01] Oczywiście banki powinny o tym informować.
+[SPEAKER_01] W ogóle w rozmowie z klientem powinny się zorientować, czy klient w ogóle wie, co podpisuje, czy ma świadomość tego, jakie tam jest ryzyko itd.
+[SPEAKER_01] Tyle mogę powiedzieć jako obywatel.
+[SPEAKER_01] Natomiast te sprawy, co są w sądach, to nie chodzi o zmiany kursu waluty, o samą kwestię, że się te zmiany kursu dokonują, ale o sposób ustalania kursu przez banki, o sposób ustalania kursu.
+[SPEAKER_01] Ale to jest w ogóle skomplikowana kwestia.
+[SPEAKER_01] Żaden prawnik tu mądrego rozwiązania w tej kwestii nie przedstawił, nie może przedstawić.
+[SPEAKER_01] Nie istnieje doskonałe rozwiązanie, niekonfliktowe tego.
+[SPEAKER_01] Tu jest wiele aspektów.
+[SPEAKER_01] Każde rozwiązanie, każda decyzja, którą podejmie Sąd Najwyższy, a przedtem TSUE, zadowoli część osób i podmiotów, a część nie.
+[SPEAKER_01] Nie ma dobrego rozwiązania z fatalnych decyzji kiedyś podjętych, że zostały udzielone kredyty w walucie obcej.
+[SPEAKER_01] Nie Szwajcarom, tylko Polakom.
+[SPEAKER_01] To było fatalne i wszyscy, przecież ekonomiści zdrowomyślący byli tego w pełni świadomi.
+[SPEAKER_01] To było fatalne.
+[SPEAKER_01] A już od tej fatalnej decyzji dobrego wyjścia nie ma.
+[SPEAKER_01] Trzeba wziąć pod uwagę też przecież nie samych frankowiczów i banki, które udzieliły kredytów, ale też tych obywateli, którzy nie są frankowiczami i którzy też na to patrzą i nie chcą ponosić kosztów.
+[SPEAKER_01] tego problemu.
+[SPEAKER_01] A jeśli koszty będą ponosić instytucje publiczne, to będą ponosić obywatele.
+[SPEAKER_01] Ich kieszenie będą na to odpowiadać.
+[SPEAKER_01] Poza tym jest społeczne wyczucie sprawiedliwości, poczucie sprawiedliwości.
+[SPEAKER_01] Niejasna rzecz, ale jednak wyraźna.
+[SPEAKER_01] Nie mogą być rozwiązania, które zburzą poczucie, że jesteśmy państwem praworządnym, gdzie obowiązują pewne najogólniejsze chrześcijańskie zasady sprawiedliwości.
+[SPEAKER_01] Że jakaś grupa społeczna jest w lepszej sytuacji niż inna.
+[SPEAKER_01] To jest szalenie skomplikowane.
+[SPEAKER_01] Nie podejmuje się
+[SPEAKER_01] w tej sprawie.
+[SPEAKER_01] Na szczęście do moich obowiązków i odpowiedzialności to nie należy.
+[SPEAKER_01] Ja mogę mieć prywatne zdanie na ten temat w czasie świąt, chociaż są lepsze tematy z rodziną.
+[SPEAKER_01] Natomiast publicznie na ten temat się nie wypowiem, jakie rozwiązanie jest dobre.
+[SPEAKER_01] Mogę tylko powiedzieć – dobrego rozwiązania nie ma.
+[SPEAKER_01] Wszystkie są złe i trzeba wybierać między tymi złymi, które jest
+[SPEAKER_01] zły.
+[SPEAKER_01] Ale osobiście się nie dziwię, że Sąd Najwyższy przeciąga tę sprawę, przewleka decyzję, a być może będzie przewlekał coraz bardziej.
+[SPEAKER_01] Nie chciałbym być w ich skórze.
+[SPEAKER_00] Pytanie pana redaktora Macieja Wojtaszka, portal BS.net.pl.
+[SPEAKER_00] W opinii Komitetu Stabilności Finansowej w celu poprawy efektywności działania bankowości spółdzielczej wskazana jest intensyfikacja procesów polegających na łączeniu się banków spółdzielczych.
+[SPEAKER_00] Historycznie patrząc, procesy konsolidacji w sektorze spółdzielczym przybierały na sile tylko pod wpływem wymogów prawnych czy decyzji administracyjnych.
+[SPEAKER_00] Czy przewiduje pan prezes, że w realnej przyszłości pojawią się czynniki prawne obligujące banki spółdzielcze do szybszej konsolidacji?
+[SPEAKER_01] Nie ja stanowię prawo.
+[SPEAKER_01] – Oczywiście, ale jest prawdziwe to, co w pierwszej części pytania było powiedziane.
+[SPEAKER_01] Rozwój sytuacji w sektorze bankowym, informatyzacja, cyfryzacja operacji bankowych, sposób obsługi klienta, wymagania klienta, systemy płatności wymuszają i wymagają integracji banków spółdzielczych.
+[SPEAKER_01] Muszą powstawać coraz większe
+[SPEAKER_01] Organizmy dobrze zinformatyzowane.
+[SPEAKER_01] Nie powinny banki spółdzielcze czekać, aż się sytuacja pogorszy, że będzie konieczne wymuszenie tego procesu.
+[SPEAKER_01] Powinny same się łączyć dobrowolnie, będąc w dobrej kondycji, tworząc większe podmioty zdolne do konkurowania na rynku.
+[SPEAKER_01] Takie zachęty są już od bardzo dawna przez nas i przez odpowiedzialne instytucje, analityków i obserwatorów wysuwane.
+[SPEAKER_01] Ale proces jest trudny.
+[SPEAKER_01] Dotyczy konkretnych ludzi, konkretnych zarządów, konkretnych obszarów i tak dalej.
+[SPEAKER_00] Pytanie, które zadał także pan redaktor Maciej Wojtaszek, portal bs.net.pl.
+[SPEAKER_00] Pani Halina Szymańska, prezes Agencji Restrukturyzacji i Modernizacji Rolnictwa.
+[SPEAKER_00] W rozmowie z naszym portalem powiedziała, że kredytów preferencyjnych udzielonych do 2015 roku do spłaty pozostało ponad 50 tysięcy na łączną kwotę około 13 miliardów złotych.
+[SPEAKER_00] KSF po ostatnim posiedzeniu skierował do ministra rolnictwa i rozwoju wsi list w sprawie mechanizmu przyznawania dopłat
+[SPEAKER_00] do oprocentowania kredytów udzielanych przez banki na inwestycje i przedsięwzięcia związane z produkcją rolną i jej rozwojem, tzw. kredytów preferencyjnych.
+[SPEAKER_00] Jakie jest stanowisko KSF w tej sprawie?
+[SPEAKER_01] Stanowczo po dyskusji i po analizach uważamy, że dostosowanie zasad udzielania dopłat przez agencję do obecnych warunków rynkowych istotnie by ograniczyło straty przede wszystkim na niektórych portfelach już udzielonych kredytów preferencyjnych.
+[SPEAKER_01] a z drugiej wreszcie umożliwiłoby ponowne udzielanie tego typu kredytów z korzyścią dla banków i dla rolników, kredytobiorców z sektora rolniczego.
+[SPEAKER_01] Ale właśnie wczoraj otrzymałem od ministra rolnictwa i rozwoju wsi pismo, w którym pan minister informuje mnie, że odpowiednie prace zostały zainicjowane, powołany został zespół, który tą sprawą się zajmie i szybko się ma ta sprawa wyklarować.
+[SPEAKER_00] Dziękuję.
+[SPEAKER_00] Pytanie pana redaktora Łukasza Wilkowica, Dziennik Gazeta Prawna.
+[SPEAKER_00] Jaki był ubiegłoroczny wynik finansowy NBP?
+[SPEAKER_00] W jakiej części był skutkiem osłabienia złotego?
+[SPEAKER_01] Sprawozdanie finansowe NBP, jak Państwo wiedzą, na dzień 31 grudnia 2020 zostało wreszcie zgodnie z procedurą i z harmonogramem corocznym, niezmienionym, zostało 7 kwietnia tego roku przyjęte przez Radę Polityki Pieniężnej na ostatnim posiedzeniu.
+[SPEAKER_01] Chciałbym Państwu poinformować oficjalnie, że w 2020 roku Narodowy Bank Polski wypracował zysk w kwocie 9,3 mld złotych.
+[SPEAKER_01] 9,3 mld zł w relacji do roku 2019, gdzie wyniósł 7,8 mld zł.
+[SPEAKER_01] Jest on więc o 19% wyższy, prawie 20% wyższy.
+[SPEAKER_01] Zgodnie z ustawą NBP on zostanie oczywiście podzielony na wpłaty do budżetu państwa.
+[SPEAKER_01] 95% tego zysku zostanie skierowane do budżetu państwa, a 5% zostanie skierowane na fundusz rezerwowy NBP.
+[SPEAKER_01] Zatem wpłata do budżetu państwa, co z satysfakcją mogę oświadczyć, wyniesie około 8,9 mld zł.
+[SPEAKER_01] Ta wpłata zostanie dokonana w terminie 14 dni od dnia zatwierdzenia rocznego sprawozdania finansowego NBP przez Radę Ministrów.
+[SPEAKER_01] Myślę, że te środki będą w budżecie państwa należycie z korzyścią dla społeczeństwa użytkowane.
+[SPEAKER_00] Dwa kolejne pytania.
+[SPEAKER_00] Pierwsze, pan Michał Żoławiński, Bankier.pl.
+[SPEAKER_00] W mijającym tygodniu Narodowy Bank Węgier ogłosił potrojenie wielkości rezerw złota.
+[SPEAKER_00] Czy NBP i MNB koordynują swoje działania w zakresie zakupów złota?
+[SPEAKER_00] Na jakim etapie jest przedstawiony przez pana plan zwiększenia polskich rezerw złota o kolejne 100 ton?
+[SPEAKER_00] Oraz w podobnej tematyce pani redaktor Dorota Bartyzel, Bloomberg.
+[SPEAKER_00] Węgry idą w ślad za Polską i planują podniesienie swoich rezerw złota.
+[SPEAKER_00] Bloomberg rozmawiał chyba ze wszystkimi bankami centralnymi w szeroko rozumianym regionie Europy Wschodniej i Centralnej poza Węgrami i Polską.
+[SPEAKER_00] Wszyscy inni są wobec złota wstrzemięźliwi.
+[SPEAKER_00] Czy mógłby pan prezes raz jeszcze przekazać swoje uzasadnienie do tego, czemu pan tak stawia na złoto?
+[SPEAKER_01] To pytanie pani redaktor Bartyzel jest dosyć takie, jakby to powiedzieć, niepełne w sensie przedstawienia podstaw pytania.
+[SPEAKER_01] Większość banków centralnych ma złota po prostu od nas o wiele więcej w stosunku do całości rezerw.
+[SPEAKER_01] Dlatego może są bardziej wstrzemięźliwi.
+[SPEAKER_01] Ja przypomnę, że po tym zmasowanym zakupie złota, które zdecydowałem w Narodowym Banku Polskim wraz z zarządem,
+[SPEAKER_01] mamy w tej chwili – bo rezerwy cały czas rosną nasze szczęśliwie – mamy go w tej chwili około 8%.
+[SPEAKER_01] A średni poziom rezerw złota, ich udział procentowy w ogólnej rezerwie na świecie wynosi około 10%.
+[SPEAKER_01] A w Europie wynosi około 20%.
+[SPEAKER_01] Jeśli ktoś ma rezerwy 20% albo większe, to może być wstrzemięźliwy w tych zakupach, a my cały czas mamy ten poziom za niski.
+[SPEAKER_01] Dobrze, że już mamy 8%, chcieliśmy mieć 10%, czyli tyle średnio na świecie, ale to jest nadal niedużo i musimy na ten problem patrzeć inaczej.
+[SPEAKER_01] Dlaczego złoto jest tak istotne jako składnik rezerw defizowych banków centralnych na świecie?
+[SPEAKER_01] To jest po prostu strategiczny element aktywów.
+[SPEAKER_01] Strategiczny element aktywów, to znaczy długookresowy.
+[SPEAKER_01] Ze względu na brak ryzyka kredytowego takiego kraju,
+[SPEAKER_01] Brak bezpośrednich powiązań z polityką gospodarczą jakiegokolwiek kraju.
+[SPEAKER_01] One nie rosną ani nie maleją w związku z polityką gospodarczą.
+[SPEAKER_01] Ograniczona wielkość zasobu złota jest na świecie.
+[SPEAKER_01] Cechy fizyczne ma złoto konkretne – trwałość i praktycznie niezniszczalność w normalnych warunkach.
+[SPEAKER_01] Te wszystkie cechy sprawiają, że złoto ma status takiej bezpiecznej przystani, jak to mówimy w ekonomii – safe haven asset.
+[SPEAKER_01] w trudnych warunkach, w czasie kryzysu jego wartość zazwyczaj rośnie.
+[SPEAKER_01] Jak rośnie ryzyko na rynkach, rośnie cena złota i rzadkich metali i tak dalej.
+[SPEAKER_01] Ale złota, jeśli chodzi o banki centralne.
+[SPEAKER_01] To bardzo korzystnie udziałuje na dywersyfikacji portfela rezerw.
+[SPEAKER_01] W latach 2018-2019 w mojej kadencji Narodowy Bank Polski zakupił, przypominam, 125,7 ton złota.
+[SPEAKER_01] I w ten sposób zwiększyliśmy zasób kruszców do 228,7 ton.
+[SPEAKER_01] Nadal trzymamy pewną część złota w Londynie i większość złota trzymamy w Polsce.
+[SPEAKER_01] Ten zakup był możliwy z powodu bardzo dobrej sytuacji gospodarczej kraju, z powodu bardzo szybko rosnących rezerw Narodowego Banku Polskiego.
+[SPEAKER_01] Narodowy Bank Polski, jego zarząd jest w pełni niezależny i w swoich ocenach dotyczących tego, ile powinien mieć złota, jest całkowicie niezależny.
+[SPEAKER_01] I dalsze zakupy złota, jak oświadczyliśmy już publicznie, są uzależnione od dynamiki wzrostu aktywów rezerwowych NBP.
+[SPEAKER_01] Ale też zależą od przysług uwarunkowań makroekonomicznych, rynkowych itd.
+[SPEAKER_01] Oświadczyłem publicznie, że uważam, że w najbliższym czasie – nie precyzując, co to jest ten najbliższy czas, nie w sensie ekonomicznym, tradycyjnym – powinniśmy o przynajmniej 100 ton powiększyć te zasoby.
+[SPEAKER_01] A docelowo powinniśmy dojść do pułapu 20% posiadanych przez nas rezerw.
+[SPEAKER_01] To byłby przyzwoity standard, właściwy dla kraju wysoko rozwiniętego.
+[SPEAKER_00] Kolejne pytanie.
+[SPEAKER_00] Pytanie pana redaktora Macieja Wojtaszka, portal bs.net.pl.
+[SPEAKER_00] Na jakim obecnie etapie znajduje się Narodowa Strategia Bezpieczeństwa Obrotu Gotówkowego?
+[SPEAKER_00] Kiedy zobaczymy pierwsze robocze opracowania?
+[SPEAKER_01] W czerwcu.
+[SPEAKER_01] W czerwcu będą już widoczne pierwsze gotowe dokumenty, efekty prac nad strategią.
+[SPEAKER_01] Zarząd NBP otrzyma je dokładnie w czwartym kwartale 2021.
+[SPEAKER_00] Ostatnie pytanie dotyczące banknotu 1000 zł.
+[SPEAKER_00] Kiedy może się pojawić?
+[SPEAKER_00] Czy wiadomo, czyj wizerunek mógłby znaleźć się na banknocie?
+[SPEAKER_01] Oczywiście, jeśli pan prezydent Andrzej Duda powierzy mi kierowanie Narodowym Bankiem Polskim na następną kadencję i Sejm zaakceptuje tę nominację,
+[SPEAKER_01] to dążyłbym do tego, żeby taki banknot do nominale 1000 zł trafił do obiegu gdzieś w 2025 roku.
+[SPEAKER_01] Co do postaci, która została upamiętniona o tym banknocie, to jeszcze to mówiłem o tym.
+[SPEAKER_01] Jeszcze nie ma ostatecznej decyzji.
+[SPEAKER_01] Zawsze dyskutujemy o tym ze społeczeństwem, ale i z ekspertami i tak dalej.
+[SPEAKER_01] Natomiast ja osobiście mówiłem, że uważam, że na tym banknocie powinna być po raz pierwszy kobieta, królowa,
+[SPEAKER_01] Miałem to na myśli oczywiście Jadwiga Antygawańską, bo w sposób oczywisty właśnie ta królowa w naszej historii odegrała szczególną rolę.
+[SPEAKER_01] Jest szczególnie zasłużona dla Polski.
+[SPEAKER_01] Ale ostateczna decyzja będzie pojęta po szerszych konsultacjach.
+[SPEAKER_01] Ale myślę, że taki banknot tysiąc złotowy z Jadwigą Antygawańską
+[SPEAKER_01] z Królową Polską Jadwigą Antygawańską byłby bardzo wygodny w przechowywaniu wartości, w tezauryzacji domowej czy w skrytkach bankowych, w tezauryzacji innej niż na kontach bankowych, co wyraźnie widać społeczeństwo polskie interesuje.
+[SPEAKER_01] W czasie kryzysu mieliśmy do czynienia z masowym wypłacaniem banknotów przez bankomaty i okienka bankowe i ludzie gromadzili oszczędności w domu, zakładając, że to jest jakaś wygodniejsza, bardziej elastyczna forma oszczędności.
+[SPEAKER_01] Też mi się tak wydaje, że pewna część oszczędności, w miarę tego jak polskie społeczeństwo się bogaci i będzie bogacić, w tej formie może być przekazywana.
+[SPEAKER_01] To jest wygodne do tezauryzacji, wygodne jest
+[SPEAKER_01] dla jakichś darowizn itd.
+[SPEAKER_01] Natomiast chciałbym uroczyście poinformować, że jutro w tym budynku, w swoim gabinecie, a dokładnie w sali posiedzeń Zarządu i Rady Polityki Pieniężnej, zamierzam zaakceptować i złożyć uroczysty podpis na wzorze banknetu kolekcjonerskiego Lech Kaczyński – Warto być Polakiem.
+[SPEAKER_01] Banknot poświęcony będzie śp.
+[SPEAKER_01] Prezydentowi Rzeczypospolitej Polskiej.
+[SPEAKER_01] Przypominam, że jutro przypada rocznica tragicznej śmierci tego wielkiego Polaka.
+[SPEAKER_01] małżonki i 94 innych wybitnych przedstawicieli polskiego narodu.
+[SPEAKER_01] Ten banknot zostanie wprowadzony do obiegu w nakładzie do 80 tys. sztuk, czyli stosunkowo dużym, z okazji Święta Niepodległości w listopadzie.
+[SPEAKER_01] A jutro, z okazji przypadającej jutro rocznicy tragicznych wydarzeń i katastrofy w Smoleńsku, uroczyście ten banknot podpiszę.
+[SPEAKER_01] W moim przekonaniu jest to bardzo piękny
+[SPEAKER_01] Bank to na bardzo wysokim poziomie graficznym i starannie bardzo przygotowany.
+[SPEAKER_00] Szanowni Państwo, bardzo dziękuję za udział w konferencji.
+[SPEAKER_00] Bardzo dziękuję panu profesorowi.
+[SPEAKER_00] Zapraszamy na kolejne spotkanie w przyszłym miesiącu.
+[SPEAKER_01] Dziękuję Państwu serdecznie.
+[SPEAKER_01] Zapraszam na spotkanie.
+[SPEAKER_01] No i rychło wyczekując jakiegoś spotkania w normalnych warunkach zdrowotnych, a więc i sanitarnych.
+[SPEAKER_01] Przyroda się budzi do życia i my też powoli z tego koszmarnego snu pandemii wychodzimy i się wybudzamy.
+[SPEAKER_01] Do widzenia Państwu.
+[SPEAKER_01] Wszystkiego dobrego.
+[SPEAKER_01] Zdrowia życzę.

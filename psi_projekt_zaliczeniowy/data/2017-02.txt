@@ -1,0 +1,341 @@
+[SPEAKER_04] Dzień dobry Państwu.
+[SPEAKER_04] Witamy Państwa bardzo serdecznie na konferencji prasowej po posiedzeniu Rady Polityki Pieniężnej.
+[SPEAKER_04] W dzisiejszej konferencji udział wezmą prezes Narodowego Banku Polskiego, przewodniczący Rady Polityki Pieniężnej prof. Adam Glapiński oraz członkowie Rady prof. Jerzy Osiatyński oraz dr Kamil Zuberewicz.
+[SPEAKER_04] Panie prezesie, bardzo proszę, oddaję Panu głos.
+[SPEAKER_03] Jeszcze raz witam Państwa serdecznie.
+[SPEAKER_03] Informacja po posiedzeniu Rady Polityki Pieniężnej.
+[SPEAKER_03] Rada postanowiła utrzymać stopy procentowe NBP na niezmienionym poziomie.
+[SPEAKER_03] Stopa referencyjna 1,5, stopa lombardowa 2,5, stopa depozytowa 0,5, stopa redyskonta weksli 1,75.
+[SPEAKER_03] Wzrost aktywności gospodarczej za granicą pozostaje umiarkowany, przy czym prognozy koniunktury w gospodarce światowej poprawiły się w ostatnim okresie.
+[SPEAKER_03] W strefie euro utrzymuje się stopniowo ożywienie, czemu sprzyja wyraźna poprawa nastroju w przemyśle.
+[SPEAKER_03] W Stanach Zjednoczonych koniunktura jest nadal wspierana przez poprawę sytuacji na rynku pracy, wyrażającą się zarówno zwiększaniu zatrudnienia, jak i wzroście płac.
+[SPEAKER_03] W Chinach w czwartym kwartale ubiegłego roku po kilku latach spowolnienia wzrost PKB nieznacznie przyspieszył.
+[SPEAKER_03] Towarzyszyło temu zmniejszanie się skali recesji w Rosji.
+[SPEAKER_03] Ceny surowców na rynkach światowych są istotnie wyższe niż rok wcześniej.
+[SPEAKER_03] Przyczynia się to do wzrostu inflacji w wielu krajach.
+[SPEAKER_03] Jednocześnie niska presja popytowa w wielu gospodarkach, w tym strefie euro, ogranicza wzrost inflacji i sprawia, że inflacja bazowa kształtuje się na umiarkowanym poziomie.
+[SPEAKER_03] Europejski Bank Centralny utrzymuje stopy procentowe na poziomie bliskim zera, w tym stopę depozytową poniżej zera.
+[SPEAKER_03] EBC kontynuuje także program skupu aktywów finansowych.
+[SPEAKER_03] Rezerwa Federalna Stanów Zjednoczonych sygnalizuje natomiast kontynuację podwyższania stóp procentowych w bieżącym roku.
+[SPEAKER_03] W Polsce wstępne dane o PKB w 2016 roku wskazują, że w czwartym kwartale ubiegłego roku roczne tempo wzrostu gospodarczego było zbliżone do obserwowanego w poprzednim kwartale.
+[SPEAKER_03] Głównym czynnikiem wzrostu pozostał rosnący popyt konsumpcyjny wspierany przez wzrost zatrudnienia i płac, bardzo dobre nastroje konsumentów oraz wypłaty świadczeń wychowawczych.
+[SPEAKER_03] Dodatni wkład do wzrostu PKB miał także eksport netto oraz przyrost zapasów.
+[SPEAKER_03] Jednocześnie nastąpiło ograniczenie spadku inwestycji.
+[SPEAKER_03] Do mniejszego spadku inwestycji przyczyniło się prawdopodobnie zwiększenie wykorzystania środków unijnych z nowej perspektywy finansowej UE.
+[SPEAKER_03] W ostatnich miesiącach wzrosła, podobnie jak w wielu krajach na świecie, roczna dynamika cen towarów i usług konsumpcyjnych.
+[SPEAKER_03] Do wzrostu cen przyczyniają się głównie wyższe ceny surowców na rynkach światowych, a więc czynniki pozostające poza bezpośrednim wpływem krajowej polityki pieniężnej.
+[SPEAKER_03] Jednocześnie presją inflacyjną nadal ogranicza umiarkowana dynamika jednostkowych kosztów pracy oraz ujemna luka popytowa w krajowej gospodarce.
+[SPEAKER_03] W ocenie Rady Polityki Pieniężnej po wzroście inflacji w pierwszych miesiącach dynamika cen ustabilizuje się w kolejnych kwartałach tego roku.
+[SPEAKER_03] Do wyższego wskaźnika cen będą się przyczyniały głównie efekty wzrostu cen surowców na rynkach światowych.
+[SPEAKER_03] Biorąc pod uwagę zewnętrzny i najprawdopodobniej przejściowy charakter czynników powodujących wzrost dynamiki cen, przy jednocześnie niskiej wewnętrznej presji popytowej, Rada ocenia, że ryzyko trwałego przekroczenia ceny inflacyjnego w średnim okresie jest niewielkie.
+[SPEAKER_03] Rada Polityki Pieniężnej podtrzymuje ocenę, że w świetle dostępnych danych i prognoz obecny poziom stóp procentowych sprzyja utrzymaniu polskiej gospodarki na ścieżce zrównoważonego wzrostu oraz pozwala zachować równowagę makroekonomiczną.
+[SPEAKER_03] Dziękuję.
+[SPEAKER_04] Dziękuję bardzo.
+[SPEAKER_04] Bardzo proszę Państwa o zadawanie pytań.
+[SPEAKER_00] Dorota Bartyzel, Bloomberg News.
+[SPEAKER_00] Chciałam poprosić najpierw, patrząc na komentarz, na Państwa komunikat, o taki troszeczkę bardziej szczegółowy rozbiór tego paragrafu dotyczącego prognozy inflacyjnej.
+[SPEAKER_00] To troszkę będzie wyglądało jak czepiastwo z mojej strony, ale kiedy mówią Państwo, ryzyko trwałego przekroczenia celu inflacyjnego jest niewielkie, to znaczy, że widzą Państwo ryzyko przekroczenia celu inflacyjnego w ogóle, w jakim czasie,
+[SPEAKER_00] To jest pierwsza część, a druga taka chyba bardziej fundamentalna.
+[SPEAKER_00] Mnie się zdaje, że chyba przy stopie 1,5% tak naprawdę nie chodzi o 2,5% inflacji, tylko chodzi o to, że już w styczniu najprawdopodobniej, patrząc na konsensus, inflacja przekroczyła 1,5%, więc schodzimy z realnymi stopami w obszary negatywne lada moment.
+[SPEAKER_00] I jak się to ma do konserwatywnej...
+[SPEAKER_00] jak to zawsze było, konserwatywnej, ortodoksyjnej i ostrożnej polityki monetarnej.
+[SPEAKER_03] Rzeczywiście to wygląda trochę na czepialstwo.
+[SPEAKER_03] Jakby mnie znał pani redaktor, to bym tak pomyślał.
+[SPEAKER_03] Czujnie pani wychwyciła to słowo trwale, bo umieściliśmy je dlatego, że nie mamy pewności, jak to dokładnie będzie.
+[SPEAKER_03] Czy może się znaleźć powyżej, czy nie.
+[SPEAKER_03] Półtora procent.
+[SPEAKER_03] Raczej myślę, że nie, ale może się zdarzyć, że będzie powyżej.
+[SPEAKER_03] Ale jeśli powyżej, to nietrwale, to znaczy przejściowo.
+[SPEAKER_03] Tu mówimy o kilku miesiącach.
+[SPEAKER_03] a potem przewidujemy, że znów będzie stabilizacja.
+[SPEAKER_03] To po prostu przechodzimy z tych bardzo niskiego pułapu ustabilizowanego, nawet deflacji, wchodzimy na trochę wyższe piętro, no bo ceny ropy naftowej skoczyły do tego 55 za baryłkę i się ustabilizowały znów.
+[SPEAKER_03] Czyli mamy efekt bazy, wznosimy się na wyższy trochę pułap i znów jest dosyć stabilnie.
+[SPEAKER_03] Także jeśli będą ujemne stopy realnie, to bardzo krótko.
+[SPEAKER_03] Tak krótko, że to nie będzie miało znaczenia wartego analizy.
+[SPEAKER_03] To słowo trwale, dlatego jest ważne w tej sekwencji prof. Siatyńskiej.
+[SPEAKER_02] Sporo naszych kolegów, analityków, podnosi argument o niebezpieczeństwie silnego przyrostu inflacji, ale jeżeli Państwo zobaczycie, jaki jest efekt tej podwyżki cen paliw,
+[SPEAKER_02] Rzeczywiście w ostatnich dwóch miesiącach jest ten przyrost inflacji z tego tytułu, ale myślę, że powinniście Państwo patrzeć, jakie będą zmiany cen już po tym skoku, prawda, od 27 do 55.
+[SPEAKER_02] Jaki będzie przyrost inflacji z tego tytułu w relacji luty do stycznia, marzec do lutego.
+[SPEAKER_02] z kwiecień do marca.
+[SPEAKER_02] Nie ma z tego tytułu zakładając, a wszystkie ośrodki wskazują na stabilizację cen ropy w przedziale między 55 a 60 dolarów za baryłkę.
+[SPEAKER_02] To będzie sposób naturalny wygasać.
+[SPEAKER_02] To co dla nas ma istotne znaczenie to jest właśnie to co się dzieje na krańcu, te przyrosty.
+[SPEAKER_02] I oczywiście nie wiadomo, jak się będzie rozkładał wpływ wzrostu cen płodów rolnych, przetworów mlecznych itd., gdzie też obserwujemy pewien wzrost.
+[SPEAKER_02] Ale wydaje mi się, że te oceny
+[SPEAKER_02] według których, jak słyszę, niektórzy z analityków przewidują, że my tutaj osiągniemy w ciągu paru miesięcy poziom inflacji rzędu 2,5 albo więcej procent.
+[SPEAKER_02] Ja tego zwyczajnie nie jestem w stanie rozumieć.
+[SPEAKER_03] Profesor Siatyński zbulwersowany, bo radio dzisiaj rano słuchał.
+[SPEAKER_02] Ja mam rzeczywiście różnych niedobrych nawyków, także czytania, co Państwo piszecie i słuchania, co Państwo mówicie.
+[SPEAKER_02] Okropny nawyk.
+[SPEAKER_03] My takich analiz nie mamy i takich ekspertów, którzy by to przewidywali, nie mamy.
+[SPEAKER_03] że będzie ten wzrost na wyższy pułap i znów stabilizacja.
+[SPEAKER_03] Mamy szczegółowe takie projekcje nawet, ale na razie ich Państwu nie pokażemy ze zrozumiałych względów, bo cały czas trwają prace.
+[SPEAKER_03] Za miesiąc mniej więcej Państwo zobaczą bardziej szczegółowe i Państwo zobaczą, że się wznosimy na ten wyższy pułap i znów się stabilizuje.
+[SPEAKER_03] Czyli możemy się przez chwilę znaleźć nawet w tych ujemnych stopach realnie, ale niekoniecznie.
+[SPEAKER_03] Ale jak się znajdziemy, no to na tak krótko, że nie warto nad tym się szczególnie pochylać i znów wejdziemy w to wypoziomowanie, gdzie te stopy będą dodatnie.
+[SPEAKER_03] Proszę pamiętać na tle Europy, no to w ogóle cały czas jesteśmy bardzo dodatni ze stopami.
+[SPEAKER_02] Podstawowe znaczenie będzie miała relacja dynamiki wydajności pracy w relacji do dynamiki płac.
+[SPEAKER_03] Także to słowo trwale jest tak na wszelki wypadek, że gdybyśmy się znaleźli, to żeby otoczenie właściwie to interpretowało, że na chwilę się znaleźliśmy.
+[SPEAKER_02] Będzie trochę ciśnienia od tej strony, ale bez paniki.
+[SPEAKER_02] Pan redaktor Pudłowski, bardzo proszę.
+[SPEAKER_09] Aleksander Pudłowski, Polska Agencja Prasowa.
+[SPEAKER_09] Chciałem zapytać o dane GUS, które zostały opublikowane od ostatniego posiedzenia.
+[SPEAKER_09] Jak Państwo oceniają ten wzrost w 2016 roku?
+[SPEAKER_09] czy ten wzrost w czwartym kwartale, tak jak Państwo mówią, był podobny, czy on jest może trochę wyższy niż te 2,5% i czy struktura PKB w 2016 roku była według Państwa optymalna, czy taki można się spodziewać w następnym roku?
+[SPEAKER_03] Struktura PKB.
+[SPEAKER_09] W sensie konsumpcję, inwestycje, poziom, udział?
+[SPEAKER_03] Mamy za niskie inwestycje.
+[SPEAKER_03] To jest problem, którego mamy od bardzo, bardzo dawno.
+[SPEAKER_03] Nie wiem już ilu lat.
+[SPEAKER_03] I problem mieliśmy w ostatnich miesiącach zeszłego roku, czy przez cały rok, że te inflacje spadały.
+[SPEAKER_03] Ale to już wielokrotnie interpretowaliśmy i analizowaliśmy, przedstawiliśmy to Państwu.
+[SPEAKER_03] To jest powszechnie znane, że jest związane z słabą absorpcją środków unijnych i zmianą perspektywy unijnej, która jest trudniejsza.
+[SPEAKER_03] Nie jest to nasza szczególna przypadłość.
+[SPEAKER_03] Taka sytuacja jest we wszystkich krajach Europy Środkowo-Wschodniej.
+[SPEAKER_03] We wszystkich obserwujemy to samo i przyczyna jest ta sama.
+[SPEAKER_03] To znacząco skokowo się poprawi i będzie z tym wzrost dynamiczny, tempa wzrostu i wielkości inwestycji.
+[SPEAKER_03] Kiedy to nastąpi?
+[SPEAKER_03] Oczywiście pytanie łańcuchowe się nasuwa Panu.
+[SPEAKER_03] To trudno tak dokładnie powiedzieć.
+[SPEAKER_03] Pod koniec pierwszego kwartału, drugi kwartał, w pewności za rok ta dynamika i PKB inwestycji będzie przyzwoita.
+[SPEAKER_03] Czyli będziemy mieli takie znaczące przełamanie w postaci przyspieszenia wzrostu inwestycji i wzrostu PKB.
+[SPEAKER_03] Początkowo spadku inwestycji, potem wzrostu inwestycji i wzrostu PKB.
+[SPEAKER_03] Ale cały czas wzrost jest ciągnięty przez konsumpcję.
+[SPEAKER_03] przez konsumpcję, ale to dotyczy nie tylko nas, ale całej Europy, Unii Europejskiej, całej Europy w ogóle i całej gospodarki zachodniej.
+[SPEAKER_03] Wszędzie tam wzrost jest ciągnięty przez konsumpcję.
+[SPEAKER_03] Także nawet konferencje międzynarodowe banków centralnych i ministrów finansów się odbywają pod tytułem, jak długo wzrost może być ciągnięty wyłącznie przez konsumpcję.
+[SPEAKER_03] i różne opinie na ten temat padają, ale jest ciągnięty.
+[SPEAKER_03] I u nas też jeszcze tutaj pole do popisu jest duże.
+[SPEAKER_03] Mamy szybki wzrost płac, płac realnych także, ale właśnie jak wspominał profesor Osiatyński, to nie pozostaje w jakimś rozdziewie z jednostkowym kosztem pracy.
+[SPEAKER_03] To się dokonuje razem ze wzrostem wydajności pracy.
+[SPEAKER_03] Może trochę wyprzedzać wzrost wydajności pracy, nic złego nie będzie.
+[SPEAKER_03] Ale te inwestycje po prostu są funkcją absorpcji środków unijnych.
+[SPEAKER_03] W 95% są za to odpowiedzialne.
+[SPEAKER_03] Bo jeśli chodzi o inwestycje prywatne niezwiązane ze środkami unijnymi, to tu po prostu charakterystyka tego procesu jest taka sama jak w latach ubiegłych.
+[SPEAKER_09] Jeszcze chciałem zapytać o otoczenie z innych banków centralnych.
+[SPEAKER_09] Wydaje się, że Fed nie będzie przyspieszał tak szybko zacieśniania polityki monetarnej, jak to planował pod koniec jeszcze tamtego roku.
+[SPEAKER_09] Chciałem zapytać, jak to wpływa na Państwa ocenia?
+[SPEAKER_03] Trudno powiedzieć.
+[SPEAKER_03] Amerykanie o tym dużo też mówią.
+[SPEAKER_03] Mówili w Davos i na tych wszystkich konferencjach banków centralnych.
+[SPEAKER_03] Tam zamiar ekipy Prezydenta Trumpa jest jednoznaczny.
+[SPEAKER_03] żeby stosować twardą politykę monetarną i podwyższać stopy i luzować fiskalnie.
+[SPEAKER_03] Ale oczywiście to jest ideologia, to jest program.
+[SPEAKER_03] Natomiast to się musi przebić przez Izby Kongresu, przez system prawny, przez umowy handlowe z innymi krajami, bo to jest związane też ze swego rodzaju protekcjonizmem i od nowa ułożenie pewnych umów.
+[SPEAKER_03] To w bólach się rodzi.
+[SPEAKER_03] W moim przekonaniu i tak jest opinia chyba większości obserwatorów, jest to daleko za wcześnie, żeby powiedzieć, jak to ostatecznie się ukształtuje.
+[SPEAKER_03] To przecież, ile ta ekipa jest, bardzo krótko, trudno powiedzieć.
+[SPEAKER_03] Ale generalnie będą się starali Amerykanie zacieśniać politykę pieniężną.
+[SPEAKER_03] i luzować politykę fiskalną.
+[SPEAKER_03] Jaki z tego rezultat może być dla Polski?
+[SPEAKER_03] Dobry rezultat i mniej dobry.
+[SPEAKER_03] Dobry, bo jeśli gospodarka amerykańska się będzie bardziej rozwijać, kręcić, koniunktura będzie jeszcze lepsza, to to wpływa na koniunkturę i w Europie, i Polski.
+[SPEAKER_03] Zacieśnianie polityki pieniężnej, umacnianie dolara ma oczywiście pewne negatywne dla nas skutki na rynku papierów wartościowych, ale nie takie, żeby od tego bolała nas głowa.
+[SPEAKER_04] Pan redaktor Sobczak, bardzo proszę.
+[SPEAKER_06] Dzień dobry, Paweł Sobczak z Agencji Rejtera.
+[SPEAKER_06] Państwo w komunikacie wspominacie o tym, że wzrost gospodarczy w czwartym kwartale ubiegłego roku był zbliżony do tego z poprzedniego.
+[SPEAKER_06] Chciałem się spytać, jak Państwo patrzycie na ten rok, kiedy Państwa zdaniem można się spodziewać bardziej wyraźnego odbicia wzrostu?
+[SPEAKER_03] Tak jak mówiłem, to jest drugi kwartał, w najgorszym wypadku połowa roku.
+[SPEAKER_03] Ale ja się spodziewam na przełomie pierwszego i drugiego kwartału.
+[SPEAKER_03] Wzrost inwestycji, wiązania środków unijnych i przyspieszenie wzrostu.
+[SPEAKER_03] I to przyspieszenie będzie dynamiczne.
+[SPEAKER_03] To znaczy bardzo dużo będzie przyspieszenie, także za cały rok będziemy mieli jakieś 3,5-3,6, czyli bardzo blisko takiej potencjalnej ścieżki wzrostu, zrównoważonego wzrostu.
+[SPEAKER_06] Czy w takim razie, jeżeli można, w dalszym ciągu jest obowiązujące dla Państwa stwierdzenie, że w najbardziej prawdopodobnym scenariuszu stopy w tym roku mogą pozostać stabilne?
+[SPEAKER_03] Ja mówię o swoim punkcie widzenia.
+[SPEAKER_03] Rada decyduje w całości.
+[SPEAKER_03] Każdy ma trochę inną ocenę tych samych faktów i tendencji.
+[SPEAKER_03] To się będzie kształtowało w dyskusji, w zależności od tego, jak te kwartały by wyglądały.
+[SPEAKER_03] Na razie się zgadzamy wszyscy, że wait and see jest najlepszą strategią.
+[SPEAKER_03] Obserwujemy to, co jest.
+[SPEAKER_03] Zakładamy, bo takie są te analizy i właściwie nie mamy żadnych przeciwstawnych analiz
+[SPEAKER_03] że to będzie się odbywać tak, że inflacja trochę wzrośnie i gdzieś tam, nie będę wymieniał miesięcy, my to mamy jakoś już tak bardziej dokładnie wyliczone, ale to jeszcze może trzeba nad tym trochę popracować, gdzieś tam się ta dynamika wzrostu cen zatrzyma i spadnie i tak będzie się do końca roku utrzymywać.
+[SPEAKER_03] Gdyby tak było,
+[SPEAKER_03] to będę się opowiadał oczywiście za utrzymaniem tych stóp procentowych na takim poziomie, jak w tej chwili.
+[SPEAKER_03] Członkowie Rady Polityki Pieniężnej, każdy z nich myśli jakoś według swojego warsztatu analitycznego, ale na razie taki jakiś konsensus jest.
+[SPEAKER_03] Nie dyskutujemy o tym, kiedy by tu podwyższać w tym roku stopy, ale nie wykluczamy niczego oczywiście.
+[SPEAKER_06] Czy w takim razie, jeżeli Państwo pozwolicie, chciałbym się spytać, jakie czynniki mogłyby wpłynąć na ewentualną decyzję o podwyżce stóp procentowej?
+[SPEAKER_03] Podwyżka stóp procentowej jest oczywista wtedy, jeśli byśmy mieli nagły, trwały wzrost inflacji.
+[SPEAKER_03] To jest oczywiste.
+[SPEAKER_03] I przekroczenie celu, czy takie nawet wizje trwałego przekroczenia celu inflacyjnego.
+[SPEAKER_03] Tak to mamy zapisane w swoich założeniach polityki.
+[SPEAKER_03] pieniężnej.
+[SPEAKER_03] Na razie jest sytuacja taka luksusowa, że możemy brać też pod uwagę ten drugi cel, który mamy ustawowy, czyli jakieś tam pozytywne wspieranie gospodarki na tyle, na ile to we współczesnych warunkach polityka banku centralnego umożliwia, czyli politykę niskich stóp.
+[SPEAKER_03] Historycznie one są bardzo niskie u nas.
+[SPEAKER_03] Może wejdziemy w te ujemne na chwilę.
+[SPEAKER_03] To nie będzie pierwszy raz, bo to patrzyliśmy
+[SPEAKER_03] Już w 2011 roku i w 2009 przez kilka miesięcy mieliśmy ujemne stopy i tak jak to patrzyliśmy, nie wywarło to szczerze mówiąc żadnego wpływu na procesy gospodarcze, bo wszyscy wiedzieli, że to jest na chwilę.
+[SPEAKER_03] To zależy jaka jest tendencja.
+[SPEAKER_03] Tendencja jest oczywiście najważniejsza.
+[SPEAKER_07] Michał Żuławiński, Bankier.pl.
+[SPEAKER_03] Chciałem zapytać… Przepraszam, jeszcze raz wrócę.
+[SPEAKER_03] No tu inflacja bazowa, o której nie wspomnieliśmy jeszcze, jest bardzo oczywiście istotna.
+[SPEAKER_03] Tu też są niskie wskaźniki.
+[SPEAKER_03] A cena ropy, no wydaje się ustabilizowana.
+[SPEAKER_03] Wszystkie znaki na niebie i ziemi wskazują, że polityczny, jak gdyby, czy tam…
+[SPEAKER_03] monopolistyczny czy oligopolistyczny proces stabilizowania ceny nastąpił i to na dłuższy czas tak będzie, ale jak wiadomo w polityce światowej i wojskowej, no różnie to może być, bo to, co w tej chwili obserwujemy, to jest efekt tego wzrostu cen, który się dokonał i zamarł, a też przewidywania były inne, także tu trzeba elastycznie do tego podchodzić.
+[SPEAKER_03] Zakładając, że to jest tak, że to 55 za baryłkę jest ustabilizowane, no to tyle możemy powiedzieć.
+[SPEAKER_07] Jeszcze raz, Michał Żlewiński, Bankier.pl.
+[SPEAKER_07] Właśnie chciałem o to zapytać, czy sama podwyżka cen ropy powyżej tego, co Państwo mówią, czyli na przykład do 70-80 dolarów za bariukę, skłoniłaby Radę do podwyżki stóp jeszcze w tym roku?
+[SPEAKER_03] Dyskutowalibyśmy oczywiście, bo to jest zewnętrzny czysto czynnik, a my przez stopy oddziaływujemy na wewnętrzne czynniki.
+[SPEAKER_03] Polityka naszych stóp procentowych...
+[SPEAKER_03] W oczywisty sposób nie ma wpływu na ceny ropy naftowej.
+[SPEAKER_03] O, nic przesady.
+[SPEAKER_02] Nie bądźmy też skromni.
+[SPEAKER_02] Czy rzeczywiście Państwo wierzycie, że światowe ceny ropy albo płodów rolnych będą zależały od wysokości stóp procentowych w Polsce?
+[SPEAKER_03] Teoretycznie jakieś spirale mogą nastąpić w zależności...
+[SPEAKER_03] Oczekiwania inflacyjne trochę.
+[SPEAKER_03] to wtedy się spotkamy z Państwem i powiemy.
+[SPEAKER_03] Na razie nie bierzemy tego pod uwagę.
+[SPEAKER_03] Bierzemy prawdopodobieństwo pod uwagę w różnych wachlarzowym przedziale i tego na razie nie bierzemy pod uwagę.
+[SPEAKER_07] Jeszcze jedno.
+[SPEAKER_07] Notowania kontraktów wskazują, że część inwestorów spodziewa się podwyżki stóp jeszcze w tym roku.
+[SPEAKER_07] Czy Rada zajmuje jakieś stanowisko wobec takiej sytuacji na rynku?
+[SPEAKER_03] Niewielka część.
+[SPEAKER_03] Zasadnicza część rynku, miażdżąco przeważająca, nie bierze pod uwagę.
+[SPEAKER_03] Natomiast z tego co czytam, ale to nas w żaden sposób nie zobowiązuje do niczego, ale czytamy tak jak Państwo wszystko,
+[SPEAKER_03] To przewiduje chyba większość jakieś dwie podwyżki w przyszłym roku, w 2018, ale to też jest takie wróżenie z fusów.
+[SPEAKER_03] Pożyjemy, zobaczymy, my na razie myślimy o tym roku.
+[SPEAKER_04] Pan redaktor Berenda, bardzo proszę.
+[SPEAKER_08] Dzień dobry, Krzysztof Berenda, Radio RMF.
+[SPEAKER_08] To skoro Pan Prezes mówił, że należałoby się spodziewać, że w tym roku raczej zmian z dup nie będzie, to skoro mamy teraz postawę wait and see, to chciałem zapytać może trochę tak filozoficznie, czy to nie jest tak, że w
+[SPEAKER_08] W polityce pieniężnej i w regulowaniu podaży trochę zastępują was w tej chwili banki komercyjne, które znacząco podwyższają marże kredytowe, opłaty.
+[SPEAKER_08] To nie jest pewne ograniczenie dostępu do pieniądza i podaży pieniężnej.
+[SPEAKER_03] Ale to jest co innego.
+[SPEAKER_03] W innej logice się mieści ich działanie.
+[SPEAKER_03] Szukają zysków, szukają przychodów, poruszają się w ramach regulacji.
+[SPEAKER_03] Te banki nie działają na wolnym rynku.
+[SPEAKER_03] Są pod silną presją regulatora,
+[SPEAKER_03] który teraz im z dnia na dzień zlikwidował opłaty za trzymanie prostego rachunku.
+[SPEAKER_03] Więc szukają zarobku gdzie indziej.
+[SPEAKER_03] To jest zupełnie co innego niż bank centralny, który jest zainteresowany makrostabilnością systemu bankowego, finansowego, a jak wszystko jest idealnie, to wtedy jakoś się stara sprzyjać wzrostowi gospodarczemu zrównoważonemu.
+[SPEAKER_03] To jest zupełnie inna
+[SPEAKER_03] Bankier centralny i bankier to są ludzie całkiem inni, chociaż przepływają z jednego do drugiego świata, czego nie uważam za dobre w karierze tych osób, jeśli nie potrafią jakoś zerwać z poprzednim wcieleniem.
+[SPEAKER_03] Ale to są zupełnie inni ludzie, mają inne cele, za co innego są wynagradzani, inaczej zresztą, jedni lepiej, drudzy gorzej, ale za co innego są wynagradzani.
+[SPEAKER_03] W innej logice się poruszają, inny tryb życia zwykle prowadzą, inne materiały analizują.
+[SPEAKER_08] Chociaż tak się trzymając, jak Pan Prezes mówił o tych zabraniu opłat za konta, to banki się do tego jeszcze nie dostosowały, mają 20 miesięcy, bo dopiero wtedy kary wejdą w życie, tak na marginesie.
+[SPEAKER_08] A skoro mówimy o tym, kto zastępuje, nie obawia się Pan tego, że pewne zamieszanie, które mamy na świecie, które z każdym kolejnym spotkaniem, także tutaj na Radzie, ono się zwiększa, nazwijmy to, ta niepewność na świecie, wynikająca oczywiście głównie ze świata polityki.
+[SPEAKER_08] Czy gdziekolwiek dochodzimy do momentu, albo widział Pan na horyzoncie taki moment, który może
+[SPEAKER_08] doprowadzić do tego, że to zacznie mieć wpływ na naszą gospodarkę?
+[SPEAKER_03] To już ma wpływ, ale w Europie, bo niepewność Stanów Zjednoczonych się skończyła.
+[SPEAKER_03] Już nie ma niepewności.
+[SPEAKER_03] Jest oczekiwanie, jak ta polityka będzie realnie wyglądać, ale mniej więcej wiadomo, w jakim kierunku to się może zmieniać.
+[SPEAKER_03] Jak Państwo widzą, świat gospodarki amerykańskiej i świata przyjmuje to dobrze.
+[SPEAKER_03] Tak jak mówiłem już wcześniej,
+[SPEAKER_03] Był taki medialny, jakaś taka moda medialna w pisaniu o ewentualnym zwycięstwie Donalda Trumpa, o jakimś takim nieszczęściu.
+[SPEAKER_03] No bo to jest nieszczęście z punktu widzenia jakiejś opcji politycznej, czy kulturowej nawet, ideologicznej, politycznej poprawności i tak dalej.
+[SPEAKER_03] Ale z punktu widzenia czystej gospodarki,
+[SPEAKER_03] to przedsiębiorcy na to patrzyli pozytywnie, bo dla kapitału, dla gospodarki, dla przedsiębiorców to jest ze wszech miar dobra polityka.
+[SPEAKER_03] Ona może być niedobra, na przykład ja wiem, dla związków zawodowych, dla socjalnych kwestii, dla jakichś grup ludności, dla socjalnych programów, dla budowy systemu ochrony zdrowia, ubezpieczeń zdrowotnych w Stanach, dla tych wszystkich rzeczy, ale dla przedsiębiorców polityka, która polega na luzowaniu fiskalnym,
+[SPEAKER_03] przy twardszej polityce monetarnej jest dobra, także gospodarka amerykańska by działała pozytywnie na to.
+[SPEAKER_03] I świat się tym nie niepokoi, natomiast w Europie, oczywiście wybory w Niemczech, a szczególnie we Francji ogromną rolę odgrywają.
+[SPEAKER_03] Już teraz ta niepewność, no na kursach, o czym my się nie wypowiadamy, ale co śledzimy, oczywiście jest bardzo widoczna i z punktu widzenia Polski,
+[SPEAKER_03] Negatywne, jeśli by widzieć Europę w ogóle jako takie gorsze miejsce do inwestowania, ale tak szczerze mówiąc, to nasza pozycja raczej zyskuje na tym, niż traci, no bo my jesteśmy taką oazą spokoju i stabilności też.
+[SPEAKER_03] Teraz oczy są skierowane na Francję i trochę na Niemcy, no głównie na Francję, prawda.
+[SPEAKER_08] I na koniec ostatnie pytanie o zysk NBP.
+[SPEAKER_08] Rozumiem, że pewnie dokładnej kwoty nie usłyszymy, ale może Pan jakoś nas przybliży trochę do tej kwoty.
+[SPEAKER_03] Jak zwykle co roku się to powtarza, bo Państwo mają informacje o zysku, bo jakoś to przecieka.
+[SPEAKER_03] W współczesnym świecie nie ma szczelnych zespołów ludzkich dużych i systemów i tak dalej.
+[SPEAKER_03] Także Państwo mniej więcej wiedzą.
+[SPEAKER_03] My oczywiście nic nie potwierdzimy ani nie zaprzeczymy.
+[SPEAKER_03] i w ogóle nie udzielamy informacji do tego, aż odbędzie się, rewident się wypowie na ten temat, co zwykle następuje, zawsze następuje w pierwszym kwartale.
+[SPEAKER_03] Ale proszę też pamiętać, jak zysk z banku, te 95% naszego zysku, który przepływa do budżetu jest tam kalkulowany.
+[SPEAKER_03] To są realne pieniądze oczywiście, ale one mogą służyć wyłącznie do zmniejszenia długu polskiego.
+[SPEAKER_03] Natomiast one nie zmniejszają deficytu, o czym dziennikarze, no nie oczywiście państwo,
+[SPEAKER_03] i państwa firmy, ale niektórzy dziennikarze zapominają i piszą o tym zysku, jakby on wpływał do budżetu i budżet mógł sobie z tego dowolne rzeczy finansować i zmniejszać i się nie liczyć wtedy z deficytem na taką sumę.
+[SPEAKER_03] To tak nie jest.
+[SPEAKER_03] To jest pod kreską i to zmniejsza jedynie czy aż obsługę długu zagranicznego, co jest istotnym elementem dla naszego kraju, ale dla ministra finansów to nie jest specjalnie
+[SPEAKER_03] ekscytujące.
+[SPEAKER_03] Gdyby to było inaczej księgowane, gdyby on to miał jako swoje środki, bo tu siedzi były minister finansów, to wie.
+[SPEAKER_03] Także to dla nich tak ekscytujące nie jest, no chociaż jest to zawsze pieniądz, który zmniejsza obsługę zadłużenia zagranicznego.
+[SPEAKER_03] A zysk nasz, no cieszymy się, że jest mniejszy, czy przyzwoity w jakimś roku, takim czy innym roku, ale jak wiecie, nie od nas on zależy, chociaż pewnie można tak źle zarządzać bankiem, żeby zmniejszać zysk.
+[SPEAKER_02] Z klasyfikacji budżetowej to nie jest dochód, tylko przemysł.
+[SPEAKER_04] I pani redaktor Bartyzel, bardzo proszę.
+[SPEAKER_00] Chciałam skorzystać z obecności pana Zubalewicza i poprosić pana o pańską interpretację albo może jakieś prognozy dotyczące możliwości adaptacji polityki czy tego scenariusza w polityce monetarnej w związku z możliwością zejścia poniżej, w obszar negatywnych stóp procentowych, ewentualne ryzyko.
+[SPEAKER_00] i rolę reflacji, tudzież pańską opinię na temat możliwości odbicia wzrostu gospodarczego.
+[SPEAKER_05] Znaczy tak, jeżeli chodzi o te negatywne realne stopy procentowe, to wszystko zależy od rozwoju sytuacji.
+[SPEAKER_05] Dostępne w tej chwili prognozy wskazują, że obszar ujemnych stóp będzie krótki, co oznacza, że bardzo uważnie część członków rady się temu przygląda.
+[SPEAKER_05] I zarówno w projekcji marcowej, jak i lipcowej ten temat na pewno wróci na posiedzenie Rady i kluczowe w mojej ocenie i paru jeszcze innych osób będzie właśnie posiedzenie wakacyjne, bo wtedy będziemy już dysponować prognozami na cały przyszły rok.
+[SPEAKER_05] W zeszłym roku mieliśmy niską inflację, czyli ze względu na efekt bazy teraz ta inflacja jest dość wysoka, ale jeżeli spojrzeć na inflację w perspektywie dwóch lat, czyli porównać wzrost na przykład w styczniu 2017 z cenami ze stycznia 2015,
+[SPEAKER_05] no to to jest obecnie średniorocznie na poziomie 0,4%, tak?
+[SPEAKER_05] Prognozy grudniowe, znowu średniorocznie w perspektywie dwóch lat, to jest około 1%, czyli to jest cały czas poniżej dolnego odchylenia przedziału dopuszczalnego przez przyjętą strategię polityki pieniężnej, także tylko
+[SPEAKER_05] Gwałtowne jakieś zmiany, czy to na rynku ropy naftowej, czy też zmiany jeśli chodzi o inflację bazową mogłyby spowodować, że poważnie trzeba by się było zastanowić nad zmianą stóp procentowych, ale na dzień dzisiejszy takiej wiedzy po prostu nie mamy.
+[SPEAKER_05] Skoro nie mamy, to taki komunikat właśnie, a nie inny.
+[SPEAKER_00] A pańska ocena możliwości faktycznego odbicia wzrostu gospodarczego już mniej więcej od drugiego, trzeciego kwartału?
+[SPEAKER_05] Od trzeciego kwartału ja bym zwrócił uwagę na pewne aspekty też cykliczne.
+[SPEAKER_05] Także choćby z tego powodu bym się spodziewał troszkę wyższego wzrostu gospodarczego w obecnym roku niż w zeszłym.
+[SPEAKER_05] Także pod względem realizacji wzrostu PKB, czy poziomu inflacji, czy nawet deficytu budżetowego
+[SPEAKER_05] to ten rok 2017 się wbrew obawom zapowiada dość spokojnie.
+[SPEAKER_03] Pozytywnie, ale trzeba dodać, że cała Rada jest tak pozytywnie zaskoczona w ogóle obrazem świata gospodarczego.
+[SPEAKER_05] Nie cała i nie mówię o sobie.
+[SPEAKER_03] Całego świata zachodniego, ale i krajów emerging markets.
+[SPEAKER_03] To znaczy przewidywanie sprzed dwóch lat, nawet sprzed roku było o wiele bardziej pesymistyczne.
+[SPEAKER_03] A teraz niespodziewanie trochę dla wszystkich.
+[SPEAKER_03] Wchodzimy jakby w taki obszar w całej Unii Europejskiej i w Stanach takiego spokojnego, wyższego wzrostu.
+[SPEAKER_03] Inflacja jakoś tam ruszyła, ale właśnie spokojnie, tak jakby każdy sobie życzył, wolno.
+[SPEAKER_03] Wzrost gospodarczy też następuje wolno, co jest najlepszym zjawiskiem.
+[SPEAKER_03] Wskaźniki średnie to są w ogóle bardzo dobre, dla tych emerging markets wysokie, bo tam były spadki też, proszę pamiętać.
+[SPEAKER_03] W Niemczech koniunktura też bardzo łagodnie, ale jednak się pnie w górę, co dla Polski jest najważniejsze.
+[SPEAKER_03] Także ten siedemnasty rok w tej chwili, obyśmy nie musieli tego odwoływać.
+[SPEAKER_03] Oczywiście się rysuje, no tak lepiej niż mogliśmy się spodziewać, ja wiem, w początkach zeszłego roku, prawda?
+[SPEAKER_03] I to właściwie wszędzie w Europie, wszyscy analitycy.
+[SPEAKER_03] Jakoś coś takiego nastąpiło, że no oczywiście ci, co prowadzili politykę luzowania ilościowego,
+[SPEAKER_03] no twierdzą, że to też się przyczyniło do tego, że to masowe luzowanie ilościowe jakoś tam pozytywnie wpłynęło na
+[SPEAKER_03] na te końcówki, na ten 1-2%, tak.
+[SPEAKER_03] I dzięki temu to uzyskano.
+[SPEAKER_03] No trudno powiedzieć, zdanie są podzielone, ja tak też nie uważam, ale tego się nigdy nie dowiemy, bo eksperymentów w ekonomii nie można robić.
+[SPEAKER_03] Ale ten obraz jest lepszy niż można się było spodziewać rok temu.
+[SPEAKER_03] Co dla Rady jest oczywiście bardzo satysfakcjonujące, a z drugiej strony trochę frustrujące, no bo ciągle do Państwa przychodzimy, mówimy, że czekamy i patrzymy, prawda.
+[SPEAKER_00] Chciałam troszeczkę zmienić temat, skoro ten temat polityki monetarnej jest taki troszkę monotonny, niewiele tutaj nowego możemy dodać.
+[SPEAKER_03] Na razie tak.
+[SPEAKER_00] Panie prezesie, w sierpniu mówił Pan, że w związku z przygotowywanymi zmianami, jeśli chodzi o możliwości i potrzeby konwersji kredytów frankowych, wymogi kapitałowe zostaną na tyle zmienione, że banki będą próbowały same,
+[SPEAKER_00] zmieniać i zmniejszać ten wolumen kredytów.
+[SPEAKER_00] Jak pan ocenia ten proces i jak pan widzi możliwości czasowe realizacji tego i czy też wydaje się panu, że nie trzeba troszeczkę przykręcić śrubę, to znaczy wywrzeć troszkę większą presję na bankach, żeby to faktycznie się działo?
+[SPEAKER_03] Dzisiaj nawet nad ten temat rozmawiałem, także mam wiadomości z ostatniej chwili.
+[SPEAKER_03] Jak Państwo wiedzą ta grupa robocza Narodowego Banku Polskiego przy KSF-ie zawiązana, KNF-u, BFG i Ministerstwa Finansów zakończyła pierwszy etap prac.
+[SPEAKER_03] Przedstawiła te propozycje w taki wiążący sposób dla KNF-u i dla Ministerstwa Finansów.
+[SPEAKER_03] One są w tej chwili przygotowywane.
+[SPEAKER_03] To się dokonuje
+[SPEAKER_03] konsultacji ze Związkiem Banków Polskich, z bankami.
+[SPEAKER_03] Banki z kolei same, też te zainteresowane, obciążone tymi hipotekami frankowymi, też się porozumiewają, razem pracują, przygotowują pewne rozwiązania i myślę, że za jakieś dwa tygodnie będzie można przedstawić, a mówię o przedstawieniu w tym sensie, żeby przedstawić tej podkomisji w parlamencie, która dzisiaj ma pierwsze posiedzenie, czy już miała, czy po południu ma, ja nie pamiętam,
+[SPEAKER_03] żeby im przedstawić, a także Panu Prezydentowi, z którego inicjatywy jakby to wszystko się zaczęło, żeby przedstawić już bardziej szczegółowe informacje.
+[SPEAKER_03] Mogę powiedzieć subiektywnie tak, że to się dokonuje w tym tempie, jakiego się spodziewałem i nadal podtrzymam optymistyczne stanowisko, za które niektórzy
+[SPEAKER_03] Nie krytykuję, że zbyt optymistyczne, że widzę, że jednak te duże, że banki pójdą w to mocno, pójdą w te rozwiązania, że to przykręcenie śruby, jak pani to określiła, które przewidujemy, tym rozwiązaniem będzie dostatecznie duże i że to w znaczący sposób spuści powietrze z całego problemu.
+[SPEAKER_00] A Narodowy Bank Polski w komentarzu wtedy po posiedzeniu Komitetu Stabilności Finansowej próbował dojaśnić kwestię tego 3% buforu systemowego i ja ku swojemu zaskoczeniu zorientowałam się, że banki w dalszym ciągu jednak mimo wszystko noszą taką obawę, że może chodzić o jakiś dodatkowy 3% bufor.
+[SPEAKER_03] No tak, ale jak się rozmawia z panem prezesem, gdzie się rozmawiałem, no to jest pełna jasność tego i...
+[SPEAKER_03] To znaczy, że nie będzie.
+[SPEAKER_03] Nie będzie, tak.
+[SPEAKER_03] Jest pełna jasność, tego lęku nie ma.
+[SPEAKER_03] No i jeszcze oczywiście tu jest sporo pracy, no bo KNF, no wiem, bo tu bliżej współpracujemy na bieżąco, jak już jest dalekość zaawansowana w tych pracach.
+[SPEAKER_03] Trudno mi powiedzieć, jak w Ministerstwie Finansów to wygląda, bo oni tam mają jeszcze więcej właściwie pracy przy realizacji tych wyników prac grupy roboczej, no ale to jest kwestia no tygodni właśnie.
+[SPEAKER_01] Ja chciałem zapytać o banknot o nominala 500 zł, który za dwa dni ma trafić do obiegu.
+[SPEAKER_03] W piątek o godzinie 11 w Centrum Pieniądza w NBP jest prezentacja i ze szczegółami omawianie itd.
+[SPEAKER_01] Miesiąc temu potwierdził Pan, że pomimo pewnych wątpliwości Ministerstwa Rozwoju ten banknot trafi do obiegu.
+[SPEAKER_01] Wicepremier Morawiecki powiedział o tym, że spotkał się z Panem i porozumiał w sprawie dystrybucji tego banknotu.
+[SPEAKER_01] Więc chciałbym zapytać, jak ta dystrybucja będzie wyglądała?
+[SPEAKER_01] Czy ona będzie w jakiś sposób ograniczona?
+[SPEAKER_03] Proszę Państwa, może powiem tak, bo nie chciałbym za dużo o tym mówić, bo w piątek będziemy to prezentować.
+[SPEAKER_03] A prezes Belka już wcześniej prezentował Państwu ten banknot, wiecie jak wygląda.
+[SPEAKER_03] Ale powiem tyle, emisja pieniądza, rodzaj banknotów, ilość banknotów, sposób ich włączania do obiegu, do rezerw jest wyłączną kompetencją Narodowego Banku Polski.
+[SPEAKER_03] Tak mówi konstytucja, ustawa.
+[SPEAKER_03] Nic tu więcej nie mam do powiedzenia.
+[SPEAKER_03] Natomiast wszystkie uwagi z zewnątrz przyjmujemy oczywiście z życzliwością i się w nie wsłuchujemy.
+[SPEAKER_03] I to może być dla nas bardzo inspirujące i ciekawe.
+[SPEAKER_03] To jest nasza wyłączna kompetencja i naszych ekspertów w banku, którzy się tym zajmują i nie mają konkurencji.
+[SPEAKER_03] No bo to jest nasze główne zadanie jako Narodowego Banku Polskiego, jak każdego innego banku centralnego na świecie.
+[SPEAKER_03] I to my sami podejmujemy decyzję.
+[SPEAKER_04] Panie redaktorze, przepraszam, tak jak Pan Prezes powiedział, w piątek najbliższy zapraszamy na prezentację, będzie okazja do zapoznania się ze szczegółami.
+[SPEAKER_07] Chciałem wrócić do polityki monetarnej.
+[SPEAKER_07] Zakładając, że zbliżamy się do decyzji o podwyżce stóp procentowych i każde kolejne posiedzenie będzie coraz wnikliwiej obserwowane przez media, inwestorów, kredytobiorców, czy Rada obecnej kadencji zastanawia się nad wprowadzeniem... To znaczy my mamy posiedzenie co miesiąc.
+[SPEAKER_07] No tak, tak, rozumiem.
+[SPEAKER_07] Aż tak się nie zbliżamy.
+[SPEAKER_07] Ale w jakiejś perspektywie tak.
+[SPEAKER_07] Czy Rada obecnej kadencji rozważa chociażby wprowadzenie stałej godziny publikacji komunikatów wzorem innych banków centralnych, a jeżeli nie, to jakie plusy dostrzegacie Państwo w obecnym systemie?
+[SPEAKER_03] Staramy się ten komunikat wypuszczać około godziny 12, a nie później niż o 2, ale to zależy od dyskusji.
+[SPEAKER_03] Każdy z członków Rady ma prawo zabrać głos.
+[SPEAKER_03] w tej pierwszej turze dyskusji, kiedy deklarujemy swoją decyzję i nikt mu nie ma prawa tego głosu odebrać i go skracać.
+[SPEAKER_03] Jeśli uważa, że pół godziny potrzebuje, żeby precyzyjnie włożyć swój punkt widzenia, to ma prawo to zrobić.
+[SPEAKER_03] Ale wszyscy wiemy, że to powinno być tak między 12 a 2 i tego dotrzymujemy.
+[SPEAKER_03] Ja wiem, czy tak precyzyjnie by się ustalić, że do 12.30
+[SPEAKER_03] A dla rynków to myślę, że jest jakaś atrakcja, że raz w miesiącu to obserwują i się czują jak coś tam ważni, z palcem na guziku jakimś, prawda, na klawiszu.
+[SPEAKER_03] Ale jeśli pan tak chce oczekiwać tej zmiany i tak myśli pan, że to tak nerwowo się będzie wyczekiwać, to spokojnie pan najpierw na długie wakacje może pojechać, no bo to nie będzie zaraz.
+[SPEAKER_03] No nic na rynku na to nie wskazuje, prawda?

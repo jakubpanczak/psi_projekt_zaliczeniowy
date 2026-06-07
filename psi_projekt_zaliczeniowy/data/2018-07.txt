@@ -1,0 +1,292 @@
+[UNKNOWN_SPEAKER] Muzyka Muzyka
+[SPEAKER_07] Dzień dobry Państwu.
+[SPEAKER_07] Witamy serdecznie na konferencji prasowej po posiedzeniu Rady Polityki Pieniężnej.
+[SPEAKER_07] W dzisiejszej konferencji udział biorą pan prof. Adam Glapiński, przewodniczący Rady Polityki Pieniężnej, prezes Narodowego Banku Polskiego oraz członkowie Rady Polityki Pieniężnej, pan prof. Jerzy Rzyżyński i pan prof. Łukasz Hart.
+[SPEAKER_07] Panie profesorze, bardzo proszę, oddaję panu głos.
+[SPEAKER_04] Informacja po posiedzeniu Rady Polityki Pieniężnej w dniach 10 i 11 lipca 2018 roku.
+[SPEAKER_04] Rada postanowiła utrzymać stopy procentowe NBP na niezmienionym poziomie.
+[SPEAKER_04] Stopa referencyjna 1,5%, stopa lombardowa 2,5%, stopa depozytowa 0,5% i stopa redyskontowej 1,75%.
+[SPEAKER_04] W gospodarce światowej utrzymuje się dobra koniunktura.
+[SPEAKER_04] W strefie euro napływające dane wskazują na nadal korzystną sytuację gospodarczą, mimo nieco wolniejszego niż w 2017 roku tempa wzrostu gospodarczego.
+[SPEAKER_04] Także w Stanach Zjednoczonych koniunktura pozostaje dobra, a napływające dane sugerują, że wzrost gospodarczy w drugim kwartale bieżącego roku przyspieszył.
+[SPEAKER_04] Z kolei w Chinach od kilku kwartałów wzrost aktywności gospodarczej utrzymuje się na stabilnym poziomie.
+[SPEAKER_04] Mimo korzystnej globalnej koniunktury, inflacja za granicą pozostaje umiarkowana.
+[SPEAKER_04] Przyczynia się do tego wciąż niska wewnętrzna presja inflacyjna w wielu krajach oraz spadek cen części surowców rolnych.
+[SPEAKER_04] Jednocześnie w kierunku wzrostu wskaźników inflacji oddziałują wyraźnie wyższe niż przez rokiem ceny ropy naftowej.
+[SPEAKER_04] Europejski Bank Centralny utrzymuje stopy procentowe na poziomie bliskim zera, w tym stopę depozytową poniżej zera.
+[SPEAKER_04] Jednocześnie EBC nadal skupuje aktywa finansowe, choć zapowiedział zmniejszenie skali skupu od października bieżącego roku i zakończenie tego programu z końcem 2018 roku.
+[SPEAKER_04] Rezerwa federalna Stanów Zjednoczonych podwyższyła w czerwcu stopy procentowe i kontynuuje stopniowe zmniejszanie swojej sumy bilansowej.
+[SPEAKER_04] W Polsce utrzymuje się relatywnie wysokie tempo wzrostu gospodarczego.
+[SPEAKER_04] Wzrostowi aktywności gospodarczej sprzyja rosnąca konsumpcja,
+[SPEAKER_04] wspierana przez zwiększające się zatrudnienie i płace, wypłaty świadczeń oraz bardzo dobre nastroje konsumentów.
+[SPEAKER_04] Towarzyszy temu prawdopodobnie dalsze ożywienie inwestycji, dlatego prawdopodobnie, że ta kwestia jeszcze nie jest do końca statystycznie jasna.
+[SPEAKER_04] Mimo relatywnie wysokiego wzrostu gospodarczego oraz szybszego niż w ubiegłym roku wzrostu płac, dynamika cen konsumpcyjnych pozostaje umiarkowana.
+[SPEAKER_04] nieco wyższy niż w poprzednich miesiącach roczny wskaźnik CPI, jest efektem wzrostu cen paliw.
+[SPEAKER_04] Jednocześnie inflacja po wyłączeniu cen żywności i energii pozostaje niska.
+[SPEAKER_04] Rada zapoznała się z wynikami lipcowej projekcji inflacji i PKB przygotowanej przy założeniu niezmienionych stóp procentowych NBP.
+[SPEAKER_04] Zgodnie z lipcową projekcją z modelu Nekmot roczna dominikacja znajdzie się z 50% prawdopodobieństwem w przedziale 1,5% do 2,1% w 2018 roku, wobec 1,6% do 2,5% w projekcji z marca 2018 roku, w przedziale 1,9% do 3,5% w 2019 roku,
+[SPEAKER_04] wobec 1,7 do 3,6% w poprzedniej projekcji oraz 1,7 do 3,9% w 2020 roku wobec 1,9 do 4,1% w poprzedniej projekcji.
+[SPEAKER_04] Z kolei roczne tempo wzrostu PKB według tej projekcji znajdzie się z 50% prawdopodobieństwem w przedziale 4,0 do 5,2% w 2018 roku
+[SPEAKER_04] W poprzedniej projekcji było to 3,5% do 5,0% tempo wzrostu gospodarczego w 2018 roku.
+[SPEAKER_04] Odpowiednio 2,8% do 4,7% w 2019 roku.
+[SPEAKER_04] W starej projekcji 2,8% do 4,8% oraz 2,4% do 4,3% w 2020 roku.
+[SPEAKER_04] Wobec poprzedniej projekcji 2,6% do 4,6%.
+[SPEAKER_04] W ocenie Rady bieżące informacje oraz wyniki projekcji wskazują na korzystne perspektywy wzrostu aktywności w polskiej gospodarce, mimo oczekiwanego obniżenia się dynamiki PKB w kolejnych latach.
+[SPEAKER_04] Zgodnie z wynikami projekcji, w horyzoncie oddziaływania polityki pieniężnej, inflacja utrzyma się w pobliżu celu inflacyjnego.
+[SPEAKER_04] W efekcie Rada ocenia, że obecny poziom stóp procentowych sprzyja utrzymaniu polskiej gospodarki na ścieżce zrównoważonego rozwoju oraz pozwala zachować równowagę makroekonomiczną.
+[SPEAKER_04] Rada przyjęła raport o inflacji lipiec 2018 roku.
+[SPEAKER_04] To wszystko.
+[SPEAKER_07] Dziękuję bardzo Panie Prezesie.
+[SPEAKER_07] Bardzo Państwa proszę o zadawanie pytań.
+[SPEAKER_07] Pan redaktor Pudłowski, bardzo proszę.
+[SPEAKER_05] Aleksander Budłowski, Polska Agencja Prasowa.
+[SPEAKER_05] Panie prezesie, widzimy, że założenia projekcji wskazują, że ścieżka inflacji jest w przyszłym i w 2020 roku powyżej celu, ale jednak została w 2020 roku obniżona.
+[SPEAKER_05] I chciałem zapytać, czy to wraz z krótszym już horyzontem czasowym, który jest przed nami, zwiększa prawdopodobieństwo stabilizacji stóp w 2020 roku?
+[SPEAKER_04] Oczywiście jest większa prawdopodobieństwo, projekcja jest niższa, na niższym poziomie, ale to jest tylko oczywiście projekcja.
+[SPEAKER_04] To są przewidywania z 50% prawdopodobieństwem, tak właśnie się przewiduje.
+[SPEAKER_05] Czy według Pana, chciałem zapytać, czy według Pana ten scenariusz stabilnych stóp
+[SPEAKER_05] i też również w 2020 roku jest najbardziej prawdopodobne.
+[SPEAKER_04] Zmocnię to moje osobiste przesłanie, osobiste.
+[SPEAKER_04] To nie jest przekonanie w żaden sposób weryfikowane stanowiskiem całej Rady.
+[SPEAKER_04] Moje osobiste przekonanie, że do końca 2020 roku nie będzie zmiany poziomu stóp procentowych.
+[SPEAKER_04] Powtarzam, to jest moje osobiste, osobiste zdanie.
+[SPEAKER_07] Pani redaktor Oliarz, bardzo proszę.
+[SPEAKER_01] A ja bym chciała zapytać o zdanie reszty członków na ten temat.
+[SPEAKER_01] Czy stabilizacja stóp procentowych jest możliwa do końca 2020 roku?
+[SPEAKER_01] Jakie czynniki zewnętrzne mogłyby na to wpłynąć, że to się jednak zmieni i że być może to potrwa tylko do końca przyszłego roku?
+[SPEAKER_01] Poziom stóp procentowych niezmieniony.
+[SPEAKER_03] To znaczy, że do końca przyszłego roku, przewidujemy, nie będzie powodów do zwiększania.
+[SPEAKER_03] Nie widać na razie, że pojawiły się takie powody, ale być może ten stan rzeczy będzie przedłużony.
+[SPEAKER_03] Przede wszystkim to, co się będzie działo w gospodarce Unii Europejskiej, naszych krajów, krajów, które są najbardziej z nami związane gospodarczo.
+[SPEAKER_03] I czynniki takie jak na przykład zmiany ceny ropy naftowej i surowców i w ogóle stan koniunktury gospodarczej, przede wszystkim to od tego zależy.
+[SPEAKER_03] Jak na razie wszystko wskazuje na to, że nie ma czynników, które by pozwoliły zmienić tę ocenę obecną.
+[SPEAKER_00] Tak, ja nie byłbym tak kategoryczny w mówieniu o tym, że w przyszłym roku nie będzie konieczności podwyżki stopy.
+[SPEAKER_00] Dla mnie jedyny scenariusz, jeśli mielibyśmy w ogóle zmieniać ten scenariusz, to jest scenariusz do góry, ale oczywiście mówimy w kategoriach pewnych prawdopodobieństw, tak więc też oczywiście możliwy jest ten scenariusz zarysowany przez Pana Prezesa, to znaczy braku zmiany stopy w dłuższej perspektywie.
+[SPEAKER_00] Dlaczego nie wykluczam konieczności zmiany stopy w przyszłym roku?
+[SPEAKER_00] Mieliśmy do tej pory pewne czynniki, które działały dezinflacyjnie, zarówno na zewnątrz, chociażby wpływ globalizacji, łatwiejsze przenoszenie produkcji do krajów,
+[SPEAKER_00] gdzie produkcja jest tańsza, globalne łańcuchy produkcyjne, wzrost roli tychże łańcuchów i tak dalej.
+[SPEAKER_00] Ta inflacja globalnie była dosyć niska.
+[SPEAKER_00] Teraz chociażby dyskutujemy o wzroście protekcjonizmu.
+[SPEAKER_00] Chociaż ja osobiście nie wierzę w możliwość wybuchu jakiejś bardzo silnej globalnej wojny handlowej, to wydaje się wykluczone.
+[SPEAKER_00] to jednak ten kierunek w stronę protekcjonizmu być może nieco wygasić te globalne dezinflacyjne czynniki.
+[SPEAKER_00] Z drugiej strony w gospodarce polskiej też możemy mieć do czynienia z pewną taką sytuacją, gdzie znowu wewnętrzne dezinflacyjne czynniki, takie jak na przykład dosyć wysokie marże przedsiębiorstw, z których one schodzą, nie przenosząc tak szybko
+[SPEAKER_00] wzrostu kosztów chociażby wynagrodzeń na cenę produktów finalnych, to może wygasać, czy chociażby taki czynnik, na który być może za mało zwracaliśmy w ostatnich latach uwagę, tzn. np. w handlu detalicznym mieliśmy pewną rewolucję w ostatnich latach, tzn. odsetek produktów kupowanych przez polskie gospodarstwa domowe w dyskontach w dużych sklepach, gdzie konkurencja pomiędzy nimi cenowa była bardzo silna, to rzeczywiście działało dezinflacyjnie.
+[SPEAKER_00] Tak więc być może będzie mieli wygasanie tych dezinflacyjnych czynników, co będzie powodowało, że być może z większym prawdopodobieństwem będziemy w tym roku 2020 gdzieś w tym górnym przedziale odchyleń, gdzieś bliżej tego krańca górnego,
+[SPEAKER_00] Ale jest to duże, ale inflacja bazowa w tym momencie jest bardzo niska i tak jak wszyscy ekonomiści również my zastanawiamy się dlaczego jest tak niska w sytuacji tak wysokiego wzrostu gospodarczego.
+[SPEAKER_00] Tak więc w tym sensie też jest to pewne wyzwanie dla polityki pieniężnej.
+[SPEAKER_00] Z jednej strony musimy odpowiadać naszym działaniem na nasze prognozy dotyczące przyszłości, ale skoro prognozowanie przyszłości zawsze było, teraz też jest, a może jeszcze jest bardziej trudne,
+[SPEAKER_00] pewnie trochę bardziej adaptacyjni jesteśmy.
+[SPEAKER_00] Tak więc wydaje mi się, że są dwa scenariusze na stole.
+[SPEAKER_00] Ten zarysowany przez pana profesora Glapińskiego, braku konieczności zmiany, ale również ja nie wykluczyłbym jednak konieczności reakcji ze strony polityki pieniężnej na przykład w horyzoncie przyszłego roku czy końca przyszłego roku.
+[SPEAKER_04] Tę projekcję Państwo zobaczą w poniedziałek od godziny 10.00.
+[SPEAKER_04] Będzie wisieć na naszej stronie.
+[SPEAKER_04] Ogólnie można powiedzieć, że ona nadal pokazuje bardzo dobrą, czy wyśmienitą sytuację finansową Polski, czy gospodarczą w ogóle szerzej do końca 2020 roku.
+[SPEAKER_04] Jeśli chodzi o to, co interesuje bank centralny w szczególności, czyli inflacja, zarówno inflacja CPI, jak i inflacja bazowa jest w pobliżu celu inflacyjnego wyznaczonego przez Radę Polityki Pieniężnej.
+[SPEAKER_04] Tempo wzrostu gospodarczego jest wysokie.
+[SPEAKER_04] choć lekko będzie spowalniać wzrost, to nadal blisko naturalnej stopy wzrostu.
+[SPEAKER_04] W bezrobocie bardzo niskie, jak Państwo wiedzą, historycznie niskie.
+[SPEAKER_04] Brak jakichś nierównowag w gospodarce, no to jest to, co może bardzo satysfakcjonować.
+[SPEAKER_04] Nadal mamy tą wspaniałą pasę rozwojową od już nie pamiętam ilu
+[SPEAKER_04] ilu lat, czyli szybki, zrównoważony wzrost przy szybkim, ale nie powodującym nierównowagi tempie wzrostu wynagrodzeń, które się mieszczą w takiej przedziale, który nie powoduje nierównowagi inflacji.
+[SPEAKER_04] Powiedziałbym tak, no właściwie lepszej sytuacji sobie nie można
+[SPEAKER_04] wyobrazić.
+[SPEAKER_04] Oczywiście ta sytuacja jest na tle sytuacji w innych krajach europejskich, a w szczególności u naszego głównego partnera handlowego Niemiec i w ogóle w strefie euro, gdzie też sytuacja jest bardzo dobra, choć nie tak dobra jak u nas, bo jest niższe tempo wzrostu, ale też jest bardzo dobra i zatrudnienie jest na bardzo wysokim historycznie poziomie.
+[SPEAKER_04] To jest bardzo dobry okres w historii rozwoju Europy, a Polski w szczególności.
+[SPEAKER_07] Pan redaktor Krajewski, bardzo proszę.
+[SPEAKER_08] Dzień dobry, Adrian Krajewski z Bloomberga, chwilowe zastępstwo za redaktor Bartyzel.
+[SPEAKER_08] Chciałem się dopytać wszystkich panów, właściwie po troszeczkę już na to panowie odpowiedzieli, ale chciałbym się dopytać, czy biorąc pod uwagę obecną projekcję, ten następny ruch, kiedykolwiek by miał on nie być, będzie prawdopodobnie w dół, czy jeszcze bardziej prawdopodobne jest podniesienie stóp?
+[SPEAKER_04] To jest takie pytanie, wie pan, dziennikarskie, publicystyczne.
+[SPEAKER_04] Pożyjemy, zobaczymy.
+[SPEAKER_04] Oczywiście członkowie Rady Polityki Pieniężnej dzisiaj w czasie dyskusji się chętnie wypowiadali na zamkniętym poziomie, na posiedzeniu co do tego, ale to jest czysta spekulacja.
+[SPEAKER_04] Mogę powtórzyć to co zawsze.
+[SPEAKER_04] Mamy zróżnicowaną Radę Polityki Pieniężnej, która nie podlega żadnym doktrynalnym ograniczeniom w swoich decyzjach.
+[SPEAKER_04] Trudno mi tu wskazać osoby, które są jakoś dogmatycznie związane z jakąś gospodarczą doktryną,
+[SPEAKER_04] ekonomiczną czy inną i które są zaciekle jastrzębiami czy gołębiami.
+[SPEAKER_04] Mam nadzieję, że to samo dotyczy mnie i podejmiemy zawsze stosowną decyzję, tak bym to powiedział.
+[SPEAKER_04] Nie będziemy się wahać w żadnym kierunku, czy to podwyżki, czy obniżki, jeśli to będzie potrzebne, ale w tej chwili mamy projekcję aktualną,
+[SPEAKER_04] do końca 2020 roku.
+[SPEAKER_04] Ja tu nie widzę jakiejś przestrzeni, jeśli wszystkie czynniki będą w Ceteris Paribus, żeby jakieś decyzje podejmować, ale w 2020 roku możemy oczywiście widzieć inną projekcję na następne lata 2021-2022.
+[SPEAKER_04] A tu się działa z pewnym wyprzedzeniem, przynajmniej sześciokwartalnym.
+[SPEAKER_04] Także trudno mi jest powiedzieć.
+[SPEAKER_04] Proszę mnie pytać w 2020 roku.
+[SPEAKER_04] Czy ja jeszcze jestem wtedy prezesem?
+[SPEAKER_04] Już nie pamiętam.
+[SPEAKER_04] No tak, no właśnie.
+[SPEAKER_04] No to proszę mnie wtedy pytać.
+[SPEAKER_04] Natomiast w tej chwili mówię z całą odpowiedzialnością, że tak jak to widzę w tej chwili, zgodnie z najnowszymi danymi, zaktualizowanymi całkowicie, to ja nie widzę powodu do zmiany stóp procentowych, poziomu stóp procentowych do końca 2020.
+[SPEAKER_04] Ale nie będę się wahał ani chwili, jeśli trzeba będzie w tym lub w innym kierunku decydować.
+[SPEAKER_04] Nie jestem związany tu żadną ideologią gospodarczą.
+[SPEAKER_04] Nikt nie wywiera nas żadnej presji.
+[SPEAKER_04] Jakby próbował wywierać, to i tak by napotkał na skałę, bo jak wiadomo mamy Niezależny Narodowy Bank Polski, co jest wielkim instytucjonalnym osiągnięciem Polski.
+[SPEAKER_07] Pan redaktor Sobczak.
+[SPEAKER_06] Paweł Sobczak z Agencji Rejtera.
+[SPEAKER_06] Dzień dobry.
+[SPEAKER_06] W przypadku tych czynników zewnętrznych, o których Państwo mówiliście, czy możliwa podwyżka stóp procentowych w strefie euro w drugiej połowie ubiegłego roku, przyszłego roku, przepraszam, byłaby dla Państwa też powodem do rozważenia podobnego ruchu w Polsce?
+[SPEAKER_04] Wspomniał Pan o bardzo ważnym elemencie.
+[SPEAKER_04] Do tej pory to nic się nie działo.
+[SPEAKER_04] Jeśli EBEZ zacznie zmieniać stopy procentowe, to jest dla nas oczywiście też istotny bardzo sygnał.
+[SPEAKER_04] Na pewno bez tego sygnału też nie ma powodu, żeby o czymś myśleć.
+[SPEAKER_04] Na razie to się dzieje tak, że EBEZ powściąga trochę lejce tej luzowaniu ilościowemu, ogranicza to luzowanie ilościowe i w grudniu tego roku ma całkowicie z niego zrezygnować.
+[SPEAKER_04] Jesteśmy w tej fazie.
+[SPEAKER_04] Czy to można nazwać zacieśnianiem polityki pieniężnej?
+[SPEAKER_04] Nie.
+[SPEAKER_04] To jest ograniczenia tego wylewu.
+[SPEAKER_04] pieniądza kreowanego przez bank centralny.
+[SPEAKER_04] To jest jakby postawienie tamy.
+[SPEAKER_04] Ale proszę pamiętać, to jest ograniczenie dalszego wylewu.
+[SPEAKER_04] To, co zostało wylane, to jest wylane.
+[SPEAKER_04] Ten bilans jest taki już ogromny.
+[SPEAKER_04] To się znajduje w systemie.
+[SPEAKER_04] I zobaczymy, co się będzie działo dalej.
+[SPEAKER_04] Oczywiście obserwujemy uważnie nie tylko decyzję Banku Centralnego Europejskiego, ale także wypowiedzi poszczególnych członków
+[SPEAKER_04] zarządu tego banku i prezesa.
+[SPEAKER_04] No i co dwa miesiące w czasie spotkań w Bazylei, w IS-u mamy możliwość rozmawiać bezpośrednio, akurat tamto to ja i we Frankfurcie co trzy miesiące i uzyskiwać informacje też takie nieoficjalne, jak się układają nastroje w zarządzie Europejskiego Banku Centralnego i w poszczególnych bankach
+[SPEAKER_04] europejskich.
+[SPEAKER_04] Jak dotychczas te nastroje nie układały się w tym kierunku, żeby jakieś radykalne działania tam miały w tym czy innym kierunku zapadać.
+[SPEAKER_04] To zwolnienie tempa wzrostu, które jest przewidywane, w trakcie którego jak gdyby się zaczynamy znajdować, ale jeszcze się jakby nie znajdujemy, to jest cały czas ten szczyt koniunktury.
+[SPEAKER_04] ale przyjmuje się to lekkie zwolnienie, nie jest w żaden sposób określane przez żadne z banków centralnych Europy jako początek recesji, czy wstępu do recesji, czy zapowiedzi recesji.
+[SPEAKER_04] To jest tylko jakby trochę zmodyfikowanie tego okresu dobrej koniektury.
+[SPEAKER_04] To nie jest sytuacja porównywalna z tym, co w Ameryce robi bank centralny i ekipa prezydenta Trumpa.
+[SPEAKER_00] Jeśli można, to wrócę do tego poprzedniego pytania dotyczącego tych przyszłych ewentualnych ruchów po stronie stopy procentowej.
+[SPEAKER_00] Dla mnie osobiście ewentualna obniżka stopy jest bardzo mało prawdopodobna.
+[SPEAKER_00] Po pierwsze wydaje się, że trudno sobie wyobrazić sytuację, w której to byłoby konieczne.
+[SPEAKER_00] Widzieli Państwo przed chwilą
+[SPEAKER_00] prognozę wzrostu gospodarczego na kolejne lata.
+[SPEAKER_00] Być może nawet ten wzrost może być nieco wyższy.
+[SPEAKER_00] Proszę zauważyć, że chociażby Niemcy szykują dosyć duże fiskalne stymulowanie gospodarki.
+[SPEAKER_00] To jest wynik umowy koalicyjnej w Niemczech, a my bardzo mocno od Niemiec zależymy.
+[SPEAKER_00] Czyli po pierwsze nie będzie najprawdopodobniej konieczności obniżki stopy,
+[SPEAKER_00] Po drugie, bym Państwa, że tak powiem, odwołał się do tego, o czym mówiliśmy wydaje się w większości akurat w 2016 roku, kiedy mieliśmy dyflację i spowolenie wzrostu gospodarczego, gdzie takim istotnym argumentem przeciwko obniżce stopy była kwestia podaży kredytów.
+[SPEAKER_00] To jest tak, że jak obniżamy stopę,
+[SPEAKER_00] to skłonność banków do udzielania kredytów maleje, ponieważ zyskowność generalnie sektora bankowego wtedy maleje i to ma też niekorzystny wpływ na stabilność.
+[SPEAKER_00] Tak więc tych argumentów przeciwko obniżce stopy jest bardzo dużo, tak więc nie wydaje mi się prawdopodobnym obniżenie stopy w tym horyzoncie projektu.
+[SPEAKER_00] Jak mówię, bardziej prawdopodobne, jeśli zmiana, to zmiana w górę.
+[SPEAKER_00] I wracając do Europejskiego Banku Centralnego, to będzie pewnie istotny argument, jeśli Europejski Bank Centralny podniesie stopę do zmiany po naszej stronie, chociaż z drugiej strony po pierwsze tu nie może być automatyzmu, bo musimy patrzeć po pierwsze na inflację w Polsce,
+[SPEAKER_00] Dwa, ja też nie wierzę, żeby Europejski Bank Centralny szybko zaczął podnosić stopy, bo mamy sytuację trudną, niepewną we Włoszech i mamy być może przede wszystkim
+[SPEAKER_00] zmianę też prezesa Europejskiego Banku Centralnego w pierwszym roku w październiku, więc nie sądzę, żeby w najbliższym czasie być może nawet w horyzoncie projekcji Europejski Bank Centralny podniósł stopy.
+[SPEAKER_00] Tak jak powiedział Pan Prezes, będzie ewentualnie lekko wygaszał te niestandardowe działania, ale tylko wygaszał, a też nie sądzę, żeby jakoś radykalnie np. tak jak Fed redukował swoją sumę bilansową, swój bilans.
+[SPEAKER_07] Pan redaktor Pudłowski, bardzo proszę.
+[SPEAKER_05] Ja chciałem jeszcze wszystkich panów dopytać właściwie o to, co widzimy już i w poprzedniej projekcji i w tej projekcji.
+[SPEAKER_05] Widać niezależnie od tych zmian, że trend jest jasny, że inflacja idzie do góry, a wzrost PKB idzie w dół i zbiegają w pewnym horyzoncie pewnie do poziomu 3%.
+[SPEAKER_05] Chciałem zadać teoretyczne pytanie.
+[SPEAKER_05] Jak bank centralny w takiej sytuacji powinien się zachować, że inflacja w pewnym momencie może wyprzedzić wzrost PKB?
+[SPEAKER_05] Gdyby się pojawiły takie prognozy, to jakie by państwo podjęli działania i czy to dopuszcza użycie niestandardowych narzędzi polityki pieniężnej?
+[SPEAKER_04] Na razie do tego przecięcia.
+[SPEAKER_04] tego przecięcia tutaj nie widać.
+[SPEAKER_04] Na razie to mamy taką sytuację, że z największym prawdopodobieństwem, które w tej chwili można przewidzieć, to inflacja w końcu do 2020 roku niewiele ponad nasz cel inflacyjny będzie
+[SPEAKER_04] wystawać, a tempo wzrostu będzie na poziomie naturalnej stopy wzrostu, powiedzmy 3,5.
+[SPEAKER_04] Gdyby ta tendencja się przedłużała, to oczywiście teoretycznie coś takiego gdzieś mogłoby nastąpić.
+[SPEAKER_04] Bank Centralny jeszcze się nie znalazł w sytuacji, za mojej kadencji, a jak byłem w Radzie Polityki Pieniężnej, takiej sytuacji jakiejś nie było, żeby też
+[SPEAKER_04] miał taką sytuację, że realizuje w pełni pierwszy cel ustawowy i konstytucyjny, jakim jest stabilizacja złotego i może realizować drugi punkt swojego mandatu, czyli jakieś aktywne wspieranie polityki rządu w zakresie wzrostu i rozwoju gospodarczego.
+[SPEAKER_04] Ale mamy taki mandat.
+[SPEAKER_04] i w każdej chwili możemy z niego skorzystać.
+[SPEAKER_04] Jest cała szara, cała paleta wielka, różnego rodzaju działań, które w Europie były podejmowane przez bank centralny i inne banki.
+[SPEAKER_04] No my to wszystko, ponieważ Rada już ile ma kadencji?
+[SPEAKER_04] Dwa lata, tak?
+[SPEAKER_04] Ponad.
+[SPEAKER_04] Ponad.
+[SPEAKER_04] No to my to wszystko starannie przeanalizowaliśmy, zaznajomiliśmy się z doświadczeniami innych banków, przede wszystkim Orłońskiego Banku Centralnego,
+[SPEAKER_04] I to wszystko przeanalizowaliśmy na różnych przypadkach.
+[SPEAKER_04] Potencjalnie taka możliwość jest, ale absolutnie nie ma takiej potrzeby.
+[SPEAKER_04] Przewidujemy do końca tego okresu bardzo dynamiczny wzrost gospodarczy.
+[SPEAKER_04] Wzrost na poziomie 3,5%.
+[SPEAKER_04] Procent jest bardzo wysoki w sytuacji, kiedy nasza gospodarka jest coraz bardziej dojrzała.
+[SPEAKER_04] Bo to jest wzrost, który gwarantuje nadal taki rozwój zrównoważony.
+[SPEAKER_04] Proszę pamiętać o naszym rynku pracy.
+[SPEAKER_04] Tu nam przybywa tych zatrudnionych, co cały czas się zwiększa liczba zatrudnionych, ale ona napływa w jakiejś dynamice.
+[SPEAKER_04] Czy to większa aktywność kobiet, czy to większa aktywność osób w wieku
+[SPEAKER_04] którzy już przeszli w stan emerytalny i wracają, napływają jakiejś ilości ludzi z rolnictwa nadal.
+[SPEAKER_04] No i mamy wielki jeszcze rezerwuar wśród młodych ludzi, tych najbardziej młodych, w wieku, że tak powiem, studenckim, postudenckim, których aktywność także jest znacząco niższa niż w Europie.
+[SPEAKER_04] Tu mamy te rezerwuary, ale ta dynamika napływu tych nowych pracowników jest określona i dobrze, jeśli wzrost gospodarczy nie jest szybszy od ich napływu, żeby rynek pracy także pozostał zrównoważony.
+[SPEAKER_04] Mówimy o gospodarce, gdzie jest właściwie pełne zatrudnienie.
+[SPEAKER_04] Taką mamy gospodarkę w tej chwili.
+[SPEAKER_04] Szczęśliwie dla społeczeństwa, dla ludzi, około 7% wzrostu dochodów i pełne zatrudnienie.
+[SPEAKER_04] To jest optymalny stan, który też powstrzymuje migrację.
+[SPEAKER_04] Proszę pamiętać, że powstrzymujemy migrację w ten sposób.
+[SPEAKER_04] Ludzie zaczynają swoje perspektywy życiowe widzieć w Polsce, angażują się w wydatek mieszkaniowy kredytowany w banku, w złotym.
+[SPEAKER_04] No i to jest właściwy stan rzeczy.
+[SPEAKER_02] Bardzo proszę, pan redaktor Agustyniak.
+[SPEAKER_02] Redaktor Agustyniak, Polskie Radio.
+[SPEAKER_02] Panie prezesie, skoro pan już wspomniał o tych kredytach, to przy tym temacie pozostańmy.
+[SPEAKER_02] To jest temat, o który kiedyś już podpytywałem, ale ostatnio pojawił się nowy głos w dyskusji, jeśli chodzi o ofertę kredytów hipotecznych o stałym oprocentowaniu.
+[SPEAKER_02] Niedawno prezes Łokiku zaapelował do banków o szersze wprowadzenie takiej oferty.
+[SPEAKER_02] Czy pan, czy prezes Łokiku może liczyć na pańskie poparcie, czy jednak trochę wyrwał się?
+[SPEAKER_04] Tak, no ale prezes Łokiku sobie jakby tu odpowiada, no.
+[SPEAKER_04] Nie ma żadnych przeszkód, żeby banki taki kredyt oferowały.
+[SPEAKER_04] Problem w tym, że z samej definicji kredyt o stałym oprocentowaniu jest nieco droższy, mniej korzystny dla biorącego.
+[SPEAKER_04] Poza tym, że daje stabilność i możliwość planowania spłat.
+[SPEAKER_04] Ale w zależności od koniunktury, od kształtowania się inflacji, ten kredyt albo się okazuje korzystny, albo niekorzystny.
+[SPEAKER_04] A mówimy o przestrzeni np. 20 lat spłaty.
+[SPEAKER_04] To jest trudno przewidzieć.
+[SPEAKER_04] Mamy dwie identyczne rodziny i jedna bierze kredyt o stałym oprocentowaniu w tym samym banku, druga o zmiennym i po tych 20 latach możemy powiedzieć, która z nich lepiej na tym wyszła.
+[SPEAKER_04] Przy czym jedna miała tam pewność, że płaci stały kredyt.
+[SPEAKER_04] Ale wszystkie inne dane są niepewne.
+[SPEAKER_04] Ci, co postulują kredyt o stałej stopie oprocentowania, im w gruncie rzeczy chodzi o coś innego.
+[SPEAKER_04] Mamy środowiska, które tego oczekują, się domagają i chodziłoby o jakąś pomoc publiczną wspierającą ten kredyt do stałego oprocentowania.
+[SPEAKER_04] To znaczy branie przez jakoś publiczne instytucje finansowe, bankowe ryzyka tego, że trzeba będzie do tego kredytu dopłacać.
+[SPEAKER_04] Takiego rozwiązania nie popieram, bo ono mogłoby
+[SPEAKER_04] znowu nas umieszczać na ścieżce jakiegoś podwyższonego ryzyka finansowego obciążająca budżet czy środki publiczne.
+[SPEAKER_04] Tego nie proponujemy.
+[SPEAKER_04] Natomiast ilość branych kredytów co do sumy i ilości złotowych rośnie.
+[SPEAKER_04] Społeczeństwo, ponieważ rosną dochody społeczeństwa, jest pełne zatrudnienie, w coraz większym stopniu bierze kredyty złotowe.
+[SPEAKER_04] I to nas cieszy.
+[SPEAKER_04] Co oczywiście powoduje też pewne tam przejściowe czasem napięcia na rynku mieszkaniowym.
+[SPEAKER_04] Rynek mieszkaniowy się tym charakteryzuje, to jest wolny rynek, prywatne podmioty funkcjonują.
+[SPEAKER_04] On się charakteryzuje tym, że ma jakieś cykle swoje, ale to nie jest kwestią budzącą jakąś niepewność czy ryzyko, tak jak to było przy kredytach walutowych, a szczególnie frankowych.
+[SPEAKER_08] Panie Prezesie, zaryzykuję pytanie rynkowe.
+[SPEAKER_08] Wspomniał Pan o stabilizacji złotego.
+[SPEAKER_08] W ostatnim tygodniu złotówka złapała lekki oddech, ale wciąż nie jest to jej najlepszy rok, jak do tej pory.
+[SPEAKER_08] Czy Pańskim zdaniem z punktu widzenia inflacyjnego chociażby złotówka jest jakimkolwiek powodem do niepokoju, czy raczej jest bezpieczna?
+[SPEAKER_04] Odpowiedź brzmi syntetycznie generalnie nie.
+[SPEAKER_04] Nie jest żadnym powodem do niepokoju.
+[SPEAKER_04] Natomiast nasze konstytucyjne ustawowe zobowiązanie do stabilności złotego nie oznacza kursu wymiany złotego na inne waluty.
+[SPEAKER_04] a szczególnie na taką walutę jak dolar, który szybko się aprecjuje.
+[SPEAKER_04] To jakby nie o to chodzi.
+[SPEAKER_04] Natomiast spadek kursu złotego w stosunku dolara nie wywarza żadnego negatywnego wpływu na polską gospodarkę.
+[SPEAKER_04] ten aktualny.
+[SPEAKER_04] Podobnie jak aprecjacja złotego w zeszłym roku.
+[SPEAKER_04] Poza tym, że nie było zysku banku, który zostałby wpłacony do budżetu, bo to jest czysto rachunkowa kwestia, no to żadnych niepokojących aspektów tego nie zaobserwowaliśmy.
+[SPEAKER_04] Nie było też wpływu na polski eksport i import, co jest istotne.
+[SPEAKER_04] Cały czas tu sytuacja wygląda dobrze.
+[SPEAKER_04] Sytuacja złotego nie budzi żadnych
+[SPEAKER_04] problemów.
+[SPEAKER_04] Nasze wewnętrzne fundamenty są bardzo pewne.
+[SPEAKER_04] Natomiast oczywiście złoty, jak i inne waluty gospodarek rozwijających się, budujących jakby dojrzałe rynki, jest umieszczona w pewnym koszyku i część inwestorów, tych, kto właśnie się posługuje tą analizą koszykową, patrzy na polski złoty w kontekście także forinta, tureckiej waluty itd.
+[SPEAKER_04] Sam złoty ma bardzo mocne
+[SPEAKER_04] fundamenty i tutaj żadnych wątpliwości nie ma.
+[SPEAKER_04] Całą sytuację, którą Państwo macie naszkicowaną w projekcji finansowej, gospodarczo-polskiej jest absolutnie stabilna, także struktura prawna, stan naszej demokracji, instytucji państwowych, to jest taka oaza do inwestowania.
+[SPEAKER_04] Kapitał zagraniczny chętnie w Polsce
+[SPEAKER_04] do Polski napływa, bo są cały czas wysokie stopy relatywnie procentowe.
+[SPEAKER_04] Mamy, jeśli nie najwyższe, to jedno z dwóch najwyższych stóp procentowych w Europie.
+[SPEAKER_04] Ona jest stabilna, w dodatku te stopy procentowe i będą stabilne.
+[SPEAKER_04] Jest pełne bezpieczeństwo systemu bankowego, jest pełne bezpieczeństwo systemu prawnego.
+[SPEAKER_04] jest pełne bezpieczeństwo ogólnej stabilizacji społeczno-ekonomicznej i tak dalej.
+[SPEAKER_04] To jest oaza do bezpiecznego inwestowania i na tym nam zależy, by ten stan się utrzymał i utrzyma się, dlatego, że przez kilkadziesiąt jeszcze lat w znacznej mierze będziemy, w przeważającej mierze będziemy zależeli w swoim rozwoju od kapitału zagranicznego, który musi tu napływać i być inwestowany.
+[SPEAKER_07] I na koniec pan redaktor Pudłowski, bardzo proszę.
+[SPEAKER_05] Mam jeszcze pytanie do pana profesora Harta.
+[SPEAKER_05] Chciałem zapytać o te czynniki, które pan wspomina, że są ważne w procesie decyzyjnym, czyli między innymi oczekiwania inflacyjne konsumentów, jak to się zmieniło w ostatnich kilku miesiącach i zagrożenia wynikające z ujemnej realnej stopy procentowej.
+[SPEAKER_05] Czy to jeszcze w ogóle jest problem, bo nie widzieliśmy jakiegoś bardzo dużego odpływu z depozytów?
+[SPEAKER_05] bankowych i ogólnie sytuacja na rynku pracy, czy ona powoduje jakiś niepokój u Pana?
+[SPEAKER_00] Jeśli chodzi o te czynniki, które mogą powodować inflację, rzeczywiście kwestia oczekiwań jest bardzo istotna.
+[SPEAKER_00] Tak naprawdę polityka pieniężna to jest przede wszystkim wpływanie na oczekiwania i z tych danych, którymi dysponujemy jako Rada, jako bank,
+[SPEAKER_00] Tu nie wynika, żeby te oczekiwania wzrosły.
+[SPEAKER_00] Wydaje się, że one są dobrze zakotwiczone na poziomie celu inflacyjnego i nie widzę tutaj w tym momencie żadnych źródeł do niepokoju ze strony ewentualnie rosnących oczekiwań inflacyjnych.
+[SPEAKER_00] Natomiast jak pan pyta, to jest na pewno jedna z ważnych zmiennych decyzyjnych.
+[SPEAKER_00] Myślę, że nie tylko dla mnie, ale też być może dla innych członków rady.
+[SPEAKER_00] Patrzenie bardzo dokładne na
+[SPEAKER_00] na te oczekiwania inflacyjne i generalnie jest też taki trochę paradoks w tej globalnej polityce pieniężnej, zastanawiamy się dlaczego inflacja globalnie jest tak niska i być może to jest w pewnym sensie efekt dobrego zakotwiczenia na niskim poziomie, bo mieliśmy bardzo niski odszczyt CPI globalnie w ostatnich latach,
+[SPEAKER_00] bardzo dobrego zakotwiczenia, nisko właśnie oczekiwań inflacyjnych.
+[SPEAKER_00] Samo to działa dezinflacyjnie.
+[SPEAKER_00] Jeśli chodzi o rynek pracy, to jest oczywiście to pytanie, dlaczego ta transmisja od wyższych wynagrodzeń do wyższych cen jest tak słaba.
+[SPEAKER_00] Być może marże firm, to też pokazują dane Głównego Urzędu Statystycznego, te marże są cały czas dosyć wysokie, tak więc firmy mają przestrzeń do akomodowania
+[SPEAKER_00] do akomodowania zwiększonych kosztów.
+[SPEAKER_00] Oczywiście też jest tak, że nie można mówić, że na rynku pracy nie ma napięć.
+[SPEAKER_00] One są, są pewne obszary gospodarki, gdzie rzeczywiście widać niedobór pracowników, ale znowu tutaj nasza sytuacja też w porównaniu do innych gospodarek regionu np. Węgier jest lepsza.
+[SPEAKER_00] Węgrzy mają dużo silniejszy wzrost wynagrodzeń, mają dużo silniejszą inflację w tym momencie, podobnie Czechy.
+[SPEAKER_00] Między innymi z tego powodu, że oni nie mają tego napływu Ukraińców czy pracowników ze wschodu.
+[SPEAKER_00] Są napięcia na rynku pracy, ale w tym momencie to nie są takie napięcia, które już by powodowały wzrost presji inflacyjnej.
+[SPEAKER_00] Trzeba to obserwować po prostu w kolejnym roku i odpowiednio reagować.
+[SPEAKER_07] Szanowni Państwo, bardzo dziękujemy za dzisiejsze spotkanie.
+[SPEAKER_07] Przypomnę jeszcze za Panem Prezesem, raport o inflacji zaprezentujemy w poniedziałek o godzinie 10, a kolejne nasze spotkanie, konferencja po Radzie Polityki Pieniężnej po tradycyjnej przerwie 5 września po wakacyjnym.
+[SPEAKER_04] Serdecznie Państwa zapraszamy jesienią, już rozumiem, tak?
+[SPEAKER_04] Dziękujemy bardzo.

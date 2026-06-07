@@ -1,0 +1,542 @@
+[SPEAKER_01] Dzień dobry Państwu.
+[SPEAKER_01] Bardzo serdecznie witamy na konferencji prasowej po posiedzeniu Rady Polityki Pieniężnej.
+[SPEAKER_01] W dzisiejszej konferencji udział biorą Pan Profesor Adam Glapiński, Prezes Narodowego Banku Polskiego, Przewodniczący Rady Polityki Pieniężnej oraz członkowie Rady Polityki Pieniężnej, Panowie Pan Profesor Jerzy Osiatyński i Pan Profesor Łukasz Hart.
+[SPEAKER_01] Panie Prezesie, bardzo proszę, oddaję Panu głos.
+[SPEAKER_02] Jeszcze raz dzień dobry, witam.
+[SPEAKER_02] Informacja po posiedzeniu Rady Polityki Pieniężnej w dniach 5-6 marca 2019 roku.
+[SPEAKER_02] Rada postanowiła utrzymać stopy procentowe NBP na niezmienionym poziomie.
+[SPEAKER_02] I tak, stopa referencyjna 1,5, stopa lombardowa 2,5, stopa depozytowa 0,5, stopa redyskontowe 1,75.
+[SPEAKER_02] Napływające dane wskazują na osłabienie koniunktury w części największych gospodarek, przy jednoczesnym wzroście niepewności dotyczącej kształtowania się aktywności w gospodarce światowej w kolejnych kwartałach.
+[SPEAKER_02] W strefie euro dynamika PKB w czwartym kwartale była niższa niż w pierwszej połowie ubiegłego roku, a dostępne prognozy wskazują na jej dalsze osłabianie w bieżącym roku.
+[SPEAKER_02] W Stanach Zjednoczonych koniunktura pozostaje nadal dobra, choć oczekiwane jest tam nieznaczne obniżenie się tempa wzrostu PKB.
+[SPEAKER_02] W Chinach tempo wzrostu aktywności gospodarczej nadal stopniowo się obniża.
+[SPEAKER_02] Mimo wzrostu cen ropy naftowej, jaki nastąpił od początku bieżącego roku, ich poziom jest wciąż niższy niż w trzecim kwartale ubiegłego roku.
+[SPEAKER_02] Przyczynia się do osłabienia inflacji w wielu krajach.
+[SPEAKER_02] Jednocześnie inflacja bazowa w otoczeniu polskiej gospodarki, w tym w strefie euro, pozostaje niska.
+[SPEAKER_02] Europejski Bank Centralny utrzymuje stopy procentowe na poziomie bliskim zera, w tym stopę depozytową poniżej zera.
+[SPEAKER_02] Jednocześnie EBS nadal reinwestuje środki z zapadających papierów wartościowych.
+[SPEAKER_02] Rezerwa Federalna Stanów Zjednoczonych utrzymuje stopy procentowe na niezmienionym poziomie.
+[SPEAKER_02] W Polsce wzrost PKB w czwartym kwartale utrzymał się na relatywnie wysokim poziomie.
+[SPEAKER_02] Wzrostowi aktywności gospodarczej sprzyjała rosnąca, choć nieco wolniej niż w poprzednich kwartałach, konsumpcja wspierana przez zwiększające się zatrudnienie i płace oraz bardzo dobre nastroje konsumentów.
+[SPEAKER_02] Towarzyszył temu wzrost inwestycji.
+[SPEAKER_02] Mimo relatywnie wysokiego wzrostu gospodarczego oraz szybszego niż w poprzednich latach wzrostu płac, roczna dynamika cen konsumpcyjnych obniżyła się w ostatnich miesiącach i kształtuje się na niskim poziomie.
+[SPEAKER_02] Nadal niska, mimo prawdopodobnego podwyższenia w styczniu, jest także inflacja po wyłączeniu cen żywności i energii.
+[SPEAKER_02] Rada zapoznała się z wynikami marcowej projekcji inflacji i PKB przygotowanej przy założeniu niezmienionych stóp procentowych.
+[SPEAKER_02] Marcowa projekcja uwzględnia dane informacje opublikowane do 15 lutego bieżącego roku, w tym informacje dotyczące ustawowego zamrożenia cen energii oraz wstępne informacje o zapowiedzianych w dniu 23 lutego zmianach w zakresie polityki fiskalnej.
+[SPEAKER_02] Zgodnie z marcową projekcją z modelu Nekmot roczna dynamika cen znajdzie się z 50% prawdopodobieństwem w przedziale 1,2% do 2,2% w 2019 roku.
+[SPEAKER_02] Wobec poprzednio 2,6% do 3,9% w projekcji z listopada.
+[SPEAKER_02] 1,7% do 3,6% w 2020 roku.
+[SPEAKER_02] wobec poprzednio 1,9% do 3,9% oraz 1,3% do 3,5% w 2021 roku.
+[SPEAKER_02] Z kolei roczne tempo wzrostu PKB według tej projekcji znajdzie się z 50% prawdopodobieństwem w przedziale 3,3% do 4,7% w 2019 roku.
+[SPEAKER_02] wobec 2,7 do 4,4% w projekcie z listopada 2018 roku, 2,7 do 4,6% w 2020 roku, wobec 4,2% w projekcie listopadowej oraz 2,4 do 4,3% w 2021 roku.
+[SPEAKER_02] W ocenie Rady perspektywy krajowej koniunktury pozostają korzystne.
+[SPEAKER_02] W kolejnych kwartałach nastąpi jednak prawdopodobnie stopniowe obniżanie się tempa wzrostu PKB.
+[SPEAKER_02] Jednocześnie inflacja utrzyma się na umiarkowanym poziomie i w horyzoncie oddziaływania polityki pieniężnej będzie się kształtować w pobliżu celu inflacyjnego.
+[SPEAKER_02] Taką ocenę wspierają wyniki marcowej projekcji PKB i inflacji.
+[SPEAKER_02] Rada ocenia, że obecny poziom stóp procentowych sprzyja utrzymaniu polskiej gospodarki na ścieżce zrównoważonego wzrostu oraz pozwala zachować równowagę makroekonomiczną.
+[SPEAKER_02] Rada przyjęła raport o inflacji marzec 2019.
+[SPEAKER_02] Dziękuję państwu.
+[SPEAKER_01] Dziękuję bardzo panie prezesie.
+[SPEAKER_01] Bardzo państwa proszę o zadawanie pytań.
+[SPEAKER_01] Pani redaktor Oliasz, bardzo proszę.
+[SPEAKER_05] Dzień dobry.
+[SPEAKER_05] Chciałam zapytać, czy luzowanie fiskalne zaproponowane przez rząd zwiększa w jakiś sposób prawdopodobieństwo podwyżek stóp procentowych w tym lub w przyszłym roku?
+[SPEAKER_02] Odpowiedź jest prosta – nie.
+[SPEAKER_01] Bardzo proszę, kolejne pytanie.
+[SPEAKER_01] Pani redaktor Bartysel.
+[SPEAKER_06] A to jest cała odpowiedź pani prezesie?
+[SPEAKER_02] No co można dodać do słowa nie.
+[SPEAKER_06] Bo byłaby to chyba najkrótsza pańska wypowiedź ze wszystkich dotychczas na konferencji.
+[SPEAKER_02] Może czas na krótsze.
+[SPEAKER_02] Nie, zdecydowanie nie.
+[SPEAKER_02] W żadnym wypadku nie.
+[SPEAKER_02] Na pewno nie.
+[SPEAKER_06] Okej, to Dorota Bartyzel, Bloomberg News.
+[SPEAKER_06] Nawiążę do tej projekcji, która wydaje się projekcją marzeniem, ale też chciałabym zapytać, czy to nie jest przypadkiem projekcja złudzenie i projekcja iluzja, bo teraz chyba wszyscy są zaskoczeni, że udało się Państwu uwzględnić
+[SPEAKER_06] Tak jak tutaj Państwo piszą, wstępne informacje o zapowiedzianym planie wsparcia społecznego.
+[SPEAKER_06] Chciałabym zapytać, jaka część tych informacji została uwzględniona, bo tak naprawdę bardziej szczegółowo poznaliśmy ten plan my dopiero wczoraj.
+[SPEAKER_02] Czyli w jakim stopniu jednak... My tu w banku pracujemy dzień i noc, proszę Panią.
+[SPEAKER_06] To z tego wynika, że Państwo w nocy otrzymywali jakieś informacje?
+[SPEAKER_02] Nie, że te dane wczorajsze zostały pracowicie przerobione, wsadzone do modelu i model wypluł już nam wyniki.
+[SPEAKER_06] Aha.
+[SPEAKER_06] To ja myślę, że na przyszłość też dla całego departamentu będzie to też nauczka, bo oni mogą spokojnie ustawiać cut-off date dużo później niż dotychczas.
+[SPEAKER_06] Wcześniej zawsze robili to mniej więcej prawie miesiąc przed prezentacją.
+[SPEAKER_06] To teraz rozumiem, że cut-off date może być po prostu dzień przed zamknięciem projekcji?
+[SPEAKER_02] Zrobią, jak będą uważali za słuszne.
+[SPEAKER_06] Dobrze, ale to, bo jest Pan dzisiaj, Panie Prezesie, w jakimś takim nastroju, wydaje mi się, nie wiem, czym sobie na to zasłużyłam.
+[SPEAKER_06] Niemniej jednak chciałabym się dowiedzieć, czy jeśli rozumiem, że nie wchodzą w grę podwyżki stóp procentowych, to w jakim stopniu dla Pana ta dzisiejsza projekcja ma wpływ na ścieżkę stóp procentowych na najbliższy czas, teraz już do 20-21, jeśli to jest możliwe?
+[SPEAKER_06] I czy rzeczywiście, bo po publikacji tego pakietu wsparcia społecznego natychmiast pojawiły się komentarze, w tym również chyba obecnego tutaj pana profesora Harta, że on zupełnie wyklucza rozważanie o redukcji stóp procentowych.
+[SPEAKER_06] Chciałabym po prostu dopytać, czy takie jest też pańskie zdanie?
+[SPEAKER_02] Po pierwsze, no czy to jest projekcja marzeń?
+[SPEAKER_02] To zależy jakie pani redaktor umiewa marzenia oczywiście.
+[SPEAKER_02] Ja mógłbym mieć marzenia jeszcze bardziej przyjemne niż to co mam w tej projekcji.
+[SPEAKER_02] Proszę pamiętać, że sytuację w zeszłym roku mieliśmy lepszą niż tę, którą będziemy mieli w tym.
+[SPEAKER_02] Nadal to jest sytuacja bardzo dobra, ale bardzo dobrze też się stopniuje.
+[SPEAKER_02] No bardzo, bardzo dobrze i bardzo dobrze.
+[SPEAKER_02] Tempo wzrostu 5 czy ponad 5, 5,2 jest oczywiście lepsze w warunkach równowagi i braku inflacji niż np. 4.
+[SPEAKER_02] 4 to nadal jest bardzo dobre tempo wzrostu PKB i sobie byśmy życzyli, żeby tak było jak najdłużej, ale oczywiście 5 było jeszcze lepsze.
+[SPEAKER_02] Ale koniunktura na całym świecie
+[SPEAKER_02] czy prawie na całym świecie, a właściwie na całym świecie, bo w Stanach Zjednoczonych nadal jakby ona jeszcze nie gaśnie, ale ta dynamika jakby spada.
+[SPEAKER_02] Koniunktura przygasa w Europie w szczególności, w szczególności w Niemczech.
+[SPEAKER_02] No i oczywiście my nie jesteśmy izolowaną wyspą.
+[SPEAKER_02] Z przyczyn zewnętrznych to tempo wzrostu u nas trochę zmaleje.
+[SPEAKER_02] Jak maleje tempo wzrostu, to w normalnej podręcznikowej sytuacji maleje też presja inflacyjna, czy taka, która w ogóle na podwyżkę cen jakoś wpływa i to ma u nas miejsce.
+[SPEAKER_02] Zamrożenie cen energii przy jednoczesnym spadku koniunktury powoduje, że ta projekcja cen wypada na niższym poziomie.
+[SPEAKER_02] Czyli nadal mamy sytuację bardzo dobrą.
+[SPEAKER_02] Wysokie tempo wzrostu, 4% to jest wysokie tempo wzrostu.
+[SPEAKER_02] I brak inflacji.
+[SPEAKER_02] Inflacja dokładnie na bardzo, bardzo niskim poziomie.
+[SPEAKER_02] Inflacja bazowa na bardzo niskim poziomie.
+[SPEAKER_02] Pełni zrównoważona gospodarka.
+[SPEAKER_02] Czyli nadal jest to marzenie ekonomisty, marzenie bankowca centralnego.
+[SPEAKER_02] Nadal mamy do czynienia z cudem gospodarczym, z polskim cudem gospodarczym.
+[SPEAKER_02] I to po prostu w tej projekcji jest.
+[SPEAKER_02] Ta projekcja zeszła trochę niżej przez to, że ceny energii i ten czynnik właśnie koniunkturalny się zmienia, który braliśmy pod uwagę i w związku z tym nawet się rysuje taka sytuacja, że być może do końca kadencji tej rady, gdzie mam przyjemność z kolegami pracować, nie będzie potrzeby zmiany stóp, ale oczywiście za wcześnie, żeby o tym mówić.
+[SPEAKER_06] Ale nie ustosunkował się Pan Prezes do mojego pytania.
+[SPEAKER_06] Czy ta projekcja wyklucza możliwość redukcji stóp procentowych gdzieś tam pod koniec tego cyklu?
+[SPEAKER_02] Tak, ale redukcji stóp procentowych nie braliśmy pod uwagę w naszych dyskusjach.
+[SPEAKER_02] Się pojawiały czasem taki wątek, że w dyskusji zgłaszany, że oczywiście to nie jest wykluczone z naszego arsenału i tak samo jak możemy podwyższać stopy, to możemy obniżać, jeśli jest odchylenie od celu inflacyjne.
+[SPEAKER_02] znaczące w tym czy innym kierunku, ale nie sądzę, żeby ktoś nas przypuszczał, że do końca kadencji dojdzie do sytuacji obniżania stóp.
+[SPEAKER_02] Zresztą wiadomo, że reakcja na stopy jest słabsza niż na bodziec w polityce fiskalnej.
+[SPEAKER_02] Ten bodziec w postaci tych działań fiskalnych, rozumiem mieszczący się w granicach zdyscyplinowanego budżetu, w granicach, do których nas zobowiązują traktaty, może być bardzo skuteczny.
+[SPEAKER_02] Myślę, że jest trafnie, tak jak się wydaje w tej chwili, wyszacowany i rzeczywiście pobudzi popyt, pobudzi konsumpcję i będzie pozytywnie oddziaływał na gospodarkę, a deficyt nadal będzie utrzymany w ryżach.
+[SPEAKER_02] Także pozytywnie, wszyscy członkowie Rady bardzo pozytywnie się na ten temat wyrażali.
+[SPEAKER_02] Nie wydaje nam się, żeby ten bodziec fiskalny był nadmierny, zbyt duży, ryzykowny czy coś takiego.
+[SPEAKER_02] Oczywiście to wszystko się dzieje w warunkach bardzo dobrej sytuacji budżetowej i przy dużym tempie wzrostu, przy wysokim tempie wzrostu.
+[SPEAKER_02] Tylko dlatego jest możliwe.
+[SPEAKER_02] Radni chcą coś dodać na ten temat.
+[SPEAKER_04] Rafał Tłuczyński, PAP Biznes.
+[SPEAKER_04] Ja bym chciał nawiązać do wypowiedzi Pana Prezesa.
+[SPEAKER_04] Mianowicie Pan uważa, że trafnie ten impuls fiskalny jest wprowadzany.
+[SPEAKER_04] Natomiast sobie pozwolę przytoczyć cytat z opinii RPP do projektu budżetu na 2019 rok.
+[SPEAKER_04] Otóż tam jest napisane, że dyscyplina wydatkowa w finansach publicznych będzie sprzyjała utrzymaniu równowagi makroekonomicznej w dłuższym okresie, co będzie umożliwiać wykorzystanie polityki fiskalnej do stymulowania aktywności gospodarczej w sytuacji silnego osłabienia koniunktury.
+[SPEAKER_04] W tym kontekście chciałbym zapytać, czy moment w cyklu koniunkturalnym, w którym się znajdujemy, warunkuje taką stymulację, jaką teraz i czy to nie zamyka w przyszłości drogi budżetowi do stymulowania gospodarki, jeśli nadejdzie hipotetyczne głębsze spowolnienie.
+[SPEAKER_02] Co będzie w przyszłości, zobaczymy jeszcze.
+[SPEAKER_02] Nie ma żadnych przewidywań takich czarnych czy szarych.
+[SPEAKER_02] Na razie wszystko w gospodarce polskiej i europejskiej przedstawia się lepiej lub gorzej, ale cały czas dobrze.
+[SPEAKER_02] I o takiej hipotetycznej sytuacji nie ma co mówić, a w następnych latach i w przyszłości będziemy na wyższych poziomach i PKB, i budżetu i będziemy jako kraj mieli coraz większe możliwości oddziaływania zarówno poprzez politykę fiskalną, jak i monetarną.
+[SPEAKER_02] My po prostu działamy tak jak Europa Zachodnia, jak Europejski Bank Centralny, jak inne banki, które nie są częścią systemu euro i w ten lub inny sposób albo rząd, albo bank centralny w różny sposób działa.
+[SPEAKER_02] Motywacją działania rządu się tutaj nie będę zajmował, bo nie wkraczamy wzajemnie w swoje
+[SPEAKER_02] Kompetencje, zadania banku są inne, stabilność pieniądza, dbałość o to, żeby nie było inflacji, nadmiernego wzrostu cen, żeby gospodarka była zrównoważona i tak dalej.
+[SPEAKER_02] I te zadania wykonujemy wzorowo.
+[SPEAKER_04] Czyli, jeśli dobrze rozumiem pana wypowiedź, to ta stymulacja fiskalna nie wpłynie na zaburzenia makroekonomiczne w dłuższym okresie polskiej gospodarce?
+[SPEAKER_02] Nic na to nie wskazuje w żadnym wypadku.
+[SPEAKER_04] Dobrze, to jeszcze chciałbym dopytać, jaka jest kontrybucja w projekcji tego pakietu fiskalnego, jeśli chodzi o PKB i inflację?
+[SPEAKER_02] Nie wiem, czy my dziś o tym możemy mówić.
+[SPEAKER_02] W poniedziałek chyba.
+[SPEAKER_02] Mamy to oczywiście oszacowane i tu jest to wzięte pod uwagę.
+[SPEAKER_02] Widać, że tu się te parametry zmieniły, ale szczegóły będą przedstawione w poniedziałek, jak będzie raport Państwu zaprezentowany, czyli 11.
+[SPEAKER_02] Jest pewna znacząca.
+[SPEAKER_02] Powiedziałbym, że jest znacząca.
+[SPEAKER_02] Na tempo wzrostu PKB i trochę na inflację.
+[SPEAKER_04] Znacząca, czyli pół punktu procentowego?
+[SPEAKER_02] Powiedziałem tyle, ile chciałem.
+[SPEAKER_04] Dobrze, a wracając do cen energii, jak rozumiem zamrożenie cen energii w komunikacie to zamrożenie cen energii dla gospodarstw domowych, 0% podwyżki cen prądu dla gospodarstw domowych.
+[SPEAKER_04] A jaka jest założona skala podwyżek dla przedsiębiorstw?
+[SPEAKER_02] No co nas interesuje, tutaj inflacja CPI.
+[SPEAKER_02] Interesuje nas inflacja CPI, bierzemy pod uwagę tę inflację i jest związek z cenami energii.
+[SPEAKER_02] Także to radykalnie zmieniło nasze projekcje, właśnie to.
+[SPEAKER_02] Oczywiście w projekcji tej, w której ten wzrost cen był znaczący, wzięliśmy pod uwagę najmniej korzystną okoliczność, bo tak należy brać dla bezpieczeństwa i tam wzięliśmy pod uwagę bardzo duży wzrost cen energii, chyba 7%, no i tam ta reakcja była duża, no jak tego nie ma,
+[SPEAKER_02] bo rząd podjął tę decyzję, której się spodziewaliśmy jakoś tam oczywiście, ale przecież nie była pewna, no to model dał całkowicie inny wynik projekcyjny.
+[SPEAKER_01] Bardzo proszę, kolejne pytanie.
+[SPEAKER_01] Pani redaktor.
+[SPEAKER_06] Rafał tak pięknie zapytał o te kontrybucje.
+[SPEAKER_06] Czy chce pan, panie prezesie, powiedzieć, że inflacja, która według nowej projekcji będzie 1,7 w tym roku, czyli niższa niż w 2018 roku, byłaby jeszcze niższa, gdyby nie ten pakiet fiskalny?
+[SPEAKER_02] Chciałbym powiedzieć.
+[SPEAKER_06] Okej.
+[SPEAKER_06] A czy może jednak zdarzyło się tak, że ktoś dzielił się jakąś wątpliwością co do ryzyk, które wiążą się z tym pakietem, co do wpływu na inflację?
+[SPEAKER_02] Oczywiście poszczególni członkowie Rady Polityki Pieniężnej zastanowili się, co będzie w następnych latach.
+[SPEAKER_02] co będzie, jak koniunktura się będzie pogarszać, no różnego rodzaju wypowiedzi brały to pod uwagę.
+[SPEAKER_02] Ale to nie możemy sformalizować w żaden sposób tych refleksji.
+[SPEAKER_06] Czyli rozumiem, że jednak...
+[SPEAKER_02] W obecnych warunkach nie widzimy żadnych negatywnych efektów.
+[SPEAKER_06] Żadnych ryzyk w obecnych warunkach.
+[SPEAKER_02] Żadnych ryzyk w obecnych warunkach.
+[SPEAKER_02] Przypominam, mamy 4% tempo wzrostu i bardzo, bardzo niską inflację.
+[SPEAKER_02] To naprawdę daje duże pole do popisu i praktycznie zrównoważony budżet mieliśmy w zeszłym roku.
+[SPEAKER_06] Ja bym zmieniła troszkę.
+[SPEAKER_02] Dzięki temu takie możliwości działania mamy.
+[SPEAKER_02] Podobnie jak gospodarki zachodniej Europy, te, które są w dobrej sytuacji, jak Niemcy.
+[SPEAKER_02] Włochy nie mają takiej możliwości, ale i tak coś robią, a Niemcy mają takie możliwości.
+[SPEAKER_02] Te kraje, które mają nadwyżkę albo zrównoważony budżet, jeśli to jeszcze jakoś trwa przez jakiś czas, oczywiście mają inne możliwości w polityce fiskalnej działania.
+[SPEAKER_02] A wyczerpały praktycznie działania w polityce monetarnej.
+[SPEAKER_02] Proszę pamiętać, te stopy są ujemne w zachodniej Europie.
+[SPEAKER_02] Pozostało tylko luzowanie ilościowe, którego dokonywali od dłuższego czasu.
+[SPEAKER_02] Zaprzestali tego luzowania w grudniu, ale już w marcu teraz jest w pełni dyskusja na temat dalszego luzowania.
+[SPEAKER_02] Ta decyzja była przedwczesna, bo nie przewidziano, że koniektura będzie tak przygasać.
+[SPEAKER_02] My nie mamy tych dylematów i tych problemów.
+[SPEAKER_02] Mamy ogromne możliwości działania i w jednej, i w drugiej dziedzinie.
+[SPEAKER_02] Po prostu nasza polityka pieniężna i nasza polityka fiskalna, to niemiecka jest prowadzona bardzo dobrze, ale nasza polityka pieniężna, jak widać, jest prowadzona lepiej.
+[SPEAKER_06] Zmiana tematu, panie prezesie.
+[SPEAKER_01] W ramach konferencji PRPP.
+[SPEAKER_06] Proszę?
+[SPEAKER_01] W ramach konferencji po Radzie Polityki Pieniężnej.
+[SPEAKER_01] Tak?
+[SPEAKER_01] Tak.
+[SPEAKER_01] Bardzo proszę.
+[SPEAKER_06] Chciałam zadać pytanie na inny temat.
+[SPEAKER_02] To może prosimy... Zależy na jak radykalnie.
+[SPEAKER_06] Ale to tak, to znaczy, panie prezesie, chciałam zapytać, czy pan się boi... Deflacji?
+[SPEAKER_06] Nie, nie deflacji, czy pan się boi spotkania z panem prezesem Jarosławem Kaczyńskim?
+[SPEAKER_01] Pani redaktor, bardzo proszę o zadawanie pytań.
+[SPEAKER_01] Ale ja zadaję pytanie panu prezesowi.
+[SPEAKER_02] Mogę tak samo odpowiedzieć krótko, jak na początku, co pani uznała za rozumiem jakieś obcesowe?
+[SPEAKER_02] Nie.
+[SPEAKER_02] Z przyjemnością się z nim zawsze spotykam i czuję niedosyt tych spotkań.
+[SPEAKER_02] Bo znamy się od początku lat 90.
+[SPEAKER_02] Jeden z najbardziej interesujących rozmówców, jak ja go znam.
+[SPEAKER_02] Dziękuję bardzo.
+[SPEAKER_06] I chciałam jeszcze zapytać Panie Prezesie, czy w związku z tym wszystkim, co się pojawiło teraz przy okazji publikacji ujawnienia płac w Narodowym Banku Polskim, brał Pan pod uwagę rezygnację?
+[SPEAKER_02] Zatowałem Państwu już kiedyś mówiąc, że po powrocie z Radomia się zastanowię.
+[SPEAKER_02] To nie jest nawet z tego filmu cytat, jak prasa to odcyfrowała.
+[SPEAKER_02] To jest stary przedwojenny żart.
+[SPEAKER_02] oznaczający, no że to pytanie jest absurdalne i że w ogóle to nie jest brane pod uwagę.
+[SPEAKER_02] Natomiast to wszystko co się działo wokół NBP-u.
+[SPEAKER_02] Kolejne pytanie.
+[SPEAKER_02] To wszystko jest na jednym nieporozumieniu osadzone, że opinia publiczna
+[SPEAKER_02] jakby została wprowadzona w błąd i Narodowy Bank Polski zaczął być porównywany z innymi instytucjami i urzędami.
+[SPEAKER_02] Narodowy Bank Polski jest bankiem, Narodowy Bank Polski jest bankiem banków, jest największy ze wszystkich banków i obsługuje inne banki.
+[SPEAKER_02] Gwarantuje stabilność w ogóle systemu finansowego, pieniężnego, płatniczego w Polsce i wysokie wynagrodzenia w bankach centralnych są czymś normalnym, są regułą.
+[SPEAKER_02] Wysokie wynagrodzenia, w tym prezesów banków centralnych, czego absolutnie nie mam na myśli, myśląc o sobie.
+[SPEAKER_02] Ale we wszystkich normalnych krajach jest tak, że one są wyższe niż zarobki prezydentów czy premierów.
+[SPEAKER_02] Po prostu to z reguły normalne.
+[SPEAKER_02] W Polsce ludzie są nieprzyzwyczajeni.
+[SPEAKER_02] Jeśli ludzi epatowano tymi wysokimi zarobkami na tle dominanty zarobków w Polsce czy średniej, to oczywiście rezultaty są takie.
+[SPEAKER_02] Nie byliby zapewne tak zbulwersowani wynagrodzeniami dyrektorów w naszych bankach komercyjnych, dziesięciu największych, a tylko taka referencja ma sens.
+[SPEAKER_02] W ustawie o NBP referencją do zarobków dyrektorów naszego banku, Narodowego Banku Polskiego, są zarobki dyrektorów w bankach komercyjnych, to jest w ustawie.
+[SPEAKER_02] Naszym odpowiednikiem są banki komercyjne i taki to ma sens porównywanie i Fundusz Płat w Narodowym Banku Polskim zawsze rosną, rośnie i będzie rósł.
+[SPEAKER_02] w tempie, który szacujemy na następny rok dla banków komercyjnych.
+[SPEAKER_02] W zeszłym roku zresztą rozwolni, bo nie doszacowaliśmy tempa wzrostu w bankach komercyjnych.
+[SPEAKER_02] A jak Państwo chcą znać wynagrodzenia w bankach komercyjnych, to proszę się do nich zwrócić.
+[SPEAKER_02] Myślę, że Państwo takie odpowiedzi na dnie otrzymają.
+[SPEAKER_02] Jesteśmy w tej chwili jedynym bankiem na świecie chyba, bo w Europie to na pewno, bo sprawdzaliśmy, ale chyba na świecie, w którym będą Państwo mieli znane zarobki dyrektorów.
+[SPEAKER_02] I to w podziale chyba na miesiące, nawet jeśli chodzi o niektóre lata.
+[SPEAKER_02] Więcej oświadczenia majątkowe będą Państwo ich znali.
+[SPEAKER_02] Zastępcy dyrektora, nie wiem, banku w Olsztynie Okręgowego, czy w każdym mieście, w którym mamy 16 oddziałów.
+[SPEAKER_02] To jest jedyny bank na świecie, który będzie tak przezroczysty.
+[SPEAKER_02] Czy to jest potrzebne, czy nie, to zostawiam Państwu.
+[SPEAKER_02] Ja szanuję prawo, Narodowy Bank Polski szanuje prawo.
+[SPEAKER_02] Roma Locuta, Kauza Finita, o tym już nie dyskutujemy.
+[SPEAKER_02] Jest prawo i będziemy w pełni je realizować.
+[SPEAKER_02] Departament kadr siedzi dniami i nocami, soboty i niedziele i pracuje nad tym, żeby te dokumenty w terminie przygotować, co wcale nie jest łatwą rzeczą od 1995 roku.
+[SPEAKER_02] To jest na wasze żądanie, a wy rozumiem działaliście ze szlachetnych pobudek, bo opinia publiczna
+[SPEAKER_02] tego chciała, to nie nam z tym dyskutować.
+[SPEAKER_02] Po prostu wcześniej nie mogliśmy tego ujawnić, bo prawo na to nie zezwalało.
+[SPEAKER_02] Wbrew temu, co się niektórym wydawało.
+[SPEAKER_02] I to właściwie jest wszystko.
+[SPEAKER_02] Nie będziemy już tego komentować dalej.
+[SPEAKER_01] I kolejne pytanie w tematyce konferencji.
+[SPEAKER_01] Bardzo proszę.
+[SPEAKER_04] Rafał Duszyński, PAP Biznes.
+[SPEAKER_04] Chciałbym powrócić do tematu hipotetycznych obniżek stóp procentowych, ponieważ pan prezes Glapiński na poprzedniej konferencji prasowej powiedział, że być może za parę lat stopy procentowe będzie można obniżać lub podwyższać.
+[SPEAKER_04] A jeszcze w lutym przed wprowadzeniem pakietu fiskalnego pan profesor powiedział, że w Polsce istnieje teoretyczna przestrzeń do obniżek stóp procentowych.
+[SPEAKER_04] W związku z tymi wypowiedziami można było odnieść wrażenie, że rozkład ryzyk dla ścieżki stóp procentowych w Polsce jest symetryczny.
+[SPEAKER_04] Natomiast czy po wprowadzeniu pakietu fiskalnego można powiedzieć, że ten rozkład jest asymetryczny w stronę podwyżek?
+[SPEAKER_02] Nie, nie, nie, nie, nie mówiłem, że obszar ryzyk jest symetryczny.
+[SPEAKER_02] Tylko żeby państwo pamiętali, że my mamy ten luksus, którego nie ma w Europie Zachodniej czy w ogóle w strefie euro,
+[SPEAKER_02] że mogą działać w obie strony.
+[SPEAKER_02] Oni mogą podnosić stopy, co byłoby absurdalne oczywiście, natomiast nie mogą obniżać, bo one już są poniżej zera.
+[SPEAKER_02] My w poprzednim okresie, w czasie działania poprzedniej Rady Poliki Pieniężnej, której miałem być zaszczyt członkiem, razem zresztą z prof. Siatyńskim częściowo, nie zeszliśmy z tymi stopami aż tak nisko, żeby sobie zamknąć drogę do ewentualnego działania w tym kierunku w przyszłości.
+[SPEAKER_02] Ale takiej perspektywy w czasie tej kadencji nie widzimy, ale teoretycznie, jeśli kiedyś to nastąpi.
+[SPEAKER_02] Ale wspominałem też, że niechętnie będziemy sięgać do tego, bo to powoduje zmianę sytuacji banków, proszę pamiętać, banków komercyjnych, o stabilność, w których musimy dbać, szczególnie niektórych, czy spółdzielczych, mówiąc wprost.
+[SPEAKER_02] I że jeśli jest możliwość działań fiskalnych, to oczywiście lepiej.
+[SPEAKER_02] Ale fiskalne możliwości są tylko wtedy, jeśli mamy zrównoważony budżet albo nadwyżkowy budżet, albo w niewielkim stopniu w deficycie i wtedy jest ta przestrzeń, ale może być sytuacja, że przecież jeśli wchodzimy w jakieś tam fazy w przyszłości, może sobie wyobrazić, jak było w 2008 roku, to i sytuacja fiskalna jest gorsza i sytuacja przedsiębiorstw, całych podmiotów gospodarczych.
+[SPEAKER_02] I wtedy polityka pieniężna ma tę możliwość, że może działać szybko i zdecydowanie i nieszkodliwie.
+[SPEAKER_02] I od tego polityka pieniężna jest.
+[SPEAKER_02] I Narodowy Bank Polski tego się nigdy nie wyrzecze.
+[SPEAKER_02] Będzie trzeba, to to zrobi.
+[SPEAKER_02] No nie za mojej kadencji, za jakichś innych kadencji w przyszłości może być taka sytuacja.
+[SPEAKER_02] Oby jej nie było.
+[SPEAKER_02] Oby nam tempo wzrostu gospodarczego tak wysokie towarzyszyło przez najbliższe 10 lat.
+[SPEAKER_02] Jeśli będzie nam towarzyszyło, to za 10 lat zaczniemy dościgać już niektóre najwyżej gospodarczo i w dobrobycie rozwinięte kraje na świecie europejskie.
+[SPEAKER_02] Takie jak Włochy, prawda?
+[SPEAKER_02] One akurat zmniejszyły zdaje się o 30%.
+[SPEAKER_02] No ale w ogóle wchodzimy do klubu bardzo bogatego i bardzo ograniczonego.
+[SPEAKER_02] Potrzebujemy jeszcze 10 lat szybkiego
+[SPEAKER_02] rozwoju, czy trwania tego naszego cudu gospodarczego, co wszystkie kolejne ekipy, zarówno w tym budynku, jak i po drugiej stronie świętokrzyskiej będą o to dbały.
+[SPEAKER_02] Na szczęście udało nam się przez ostatnie 20 lat uniknąć polityki nieodpowiedzialnej, to chyba koledzy się zgodzą, niezależnie jakie ekipy, były lewicowe, prawicowe, konserwatywne,
+[SPEAKER_02] Keynesowskie, monetarystyczne w swoich sympatiach.
+[SPEAKER_02] Uniknęliśmy z niewielkimi wyjątkami, może uniknęliśmy wielkich błędów i to daje rezultaty.
+[SPEAKER_02] Prowadzimy bardzo konserwatywną politykę, nieryzykowną, ostrożną, pełną rozwagi i mamy właśnie te wyniki, że jesteśmy ustabilizowani.
+[SPEAKER_02] To jest konstytucyjnym zadaniem Narodowego Banku Polskiego.
+[SPEAKER_02] My nie dbamy o tempo wzrostu, tak jak Ministerstwo Finansów, tylko dbamy o zrównoważenie.
+[SPEAKER_02] Gdyby Ministerstwo Finansów podejmowało jakieś decyzje pochopne, nakierowane na wzrost, które by groziły nierównowagą, wtedy byśmy się wypowiadali, ale nie ma takich sytuacji.
+[SPEAKER_04] Pozwolę sobie jeszcze dopytać, bo być może coś mi umknęło.
+[SPEAKER_04] Jaki jest ten bilans ryzyka dla ścieżki stuprocentowych w Polsce pod kątem symetryczności?
+[SPEAKER_02] Niespodziewane mogą być jakieś spadki koniunktury dalej idące niż to dzisiaj jesteśmy w stanie przewidzieć za granicą, w szczególności w Europie, a w szczególności w strefie euro, a w szczególności w Niemczech.
+[SPEAKER_02] Wtedy się może pojawić zagrożenie o wiele niższego tempa wzrostu PKB w Polsce po jakimś czasie.
+[SPEAKER_02] To jest coś, co realnie jest na stole, jak dyskutujemy.
+[SPEAKER_02] To rzeczywiście jakoś teoretycznie może pojawić.
+[SPEAKER_02] Ale nic takiego nie widzimy w perspektywie, którą bierzemy pod uwagę.
+[SPEAKER_02] Gdyby tempo wzrostu w Niemczech, gdyby Niemcy weszły, wprost mówiąc, w recesję.
+[SPEAKER_02] Ostatnie dwa kwartały w Niemczech były słabe.
+[SPEAKER_02] Mieliśmy techniczną recesję, a w ostatnim kwartale mieliśmy praktycznie zero tempa wzrostu.
+[SPEAKER_02] Gdyby to jakoś się pogłębiło u nich, ale koledzy niemieccy nie przewidują takiej sytuacji.
+[SPEAKER_02] Raczej, że to właśnie będzie gdzieś tak się kołysać na tym poziomie.
+[SPEAKER_02] Ebet już się zastanawia, jak pobudzać być może gospodarkę w najbliższym czasie.
+[SPEAKER_02] Do tej pory bank niemiecki i w ogóle niemiecki rząd prowadził też bardzo podobną do nas politykę, czyli ostrożną, konserwatywną, nie powodującą żadnego kołysania gospodarki w kierunku nadmiernego pobudzania czy studzenia.
+[SPEAKER_02] My działamy tak, że jak coś jest dobrze, to nie staramy się, żeby było jeszcze lepiej.
+[SPEAKER_02] Jak jest dobrze, to niech będzie dobrze.
+[SPEAKER_02] Nie staramy się za wszelką cenę robić bardzo dobrze.
+[SPEAKER_04] To w takim razie, wsłuchując się w pana wypowiedzi o ewentualnym, hipotetycznym zaostrzeniu polityki pieniężnej, można odnieść wrażenie, że pan koncentruje się na odpowiedzi, dlaczego stóp się nie podnosi, a nie dlaczego można by je podnieść.
+[SPEAKER_04] W związku z tym, czy nasze pytania powinny się koncentrować na możliwości łagodzenia polityki pieniężnej przez RPP, a nie na ewentualne zaostrzenie?
+[SPEAKER_02] O łagodzeniu nie ma mowy.
+[SPEAKER_02] Na razie nie ma żadnej takiej potrzeby.
+[SPEAKER_02] Zresztą ten pakiet fiskalny ożywi nam ładnie gospodarkę.
+[SPEAKER_02] Natomiast zaostrzenie by wtedy było na stole przed Radą Polityki Pieniężnej, gdybyśmy mieli jakieś przyspieszenie inflacji w Polsce albo przewidywane przyspieszenie.
+[SPEAKER_02] Nic takiego nie ma.
+[SPEAKER_02] Ta nowa projekcja nam pokazuje raczej spadek oczekiwań inflacyjnych w dłuższej perspektywie.
+[SPEAKER_02] Pokazuje, że w całej kadencji będziemy się trzymali blisko celu inflacyjnego.
+[SPEAKER_01] Szanowni Państwo, mamy czas jeszcze na dwa pytania.
+[SPEAKER_01] Panowie się zgłaszali.
+[SPEAKER_02] Proszę zwrócić się z pytaniami do Pana Harta i Oświatyńskiego.
+[SPEAKER_02] To rzadko jest okazja, żeby... Arkadiusz Augustynik, Polskie Radio.
+[SPEAKER_03] Jednak zwrócę się z pytaniem do Pana Prezesa, bo chciałem zapytać, czy ja dobrze zrozumiałem, że Pan przed chwilą potwierdził, że gdyby nie pakiet fiskalny, to inflacja w Polsce byłaby niższa.
+[SPEAKER_02] Nie przechodzilibyśmy.
+[SPEAKER_02] To jaka byłaby?
+[SPEAKER_03] To inflacja w Polsce byłaby niższa.
+[SPEAKER_03] Czy można szacować, o ile ona byłaby niższa?
+[SPEAKER_02] trochę niższa.
+[SPEAKER_02] To zawsze tak jest w normalnych warunkach.
+[SPEAKER_02] To wszystko będzie w poniedziałek powiedziane precyzyjnie.
+[SPEAKER_02] Ja nie będę tutaj wybiegał do przodu, ale niewiele.
+[SPEAKER_02] Mamy niewielkie przyspieszenie wzrostu dzięki temu i niewielki wzrost cen.
+[SPEAKER_02] W sumie bilans jest bardzo korzystny, dlatego że inflacja nadal pozostaje bardzo, bardzo niska.
+[SPEAKER_02] a wzrost jest trochę pobudzony, co jest korzystne.
+[SPEAKER_02] Ale przecież celem tego pakietu fiskalnego rządu, tak jak to było przez rząd przedstawione, nie było pobudzanie gospodarki.
+[SPEAKER_02] Ono się dokonuje niejako, bo lekarstwo jest dobre, ale to jest lekarstwo na w ogóle aktywizację społeczeństwa, na polepszenie warunków życia polskich rodzin, na polepszenie
+[SPEAKER_02] życia tych mniej zamożnych sfer, nadanie pewnego impulsu młodym ludziom w aktywności gospodarczej, w którą wkraczają i tak dalej, i tak dalej.
+[SPEAKER_02] No te PKS-y, czy tam te autobusy lokalne, no to wszystko jakby ożywia tkankę społeczną, gospodarczą, cywilizacyjną, a przy okazji daje w tej sytuacji, bo się tak to zbiegło, pobudzenie gospodarcze.
+[SPEAKER_02] Trochę podwyższa tempo wzrostu PKB, ścieżkę wchodzimy wyższą,
+[SPEAKER_02] ale trochę też oczywiście podnosi ceny, ale ponieważ są tak niskie, tak niski jest pułap, to nieszkodliwie.
+[SPEAKER_02] Oceniamy pozytywnie to, co ma miejsce w takiej skali.
+[SPEAKER_03] A druga część tego pytania, czy ta inflacja byłaby o tyle niższa, że wówczas uzasadniałoby te obniżki stóp procentowych?
+[SPEAKER_03] Krótko mówiąc, czy bez pakietu te stopy procentowe zostałyby ścięte?
+[SPEAKER_02] Tu koledzy mogą potwierdzić,
+[SPEAKER_02] Reprezentuję jakby inną opcję niż poprzednio tutaj przy tym stole siedziała ze mną.
+[SPEAKER_02] Nie było na Radzie Polityki Pieniężnej, poza jednym kolegą może, ale nigdy realnie nie było rozpatrywanej jakiejś koncepcji, żeby w tej kadencji w ogóle przejść do obniżania stóp.
+[SPEAKER_02] Nie było takiej perspektywy w świetle prognoz.
+[SPEAKER_02] Natomiast teoretycznie my jesteśmy gotowi, jak mówimy, w każdą stronę działać.
+[SPEAKER_02] Tak jak teoretycznie mówiliśmy o tych hipotetycznych, niekonwencjonalnych metodach.
+[SPEAKER_02] Bo nas trochę tak bolało, mamy trochę czasu, żeby pracować nad czymś, że nie mamy takiego pakietu może rozbudowanego skrzynki narzędziowej jak banki, jak EBC.
+[SPEAKER_02] No i to uzupełniliśmy i zrobiliśmy, ale to nie znaczy, że zamierzamy tego używać.
+[SPEAKER_02] No ale kto wie, proszę pana, jak będzie za 5-10 lat.
+[SPEAKER_02] W pana życiu pan nie wie, co pana spotka wtedy, że tak dobre strony, tak dobre wydarzenia pana spotka, jakie się pan nawet nie spodziewa i takie szczęście w życiu pan znajdzie.
+[SPEAKER_02] A co dopiero w życiu gospodarki.
+[SPEAKER_02] Na szczęście żaden model nie jest w stanie przewidzieć tego, co się w gospodarce zdarzy całkowicie, nawet w następnym kwartale, proszę pana.
+[SPEAKER_01] I ostatnie pytanie, pan redaktor Berenda, bardzo proszę.
+[SPEAKER_07] Jeśli można kilka pytań, to byłoby super.
+[SPEAKER_07] Krzysztof Berenda, Radio RMF.
+[SPEAKER_07] Chciałem najpierw wrócić do tej piątki Prawa i Sprawiedliwości ogłoszonej, czyli tych pakietów socjalnych.
+[SPEAKER_07] Powiedział pan, panie prezesie, że wpływ tego na gospodarkę będzie znaczący, chciałem zapytać pana.
+[SPEAKER_02] Proszę pana, ja nie mówię o ile będzie, bo w poniedziałek się dowiecie, ale jeśli wpływ czegoś na PKB jest typu 0,2, to jest bardzo znaczący.
+[SPEAKER_02] Nie mówiąc o 0,3, ale 0,1 też jest znaczący.
+[SPEAKER_02] To są znaczące wpływy, bo mówimy przecież o kilkuprocentowym wzroście zawsze.
+[SPEAKER_07] Chciałbym zapytać wszystkich Panów, jeśli można poprosić, gdzie, jeżeli podzielacie oczywiście Panowni również zdanie Pana Prezesa, gdzie widzicie ten wpływ tak na dobrą sprawę?
+[SPEAKER_07] Bo w samej, jeżeli popatrzymy na ścieżkę centralną z tego, co mamy w komunikacie, mamy oczywiście w tym roku podniesienie PKB z 3, 6 na 4, aczkolwiek to rozumiem nie jest jeszcze efekt tego, co się wydarzyło, co zostało zapowiedziane, bo to dopiero...
+[SPEAKER_07] będzie pewnie w końcówce trzeciego i czwartym kwartale, więc jeszcze nie za bardzo możemy, rozumiem, temu to przypisywać.
+[SPEAKER_07] Nie będziemy mieli jakiegoś wielkiego, zakładam, boomu gospodarczego w czwartym kwartale.
+[SPEAKER_07] Więc gdzie jest ten wpływ?
+[SPEAKER_07] Jedno pytanie kontrolne jest do samej projekcji.
+[SPEAKER_07] Czy ona, jaki ona scenariusz brexitowy uwzględnia?
+[SPEAKER_07] Panowie, boom to mamy cały czas.
+[SPEAKER_02] Mamy od kilku lat cały czas do czynienia z boomem.
+[SPEAKER_02] Pięcioprocentowy wzrost to jest boom gospodarczy.
+[SPEAKER_02] Ja mówię, to jest cud.
+[SPEAKER_02] gospodarczy, bo jesteśmy na całkiem przyzwoitym już przecież poziomie, z Brexitem.
+[SPEAKER_02] Dyskutowaliśmy o Brexicie, mówimy, mamy dużo opracowań na stole, rząd nad tym pracował, przedstawiciele NBP-u, ja też byłem, uczestniczyłem w takim zespole, który został powołany w Komitecie Ekonomicznym Rady Ministrów.
+[SPEAKER_02] Bierzemy go pod uwagę, ale nie widzimy tego, żeby to miało jakiś znaczący wpływ w życie.
+[SPEAKER_02] Na pewno nie na finanse państwa i na gospodarkę niewielki wpływ.
+[SPEAKER_07] Ale który scenariusz zakładacie?
+[SPEAKER_07] Hard Brexit czy umowny?
+[SPEAKER_02] No w tym, w którym mówimy o tym Hard Brexicie.
+[SPEAKER_07] A można Panów poprosić o zdanie wpływ pakietu tego stymulacyjnego, nazwijmy go, socjalnego na gospodarkę, gdzie on może być dostrzegalny?
+[SPEAKER_07] Czy on jest w ogóle zauważalny według Panów?
+[SPEAKER_00] Dobry wieczór.
+[SPEAKER_00] Jeżeli przyjmiecie Państwo jakąś wielkość do tego pakietu fiskalnego, wszystko jednoczone będzie 42 czy 35 na ten rok, czy jakąkolwiek inną wielkość.
+[SPEAKER_00] Myśmy liczyli wspólnie z
+[SPEAKER_00] z Panią Jolą Ziembą, która wtedy pracowała w NBP i z Panem Profesorem Błaskim, mnożniki dla Polski i dla Czech, mnożniki fiskalne dla 2012 roku, mniej więcej na wysokości 1,6.
+[SPEAKER_00] Więc powiedzmy, że to jest 42.
+[SPEAKER_00] To znaczy, że przyrost dochodu według tego mnożnika powinien być mniej więcej 68 miliardów.
+[SPEAKER_00] To jest wszystko abstrakcja.
+[SPEAKER_00] Jeżeli ten impuls będzie rzędu 35, to on będzie tam odpowiednio mniejszy.
+[SPEAKER_00] Jeżeli teraz, bo to jest jedno z tych pytań, które jest tak powszechnie występuje w tej debacie, z czego to sfinansować, ten impuls, to pamiętając, że przeciętny udział podatków w PKB to jest około 40% dla całego sektora finansów publicznych.
+[SPEAKER_00] I odejmiecie od tego nawet te podatki, które nie zależą od wielkości PKB.
+[SPEAKER_00] Podatek od nieruchomości na przykład.
+[SPEAKER_00] Powiedzmy, że to jest dla uproszczenia 04.
+[SPEAKER_00] No to wyjdzie Wam, że w gruncie rzeczy ten impuls fiskalny po pierwsze, że on się sfinansuje, samo sfinansuje w wysokości około 24 miliardów.
+[SPEAKER_00] Teraz jak zrobicie to samo ćwiczenie dla odpowiedzią mniejszego impulsu to...
+[SPEAKER_00] Oczywiście to wszystko opiera się na założeniu, że są niewykorzystane zdolności wytwórcze i tutaj musimy brać pod uwagę to, co się dzieje na rynku siły roboczej i ze stopniem wykorzystania aparatu wytwórczego.
+[SPEAKER_00] Ten stopień wykorzystania jest stosunkowo wysoki.
+[SPEAKER_00] No i wobec tego trochę nad tym dyskutujemy, co tutaj się może wydarzyć, ale w gruncie rzeczy to pobudzenie fiskalne jest oczywiste i mnie się zdaje, że efekt tego będzie prawdopodobnie większy niż 4%.
+[SPEAKER_00] jakiej wielkości nie wiemy, także dlatego, że naprawdę nie mam jeszcze ustaw, które są konieczne do tego, żeby wiedzieć i od którego momentu poszczególne instrumenty z tego pakietu pięciu punktów będą realizowane.
+[SPEAKER_00] Więc właśnie to jest moja krótka odpowiedź na to i oczywiście, że tutaj musi być pewne przyspieszenie także ze strony cen
+[SPEAKER_00] Też tu jest na zbyt wiele punktów niejasnych, jeśli Pan Prezes pozwoli, dwa takie miejsca, które są niejasne.
+[SPEAKER_00] Jedno miejsce dotyczy tego, jaki naprawdę jest ten potencjał, to znaczy jakie są prywatne inwestycje, zwłaszcza w małym sektorze, zważywszy, że część inwestycji to jest leasing, który nie jest dobrze rejestrowany.
+[SPEAKER_00] więc właściwie nie wiemy, co tutaj się dzieje, jak naprawdę jesteśmy blisko czy daleko w stosunku do pełnego wykorzystania aparatu, co by się wtedy mogło przekładać silniej na cenę.
+[SPEAKER_00] No więc to jest jeden z takich niejasnych punktów, nie chcę właśnie
+[SPEAKER_08] Jeśli chodzi o Pana pytanie o wpływ na impulsu fiskalnego na PKB, będzie istotny.
+[SPEAKER_08] Będzie istotny i pewne szczegóły zostaną Państwu zaprezentowane w raporcie o inflacji w najbliższy poniedziałek.
+[SPEAKER_08] Natomiast korzystając, że jestem przy głosie, oczywiście dla mnie niezmiernie istotny jest potencjalny wpływ impulsu fiskalnego na przyrosty cen.
+[SPEAKER_08] I ten wpływ też będzie.
+[SPEAKER_08] Nie wiem czy istotny, być może nie tak bardzo istotny jak wpływ impulsu fiskalnego na PKB, tylko przy tych czynnikach potencjalnie proinflacyjnych jest tak, że czynniki, które w izolacji wydają się nieistotne, działając wspólnie razem mogą łącznie stać się istotne.
+[SPEAKER_08] Mieliśmy w naszej gospodarce w ostatnich latach kilka takich dosyć istotnych strukturalnych procesów, które działały istotnie dezinflacyjne.
+[SPEAKER_08] To już jest to, o czym wszyscy mówimy, ekspansja, chociażby bezprecedensowa ekspansja sklepów wielkopowierzchniowych czy dyskontów w ostatnich latach, czym się na przykład od Węgier różnimy.
+[SPEAKER_08] I to było dezinflacyjne, to się skończyło.
+[SPEAKER_08] Ale też chciałbym Państwu zwrócić uwagę na jeszcze jeden proces, który wydaje się skończył ostatnio.
+[SPEAKER_08] Bardzo silny dezinflacyjny proces polegający na tym, że jak patrzymy na historię naszej transformacji ustrojowej, to jednak przez wiele, wiele lat wydajność pracy w Polsce rosła szybciej i to zdecydowanie szybciej niż średnioroczny wzrost mediany realnych płac.
+[SPEAKER_08] To jest to, co OECD nazywa takim zjawiskiem wage decoupling.
+[SPEAKER_08] Już nie mamy wage decouplingu, to się skończyło.
+[SPEAKER_08] Jest wiele czynników, które działały dezinflacyjnie, które w tym momencie zaczęły wygasać i oczywiście to jest to pytanie, czy nie grozi nam jakaś niespodzianka inflacyjna.
+[SPEAKER_08] Oczywiście wydaje mi się, że raczej nie.
+[SPEAKER_08] bo to jest tak, że w ostatnich latach ta siła wpływu koniunktury na dynamikę ceny z różnych względów jest słabsza niż kiedyś, natomiast absolutnie nie można wykluczyć tego, że inflacja przyspieszy, chociaż zgadzam się z tym, co też było mówione wcześniej, że nie sądzę, szczególnie w sytuacji, kiedy ceny energii zostały zamrożone, nie sądzę, żeby to przyspieszenie było jakieś,
+[SPEAKER_08] jakieś bardzo znaczące, natomiast na pewno nie wychodziłbym bardzo daleko w przyszłość.
+[SPEAKER_08] No i nie mówił o tym, że stopy nie zmienią się przez całą kadencję Rady Polityki Pieniężnej, też w kontekście różnych problemów komunikacyjnych, które się pojawiają w innych bankach centralnych.
+[SPEAKER_08] Na szczęście my ich nie popełniamy, tych błędów.
+[SPEAKER_08] Optymalną strategią komunikacyjną wydaje się strategię bycia bardzo adaptacyjną, to znaczy obserwujemy dane, które napływają z gospodarki i w dużej mierze kierujemy, czy ja się kieruję tak, obserwując te dane.
+[SPEAKER_08] Przy takiej dużej niepewności jakikolwiek forward guidance byłby bardzo ryzykowny.
+[SPEAKER_08] Szanowni Państwo, bardzo dziękuję.
+[SPEAKER_08] Przepraszam.
+[SPEAKER_07] Jeśli mogę tylko krótko, czy w kontekście tych czasów, które mamy, tego co nas czeka, tych wielu niepewności, które się także pojawiają, tak jak Pan wspominał o gospodarce.
+[SPEAKER_07] Czasy są bardzo dobre i mają więcej pewności niż wcześniej.
+[SPEAKER_02] Ale ciekawe, nazwijmy to.
+[SPEAKER_07] Czy w każdym razie w kontekście tego wszystkiego, czy dostrzega Pan, także jeżeli patrzymy na sprawność zaplecza analitycznego dla Rady Polityki Pieniężnej, ale także
+[SPEAKER_07] działalności operacyjnej banku.
+[SPEAKER_07] Czy dostrzega Pan jakieś utrudnienia w funkcjonowaniu w kontekście tego, co się przez ostatnie tygodnie wydarzyło, jeżeli chodzi o ustawę o wynagrodzeniach w Narodowym Banku Polskim?
+[SPEAKER_07] Takie były ostrzeżenia z Europejskiego Banku Centralnego.
+[SPEAKER_07] Czy dyrektorzy proszą o podwyżki, czy zapowiadają zwolnienia, odejścia?
+[SPEAKER_02] My mamy bardzo merytoryczny staw, wszyscy dyrektory są na najwyższym poziomie standardów europejskich i polskich, między innymi dlatego, że wynagrodzenia są przyzwoite na poziomie właśnie banków komercyjnych, jeśli chodzi o dyrektorów przypominam.
+[SPEAKER_02] bo zarząd dostaje mikroskopijną część tego, co dostają zarządy banków komercyjnych.
+[SPEAKER_02] Natomiast dyrektorzy są wynagradzani na poziomie banków komercyjnych, dlatego u nas różnica między wynagrodzeniami zarządu, co Państwo sobie obejrzą dokładnie, wszystko przecież upubliczniamy,
+[SPEAKER_02] Różnica między wynagrodzeniami członków zarządu a dyrektorami jest niewielka, a może się zdarzyć, że dyrektorzy zarabiają więcej niż członkowie zarządu, chociaż się staramy, żeby dyrektorzy nie zarabiali nigdy więcej niż prezes, ze względów takich korporacyjnych, że tak powiem.
+[SPEAKER_02] Ale właśnie dlatego to wynika z tej zasady, że dyrektorzy są na tym poziomie jak dyrektorzy banków komercyjnych.
+[SPEAKER_02] Prywatne różnego rodzaju agencje się zajmują ankietowym badaniem banków komercyjnych i stąd to wiemy, bo GUS nie ma takich danych.
+[SPEAKER_02] Natomiast zarząd oczywiście jest wynagradzany według innych zasad.
+[SPEAKER_02] To jest wielki zaszczyt, prestiż i tak dalej, ale wynagradzany jest według innych stawek i ma te stawki o wiele niższe.
+[SPEAKER_02] Ale dyrektorzy są wynagradzani właściwie, merytorycznie stanowią elitę.
+[SPEAKER_02] Oczywiście oświadczenia majątkowe są dla nich dotkliwe, a dla niektórych w szczególności ze względu na sytuację osobistą, czy inną, czy tam gdzie mieszkają i tak dalej.
+[SPEAKER_02] ale całość ustawy zostanie zrealizowana w czasie.
+[SPEAKER_02] Nie dyskutujemy z prawem i nikt z banku nie będzie odchodził, ani nie będzie żadnych tutaj nieporozumień wewnętrznych z tego powodu.
+[SPEAKER_02] Nie odnotowałem nic takiego.
+[SPEAKER_02] Mamy skrzynki, do których mogą członkowie naszego stafu bankowego wkładać swoje uwagi, zapytania.
+[SPEAKER_02] Mamy adresy internetowe, na które mogą wysyłać takie pytanie.
+[SPEAKER_02] Nic się nie dzieje.
+[SPEAKER_02] nie ma szczególnego jakiegoś zainteresowania, chociaż oczywiście nie jest zdrowe dla instytucji, że wszyscy nawzajem o sobie będą wiedzieć wszystko.
+[SPEAKER_02] w żadnej instytucji.
+[SPEAKER_02] Dlatego dawałem za przykład uczelnię, no bo całe życie pracuję na uczelni, też sobie wyobrażam, co by to było.
+[SPEAKER_02] To jest dużo kolegów z SGH, jakby wszyscy znali swoje zarobki nawzajem.
+[SPEAKER_02] No to niby jest dobra zasada, ale też powodowałoby dużo niesnacek i pytania, dlaczego ja mam mniej, prawda.
+[SPEAKER_02] No więc to takie są różne rzeczy, które raczej nie wpływają dobrze na atmosferę w instytucji, ale nic się wielkiego nie stanie.
+[SPEAKER_02] Jaki jest rezultat praktyczny tej ustawy?
+[SPEAKER_02] że będę musiał bardzo pilnować, żeby nagrody i premie dla najlepiej opłacanych dyrektorów, nagrody i premie dla najlepiej opłacanych dyrektorów, bo nie płace zasadnicze, wynagrodzenie zasadnicze, pilnować na takim poziomie, żeby nie przekroczyło współczynnika, który ustawa wyznacza.
+[SPEAKER_02] To jest jedyne, co się zmienia w banku.
+[SPEAKER_02] I to będzie dotyczyło grupy ograniczonej ilości dyrektorów.
+[SPEAKER_02] No i stanowi pewien problem, jak to wycyrklować, żeby tak było.
+[SPEAKER_02] Natomiast w ogóle to nie musi dotyczyć wynagrodzeń zasadniczych.
+[SPEAKER_02] Tylko właśnie nagród i premii trzeba tak cyzelować, żeby nie przekroczyć ustawowego wskaźnika.
+[SPEAKER_02] A dla przeciętnego pracownika banku to nie ma żadnego znaczenia.
+[SPEAKER_02] I dla większości dyrektorów też nie ma żadnego znaczenia.
+[SPEAKER_02] Także tu nie ma żadnych problemów organizacyjnych wewnętrznych.
+[SPEAKER_02] Tylko taki może pozostał niesmak.
+[SPEAKER_02] No i takie pytania korytarzowe typu, no a dlaczego tylko my?
+[SPEAKER_02] jako jedyna instytucja w Polsce i jedyny bank centralny w Europie, a być może na świecie.
+[SPEAKER_02] To ciekawe jest zresztą, chciałbym zapominam spytać, zobaczymy jak to jest na świecie.
+[SPEAKER_02] No bo w Europie będziemy jedynym takim bankiem, ale damy sobie z tym radę.
+[SPEAKER_02] To naprawdę są ludzie na najwyższym poziomie.
+[SPEAKER_02] My tu mamy prawie stu profesorów, też z SGH głównie, ale różnych.
+[SPEAKER_02] Mamy najlepszy zespół analityczny, bo pan pyta, jak to wpłynie na pracę naszego zespołu analitycznego, właśnie związanego z tymi naszymi projekcjami.
+[SPEAKER_02] Mamy najlepszy zespół, nieporównywalny z niczym innym.
+[SPEAKER_02] Jakby się zebrały ekipy wszystkich uczelni wyższych, poza naszymi pracownikami, którzy łączą funkcje nauczycieli akademickich i naukowców z bankiem,
+[SPEAKER_02] no to to był jakby ułamek naszych możliwości.
+[SPEAKER_02] Tylko Narodowy Bank Polski ma zasoby finansowe, informatyczne, informacyjne i ludzkie, które pozwalają nam na najwyższym poziomie prezentować analizy i projekcje.
+[SPEAKER_02] No i jak do tej pory odpukać, no jesteśmy
+[SPEAKER_02] chyba nie zaryzykuje, że najbliżej prawdy zawsze tego, co się później ukazuje w następnych kwartałach.
+[SPEAKER_02] No w każdym razie tak jak na swoje potrzeby patrzę, to zawsze jesteśmy bliżej niż EBC, bliżej niż Komisja Europejska, bliżej niż Międzynarodowy Fundusz Walutowy.
+[SPEAKER_02] No to nam daje oczywiście jakąś satysfakcję, ale to dlatego, że no jesteśmy bliżej naszej gospodarki.
+[SPEAKER_02] Lepiej znam jej możliwości.
+[SPEAKER_02] Na Zachodzie często się nie docenia jakby możliwości polskiej gospodarki.
+[SPEAKER_02] Dlaczego?
+[SPEAKER_02] Dlatego, że po komunizmie młodzi w średnim wieku ludzie u nas są niesamowicie dynamiczni i chcą dużo pracować.
+[SPEAKER_02] Na Zachodzie ludziom się nie chce już tyle pracować.
+[SPEAKER_02] Już w którymś pokoleniu są zamożni.
+[SPEAKER_02] Bardziej sobie cenią czas wolny i tak dalej.
+[SPEAKER_02] Nie mają tej motywacji ogromnej jak nasi młodzi i w średnim wieku ludzie, którzy chcą, żeby oni i ich rodziny żyli godnie, a poza tym ciekawi tego wszystkiego.
+[SPEAKER_02] I dlatego nasi pracownicy są lepsi.
+[SPEAKER_02] Nie mówię tego z jakichś przyczyn, że tak powiem, nacjonalistycznych, ale są lepsi.
+[SPEAKER_02] Po prostu po komunizmie, podejrzewam, w wszystkich krajach, jak się dobrze ułoży system prawa, organizacji w każdym kraju pokomunistycznym, to to będzie lepiej funkcjonować.
+[SPEAKER_02] Przez kilka pokoleń.
+[SPEAKER_02] Bo potem też się u nas ludzie rozleniwią, będą mieli większe zasoby, nie będą tak musieli, będą mieli zasoby rodzinne, inne, będą mogli żyć z innych rzeczy.
+[SPEAKER_02] inne kariery widzieć, ale teraz jest niesamowicie dynamiczne społeczeństwo, może najbardziej dynamiczne w Europie, bo u nas się dobrze wszystko stało, że właśnie jest wykształcenie, są niezłe instytucje już, chociażbyśmy narzekali, bo to jest najsłabszy punkt, system prawa może jeszcze, a ludzie są najbardziej dynamiczni, zresztą nasza emigracja do Anglii, czy gdzieś też to pokazuje.
+[SPEAKER_02] A Zachód często tego nie docenia, patrzy na te gołe jakby wskaźniki, te tak zwane fundamenty i z nich nie wynika tak dynamiczny rozwój, jak mamy w tej chwili.
+[SPEAKER_02] A jednocześnie wysoki poziom zarządzania, no nie tylko banku centralnego, no zawsze się chwalimy, bo trzeba się chwalić, nikt nas nie pochwali przecież.
+[SPEAKER_02] Ale banki komercyjne w Polsce, zatrudniające polskich urzędników też są na bardzo wysokim poziomie.
+[SPEAKER_02] Przecież nasze banki komercyjne są na najwyższym poziomie i są, świadczą usługi chyba najnowocześniej w Europie.
+[SPEAKER_02] Wszystko jest u nas niesłychanie zaawansowane.
+[SPEAKER_02] Przeskakujemy z niższego poziomu od razu na dużo wyższe.
+[SPEAKER_02] No tak to jak jest, jak telefonia kablowa się w Polsce nie zdążyło upowszechnić, mało kto miał telefon i od razu wszyscy mają po dwa komórkowe.
+[SPEAKER_02] Tego etapu pośredniego nie mieliśmy.
+[SPEAKER_02] Także tak to jest, jak jedziemy do Stanów Zjednoczonych i z zdziwieniem widzimy, że tam w bankach obsługują na gorszym poziomie i organizacyjnie są gorsi.
+[SPEAKER_02] I mają starszy sprzęt i komputery i wszystko.
+[SPEAKER_02] No to jest jakby nasz przywilej młodego kraju.
+[SPEAKER_02] A w banku są najlepsi z najlepszych.
+[SPEAKER_02] Do nas przychodzą ludzie po uczelniach, ale przychodzą też z innych banków, bo jest dobre wynagrodzenie.
+[SPEAKER_02] Jakbyśmy dawali słabo, no to oczywiście by nie przychodzili, no bo to jest jednak ważny element.
+[SPEAKER_02] Ale też dajemy stabilność pracy.
+[SPEAKER_02] Dajemy satysfakcję z pracy, dajemy ciągłe podnoszenie kwalifikacji, czego w bankach komercyjnych niekoniecznie jest.
+[SPEAKER_02] Od nas się ciągle wyjeżdża na staże, seminaria, do Europy, na świat.
+[SPEAKER_02] Jest ta możliwość edukacji.
+[SPEAKER_02] My wspieramy finansowo też różnego rodzaju edukację, podwyższanie kwalifikacji.
+[SPEAKER_02] Dbamy o to, sprowadzamy tu też najlepszych ludzi.
+[SPEAKER_02] Tu siedzą koledzy, którzy sprowadzają najwybitniejszych fachowców ze świata, którzy w tej sali prezentują najnowsze rzeczy.
+[SPEAKER_02] Dyskutujemy najnowsze artykuły, najlepsze publikacje, które się pojawiają na świecie.
+[SPEAKER_02] Płacimy ciężkie pieniądze za najnowsze informatyczne linie, które nam przekazują najnowszą wiedzę.
+[SPEAKER_02] Taką dosłownie z zeszłego tygodnia, z poprzedniego dnia z całego świata.
+[SPEAKER_02] Żadna uczelnia tego nie ma w Polsce.
+[SPEAKER_02] Dlatego ci naukowcy, co u nas pracują, pracownicy naukowi, profesorowie, mają ten handicap ogromny.
+[SPEAKER_02] ten ogromny atut, że oni to właśnie mogą na swojej uczelni też prezentować i są ciekawi dla studentów.
+[SPEAKER_02] I my przyjmujemy ze wszystkich stron, chociaż oczywiście siłą rzeczy z Warszawy, bo miejsce zamieszkania jest istotne i siłą rzeczy ze Szkoły Głównej Handlowej, no bo tak to się dzieje nie dlatego, że ja jestem ze Szkoły Głównej Handlowej, że kolega jest, prawda, że tutaj
+[SPEAKER_02] Ja nie jestem.
+[SPEAKER_02] Kolega jest z Uniwersytetu Warszawskiego.
+[SPEAKER_02] Jest pewien pluralizm.
+[SPEAKER_02] Jest to też źródło, ale tam jest jeden wydział ekonomiczny, prawda?
+[SPEAKER_02] A SGH jest cały.
+[SPEAKER_02] Ale bardzo dobry.
+[SPEAKER_02] Ale to nie dlatego, że z innych uczelni nie.
+[SPEAKER_02] Proszę pamiętać, że mamy dobry staw też w oddziałach.
+[SPEAKER_02] Wy w ogóle zapominacie Państwo jako dziennikarze.
+[SPEAKER_02] Mamy 16 oddziałów.
+[SPEAKER_02] Tam wszędzie też są świetni ludzie.
+[SPEAKER_02] Wspaniałe budynki, możliwości działania.
+[SPEAKER_02] Każdy oddział lokalny współpracuje z uczelnią.
+[SPEAKER_02] Takie ma zadania podstawowe.
+[SPEAKER_02] Współpracowuje z uczelnią wyższą na swoim terenie.
+[SPEAKER_02] Organizuje seminaria, spotkania, ankiety wśród przedsiębiorców.
+[SPEAKER_02] To jest ważne zadanie.
+[SPEAKER_02] Jak opublikowaliśmy w związku z pracą nad tą ustawą listę dyrektorów, to tacy zdziwieni byli niektórzy.
+[SPEAKER_02] Ile tych dyrektorów ten bank ma?
+[SPEAKER_02] Ile tych departamentów ma, prawda, no, że mamy 42 departamenty, a ile oddziałów, no, bank centralny to nie jest Banczek, to jest bank centralny, tak samo mają banki europejskie, które są, nawet sto jeszcze euro mają dużo.
+[SPEAKER_02] To jest państwo, bank centralny jest częścią państwa, taką jedną z fundamentalnych części państwa, konstytucyjną częścią państwa.
+[SPEAKER_02] I polski złoty jest konstytucyjnym elementem polskiej suwerenności i niepodległości, obchodzimy stulecie,
+[SPEAKER_02] w tym roku i bank się do tego też przyłoży.
+[SPEAKER_02] I na tym, proszę Państwa, oszczędzać nie będziemy, niezależnie co ten czy inny poseł na ten temat będzie pisał czy wypytywał.
+[SPEAKER_02] Są pewne rzeczy niezbywalne.
+[SPEAKER_02] My wydajemy, proszę Państwa, ogromne sumy na edukację ekonomiczną co roku.
+[SPEAKER_02] I to też banki centralne i inne europejskie też robią.
+[SPEAKER_02] A kto to będzie robił?
+[SPEAKER_02] Uczelnie będą robiły to, żeby dzieci, starszych ludzi, wszystkich ekonomicznych rzeczy uczyć i bankowych.
+[SPEAKER_02] Bank centralny to robi.
+[SPEAKER_02] Trzeba by jakąś akcję zrobić taką edukacyjną, też większą właśnie o funkcjach banku centralnego.
+[SPEAKER_02] My decydujemy o tym, że się ludzie kartami kredytowymi posługujecie i płatniczymi bezpiecznie, zbliżeniowo płacicie, że jesteśmy bardzo nowocześni w tym.
+[SPEAKER_02] I to każdego dnia musi być pilnowane, nadzorowane, certyfikowane, licencjonowane i tak dalej.
+[SPEAKER_02] A tu nagle takie zdziwienie, prawda?
+[SPEAKER_02] I że jakiś tam departament, dziennikarze czasami piszą za dużo, zarabia w stosunku do jakiegoś departamentu.
+[SPEAKER_02] Czasami tutaj wszyscy się pokładają ze śmiechu.
+[SPEAKER_02] Piszą o jakimś departamencie, który na przykład zatrudnia 10 osób, że zarabia mniej niż departament, który ma 240 osób.
+[SPEAKER_02] No po prostu
+[SPEAKER_02] Trzeba by nad tym posiedzieć długo, a lepiej w ogóle się tym nie zajmować.
+[SPEAKER_02] Jest ustawa, spłaszczamy te wynagrodzenia, obcinamy te górne, jeśli to raziło opinię publiczną.
+[SPEAKER_02] Nadal będą dyrektorzy zarabiać kilkakrotnie więcej, przynajmniej niż posłowie.
+[SPEAKER_02] Nic na to nie poradzę.
+[SPEAKER_02] Prezes będzie zarabiał więcej niż prezydent i dyrektorzy też będą więcej zarabiać niż prezydent.
+[SPEAKER_02] Ale tak jest w każdym kraju europejskim, więcej, w każdym kraju na świecie.
+[SPEAKER_01] Dziękujemy za dzisiejsze spotkanie.

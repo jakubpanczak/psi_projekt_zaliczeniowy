@@ -1,0 +1,415 @@
+[UNKNOWN_SPEAKER] Muzyka Muzyka
+[SPEAKER_07] Dzień dobry Państwu.
+[SPEAKER_07] Witamy serdecznie na konferencji prasowej po posiedzeniu Rady Polityki Pieniężnej.
+[SPEAKER_07] W dzisiejszej konferencji udział biorą Pan Profesor Adam Glapiński, Prezes Narodowego Banku Polskiego i Przewodniczący Rady Polityki Pieniężnej oraz członkowie Rady Polityki Pieniężnej Pan Profesor Eugeniusz Gatnar i Pan Doktor Jerzy Kropiwnicki.
+[SPEAKER_07] Panie Prezesie, bardzo proszę, oddaję Panu głos.
+[SPEAKER_04] Witam Państwa serdecznie w nowym roku.
+[SPEAKER_04] Czyli będzie równie dobry jak poprzedni dla naszej gospodarki.
+[SPEAKER_04] Wszystko na to wskazuje.
+[SPEAKER_04] Przedstawiam informacje po posiedzeniu.
+[SPEAKER_04] Rada postanowiła utrzymać stopy procentowe NBP na niezmienionym poziomie.
+[SPEAKER_04] Stopa referencyjna 1,5, stopa lombardowa 2,5, stopa depozytowa 0,5, stopa redyskontowe 1,75.
+[SPEAKER_04] W gospodarce światowej trwa poprawa koniunktury.
+[SPEAKER_04] W strefie euro dane sygnalizują dalsze ożywienie aktywności gospodarczej, czemu sprzyja poprawa sytuacji na rynku pracy, bardzo dobre nastroje podmiotów gospodarczych, a także wzrost obrotu w handlu międzynarodowym.
+[SPEAKER_04] Korzystna koniunktura utrzymuje się także w Stanach Zjednoczonych.
+[SPEAKER_04] Z kolei w Chinach napływające dane wskazują na niższą dynamikę aktywności gospodarczej.
+[SPEAKER_04] Mimo ożywienia globalnej koniunktury inflacja za granicą pozostaje umiarkowana.
+[SPEAKER_04] Przyczynia się do tego wciąż niska wewnętrzna presja inflacyjna w wielu krajach.
+[SPEAKER_04] Jednocześnie ceny niektórych surowców, w tym ropy naftowej, wzrosły w ostatnich miesiącach.
+[SPEAKER_04] Europejski Bank Centralny utrzymuje stopy procentowe na poziomie bliskim zera, w tym stopę depozytową poniżej zera, a także nadal skupuje aktywa finansowe.
+[SPEAKER_04] Rezerwa Federalna Stanów Zjednoczonych podwyższyła w grudniu stopy procentowe i kontynuuje zmniejszanie swojej sumy bilansowej.
+[SPEAKER_04] W Polsce napływające dane wskazują na utrzymywanie się dobrej koniunktury.
+[SPEAKER_04] Głównym czynnikiem wzrostu pozostaje popyt konsumpcyjny wspierany przez wzrost zatrudnienia i płac, wypłaty świadczeń oraz bardzo dobre nastroje konsumentów.
+[SPEAKER_04] Towarzyszy temu ożywienie inwestycji, głównie publicznie.
+[SPEAKER_04] Wzrost aktywności gospodarczej jest także wspierany przez silny popyt zewnętrzny odzwierciedlony w istotnym wzroście eksportu.
+[SPEAKER_04] Roczna dynamika cen
+[SPEAKER_04] obniżyła się i kształtuje się na umiarkowanym poziomie.
+[SPEAKER_04] Jednocześnie, mimo szybszego niż w poprzednich kwartałach wzrostu płat w przedsiębiorstwach, niska pozostaje inflacja bazowa po wyłączeniu cen żywności i energii.
+[SPEAKER_04] W ocenie Rady w nadchodzących kwartałach utrzyma się korzystna koniunktura w polskiej gospodarce, choć dynamika PKB będzie prawdopodobnie niższa niż w drugiej połowie 2017 roku.
+[SPEAKER_04] Biorąc pod uwagę aktualne informacje, Rada ocenia, że w horyzoncie projekcji inflacja utrzyma się w pobliżu celu inflacyjnego.
+[SPEAKER_04] W efekcie obecny poziom stóp procentowych sprzyja utrzymaniu polskiej gospodarki na ścieżce zrównoważonego wzrostu oraz pozwala zachować równowagę makroekonomiczną.
+[SPEAKER_04] Dziękuję.
+[SPEAKER_07] Dziękuję bardzo Panie Prezesie.
+[SPEAKER_07] Bardzo proszę Państwa o pytania.
+[SPEAKER_07] Pan redaktor Pudłowski, bardzo proszę.
+[SPEAKER_02] Aleksander Pudłowski, Polska Agencja Prasowa.
+[SPEAKER_02] Panie Prezesie, chciałem zapytać, czy ten ostatni spadek inflacji był zgodny z Pana oczekiwaniami i czy jakoś to wpływa na perspektywy polityki pieniężnej, czyli to, co Pan powtarzał już od dawna, czyli brak podwyżek stóp procentowych w tym roku?
+[SPEAKER_04] Tak, zgodny z oczekiwaniami moimi i tym, co przewidywały nasze zespoły analityczne, Departament Analiz Ekonomicznych.
+[SPEAKER_04] Dokładnie taki rozwój sytuacji przewidywał.
+[SPEAKER_02] Czyli w obliczu tych danych dalej nie powinniśmy się spodziewać podwyżki stóp procentowych w tym roku?
+[SPEAKER_04] Na podstawie istniejących w tej chwili danych, informacji, projekcji nie.
+[SPEAKER_04] Według mnie nie.
+[SPEAKER_04] Ale to jest moje osobiste zdanie.
+[SPEAKER_04] Jeśli chodzi o tak długi okres czasu, zdanie członków rady mogą być inne.
+[SPEAKER_04] Zobaczymy.
+[SPEAKER_04] To się będzie kształtować w dyskusji.
+[SPEAKER_04] Moje zdanie jest takie, że do końca 2018 stopy prawdopodobnie zostaną takie same.
+[SPEAKER_02] Ale spodziewa się Pan, że ta dyskusja może się zacząć wcześniej nad ewentualną podwyżką?
+[SPEAKER_04] Wszystko zależy od napływających danych.
+[SPEAKER_04] W świetle tej projekcji, którą mamy, nie.
+[SPEAKER_02] A jeszcze chciałem zapytać, czy ten okres może się przedłużyć na 2019 rok?
+[SPEAKER_04] W świetle istniejących danych i projekcji tak, może się nawet przedłużyć na dłuższy okres.
+[SPEAKER_02] ale nawet na cały 2019 rok?
+[SPEAKER_04] Proszę pana, tak daleko to ekonomiści nie wybiegają odpowiedzialnie.
+[SPEAKER_04] Można mieć projekcje jakieś osobiste, personalne, ale to dotyczy losu świata.
+[SPEAKER_04] To jest dla filozofów.
+[SPEAKER_02] Jeszcze chciałem zapytać pana profesora Gatnara, który zresztą jak ostatnio rozmawialiśmy, pan profesor mówił o potrzebie podwyżki w pierwszym kwartale tego roku.
+[SPEAKER_03] Mówiłem to w trybie warunkowym oczywiście, jeśli tamte, tak jak rozmawialiśmy chyba w listopadzie, jeśli tamte procesy cenotwórcze miałyby impet, a ten impet właśnie można powiedzieć chwilowo straciły.
+[SPEAKER_03] Ten spadek, na razie mamy tylko flesz, więc to jest...
+[SPEAKER_03] powiedzmy, no jakiś szacunek wstępny, tak?
+[SPEAKER_03] One się sprawdzały do tej pory, jeśli chodzi o GUS, one były potwierdzane, ale na razie mamy spadek do 2%.
+[SPEAKER_03] Moim zdaniem to jest trochę nawet więcej niż konsensus rynkowy, tak?
+[SPEAKER_03] Konsensus rynkowy mówił 2,1, chyba nasza projekcja, panie prezesie, mówiła 2,2, więc
+[SPEAKER_03] ten niższy, ten głębszy spadek inflacji w grudniu, myśmy się go spodziewali, bo to wysoka baza i oczywiście ubocnienie złotego, które tam jakoś zamortyzowało wzrost cen paliw i żywności importowanej, to te czynniki spowodowały jednak głębszy spadek inflacji niż nam się wydawało, co dla mnie w kontekście pytania, które pan postawił,
+[SPEAKER_03] Każe mi poczekać na projekcję marcową, ponieważ nie jestem pewien, czy czasem nie ujawnia się jakiś proces, który będzie skutkował obniżeniem ścieżki inflacyjnej, jaka była w projekcji listopadowej.
+[SPEAKER_04] Oczywiście otoczenie ma olbrzymie znaczenie dla nas.
+[SPEAKER_04] Podobna sytuacja jest w całym naszym najbliższym i trochę dalszym otoczeniu europejskim.
+[SPEAKER_02] Czyli również w Pana ocenie ta podwyżka może się troszkę odsunąć w czasie?
+[SPEAKER_03] W świetle tych danych, jakie mamy w grudniu, będę czekał na projekcję marcową.
+[SPEAKER_03] Chciałbym sprawdzić, zobaczyć, czy czasem nie zachodzą jakieś procesy, które powodują, że ta ścieżka inflacji zostanie obniżona.
+[SPEAKER_03] Jak Państwo widzieliście w projekcji listopadowej, w połowie roku gdzieś CPI powinna byłaby osiągnąć poziomy z górnego przedziału tego progu, tego korytarza, a więc gdzieś 2,7, 2,8, 2,9%.
+[SPEAKER_03] Teraz uważam, że należy zaczekać, aby sprawdzić, potwierdzić, czy tak istotnie będzie.
+[SPEAKER_02] Jeszcze chciałem tylko zapytać, w jakich miejscach widzi Pan możliwość, że te procesy się ujawnią?
+[SPEAKER_02] Czy to jest raczej rynek wewnętrzny, rynek pracy, czy właśnie otoczenie zewnętrzne, ceny ropy?
+[SPEAKER_03] Dla mnie źródłem niepewności takim, który chyba dobrze jakoś potrafię zidentyfikować, jest rynek pracy właśnie.
+[SPEAKER_03] bo tam jest kilka czynników, które musimy wziąć pod uwagę, więc obniżony wiek emerytalny, jego skutki na razie widzimy tylko w części, ponieważ tamte 300 tysięcy decyzji ZUS-u to w połowie, prawie w 40% powiedzmy to są ludzie nieaktywni, więc nie wiemy co stanie się z następną grupą ludzi, która złoży te wnioski już w tym roku.
+[SPEAKER_03] Mamy jeszcze drugą rzecz.
+[SPEAKER_03] Jeżeli inwestycje ruszyły, na co wskazują dane o produkcji sektora np. budowlano-montażowego jeszcze z zeszłego roku, jeżeli one ruszyły, to oczywiście też będą wymagały nowych zasobów pracy.
+[SPEAKER_03] a jednak wydaje się, że część firm, które ankietujemy i tak już zgłasza tutaj dość duże problemy, jako pewną barierę wzrostu właśnie zgłasza ten brak siły roboczej.
+[SPEAKER_03] Ta przestrzeń do aktywizacji też w naszym kraju po prostu się kurczy, więc tutaj widzę pewne niepewności ryzyka.
+[SPEAKER_04] Trudno tak daleko coś przewidywać.
+[SPEAKER_04] Część firm zgłasza, ale to nadal jest tylko 10% firm.
+[SPEAKER_04] I są ogromne rezerwy jeszcze zatrudnienia, jak patrząc na porównanie Polski z krajami innymi europejskimi.
+[SPEAKER_04] No i cały czas napływ jest pracowników ze wschodu.
+[SPEAKER_04] On prawdopodobnie będzie się jakoś wygaszał z czasem, no ale na razie jest.
+[SPEAKER_03] Jeszcze jedna rzecz, to jest kwestia sektor publiczny, bo tam mamy zamrożone płace.
+[SPEAKER_03] Na razie to rekompensują te programy, te transfery socjalne 500+, itd.
+[SPEAKER_03] Wydaje mi się, że jest pytanie, jak długo pracownicy, związki zawodowe sektora publicznego tę sytuację będą tolerować.
+[SPEAKER_07] Pan redaktor Sobczak, bardzo proszę.
+[SPEAKER_06] Dzień dobry, Paweł Sobczak z Agencji Reitera.
+[SPEAKER_06] A wiązując do tego, co Panowie mówiliście, chciałem się spytać, co by się musiało wydarzyć, jak rozumiem, w dalszej przyszłości, żebyście Państwo jako Rada zważyli możliwość podwyżki stóp procentowych?
+[SPEAKER_04] Dlaczego Państwo interesują się tylko, jakieś czarne scenariusze i tylko podwyżka stóp?
+[SPEAKER_04] Nie pyta Pan, co by się mogło wydarzyć, żebyśmy obniżyli stopy?
+[SPEAKER_04] Byłem w czasie weekendu do poniedziałku w Bazylei na spotkaniu BIS-u, Banku Międzynarodowych Rozliczeń.
+[SPEAKER_04] Wszystkie scenariusze są brane pod uwagę i jakieś tam stopnie niepewności są.
+[SPEAKER_04] U nas jest tylko to oczekiwanie i bombardowanie pytaniami, kiedy mogą nastąpić podwyżki.
+[SPEAKER_04] No na razie nie ma żadnych danych ani projekcji, które by upoważniały do tego myślenia.
+[SPEAKER_04] Dlatego mówię, że do końca roku prawdopodobnie nie będziemy podwyższać, nie będziemy ruszać w ogóle poziomu stóp.
+[SPEAKER_04] Państwo pytają, co by mogło nastąpić.
+[SPEAKER_04] No wojny,
+[SPEAKER_04] Takie dwa czynniki były wymieniane międzynarodowo.
+[SPEAKER_04] Są wojny, prawda?
+[SPEAKER_04] Gdzie wzrost cen ropy naftowej i innych surowców by nastąpił.
+[SPEAKER_04] Ale to naprawdę my nie jesteśmy od tego, żeby rozważać prawdopodobieństwo konfliktu zbrojnego.
+[SPEAKER_04] To państwo czytają gazety i oglądają telewizję, internet.
+[SPEAKER_04] To państwo sami mogą pomyśleć.
+[SPEAKER_04] Czy też polityka pieniężna wtedy akurat będzie
+[SPEAKER_04] właściwą metodą, żeby tego rodzaju podwyżki cen.
+[SPEAKER_04] No polityka pieniężna wtedy się tylko nadaje do tego, żeby spirale ewentualnie cen i płac hamować.
+[SPEAKER_04] No ale na samej podwyżki cen ropy polityka pieniężna nie ma wpływu na te zewnętrzne czynniki.
+[SPEAKER_04] My na bazową inflację mamy wpływ, która jest poniżej 1%.
+[SPEAKER_04] Prawdopodobnie jeszcze opadła.
+[SPEAKER_04] W ostatnim miesiącu nie mamy jeszcze danych.
+[SPEAKER_04] Żadny po prostu nie ma takich elementów w tej chwili, które by do tego upoważniały.
+[SPEAKER_04] I w całej Europie tak jest.
+[SPEAKER_04] W całej Europie, proszę Państwa, w całej strefie euro stopy procentowe są ujemne.
+[SPEAKER_04] W 30 krajach najlepiej rozwiniętych są ujemne stopy.
+[SPEAKER_04] Z wyjątkiem, jak dzisiaj mówiliśmy, Islandii.
+[SPEAKER_04] jakichś wyjątków.
+[SPEAKER_04] U nas to nie jest nic nadzwyczajnego.
+[SPEAKER_04] Po prostu wszystkie te kraje, cały ten świat rozwinięty się rozwijał w tej chwili w podobnych warunkach.
+[SPEAKER_04] Można sugerować w Czechach podwyższono 100%, ale są dwukrotnie niższe niż nasze.
+[SPEAKER_04] Taki jest świat w tej chwili, a Państwo wybiegają w jakiś świat w pewnym sensie bardziej jeszcze optymistyczny, no bo, proszę pana, gdyby tempo wzrostu uległo nagle podwojeniu w całym świecie rozwiniętym, łącznie z nami, no to pewnie gospodarka by zaczęła się jakoś tam grzać i byłoby...
+[SPEAKER_04] na czas wcześniej odpowiednio działanie Rady Polityki Pieniężnej.
+[SPEAKER_04] Ja bym chciał takiego świata, gdzie grozi nam inflacja z przegrzania, z tempa rozwoju, z promieniowania tego rozwoju na wszystkie kraje.
+[SPEAKER_04] No nie ma takiej sytuacji.
+[SPEAKER_04] Raczej kraj bardzo tak powolutku, powolutku ruszył.
+[SPEAKER_04] z tej deflacji, utrzymuje się trochę na powierzchni dodatnich przyrostów i tak kolebie się, ale ani ten rozwój nie jest jakiś dynamiczny, ani pewny też do końca.
+[SPEAKER_04] No nadal jest luzowanie ilościowe, nadal EBC kupuje papiery.
+[SPEAKER_04] Stopy są na historycznie niskich pozycjach.
+[SPEAKER_04] No i to naprawdę my nic oryginalnego nie będziemy robić.
+[SPEAKER_04] My idziemy razem z całym światem po prostu rozwiniętym.
+[SPEAKER_04] Zawsze jest ta... Dysparytet stóp jest zawsze koło tych 2% i u nas są zawsze stopy wyższe.
+[SPEAKER_04] Nie mogą być radykalnie wyższe, bo byśmy byli zalani wtedy inwestorami, a kurs złotego by poszybował pod niebo.
+[SPEAKER_04] I tak jesteśmy bardzo korzystnym terenem do inwestowania w tej chwili.
+[SPEAKER_04] Mamy bardzo dobre zainteresowanie naszymi papierami dłużnymi.
+[SPEAKER_04] A gdybyśmy się zachowali nieodpowiedzialnie, no to byśmy ten rynek rozregulowali.
+[SPEAKER_04] My się zachowujemy bardzo konserwatywnie, spokojnie, tak jak zawsze.
+[SPEAKER_04] Jesteśmy tak oceniani, nasze decyzje są przewidywalne i to nic nadzwyczajnego nie może nastąpić.
+[SPEAKER_05] Przyznam, że pod koniec ubiegłego roku przez kilka godzin razem z profesorem Gatnarem studiowaliśmy statystyki dotyczące w szczególności rynku pracy.
+[SPEAKER_05] zastanawiając się, czy pojawiają tam się jakieś zdarzenia, czy widoczne są jakieś tendencje, choćby na razie słabe, które w przyszłości mogłyby powodować rozkręcenie się spirali cen i płac, bo
+[SPEAKER_05] Czy krótko mówiąc grozi nam taka sytuacja, że wzrost płac zacznie być o wiele szybszy niż wzrost wydajności pracy?
+[SPEAKER_05] Celowo mówię o wiele szybszy, dlatego że mamy za sobą okres, kiedy ten wzrost płac był znacznie niższy od wzrostu wydajności pracy.
+[SPEAKER_05] To stworzyło bufor taki.
+[SPEAKER_05] Zastanawiając się, czy będziemy widzieli jakieś naciski ze strony związków zawodowych,
+[SPEAKER_05] w sferze budżetowej, w przemyśle.
+[SPEAKER_05] Okazało się, że to wszystko jest bardzo umiarkowane, że w dalszym ciągu mamy sytuację, w której wzrost płac nie nadąża za wzrostami wydajności pracy,
+[SPEAKER_05] No i dzisiaj zarówno profesor Gatnary, jak i ja z pełnym przekonaniem głosowaliśmy za tym, co Państwo dzisiaj zobaczyliście.
+[SPEAKER_05] Nie było różnicy.
+[SPEAKER_03] To znaczy nie było głosowania.
+[SPEAKER_03] Za komunikatem.
+[SPEAKER_05] To znaczy deklarowaliśmy, powinienem powiedzieć deklarowaliśmy poparcie dla utrzymania tego
+[SPEAKER_05] Mimo, że już jestem ponad rok, to jeszcze nie nawykłem do tego dworskiego, specyficznego języka dotyczącego komunikatów Rady Polityki Pieniężnej.
+[SPEAKER_05] Proszę mi to wybaczyć i nie znęcać się nade mną z tego powodu.
+[SPEAKER_04] To jest zagadka w ogóle z punktu widzenia polityki ekonomicznej, pieniężnej, ekonomii nawet w ogóle podręczników.
+[SPEAKER_04] Mamy taką sytuację, że mamy całkiem niezły w tej chwili wzrost, jak na tą
+[SPEAKER_04] miernotę, co była wcześniej, no to mieliznę.
+[SPEAKER_04] Natomiast nie ma towarzyszącemu tego zwykle wzrostu płac i cen.
+[SPEAKER_04] Na tym się zastanawiają wszyscy ekonomiści i analitycy.
+[SPEAKER_04] Chyba nie można ujawniać, co jest przedmiotem dyskusji w BIS-ie, no ale to oczywiście w ten czy inny sposób cały czas tam na ten temat rozmowa była i ta zagadka jest drążona.
+[SPEAKER_04] No dlaczego tego nie ma?
+[SPEAKER_04] Odpowiedź główna jest jaka?
+[SPEAKER_04] Globalizacja.
+[SPEAKER_04] że trudno jest o podwyżki płac związane z wzrostem.
+[SPEAKER_04] I słabe związki zawodowe.
+[SPEAKER_04] To idzie w parze.
+[SPEAKER_04] Ty nie prowokuj, przyjaciel.
+[SPEAKER_04] Bo globalizacja powoduje to, że te płace utraciły charakter takiej wewnętrznej dynamiki w ramach poszczególnego państwa czy grupy państw.
+[SPEAKER_04] Bo my konkurujemy tutaj w Polsce także z producentami w Chinach, Kambodży, Wietnamie i gdzie indziej.
+[SPEAKER_04] I po prostu to ciśnie płace w dół w całej Europie.
+[SPEAKER_04] Na różnych poziomach, ale ciśnie.
+[SPEAKER_04] Zrosty płac można uzyskiwać tam, gdzie są najwyższe technologie, nowatorskie jakieś rodzaje produkcji, gdzie się zyskuje tę rentę przedsiębiorcy, jak gdyby takiego innowatora.
+[SPEAKER_04] Natomiast w bardziej tradycyjnym sposobie wytwarzania się konkuruje.
+[SPEAKER_04] Bardzo łatwo jest przedsiębiorcom przenosić produkcję w różne kraje, gdzie są tańsi pracownicy.
+[SPEAKER_04] I głównie globalizacja jest tego przyczyną, ale także sposób, rodzaj postępu technicznego, który w tej chwili jest, ta łatwość przerzucania technologii, uproszczenie rodzajów pracy, nawet przy całkiem złożonych produktach.
+[SPEAKER_04] To są te przyczyny, które się wskazuje.
+[SPEAKER_04] Czy to jest dobrze dla świata, czy źle?
+[SPEAKER_04] Dla świata jest dobrze, że produkty wszystkie są łatwo dostępne i tanie, nawet zaawansowane.
+[SPEAKER_04] Dla poziomu życia pracowników,
+[SPEAKER_04] Wielu ekonomistów, mówię, się w tym zgadzam, że najlepiej to się żyło w zachodniej Europie czy w Stanach do 1972 roku.
+[SPEAKER_04] od późnych lat 50 do 72.
+[SPEAKER_04] Później świat się bardziej zrobił już taki globalny i to niesie ze sobą wszystkie konsekwencje.
+[SPEAKER_04] Jesteśmy tą jedną wioską trochę.
+[SPEAKER_04] No w każdym razie nie ma tej presji.
+[SPEAKER_04] Dobrego wyjaśnienia podręcznikowego tych tradycyjnych krzywych zależności nie ma w tej chwili.
+[SPEAKER_04] One nie występują.
+[SPEAKER_04] Nie mamy inflacji mimo tego, że koniunktura jest w miarę dobra.
+[SPEAKER_07] Pan redaktor Berenda, bardzo proszę.
+[SPEAKER_01] Dzień dobry, Krzysztof Berenda, Radio RMF.
+[SPEAKER_01] Mam dwa pytania.
+[SPEAKER_01] To pierwsze pewnie trochę będzie wyprzedzało rzeczywistość o parę miesięcy, ale anusz, bo przecież to ma wpływ na gospodarkę.
+[SPEAKER_01] Czy biorąc pod uwagę miniony rok i to, jak zachowywał się polski złoty, istnieje według Pana ryzyko, że zysk będzie NBP mniejszy niż
+[SPEAKER_01] w roku poprzednim, czyli mniejszy zastrzyk do budżetu państwa.
+[SPEAKER_01] Co może wpływać na to, ile państwo ma pieniędzy na inwestycje?
+[SPEAKER_04] To jest zabawa dla państwa na razie.
+[SPEAKER_04] My ogłaszamy jakikolwiek pierwszy komunikat o zysku, jak już audytor zaprzysiężony dokona audytu i będzie jego podpis.
+[SPEAKER_05] A proszę Państwa, proszę pamiętać o tym, że Narodowy Bank Polski jest instytucją publiczną, której celem nie jest osiąganie zysku, tylko pełnienie służby publicznej przewidzianej ustawą.
+[SPEAKER_05] My nie mamy obowiązku uzyskiwania lub nieuzyskiwania zysku.
+[SPEAKER_01] To drugie pytanie, jeżeli można w takim razie o zasady działalności NBP-u.
+[SPEAKER_01] Pojawiły się takie doniesienia w tym tygodniu dotyczące rozdziału Komisji Nadzoru Finansowego i wniesienia także, jak rozumiem, jak wynika z tego tekstu za aprobatą pana prezesa, wniesienia nadzoru nad bankami do Narodowego Banku Polskiego.
+[SPEAKER_01] Czy rzeczywiście jest taki plan?
+[SPEAKER_01] Czy pan temu mówi tak, czy ma jakieś zastrzeżenie?
+[SPEAKER_04] Czytałem ten tekst.
+[SPEAKER_04] No nie wydaje mi się, żeby jakieś tego rodzaju prace były prowadzone bez mojej wiedzy, a ja nic na ten temat nie wiem, to byłoby nierozsądne.
+[SPEAKER_04] Natomiast jak Państwo wiedzą od początku całej mojej kadencji, a nawet wcześniej głosiłem zawsze bardzo silnie udokumentowaną, udowodnioną i zaopatrzoną w potężne argumenty tezę, że należy nadzór finansowy ponownie połączyć z Narodowym Bankiem Polskim.
+[SPEAKER_04] Taki nadzór jaki jest w tej chwili bez rozdzielania go na poszczególne nadzory.
+[SPEAKER_04] Dlaczego tak w skrócie
+[SPEAKER_04] Tak jest w większości krajów w Unii Europejskiej.
+[SPEAKER_04] To jest takie wzmocnienie tej argumentacji, ale jakby niezależnie od tego, że tak jest w większości krajów w Unii Europejskiej, a eksperyment, który my kiedyś zrobiliśmy za Bankiem Anglii, żeby wydzielić nadzór z Banku Centralnego się okazał błędem i po kryzysie 2007 roku Bank Anglii z powrotem nadzór ma w Banku Centralnym.
+[SPEAKER_04] My tego ruchu jeszcze nie zrobiliśmy, ale dlaczego przede wszystkim?
+[SPEAKER_04] My jesteśmy
+[SPEAKER_04] krajem, który buduje instytucje od 20 kilku lat.
+[SPEAKER_04] Są nowe instytucje.
+[SPEAKER_04] W komunizmie nie było systemu bankowego, finansowego, rynku kapitałowego.
+[SPEAKER_04] One są budowane od niedawna.
+[SPEAKER_04] Stosunkowo jest niewielkie zaplecze i eksperckie, ludzie odpowiednio już doświadczonych, wykształconych w tym kierunku, zasoby materialne temu poświęcone, nagromadzone doświadczenie i tak dalej.
+[SPEAKER_04] I to wszystko musi sprawnie działać.
+[SPEAKER_04] My w Narodowym Banku Polskim i w RPP jesteśmy świadomi i tym się zajmujemy na co dzień.
+[SPEAKER_04] To, o czym my tu rozmawiamy o stopach procentowych, to jest bardzo mały margines w tej chwili pracy, bo nasza uwaga jest bardzo poświęcona, może nie margines, ale najwięcej uwagi jest poświęcone stabilności i makroostrożności, żeby system bankowy, cały system finansowy kraju zresztą był stabilny, wiarygodny, odpowiedzialny i bezpieczny, także w gorszej jakiejś potencjalnej sytuacji.
+[SPEAKER_04] No i z tego punktu widzenia nadzór powinien być razem z Narodowym Bankiem Polski.
+[SPEAKER_04] Narodowy Bank Polski ma istotne przewagi, no istnieje
+[SPEAKER_04] bardzo trwale, długo, ludzie mają duże doświadczenie nagromadzone, kadra jest bardzo stabilna, nie ukrywajmy lepsze finansowe zaplecze ma Narodowy Bank Polski, jest instytucją całkowicie niezależną.
+[SPEAKER_04] Przez te wszystkie wichury polityczne, które się mogą w demokracji dziać, niewątpliwie trwałą wartością, którą w Polsce mamy,
+[SPEAKER_04] To jest utrzymanie niezależności i suwerenności banku centralnego, która przez nikogo nie jest kwestionowana.
+[SPEAKER_04] Wszędzie na świecie się uznaje, że Narodowy Bank Polski spełniał wysokie standardy niezależności i to wielokrotnie udowadniał.
+[SPEAKER_04] No i to daje też nadzorowi oczywiście taką dużą siłę.
+[SPEAKER_04] Proszę pamiętać, że nadzór
+[SPEAKER_04] bankowe u nas czy nadzór finansowy, no to dotyczy dwóch bilionów złotych.
+[SPEAKER_04] To są ogromne środowisko, ogromne siły i urzędnicy muszą być na takim poziomie przygotowania merytorycznego, duchowego i każdego, żeby nad tym panować.
+[SPEAKER_04] No i Narodowy Bank Polski daje tą gwarancję.
+[SPEAKER_04] Także jakby ktoś miał jakieś inne pomysły, to bym namawiał do zastanawiania się, czy to na pewno jest słuszne.
+[SPEAKER_04] Należy skoncentrować w tej chwili wysiłki nad właśnie skomasowaniem nadzoru z zapleczem Narodowego Banku Polskiego.
+[SPEAKER_07] Pani redaktor Bartyzel, bardzo proszę.
+[SPEAKER_00] Ja bym zadała może ze dwa pytania chociaż.
+[SPEAKER_00] Po pierwsze może takie ad vocem tego dzisiejszego komunikatu.
+[SPEAKER_04] A to słowo chociaż na końcu co ono oznacza, że nie liczy Pani na odpowiedź?
+[SPEAKER_00] Nie, bo nie liczę na możliwość zadania więcej pytań.
+[SPEAKER_00] Odpowiedź jak najbardziej.
+[SPEAKER_00] Tutaj piszą Państwo, że w dalszym ciągu będziemy mieli korzystną koniunkturę gospodarczą, ale że będzie ona słabsza niż w drugiej połowie 2017 roku.
+[SPEAKER_00] Chciałabym dopytać w takim razie, jakie jest Państwa oczekiwanie, tak już bardziej dokładne, co do wzrostu PKB w drugiej połowie 2017 roku i jakiego rzędu spowolnienie na ten rok?
+[SPEAKER_04] No to są tylko projekcje i przewidywania.
+[SPEAKER_04] Nie wiem, czy członkowie rady, którzy tu siedzą, zresztą mają takie samo zdanie w tej kwestii.
+[SPEAKER_05] Ja nie, przewiduję cztery i pół.
+[SPEAKER_03] No to dokładnie się zgadza z moimi przedmiotami.
+[SPEAKER_00] Ale cztery i pół w dwutysięcznym osiemnastym?
+[SPEAKER_00] Osiemnaście.
+[SPEAKER_00] Osiemnastym, ale tak.
+[SPEAKER_00] Średnio rocznie.
+[SPEAKER_05] Na koniec roku dwa tysiące osiemnastego.
+[SPEAKER_00] A pan prezes?
+[SPEAKER_04] Jak Państwo widzą, jestem optymistą, ale może bardziej zdyscyplinowanym i spodziewam się poniżej 4.
+[SPEAKER_00] Poniżej 4.
+[SPEAKER_00] 3,5.
+[SPEAKER_04] Chciałam usłyszeć… Proszę pamiętać, taki naturalny tempo wzrostu potencjalny, różnie to szacują, ale my przyjmujemy tak między 3 a 4.
+[SPEAKER_04] 3,5 to byłoby bardzo przyzwoite tempo wzrostu.
+[SPEAKER_00] To jest sporo powyżej tej projekcji, którą w tej chwili dysponujemy.
+[SPEAKER_04] Koniec roku się taki okazał, z tym, że koniec roku też wyznacza bazę, proszę pamiętać, więc statystycznie to różnie może być.
+[SPEAKER_04] Dlaczego ja tak myślę?
+[SPEAKER_04] Zawsze zaczynam od przeczytania danych dotyczących Niemiec i projekcji dotyczących Niemiec.
+[SPEAKER_04] Nasza gospodarka jest bardzo ściśle powiązana z gospodarką niemiecką.
+[SPEAKER_04] Zawsze tak było, że koniunktura Niemiec wyprzedza trochę stan koniunktury u nas.
+[SPEAKER_04] Ta koniunktura w Niemczech jest przewidywana, najpierw była przewidywana mocno gorsza, czy tam średnio gorsza, w tej chwili jest przewidywana trochę lepiej niż poprzednio, no i tak myślę, że jakoś będzie u nas.
+[SPEAKER_04] Te gospodarki są bardzo ze sobą powiązane, w tym dobrym znaczeniu tego słowa.
+[SPEAKER_00] A pan prezes troszeczkę jak tonem zarzutu sformułował takie pytanie, dlaczego państwo dopytują się o potencjalne podwyżki, a nie biorą pod uwagę przeciwnego scenariusza.
+[SPEAKER_00] Wydaje mi się, że to jest właśnie odpowiedź na tak postawione pytanie.
+[SPEAKER_00] Ciężko, żebyśmy przy wzroście powyżej 4,5% pytali po pierwsze o poluzowanie polityki monetarnej.
+[SPEAKER_04] I to jest pierwsze.
+[SPEAKER_04] Przypomnieć, że ten cel inflacyjny my mamy z tym marginesem w górę i w dół i traktujemy tą symetrię jednakowo, to znaczy odchylenie w górę od celu jest tak samo traktowane jak odchylenie w dół i reagujemy tak samo.
+[SPEAKER_04] To nie jest tak, że my jesteśmy zakodowani, żeby tylko w jednym wypadku interweniować, kiedy inflacja jest za wysoka.
+[SPEAKER_04] Jak się robi za nisko, to my tak samo możemy działać.
+[SPEAKER_04] Powinniśmy zgodnie z założeniami polityki pieniężnej.
+[SPEAKER_00] Wbrew temu, co mogłoby nam się wydawać, że od kilku miesięcy pan prezes cały czas powtarza, że nie oczekuje, jakoby potrzebne było zacieśnianie polityki monetarnej w 2018 roku.
+[SPEAKER_03] Zadam tak uważam.
+[SPEAKER_00] Nadal pan tak uważa.
+[SPEAKER_00] Dzisiaj powiedział pan zdecydowanie więcej.
+[SPEAKER_00] Ja bym chciała, żeby to wybrzmiało.
+[SPEAKER_00] Po raz pierwszy powiedział pan, że najprawdopodobniej ten okres może się także wydłużyć na 2019 rok.
+[SPEAKER_00] Wcześniej cały czas zastrzegał pan, że to zdecydowanie za wcześnie.
+[SPEAKER_04] Zaskakująco dobra końcówka roku, ostatni kwartał roku.
+[SPEAKER_04] i przy nadal zachowaniu stabilności i tych wskaźnikach wszystkich, no upoważniasz do takiego śmiałego przewidywania, ale to bym tego jako oficjalną zapowiedź czy przewidywanie nie podpisał.
+[SPEAKER_04] No tak jest moja osobista trochę intuicja.
+[SPEAKER_04] No my czytamy wszystkie dane codziennie.
+[SPEAKER_04] Ogromna ilość tych danych, poważnych projekcji, niepoważnych, jakiś indywidualnych analiz i tak dalej, to się składa na pogląd, który każdy członek rady jakiś ma.
+[SPEAKER_04] Mnie się wydaje, że ten okres taki, który będzie w osiemnastym roku był w siedemnastym jeszcze na dziewiętnasty wejdzie.
+[SPEAKER_04] A kłopotów tak jak mówiłem się mogę spodziewać jakiś tam dwadzieścia jeden rok dwa tysiące dwudziesty pierwszy.
+[SPEAKER_04] To już tam jakieś pomysły mogą być na temat jakichś kłopotów, ale wydaje się, że w całej Europie ta sytuacja będzie w tej chwili taka.
+[SPEAKER_00] Czyli wydłużył pan dzisiaj panie prezesie tę perspektywę?
+[SPEAKER_05] No jest nowy rok.
+[SPEAKER_05] Nie, pan prezes przesunął po prostu.
+[SPEAKER_05] Punkt wyjścia, bo się zmienił punkt wyjścia.
+[SPEAKER_00] Także w każdym razie po raz pierwszy pan powiedział, że wait and see może być, może się przeciągnąć na grze na 2019 rok.
+[SPEAKER_04] Tak, no nawet dzisiaj zasługowałem radziej, że można było używać określenia wait and support.
+[SPEAKER_04] No to nasze oczekiwania, obserwacja tego, co jest, utrzymywanie stóp na tym poziomie, no znakomicie wspiera rozwój gospodarczy.
+[SPEAKER_04] Proszę pamiętać, że Rada, no jako ten drugi cel ma,
+[SPEAKER_04] Coś takiego wpisanego też do swoich celów działania.
+[SPEAKER_04] Stabilizacja jest zapewniona w pełni.
+[SPEAKER_04] Wartość złotego jest broniona w stu procentach.
+[SPEAKER_04] Dokonaliśmy dzisiaj czegoś w rodzaju podsumowania dwulecia pracy Rady.
+[SPEAKER_04] No i wszystkie wskaźniki po prostu są doskonałe.
+[SPEAKER_04] Lepszego prezentu Rada na to dwulecie nie mogłaby dostać.
+[SPEAKER_04] Gospodarka jest w stanie bardzo dobrym.
+[SPEAKER_04] I to stabilny, zrównoważony wzrost.
+[SPEAKER_04] Chwilo trwa, jak to poeta mówił.
+[SPEAKER_04] I z tego punktu widzenia patrzymy na dalszą sytuację.
+[SPEAKER_04] I mnie się wydaje, że do końca 2018 roku w świetle istniejących danych i prognoz, to jest zdecydowane, dlatego ze zdumieniem czytam trochę, że większość analityków przewiduje podwyżki w ostatnim kwartale tego roku.
+[SPEAKER_04] Ci analitycy mają dokładnie te same dane, co my.
+[SPEAKER_04] Mam nadzieję, że też codziennie je przeglądają i tak dalej.
+[SPEAKER_05] No ale poprzednio nas męczyli przewidywaniami, że będziemy obniżać stopy procentowe.
+[SPEAKER_04] Ja pamiętam, jak tutaj na tej sali też zapowiedziałem Państwu, że bardzo bym się zdziwił, gdyby tempo wzrostu w 2017 roku nie sięgnęło 4%, co było wtedy ekstrawagancją bardzo mocną.
+[SPEAKER_04] Ale proszę pamiętać, że analitycy bankowi, oni na pewno są lepsi od nas o wiele, a analitycy bankowi reprezentują poszczególne banki.
+[SPEAKER_04] Interesy tych banków, ich życzenia, jak chcieliby, żeby świat wyglądał, a my nie reprezentujemy żadnych interesów.
+[SPEAKER_04] My obiektywnie po prostu bazujemy na danych i mówimy, jak to jest, niezależnie od tego, czy nam się podoba, czy nam się nie podoba, czy to jest korzystne, czy niekorzystne.
+[SPEAKER_04] Na to polega niezależność Rady Polityki Pieniężnej.
+[SPEAKER_04] Może jakby zarząd to formułował, to by inaczej formułował, ale Rada Polityki Pieniężnej są naprawdę niezależne byty dziesięciu ekonomistów, którzy wyrażają swoje poglądy.
+[SPEAKER_00] Pan zawsze podkreśla ten aspekt istniejących danych, w świetle istniejących danych.
+[SPEAKER_00] No to ja właśnie chciałam zwrócić uwagę na te istniejące dane, które akurat w tym zestawieniu no trochę się zmieniły, no bo jest różnica między wzrostem w granicach 5%,
+[SPEAKER_00] a wzrostem powyżej 3% i oczekiwaniem, że wzrost gospodarczy będzie słabnąć, a tu w tym wypadku mamy do czynienia właściwie ze stabilną, silną, nadal korzystną koniunkturą, a to mimo wszystko Panu pozwala wydłużyć tę perspektywę wait and see.
+[SPEAKER_04] Dla nas wzrost między 3 a 4,
+[SPEAKER_04] To jest cały czas jakby w tym samym się znajdujemy zbiorze.
+[SPEAKER_04] To jest w ramach tego naturalnego tempa wzrostu, potencjalnego tempa wzrostu.
+[SPEAKER_04] To jest zdrowy wzrost, który nie powoduje, czy nie powinien, bo to mogą być mikro rynki różne, sektorowe, ale nie powoduje napięć.
+[SPEAKER_04] To jest taki wzrost, który się Narodowym Bankowi najbardziej podoba.
+[SPEAKER_04] Może minister finansów, czy gospodarki czasem by chciał wyższy, no ale to jest taki wzrost, który nie niepokoi banku centralnego, nie powoduje napięć.
+[SPEAKER_04] Poza tą obawą o rynek pracy, o którym pan profesor Gatnar mówił, no ale to go obserwujemy, to potencjalnie się boimy.
+[SPEAKER_04] Możemy przeceniać lub niedoceniać importu pracowników ze wschodu, czy jakichś innych elementów, zwiększenie aktywności.
+[SPEAKER_04] Ale między 3 a 4 to jest dla nas optymalny wzrost.
+[SPEAKER_04] Ja nie mówię, czy on jest jakiś dobry społecznie, politycznie, czy w jakikolwiek inny sposób, ale dla banku on jest najlepszy, dlatego że to jest zrównoważony wzrost.
+[SPEAKER_04] A my w bardzo dużym stopniu się interesujemy stabilnością.
+[SPEAKER_04] No i jest jeszcze element kursu, o którym my nic nie mówimy, nie przewidujemy, który zależy od czynników międzynarodowych.
+[SPEAKER_04] Ale złoty bardzo się umacniał, proszę pamiętać, w 2017 roku.
+[SPEAKER_04] Także w stosunku do euro się mocno umocnił.
+[SPEAKER_04] To jest jakiś czynnik, który trzeba wziąć pod uwagę.
+[SPEAKER_04] To jest trochę zacieśnianie polityki pieniężnej.
+[SPEAKER_04] To się dyskutowaliśmy na ile jest, na ile nie jest.
+[SPEAKER_04] To jest trochę odpowiednik zacieśniania polityki pieniężnej, dyscyplinującej jak gdyby tak trochę rynek pieniężny.
+[SPEAKER_07] I jeszcze pan redaktor Pudłowski.
+[SPEAKER_02] Bardzo proszę.
+[SPEAKER_02] Chciałem dopytać, jeśli chodzi właśnie o kursu tego, bo przedsiębiorcy ankietowani właśnie przez NBP w szybkim monitoringu wskazywali, że kurs USD PLN na poziomie, ten kurs opłacalności to jest chyba lekko poniżej 3,5, czyli to jest blisko tego obecnego kursu.
+[SPEAKER_02] Czy nie widzi pan zagrożenia?
+[SPEAKER_04] Chyba 3 raczej jest w tej chwili taki, że by stwarzał jakieś problemy.
+[SPEAKER_04] Czyli nie stwarza to zagrożenia.
+[SPEAKER_04] Na ten temat rozmawialiśmy.
+[SPEAKER_04] Na razie nie stwierdzamy,
+[SPEAKER_04] żadnych negatywnych skutków tego kursu.
+[SPEAKER_04] Chociaż złoty był najmocniejszym, jak to niektóre gazety pisały walutą z zeszłego roku.
+[SPEAKER_04] Od półtora roku jest chyba najlepszy kurs w stosunku do euro też, bo to głównie euro w stosunku do dolara i cała strefa euro i my za tym, ale też w stosunku do euro złoty się umocnił, ale na razie eksport nasz wygląda bardzo dobrze.
+[SPEAKER_04] i sobie dajemy radę.
+[SPEAKER_04] Analizowaliśmy to dzisiaj, dlaczego tak się dzieje.
+[SPEAKER_04] To się dzieje w dużej mierze dlatego, że nasi eksporterzy też importują.
+[SPEAKER_04] Oni często importują ogromną część tego, co potem eksportują.
+[SPEAKER_04] Czyli to, że mogą taniej kupować, wpływa też, niweczy negatywne skutki tego, że drożej ten nasz wsad do tego kosztuje.
+[SPEAKER_04] Także tu jesteśmy odporni na ten czynnik, w zaskakująco dużym stopniu.
+[SPEAKER_04] Nic nie wskazuje, żeby dalej tak
+[SPEAKER_04] Natomiast złoty jest silny, bo jesteśmy atrakcyjnym krajem do inwestowania, także inwestowania portfelowego w nasze papiery dłużne, co dobrze świadczy ogólnie o gospodarce, bo proszę pamiętać, to nie tylko wynika z dysparytetu 100%.
+[SPEAKER_04] ale to też świadczy o naszej stabilności i wiarygodności.
+[SPEAKER_04] Wierzę inwestorów w to, że nasz ład ekonomiczny, ale także prawny, gospodarczy, polityczny jest na odpowiednio wysokim poziomie.
+[SPEAKER_04] Polska jest wyjątkowo wiarygodnym krajem do inwestycji wszelkich i Greenfield, i nasze papiery dłużne.
+[SPEAKER_04] I z tego się należy cieszyć, no bo jeszcze wiele, wiele dziesiątki lat, o tym też dzisiaj zresztą dyskutowaliśmy,
+[SPEAKER_04] Tego kapitału zagranicznego w każdym znaczeniu tego słowa będziemy bardzo potrzebować.
+[SPEAKER_04] Jesteśmy w bardzo dobrej pozycji wszędzie na świecie, na międzynarodowych konferencjach, zjazdach się patrzy na nas.
+[SPEAKER_04] Może nie z zazdrością, bo wielkie kraje to mają inne problemy, inną skalę i tak dalej.
+[SPEAKER_04] Ale kraje o naszej randze, naszej wielkości, naszym potencjale patrzą z zazdrością na naszą stabilność.
+[SPEAKER_04] Bo Państwo często mogą tylko patrzeć na te bieżące wyniki, porównywać.
+[SPEAKER_04] Ale stabilność jest rzeczą nie do cenienia w gospodarce, w rozwoju gospodarczym.
+[SPEAKER_04] Ta stabilność, że z roku na rok jesteśmy przewidywalni,
+[SPEAKER_04] że jest to średnie tempo wzrostu dobre, że nie ma gór i dołu, że nie mamy 7% wzrostu, a potem minus 1 czy 0.
+[SPEAKER_04] Na tle Ameryki Południowej i południowej Europy, no to tu widać, że my jesteśmy krajem bardzo stabilnym.
+[SPEAKER_04] rzeczywiście z tego jądra Europy takim już ukształtowanym, dojrzałym.
+[SPEAKER_04] Mamy dojrzałe instytucje, w tym kontroli, regulacji, jesteśmy wiarygodni.
+[SPEAKER_04] No i cały system, no może jeszcze, ja wiem, może system sądownictwa powinien być sprawniejszy zdecydowanie i szybsza powinien, szybciej powinny sprawy gospodarcze, cywilne i sprawniej przebiegać.
+[SPEAKER_04] Ale tak naprawdę się trudno czegoś przyczepić.
+[SPEAKER_02] Jeszcze chciałem dopytać, bo powiedział Pan Prezes, że wszyscy członkowie Rady traktują cel inflacyjny i odchylenia symetrycznie.
+[SPEAKER_02] I chciałem rzeczywiście dopytać, czy rzeczywiście profesor Gatner i doktor Kropiwnicki... Znaczy ja miałem na myśli tylko to, że tak jest w założeniach polityki pieniężnej, które przyjęliśmy.
+[SPEAKER_02] Tak, chciałem zapytać, czy rzeczywiście dopiero perspektywa inflacji powyżej 3,5% jest zagrożeniem i mogłaby skłonić do działania?
+[SPEAKER_03] Nie, pan prezes ma rację.
+[SPEAKER_03] Takie są założenia polityki pieniężnej, że mamy ten cel symetryczny.
+[SPEAKER_03] 2,5 plus minus 1.
+[SPEAKER_04] Chociaż my jesteśmy wychowani oczywiście, bo to profesor Gatrysła młodszy.
+[SPEAKER_04] Boimy się.
+[SPEAKER_04] Jesteśmy wychowani jakby w duchu takiego myślenia ekonomicznego, że nie lubimy inflacji, nie chcemy inflacji.
+[SPEAKER_04] Boimy się bardziej inflacji niż deflacji.
+[SPEAKER_04] Marzy nam się świat jakiś austriacki taki, gdzie by inflacja zero wynosiła.
+[SPEAKER_04] Jednak w rozwijających się gospodarkach taka inflacja, która towarzyszy rozwojowi wzrostowi to jest około 2%, 2,5%.
+[SPEAKER_04] I tak te cele inflacyjne w Europie wszędzie i w krajach rozwiniętych wyglądają.
+[SPEAKER_04] I ten nasz cel inflacyjny jest tutaj całkiem porównywalny i normalny.
+[SPEAKER_04] W kraju na naszym etapie rozwoju, który powinien się szybciej rozwijać, jednak o te dwa punkty niż w krajach bogatszych tak jest.
+[SPEAKER_04] My się do nich zbliżamy jakoś tam, jak to się mówi, stopniowo.
+[SPEAKER_03] Być może pan redaktor nawiązuje do naszej rozmowy.
+[SPEAKER_03] Ja wtedy, pamięta pan, mówiłem, że mnie niepokoi sama numeryczna wielkość inflacji, ale kombinacja wysokiej inflacji i niskiego wzrostu.
+[SPEAKER_03] I to było dla mnie powodem do niepokoju.
+[SPEAKER_02] Czyli sama perspektywa inflacji powyżej 2%, ale poniżej 3,5% nie jest… Nie, nie, niepokoi mnie przy takim wzroście, jaki mamy, czy będziemy mieli.
+[SPEAKER_03] Dziękujemy Państwu.
+[SPEAKER_04] My analizujemy nawet drobiazgowo, zresztą głównie dzięki profesorowi, dzięki doktorowi prezydentowi Kropiwnickiemu, ceny ropy naftowej.
+[SPEAKER_04] i analizujemy tendencje w zakresie cen ropy naftowej, no bo to jest ogromny wpływ oczywiście cen ropy naftowej i w ogóle energii i żywności importowanej na ceny w Polsce, nie tylko w Polsce, ale to jest ogromny wpływ tych czynników zewnętrznych.
+[SPEAKER_04] Przez jakiś czas żyliśmy w takim złudnym też przeświadczeniu, że jest całkiem nowy świat, że te ceny są około 50 dolarów za baryłkę,
+[SPEAKER_04] stabilizują je te łupki amerykańskie i że to już jakby można przestać o tym myśleć.
+[SPEAKER_04] No w ostatnich kwartałach się okazało, że nie do końca, że jednak ten pułap jest teraz koło 60, prawda?
+[SPEAKER_04] I no i w ogóle, że to jednak może się jednak trochę zmieniać.
+[SPEAKER_04] Jak na marginesie mówię, no całkiem jakiś taki temat niezwiązany ze stopami wydawałoby się, a któremu musimy poświęcać sporo, sporo uwagi.
+[SPEAKER_05] No bo te ceny są bardzo wrażliwe także politycznie, jak wiadomo.
+[SPEAKER_05] nie tylko w sensie technologicznym.
+[SPEAKER_04] A nie spytali mnie Państwo, jak mi się będzie współpracować z nową Panią Minister Finansów.
+[SPEAKER_04] Zakładam, że wspaniale i dobrze, ale przyznam, że nie znam Pani Profesor i chętnie poznam.
+[SPEAKER_04] Ale na pewno bardzo dobrze nam się będzie współpracować.
+[SPEAKER_04] Przyznam się, że w tak dobrej koniunkturze, w tak dobrym rozwoju,
+[SPEAKER_04] to praktycznie nie ma żadnych problemów, które trzeba między bankiem a ministrem finansów uzgadniać czy regulować.
+[SPEAKER_04] Taki był i mam nadzieję dalej będzie szczęśliwy okres, że wszystkie wskaźniki się układają dobrze i nie trzeba robić żadnych spektakularnych, jak to się mówi, niekonwencjonalnych w polityce pieniężnej działań.
+[SPEAKER_04] My działamy szalenie konwencjonalnie, konserwatywnie, nie ma żadnego powodu, żebyśmy to zmieniali.
+[SPEAKER_04] Także jak się spotykam z Ministrem Finansów, spotykałem z poprzednim często, no to na każdy temat możemy rozmawiać po prostu i wymienić poglądy, a nie ma żadnych naglących spraw, które musimy regulować.
+[SPEAKER_04] Pamiętam w poprzednich okresach, jak byłem w Radzie Polityki Pieniężnej, jak byłem w Zarządzie, no to oczywiście były nagłe różne sprawy, ale takiej sytuacji budżetu wspaniałej nie było jeszcze nigdy do tej pory.
+[SPEAKER_02] i zadłużenia kraju.
+[SPEAKER_02] To może w kontekście nowego gabinetu jeszcze zapytam, czy wiąże Pan z premierem Morawieckim nadzieję, że przyspieszy ten proces włączenia KNF-u do NBP?
+[SPEAKER_04] No podobnie jak w przypadku pani premier Beate Szydło, z którą mi się świetnie współpracowało.
+[SPEAKER_07] Dziękujemy Państwu za dzisiejsze spotkanie.
+[SPEAKER_07] Zapraszamy na kolejne za miesiąc.
+[SPEAKER_07] Do zobaczenia.

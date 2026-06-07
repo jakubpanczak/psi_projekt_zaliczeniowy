@@ -1,0 +1,342 @@
+[SPEAKER_00] Dzień dobry Państwu.
+[SPEAKER_00] Witamy na konferencji po posiedzeniu Rady Polityki Pieniężnej.
+[SPEAKER_00] W dzisiejszej konferencji obok Pana Prezesa Profesora Adama Glapińskiego udział wezmą również Pani Profesor Grażyna Ance-Parowicz oraz Pan Dr Jerzy Kropiwnicki.
+[SPEAKER_00] Panie Prezesie zapraszam do zaprezentowania komunikatu po posiedzeniu.
+[SPEAKER_04] Dzień dobry Państwu, miło mi Państwa widzieć w tak dobrej formie i pomimo tego, że w Krynicy mają miejsce takie ciekawe wydarzenia.
+[SPEAKER_04] U nas, jak Państwo wiedzą, nic ciekawego specjalnie się nie dzieje.
+[SPEAKER_04] Cisza, spokój, wszystko pod kontrolą, stabilnie, bezpiecznie, tak jak powinno w banku być w centralnym.
+[SPEAKER_04] Oficjalne informacje po posiedzeniu Rady Polityki Pieniężnej.
+[SPEAKER_04] Rada postanowiła utrzymać 100% NBP na niezmienionym poziomie.
+[SPEAKER_04] Stopa referencyjna 1,5%, stopa lombardowa 2,5%, stopa depozytowa 0,5%, stopa redyskonta weksli 1,75%.
+[SPEAKER_04] Wzrost aktywności gospodarczej na świecie pozostaje umiarkowany, przy czym utrzymuje się niepewność dotycząca jego perspektyw.
+[SPEAKER_04] W strefie euro, mimo negatywnego oddziaływania słabej koniunktury w pozaeuropejskich gospodarkach wschodzących, wzrost gospodarczy jest stabilny.
+[SPEAKER_04] W Stanach Zjednoczonych dynamika PKB jest niższa niż w poprzednich latach, choć w ostatnim okresie ponownie poprawiła się sytuacja na tątej szerzynku pracy, co zmniejszyło obawy o możliwość trwałego osłabienia koniunktury w tej gospodarce.
+[SPEAKER_04] Bieżące wskaźniki sygnalizują obniżanie tempa wzrostu gospodarczego w Chinach, natomiast w Rosji skala recesji powoli się zmniejsza.
+[SPEAKER_04] Ceny ropy naftowej oraz wielu innych surowców na rynkach światowych pozostają niższe niż w poprzednich latach.
+[SPEAKER_04] Niskie ceny surowców i umiarkowana aktywność gospodarcza na świecie są główną przyczyną utrzymywania się dynamiki cen konsumpcyjnych w wielu gospodarkach na niskim poziomie.
+[SPEAKER_04] Europejski Bank Centralny utrzymuje stopy procentowe na poziomie bliskim zera, w tym stopę depozytową poniżej zera, a także kontynuując zakupy aktywów finansowych.
+[SPEAKER_04] Rezerwa Federalna po podwyżce w grudniu ubiegłego roku utrzymuje stopy procentowe na niezmienionym poziomie, sygnalizując ich możliwy wzrost w przyszłości.
+[SPEAKER_04] W Polsce dynamika PKB w drugim kwartale bieżącego roku nieznacznie wzrosła.
+[SPEAKER_04] Głównym czynnikiem wzrostu pozostał stabilnie rosnący popyt konsumpcyjny, wspierany przez systematyczną poprawę sytuacji na rynku pracy, korzystne nastroje gospodarstw domowych oraz uruchomienie programu Rodzina 500+.
+[SPEAKER_04] Do wyższej dynamiki PKB w drugim kwartale przyczyniło się również istotne przyspieszenie wzrostu eksportu.
+[SPEAKER_04] Ograniczające na wzrost PKB oddziaływał natomiast spadek inwestycji związany z przejściowym zmniejszeniem wykorzystania środków unijnych po zakończeniu poprzedniej perspektywy finansowej.
+[SPEAKER_04] Utrzymująca się także jest niepewność dotycząca perspektyw wzrostu gospodarczego.
+[SPEAKER_04] Ze względu na ujemną lukę popytową, a także umiarkowaną, choć rosnącą dynamikę przeciętnych nominalnych wynagrodzeń w gospodarce nie ma obecnie presji inflacyjnej.
+[SPEAKER_04] Roczna dynamika cen konsumpcyjnych oraz cen produkcji pozostają ujemne.
+[SPEAKER_04] Do spadku cen przyczyniają się nadal czynniki zewnętrzne, głównie wcześniejszy silny spadek cen surowców na rynkach światowych oraz niska dynamika cen w otoczeniu polskiej gospodarki.
+[SPEAKER_04] Towarzyszą temu niskie oczekiwania inflacyjne.
+[SPEAKER_04] W świetle dostępnych obecnie informacji utrzymująca się deflacja nie wywiera jak dotąd negatywnego wpływu na decyzje podmiotów gospodarczych.
+[SPEAKER_04] W ocenie Rady w najbliższych miesiącach roczny wskaźnik cen konsumpcyjnych pozostanie ujemny.
+[SPEAKER_04] Skala deflacji będzie jednak stopniowo malała, do czego przyczyni się wygasanie efektów niskich cen surowców na rynkach światowych.
+[SPEAKER_04] W kolejnych kwartałach wzrost dynamiki cen będzie wspierany przez stabilny wzrost PKB w następujących warunkach rosnącej dynamiki wynagrodzeń oraz zwiększonych świadczeń wychowawczych.
+[SPEAKER_04] Wzrosnąć powinny również inwestycje, czemu sprzyjać będzie stopniowo zwiększanie wykorzystania funduszy unijnych, dobra sytuacja finansowa firmy oraz rosnące wykorzystanie ich zdolności produkcyjnych.
+[SPEAKER_04] Źródłem niepewności dla oczekiwanego kształtowania się aktywności gospodarczej i dynamiki cen pozostaje natomiast ryzyko pogorszenia globalnej koniunktury oraz obniżenia cen surowców.
+[SPEAKER_04] Rada podtrzymuje ocenę, że w świetle dostępnych danych i prognoz obecny poziom stóp procentowych sprzyja utrzymywaniu polskiej gospodarce na ścieżce zrównoważonego wzrostu oraz pozwala zachować równowagę makroekonomiczną.
+[SPEAKER_04] Dodatkowo informacja Rada przyjęła z założenia polityki pieniężnej na rok 2017 w dniu dzisiejszym.
+[SPEAKER_04] Dziękuję bardzo.
+[SPEAKER_00] Bardzo dziękuję Panie Prezesie.
+[SPEAKER_00] Zapraszam do zadawania pytań.
+[SPEAKER_00] Pan Jacek Barszczewski, Paweł.
+[SPEAKER_01] Dziękuję.
+[SPEAKER_01] Ja mam pytanie o nastroje Rady po wakacjach dotyczące naszej gospodarki.
+[SPEAKER_01] Czy są to nastroje może nieco bardziej łagodne, czy może wzrosły w jakiś sposób Państwa obawy o stan naszej gospodarki?
+[SPEAKER_01] Mieliśmy troszkę gorszych danych ostatnio makroekonomicznych o PKB za drugi kwartał, spadek inwestycji, też nie najlepsze dane, to zależy od interpretacji, liczba dni roboczych za lipiec.
+[SPEAKER_01] Czy wzrosły w jakiś sposób Państwo obawy o polską gospodarkę, czy wręcz przeciwnie, w dalszym ciągu Państwo uważacie, że ta strategia wait and see w najbliższych okresach to jest to, co najlepiej służy gospodarce?
+[SPEAKER_04] Po wakacjach oczywiście nastroje zawsze są dobre, ale tym razem mają też uzasadnienie dobrych danych.
+[SPEAKER_04] Sytuacja jest stabilna, lekka poprawa, jak to powiedziałem w komunikacie Rady, to Państwo macie.
+[SPEAKER_04] Sytuacja się w kolejnym kwartale nieco poprawiło, tempo wzrostu przyspieszyło przy zachowaniu wszystkich równowag.
+[SPEAKER_04] Jeśli nie będą żadne niepokojące czynniki zewnętrzne, to sytuacja rozwija się w kierunku pożądanym i pozytywnym.
+[SPEAKER_04] Spodziewamy się, że z końcem roku, pod koniec roku i na początku przyszłego deflacja przemieni się
+[SPEAKER_04] w niską inflację jednoprocentową, co ułatwi realizację niektórych zadań i będzie sprzyjać ogólnemu dynamizowaniu gospodarki.
+[SPEAKER_04] No oczywiście jedynym elementem, nad którym dyskutowaliśmy dużo, no to jest kwestia inwestycji.
+[SPEAKER_04] Ze wszystkich dostępnych danych, jakie mamy i które Instytut dla nas zbiera, wszystko wskazuje na to, że spadek inwestycji wynika z przeciągającego się rozpoczęcia nowej perspektywy budżetowej, unijnej.
+[SPEAKER_04] No i analiza poprzedniego okresu wchodzenia też w nowym, perspektywy pokazuje, że tu jest analogiczna sytuacja, chociaż tam jakby przygotowane lepiej były przez poprzedni rząd te programy.
+[SPEAKER_04] Także tutaj patrzymy ze spokojem na to, jak się to będzie rozwijać i mamy nadzieję, że w przyszłym roku, jak się rozpędzi ta absorpcja środków unijnych, to tempo wzrostu ulegnie przyspieszeniu.
+[SPEAKER_04] No ale niewątpliwie w całym tym roku tempo wzrostu ogólnie będzie, przyrost PKB będzie niższy niż
+[SPEAKER_04] Pierwotnie się tego spodziewaliśmy, ale to jest dobry przyrost.
+[SPEAKER_04] Cały czas 3, coś tam.
+[SPEAKER_04] To jest dobry przyrost, to jest dobry wzrost, stabilny wzrost, który ostatnio zwiększa polską gospodarkę.
+[SPEAKER_04] Zatrudnienie, jak państwo wiedzą, tu zupełnie wspaniale się rozwija.
+[SPEAKER_04] Bezrobocie spada.
+[SPEAKER_04] Dobrze jest absorbowany napływ rąk do pracy z Ukrainy.
+[SPEAKER_04] Ogólnie gospodarka polska, żeby tak było dalej i żeby taka sytuacja się utrzymywała, bylibyśmy bardzo zadowoleni.
+[SPEAKER_04] Jak zwykle dyskusje dotyczyły przyszłości.
+[SPEAKER_04] Członkowie Rady dyskutowali o scenariuszach możliwych w przyszłości.
+[SPEAKER_04] Głównie właśnie scenariuszu dotyczącym inwestycji.
+[SPEAKER_04] Właściwie innych czynników niepokojących nie widzimy.
+[SPEAKER_01] Nie było pokusy w Radzie jakiejś takiej próby zdynamizowania tych procesów w gospodarce, jeśli chodzi o odejmie KPKB i wychodzenia z deflacji poprzez obniżkę stóp procentowych?
+[SPEAKER_04] Każdy by chętnie zdynamizował i widział jeszcze szybszy wzrost, ale ten wzrost, proszę pamiętać, jest zbliżony do naturalnej jakiejś potencjalnej możliwej stopy wzrostu.
+[SPEAKER_04] Gospodarka polska prawdopodobnie właśnie w tym tempie w sposób naturalny się może rozwijać, w tempie szybszym powyżej 4% czy blisko 4% by ulegało jeszcze jakiemuś przegrzaniu.
+[SPEAKER_04] W takiej fazie rozwoju gospodarczego jesteśmy, na takim etapie jesteśmy,
+[SPEAKER_04] Także tempo wzrostu taki nas satysfakcjonuje, chociaż marzyło nam się w tym roku, żeby było trzy i pół, trzy i osiem.
+[SPEAKER_04] No trzy i osiem to raczej już nie będzie, no ale będzie może w tym szybsze przyspieszenie w przyszłym roku.
+[SPEAKER_04] Także pokusy obniżania stóp nie ma w tej chwili.
+[SPEAKER_04] Nigdy się nie mówi nigdy, no ale osobiście myślę, że pierwszą decyzję i mam taką nadzieję, że taka będzie, będzie
+[SPEAKER_04] rozpoczęcie podwyżek stóp przy przyspieszeniu wzrostu gospodarczego i inflacji.
+[SPEAKER_04] Czy to jest taki pogląd w Radzie dość, że tak powiem, szeroki, zgodny?
+[SPEAKER_04] Wszyscy by chcieli, żeby tempo wzrostu uległo przyspieszeniu i żeby w związku z tym inflacja też była dodatnia.
+[SPEAKER_04] No i wtedy byśmy razem cykl podwyżek uruchomili.
+[SPEAKER_04] Mamy też wszelkie analizy, które mówią to samo i instytutowe i zewnętrzne, że obniżka stóp w tej chwili
+[SPEAKER_04] czy chwilę później, nie przyczyniłoby się do przyspieszenia wzrostu gospodarczego.
+[SPEAKER_04] To są bardzo niskie stopy.
+[SPEAKER_04] Spowolnienie nie jest spowodowane trudnościami w uzyskaniu kredytu, ceną kredytu, brakiem płynności.
+[SPEAKER_04] Przeciwnie, wszystkie te parametry historycznie są na wyjątkowo korzystnych poziomach.
+[SPEAKER_04] Spowolnienie inwestycji jest jedno.
+[SPEAKER_04] Brak napływu środków unijnych, czy adopcji środków unijnych.
+[SPEAKER_00] Bardzo proszę, redaktor Sobczak.
+[SPEAKER_03] Paweł Sobczak z Agencji Reutera, dzień dobry.
+[SPEAKER_03] Jeżeli państwo pozwolicie, chciałem się spytać, kiedy państwa zdaniem można się spodziewać wyraźnego przyspieszenia inwestycji?
+[SPEAKER_03] Czy to będzie drugie półrocze tego roku, czy to należy raczej wiązać z początkiem przyszłego roku?
+[SPEAKER_04] Można powiedzieć, na co liczymy, no bo tego przewidzieć się nie da.
+[SPEAKER_04] To są inwestycje głównie na poziomie samorządów, żeby to było jasne.
+[SPEAKER_04] To nie są inwestycje...
+[SPEAKER_04] To są inwestycje na poziomie samorządów, to są środki publiczne, do których samorządy dokładają.
+[SPEAKER_04] Mam nadzieję, że to ruszy mocno na początku przyszłego roku, w pierwszym, drugim kwartale przyszłego roku.
+[SPEAKER_04] Takie jest moje oczekiwanie, nie wiem jak pozostałych członków Rady Polityki Pieniężnej, ale ja liczę na to, że pierwszy, drugi kwartał pierwszego roku.
+[SPEAKER_03] Panie prezesie, w takim razie zakładając wzrost… To są konkursy przedtem o te środki i tak dalej.
+[SPEAKER_04] To jest u nas w Instytucie obserwowane i my mamy informacje na ten temat.
+[SPEAKER_04] To jeszcze trochę potrwa.
+[SPEAKER_04] Panie prezesie, zakładając wzrost inwestycji… Te środki, przypominam, nie przepadają.
+[SPEAKER_04] Te środki zgodnie z zasadami Unii, one nie przepadają, one mogą być wykorzystane później po prostu.
+[SPEAKER_03] Panie prezesie, zakładając wzrost inwestycji na początku przyszłego roku, w Państwa takim bazowym widzeniu gospodarki, kiedy Państwa zdaniem mogą zaistnieć warunki do podwyżki stóp procentowych?
+[SPEAKER_04] Wybiega pan bardzo daleko do przodu.
+[SPEAKER_04] Chciałbym, żeby wzrost gospodarczy znacząco przyspieszył pod koniec tego roku i na początku następnego.
+[SPEAKER_04] Przewidujemy jednoprocentową inflację w przyszłym roku, ale jeśli wzrost by bardzo przyspieszył, to byśmy mieli to jeden od razu z perspektywą dojścia do dolnego poziomu odchylenia od celu inflacyjnego, czyli już byśmy się szykowali od razu do tego, żeby lekko
+[SPEAKER_04] wyhamować, żeby się znaleźć w tym polu celu inflacyjnego, a nie przeskoczyć.
+[SPEAKER_04] Im szybciej, tym lepiej, ale kiedy się można spodziewać, to jest zgadywanie i tutaj nie ma co tak przewidywać szczegółowo.
+[SPEAKER_04] Mamy wachlarz możliwości.
+[SPEAKER_02] Proszę.
+[SPEAKER_01] Dorota Bartyzel, Bloomberg News.
+[SPEAKER_01] Dzień dobry.
+[SPEAKER_02] Ja mam kilka pytań i pierwsze moje dotyczy tego, panie prezesie, że dane dotyczące wzrostu gospodarczego za drugi kwartał, państwa zdaniem, były dobre, a nawet lepsze.
+[SPEAKER_02] To jak to się stało, że rynek…
+[SPEAKER_02] zareagował na nie jednak co najmniej z rozczarowaniem i o nie oczywiście nie chodzi o tak zwaną headline figure, ale dokładnie o strukturę, czyli właśnie o te inwestycje.
+[SPEAKER_02] Cały czas mówi Pan o absorpcji środków unijnych, a tymczasem równocześnie od, właściwie przynajmniej od momentu, kiedy Pan stanął na czele Narodowego Banku Polskiego, w komunikatach mówicie Państwo o niepewności dotyczącej wzrostu gospodarczego i chciałabym zapytać, czego tak naprawdę dotyczy ta niepewność?
+[SPEAKER_02] niepewnych warunków, perspektyw wzrostu gospodarczego?
+[SPEAKER_04] To jest potencjalna niepewność.
+[SPEAKER_04] Nigdy nie wiemy, jaki będzie tempo wzrostu.
+[SPEAKER_04] Nie będziemy wiedzieli, co się będzie działo na pewno w przyszłym roku w gospodarce niemieckiej.
+[SPEAKER_04] Nie wiemy, co się będzie działo w sektorze bankowym, na zachód od Odry i na południe od naszych granic.
+[SPEAKER_04] to wszystko są jakieś czynniki, które są nie do przewidzenia.
+[SPEAKER_04] Nie wiemy, jak koniunktura światowa się będzie kształtować, czy stopy procentowe w Stanach wzrosną i o ile, czy to będzie cała seria.
+[SPEAKER_04] To są czynniki niepewności.
+[SPEAKER_04] I są czynniki niepewności nieekonomiczne związane z sytuacją na granicy ukraińsko-rosyjskiej.
+[SPEAKER_04] Takie nieprzewidywalne różne okoliczności, ale takie bardziej realistyczne, które bierzemy pod uwagę, to są właśnie jakieś zawirowania
+[SPEAKER_04] W gospodarce zachodnioeuropejskiej to nas najbardziej interesuje.
+[SPEAKER_04] W tej gospodarce niemieckiej, w szczególności, którą obserwujemy, bo od niej uzależnieni jesteśmy najbardziej, niejasne są sygnały.
+[SPEAKER_04] Raz w kwartał jest notowane polepszenie perspektyw wzrostu i produkcji przemysłowej, w następnym kwartale pogorszenie.
+[SPEAKER_04] Cały czas to jest takie kołysanie się w gruncie rzeczy w miejscu.
+[SPEAKER_04] Ale u nas nie zachodzą żadne niepokojące zjawiska.
+[SPEAKER_04] My właściwie w tej chwili ten wzrost osiągamy wyłącznie, że tak powiem, z przyczyn wewnętrznych.
+[SPEAKER_04] Popyt konsumpcyjny ciągnie nam wzrost.
+[SPEAKER_04] Może trochę już to 500+, ale myślę, że jeszcze to jest przed nami.
+[SPEAKER_04] Ale popyt wewnętrzny ciągnie.
+[SPEAKER_04] Tutaj nie ma tego dopalacza ze strony środków unijnych, który zawsze przez ostatnie lata był głównym czynnikiem.
+[SPEAKER_04] Jak Państwo zobaczą na saldo przypływów
+[SPEAKER_04] i to, co my w tym roku będziemy w postaci składki wpłacać, no to w mniejszym stopniu niż przedtem to działa.
+[SPEAKER_04] To chyba jest jakoś na poziomie teraz z powrotem to saldo 2007 roku, coś koło tego.
+[SPEAKER_04] I liczymy na to, że jak to dojdzie, to przyspieszenia nastąpi istotne.
+[SPEAKER_04] Może nawet o jeden punkt.
+[SPEAKER_02] Ja nie chciałabym być taka bardzo argumentatywna, ale chciałam zwrócić uwagę, że inne gospodarki nad tego regionu funkcjonują w dokładnie takich samych warunkach zewnętrznych, czyli w warunkach tego samego niepokoju w Unii Europejskiej, a jednak poszło im trochę lepiej, zwłaszcza w stosunku do oczekiwań.
+[SPEAKER_04] Ja bym przewidywał Pani pytanie.
+[SPEAKER_04] W innych krajach jest sytuacja analogiczna.
+[SPEAKER_04] Też cierpią z powodu przeciągania się
+[SPEAKER_04] rozpoczęcia tej perspektywy budżetowej i na przykład właśnie z tego powodu na Łotwie i na Węgrzech jest znacznie gorzej.
+[SPEAKER_04] Dwucyfrowe spadki inwestycji.
+[SPEAKER_04] dwucyfrowe spadki, właśnie z powodu przeciągania się, rozpoczyniania tej perspektywy, co znaczy, że nie tylko nasze wewnętrzne przyczyny tutaj są w postaci tego no biurokratycznego poślizgu, ale jakieś są trudności po stronie Unii Europejskiej też.
+[SPEAKER_04] Ta perspektywa budżetowa jest trochę inna, bo to już nie jest infrastruktura przede wszystkim, tylko to są wydatki modernizacyjne, trudniejsze na pewno do
+[SPEAKER_04] do absorpcji, ale tutaj to bym się z panią spierał, no te przykłady pokazują, że to jest podobne.
+[SPEAKER_04] U nas cztery, tam dwucyfrowa.
+[SPEAKER_02] Ja jednak nie bardzo lubię się spierać, ale chciałam jednak zwrócić uwagę na wpływ eksportu przy okazji wzrostu w drugim kwartale.
+[SPEAKER_02] Także to a propos tego, co Pan powiedział, że tylko czynniki wewnętrzne.
+[SPEAKER_04] Ja się bardzo chętnie z Panią zawsze zgodzę, no ale w ogóle ten wskaźnik jest dobry.
+[SPEAKER_04] Takie tempo wzrostu, gdyby się utrzymało przez najbliższe lata, a najlepiej 20 lat, to byśmy byli bardzo szczęśliwymi.
+[SPEAKER_04] obywatelami i obserwatorami.
+[SPEAKER_04] To jest dobre tempo, powtarzam, takie naturalne jest, jeśli utrzymywane.
+[SPEAKER_04] Jeśli ono spada, to oczywiście jest powód do niepokoju, ponieważ teraz się podniosło jednak, to dlatego jest taki optymizm, że jednak idziemy wyżej.
+[SPEAKER_04] Ile to w tym roku może wynieść?
+[SPEAKER_04] Oczywiście my zakładamy w tej chwili 3,1-3,3 na cały rok.
+[SPEAKER_04] To jest dobrym wynikiem, ale niższym niż przewidywaliśmy.
+[SPEAKER_04] 3,5 raczej już nie wyjdzie, bo by musiało być jakieś 3,8.
+[SPEAKER_02] Ale nie możemy jeszcze zapowiedzieć, że spadek inwestycji to był taki maksymalny właśnie w drugim kwartale i od trzeciego już będzie lepiej pod względem inwestycji.
+[SPEAKER_04] Trudno powiedzieć, no to zobaczymy co przyniosą następne tygodnie, no ale myślę, że jednak te podpisywanie różnego rodzaju umów, kontraktów, kończenie konkursu będzie stopniowo następować i będziemy przychodzili do większych nakładów inwestycyjnych.
+[SPEAKER_04] Proszę zwrócić uwagę, że
+[SPEAKER_04] Jak szczegółowo wejdziemy w ten spadek inwestycji, to to jest spadek inwestycji lokalnych, tych samorządowych.
+[SPEAKER_04] To nie jest spadek inwestycji innego rodzaju.
+[SPEAKER_04] To tylko jest na poziomie właśnie tych wydatków samorządowych, czyli związanych bezpośrednio ze środkami unijnymi.
+[SPEAKER_02] Rozumiem, że my jesteśmy w tej chwili, gdybyśmy mieli nastawienie, to jesteśmy w wait and see.
+[SPEAKER_02] Tak.
+[SPEAKER_02] A jeśli wait and see, to ex definitione, prawdopodobieństwo redukcji stóp procentowych oraz zaostrzenia polityki monetarnej jest takie samo.
+[SPEAKER_04] Formalnie tak.
+[SPEAKER_02] Czy w związku z tym po tych danych, po drugim kwartale nie pojawiły się żadne sygnały, zresztą zapowiadane w minycjusz lipcowych, że należałoby ponownie jednak rozważyć większe prawdopodobieństwo obniżek 100%?
+[SPEAKER_04] Nie, ponieważ się poprawiają wyniki.
+[SPEAKER_04] w kolejnym kwartale, to raczej posuwa nas w kierunku przyszłych, oddalonych w czasie podwyżek.
+[SPEAKER_04] Gdyby się pogarszały warunki, tempo wzrostu by spadało i byłaby jakaś niepokojąca nas tendencja, no to wtedy można by się nad tym pochylić, ale nie ma takiej sytuacji.
+[SPEAKER_04] ale wait and see oznacza, że nie wykonujemy żadnego ruchu, tylko obserwujemy sytuację.
+[SPEAKER_04] Osobiście nie przychodzi mi do głowy możliwości, żebyśmy weszli w obniżki, tylko raczej się zastanawiam, w którym momencie pod koniec 2017 na przykład moglibyśmy myśleć o rozpoczęciu cyklu podwyżek.
+[SPEAKER_04] Przesłanie ogólne jest optymistyczne z obserwacji kolejnego kwartału.
+[SPEAKER_00] Proszę kolejne pytanie.
+[SPEAKER_01] Jakby tutaj kontynuując ten wątek, jak Pan Prezes mówi, że nie przychodzi Panu do głowy, nie przychodzą do głowy obniżki, rozumiem, że trudno sobie w ogóle wyobrazić, rozumiem Waszym zdaniem, jakieś czynniki, które mogłyby do tego skłonić.
+[SPEAKER_04] No nagła zapaść gospodarcza, skłonności do inwestowania, wydatków konsumpcyjnych, które by spadały, no ale to całkowicie z naszej gospodarki takich sygnałów nie ma, przeciwnie, no jest ogromny optymizm,
+[SPEAKER_04] Badania konsumenckie pokazują, a co ciekawsze badania inwestorów, wbrew temu co czasami się pojawia w prasie, w publicystyce, czyli nie w państwach informacji, bo w publicystyce to mówię nie pod Państwa adresem, nie ma nic takiego jak jakaś niepewność wśród przedsiębiorców, zniechęcenie przedsiębiorców do inwestowania, nastroje są dobre i oczekiwania są dobre.
+[SPEAKER_04] A inwestycje, powtarzam, wskaźnik się pogarsza ze względu na to, że nie ma środków unijnych na poziomie samorządów i tych inwestycji nie ma.
+[SPEAKER_04] Nastroje konsumenckie są bardzo dobre.
+[SPEAKER_04] Ludzie w Polsce chętnie wydają pieniądze, które zarabiają, nie są skłonni do oszczędzania, co ma oczywiście zły aspekt długookresowy, że tych oszczędności nie gromadzą się w Polsce i musimy importować oszczędności i kapitał z zagranicy.
+[SPEAKER_04] żeby się rozwijać.
+[SPEAKER_04] Natomiast konsumenci nie zawieszają swoich wydatków, przeciwnie, planują je ochoczo, zaciągają kredyty, akcja kredytowa jest przecież bardzo dobra, banki udostępniają atrakcyjne kredyty, prowadzą akcję wielką, żeby te kredyty upowszechniać i przedsiębiorcy też są w bardzo dobrych nastrojach, nie narzekają na deflację,
+[SPEAKER_04] W różnych krajach są takie pętle, różne nastroje związane z deflacją, które rzeczywiście inwestorów zniechęcają do inwestowania.
+[SPEAKER_04] U nas nic takiego nie obserwujemy.
+[SPEAKER_04] Dobrze sobie przypomniałem, dzisiaj była na ten temat dłuższa dyskusja między członkami Rady właśnie.
+[SPEAKER_04] jak tą deflację należy postrzegać, czy u nas jednak nie ma jakichś negatywnych aspektów deflacji.
+[SPEAKER_04] No jeśli są, to my ich nie dostrzegamy i żadna analiza przeprowadzona w Polsce, na polskiej gospodarce i wśród przedsiębiorców ankiety nie potwierdzają tego, żeby jakakolwiek ujemna, żeby ujemne elementy związane były z deflacją.
+[SPEAKER_04] To jest niska deflacja, słabo dostrzegana,
+[SPEAKER_04] Konsumenci we wszystkich ankietach w ogóle nie dostrzegają konsumenci deflacji.
+[SPEAKER_04] Są przekonani, że cały czas ceny rosną.
+[SPEAKER_04] Konsumenci mają taki specyficzny punkt widzenia.
+[SPEAKER_04] Raczej narzekają na inflację nadal, chociaż obiektywnie mają do czynienia z deflacją.
+[SPEAKER_04] Przedsiębiorcy oczywiście trochę narzekają na to, że ceny towarów i usług, które oni sprzedają są zamrożone.
+[SPEAKER_04] ale jednocześnie nie narzekają, tylko się cieszą, że komponenty, które kupują są lekko tańsze, ale też tego specjalnie nie widzą.
+[SPEAKER_03] To deflacja jest naprawdę niska, w różnych sektorach przecież różnie rozłożona i wskaźnik jest ogólnie niski.
+[SPEAKER_04] Nie ma elementów negatywnych związanych z deflacją, co nie znaczy, żebyśmy się jej chętnie nie pozbyli.
+[SPEAKER_04] Chętnie byśmy przeszli do sytuacji jednoprocentowej inflacji, no i w pobliże naszego celu inflacyjnego, który nieprzypadkowo jest taki, jaki jest, bo uważamy, że on jest dobry dla gospodarki.
+[SPEAKER_04] Ten cel inflacyjny, który nie ulega zmianie, jest dobry jako taki wskaźnik, drogowskaz,
+[SPEAKER_04] Dokąd zmierzamy, jaką sytuację uważamy za dobrą.
+[SPEAKER_04] W granicach oczywiście tego całego obszaru, w górę i w dół od tego celu inflacyjnego.
+[SPEAKER_04] Kiedy go osiągniemy, trudno powiedzieć, ale w przyszłym roku zaczniemy w jego kierunku się poruszać.
+[SPEAKER_01] Nawiązując do słów Pana Prezesa, że cel inflacyjny nie ulega zmianie, mam pytanie o przyjęte przez Radę założenie polityki pieniężnej na przyszły rok.
+[SPEAKER_01] Czy tam się pojawiłyby jakieś modyfikacje wcześniejszych zapisów, bo jak rozumiem, że konstrukcja poziomu celu został bez zmian?
+[SPEAKER_04] Czy się pojawiły modyfikacje?
+[SPEAKER_04] Od strony formalnej na pewno tak.
+[SPEAKER_04] Jeszcze tak krótkich założeń nie było chyba w historii NBP.
+[SPEAKER_04] Są bardzo skrócone.
+[SPEAKER_04] Są pozbawione części, jak ją nazwaliśmy, kto miał nazwę kanonicznej.
+[SPEAKER_04] No bo już minęło dużo czasu i nie rozprawiamy tam dużo o tych możliwościach, jakie posiadamy, skąd to się wzięło, dlaczego taka, a nie inna polityka celu jest właściwa, tylko od razu ona jest bardzo konkretna, mówi co konkretnie jest w naszym arsenale w przyszłym roku, jaki jest cel, jakie są narzędzia.
+[SPEAKER_04] jak to postrzegamy, czyli bardzo zwięzła, taka łatwiejsza dla Państwa do analizy.
+[SPEAKER_04] Natomiast zmian zasadniczych nie ma, co nie znaczy, że nie były przedmiotem dyskusji.
+[SPEAKER_04] Od nowa każda Rada to poznaje, analizuje, wypytuje członków zarządu, analizuje jak bank się zachowywał,
+[SPEAKER_04] w poprzednim okresie, przy poprzedniej Radzie, no czasami na początku ma trochę inną opinię, trochę zmienia, każdy członek Rady ma trochę inną opinię, no ale w sumie chyba tam żadnych zmian istotnych nie ma.
+[SPEAKER_04] I ogólny zarys, struktura jest też taka sama, żeby nie sprowokować kogoś do myślenia, że się jakoś priorytety zmieniły.
+[SPEAKER_04] Czyli struktura też jest całkowicie taka jak poprzednio.
+[SPEAKER_04] Nie ma żadnych szaleństw, żadnych zmian, bo gospodarka naprawdę jest bardzo ustabilizowana na dobrej ścieżce wzrostu.
+[SPEAKER_04] Nie widać żadnych bąbli, żadnych luk, żadnych destabilizacji.
+[SPEAKER_04] Jesteśmy w gotowości na to, co się wokół nas może dziać.
+[SPEAKER_01] Ostatnie pytanie mam.
+[SPEAKER_01] W tym tygodniu uwagę obserwatorów przykuła informacja, że dr Marek Chrzanowski złożył rezygnację z Rady.
+[SPEAKER_01] Chciałem zapytać, czy oprócz tego, co już w tej chwili wiemy, że to były względy osobiste, że nie należy tego wiązać z żadnym konfliktem w Radzie, z niepokojami, czy możemy coś na ten temat powiedzieć, no bo jest to sytuacja dość nietypowa po pół roku, panie doktorze.
+[SPEAKER_04] No jest tak, jak pan dokładnie powiedział.
+[SPEAKER_03] Był bardzo lubiany kolega i jest.
+[SPEAKER_04] Nic tu więcej do dodania, nie ma, czysto osobista sprawa.
+[SPEAKER_02] Chciałabym troszeczkę kontynuować temat właśnie rezygnacji pana Chrzanowskiego, ale od strony jego następcy, to znaczy wiemy, że Senat ma 3 miesiące na wybór jego następcy, natomiast czy to znaczy, że, bo rozumiem, że dziś pan Chrzanowski był obecny na Radzie Polityki Pieniężnej, czy następne 2 posiedzenia będą już bez niego, czy też może
+[SPEAKER_04] Mogę powiedzieć tylko tyle.
+[SPEAKER_04] Pan Marek Chrzanowski jest członkiem Rady Polityki Pieniężnej i funkcjonuje bez zmian jako członek Rady Polityki Pieniężnej.
+[SPEAKER_04] Dopóki jest członkiem Rady Polityki Pieniężnej, jak inni członkowie Rady bierze udział w posiedzeniach, się wypowiada i będzie z Państwem normalnie rozmawiał itd.
+[SPEAKER_02] No tak rozumiem, ale to do momentu, dopóki Senat nie odwoła Pana Chrzanowskiego, prawda?
+[SPEAKER_04] Ale ten okres biegnie dopiero do ewentualnego odwołania członka Rady przez Senat.
+[SPEAKER_04] Ten okres nie biegnie teraz.
+[SPEAKER_04] Ja rozumiem, ale jeśli to odwołanie nastąpi w piątek, jak jest wstępnie przewidywane, albo 21... Proszę Państwa, jeśli coś nastąpi w jakimś terminie, to potem możemy rozmawiać o tym, co dalej.
+[SPEAKER_04] Ale w tej chwili pan Marek Chrzanowski jest członkiem Rady Polityki Pieniężnej, jest dzisiaj obecny w banku, pracuje jak co dzień, brał udział w dyskusji w Radzie i w głosowaniu i nic nie ulega zmianie.
+[SPEAKER_02] Okej, dziękuję.
+[SPEAKER_04] A termin to wyznacza Marszałek Senatu.
+[SPEAKER_04] My z tym nie mamy nic wspólnego.
+[SPEAKER_02] Dobrze, rozumiem.
+[SPEAKER_02] To chciałam na chwilę wrócić Panie Prezesie do tego, co Pan od dłuższego czasu powtarzał, że polityka monetarna tak naprawdę, polityka stóp procentowych właściwie jest, no można powiedzieć drugorzędna, może za mocne słowo, ale nie tak ważne jak kwestia stabilności finansowej, tak, że to będzie coś, co będzie dla Pana absolutnym priorytetem.
+[SPEAKER_02] no ten tydzień to może się zakończyć kolejnym takim niezbyt sprzyjającym dla nas komunikatem, tak?
+[SPEAKER_02] Czy Państwo jakoś się na niego, nie wiem, przygotowują?
+[SPEAKER_04] Co Pani ma na myśli?
+[SPEAKER_02] MUDiS.
+[SPEAKER_04] Ja liczę na dobre wiadomości.
+[SPEAKER_04] Liczę na profesjonalizm, na to, że mają dobrą informację z polskiej gospodarki, że mają prześwietlone wszystkie możliwe aspekty swoich decyzji i podejmą decyzję właściwą, czyli nie zmienią.
+[SPEAKER_02] Czyli z Państwa punktu widzenia nie ma żadnych podstaw do tego, żeby Polsce obniżyć rating?
+[SPEAKER_04] No uczciwie rzecz biorąc, no trzeba by się jakoś niesłychanie wysilić, żeby znaleźć jakiś powód, a i tak mimo tego by się go nie znalazło.
+[SPEAKER_04] No nie ma nic takiego rzeczywiście.
+[SPEAKER_04] Mówiąc prywatnie, poza tą salą powiem to samo, co tutaj w prywatnej rozmowie.
+[SPEAKER_04] Nie ma żadnego elementu, który miałby spowodować zmianę ratingu.
+[SPEAKER_04] Zresztą widać po postawach inwestorów, którzy się z nami kontaktują, że z ich strony jest zrozumienie.
+[SPEAKER_04] tego, no pomimo publicystyki, no ale publicystyka, proszę Państwa, i to taka z pogranicza ekonomii, polityki, polityki gospodarczej, to się rządzi swoimi prawami, no i to jest też poszukiwanie newsów, jakiś zmian,
+[SPEAKER_04] My mamy naprawdę nudną sytuację w Polsce.
+[SPEAKER_04] Nie da się jej ugryźć.
+[SPEAKER_04] Tu wszystko przebiega właściwie bardzo dobrze.
+[SPEAKER_04] Jeszcze mamy to, kiedy się nikt nie spodziewał, że to bezrobocie będzie tak szybko spadać.
+[SPEAKER_04] Tu się pewnie pojawią jakieś kłopoty w pewnym momencie właśnie z podażą pracy.
+[SPEAKER_04] Ale to są kłopoty, które każdego obywatela cieszą, chociaż w ekonomii i w gospodarce powodują istotne problemy, bo to nam będą płace rosnąć, co też ludzi cieszy, ale dla konkurencyjności polskiej gospodarki będzie pewnym wyzwaniem.
+[SPEAKER_04] O tym też rozmawialiśmy dzisiaj zresztą, że koszty jednostkowe rosną, płace realne rosną.
+[SPEAKER_04] W pewnym momencie to jakby rzutuje na konkurencyjność kraju, na ten nasz najmocniejszy atyt, jaki do tej pory mieliśmy i mamy, że jest wysoko kwalifikowana.
+[SPEAKER_04] wyedukowana, kulturowo bardzo zaawansowana na swoim poziomie wysokim praca w Polsce i ona zacznie być lepiej wynagradzana, ale co za tym idzie jednostkowe koszty produkcji będą rosły.
+[SPEAKER_04] No i oczywiście pozytywne jest to, o czym marzy premier Morawiecki, że to się przełoży na to, że będą inwestować przedsiębiorcy w innowacje, w nowoczesną technikę, organizację i będzie więcej wartości dodanej w polskich produktach.
+[SPEAKER_04] No daj Bóg, żeby tak było.
+[SPEAKER_04] Ale oczywiście to jeszcze jest trochę przed nami.
+[SPEAKER_04] Ale nie ma nic, co by mogło rating spowodować jakiś gorszy.
+[SPEAKER_04] Także myślę, że będzie profesjonalnie ta decyzja podjęta i śpię spokojnie.
+[SPEAKER_02] A to jeszcze chciałam dopytać Panie Profesorze, może mniej znowu o politykę monetarną, ale znowu bardziej... Aha, to co Pani mówiła, no to nie wynika z moich poglądów, czy żebym ja tak chciał.
+[SPEAKER_04] No polityka pieniężna oczywiście jest tu elementarnym nurtem działań Banku Centralnego, ale tak się składa.
+[SPEAKER_04] No stabilizacja, działania stabilizujące, makro są w naszym mandacie.
+[SPEAKER_04] Tak się składa, że akurat...
+[SPEAKER_04] przyszedłem w okresie, kiedy te zadania stają się ważniejsze.
+[SPEAKER_04] Bo jeśli chodzi o politykę pieniężną, no to tutaj żadnych nadzwyczajnych działań nie musimy wykonywać.
+[SPEAKER_04] Natomiast jeśli chodzi o stabilność banków, to obserwując to, co się dzieje w zachodniej Europie, powiedzmy we Włoszech w tej chwili,
+[SPEAKER_04] ale i w Niemczech niektóre grupy bankowe, powoduje, że musimy bardzo intensywnie pracować na to, żeby być przygotowanym na wypadek jakichś negatywnych sygnałów zewnątrz, które by nas groziły destabilizacją.
+[SPEAKER_04] Jak Państwo wiedzą, jest to resolution, który wdrażamy, nasze kadry się do tego przygotowują, będziemy to rozbudowywać jeszcze, powołamy prawdopodobnie jakiś nowy wydział w Departamencie, będziemy pozyskiwać ludzi z rynku.
+[SPEAKER_04] do tych nowych zadań.
+[SPEAKER_04] No powoli się przygotowujemy do zadań, które były nietypowe dla nas.
+[SPEAKER_04] No i jak Państwo wiedzą, prawdopodobnie ta polonizacja sektora bankowego też będzie postępować, czyli też korzystny taki czynnik, który stabilizuje system bankowy w przypadku jakiegoś odpukać kryzysu, że większość systemu bankowego będzie w rękach polskiego kapitału, który się kieruje wewnętrzną koniunkturą polską,
+[SPEAKER_04] i nie zmienia akcji kredytowej w zależności od tego, jak się sytuacja zmienia w jakichś innych krajach, tak jak było poprzednio w 2008 roku.
+[SPEAKER_04] I to się samo dzieje, bez żadnego działania ze strony państwa, czy banku centralnego, czy nadzoru.
+[SPEAKER_04] To się dzieje samo, ponieważ banki kolejne zachodnie, te duże, mają problemy i chcą po prostu sprzedawać jakieś aktywa w Polsce.
+[SPEAKER_04] Bo aktywa w Polsce przynoszą dobre wyniki finansowe.
+[SPEAKER_04] Cały czas banki mają dobre wyniki, u nas chociaż gorsze niż w zeszłym roku.
+[SPEAKER_04] Mimo tego podatku bankowego, mimo tych większych składek na bankowy fundusz wynikający z eska banku i tych wszystkich okoliczności, mimo tego mają bardzo przyzwoite wyniki.
+[SPEAKER_02] Ja bym jednak chciała dopytać w ramach tej stabilności finansowej, bo trochę na własne życzenie, ale jednak stał się pan bohaterem jednak mniej więcej miesiąc temu, podejmując decyzję koordynowania sprawy rozwiązania kredytów frankowych, prawda?
+[SPEAKER_02] Zdjął pan ten miecz Demoklesa z polskiego, przynajmniej czasowo.
+[SPEAKER_04] Znaczy na własne życzenie.
+[SPEAKER_04] Naszym podstawowym celem, to nie jest jakby nasza w ogóle sprawa.
+[SPEAKER_04] To nie jest kwestia, w której my jesteśmy.
+[SPEAKER_04] jakimś czynnikiem sprawczym, ale kiedy coś potencjalnie chociażby grozi destabilizacją systemu bankowego, no to jest to wtedy naszą sprawą i my musimy tutaj działać.
+[SPEAKER_04] No mamy to narzędzie od końca naszego roku, ten Komitet Stabilności Finansowej, dobrze, że to został powołany, chociaż z opóźnieniem chyba rocznym, prawda, czy ileś tam, no ale mamy to miejsce, gdzie minister finansów, szef nadzoru, BFG i prezes banku się spotykają i możemy jakoś szybko działać i w wymiarze pojedynczych banków, czy sektora jakiegoś pojedynczego w systemie bankowym, czy
+[SPEAKER_04] czy z kwestii ogólnych.
+[SPEAKER_04] No i uznaliśmy jako staw bankowy, że trzeba w to wkroczyć i jakoś działać stabilizująco.
+[SPEAKER_04] Na razie się udało, ale cały proces nie jest zakończony.
+[SPEAKER_02] No nie, właśnie o to chodzi, czy on się w ogóle zaczął, panie profesorze.
+[SPEAKER_04] No jest ustawa złożona w Sejmie.
+[SPEAKER_04] No tak, ale tutaj w ramach… Jest ustawa złożona w Sejmie i pracuje zespół, grupa robocza specjalnie powołana, która przygotuje procedurę działań nadzorczych.
+[SPEAKER_02] A wyznaczył Pan jakiś deadline tej grupie roboczej, żeby się wykazała część?
+[SPEAKER_04] Ta grupa ma swój deadline przedstawienia wyników swoich prac, ale nie wiem, czy on jest publicznie… No właśnie nie jest, dlatego pytam.
+[SPEAKER_04] To niech tak pozostanie, ale jest oczywiście bardzo… To są szybkie terminy.
+[SPEAKER_04] Dlatego, że prezydent jednoznacznie powiedział, Andrzej Duda, że po roku zobaczy, jakie są efekty tych nowych regulacji nadzorczych.
+[SPEAKER_04] Czyli te nowe regulacje nadzorcze trzeba szybko wprowadzić, żeby one dały efekt.
+[SPEAKER_04] Jestem dobrej myśli, chociaż całe zagadnienie, nie wiem, czy Państwo rozmawiali z jakimiś ludźmi, którzy się wokół tego kręcą, jest ogromnie skomplikowane.
+[SPEAKER_04] Ogromnie.
+[SPEAKER_04] No i sam ten projekt ustawy, który już w Sejmie, teraz jeszcze dodatkowe analizy pokazują, jak wiele przy nim trzeba popracować, żeby to nie było tak, że na przykład tylko najbogatsi, ci co już spłacili kredyt, uzyskają znaczne zwroty, a ci co naprawdę mają problemy, są mniej zamożni, mają mniejsze kredyty i dopiero przed sobą podstawową część tego kredytu do spłaty nie dostaną prawie nic.
+[SPEAKER_04] Natomiast mnóstwo różnych
+[SPEAKER_04] Rzeczy, które wychodzą kolejno na jaw.
+[SPEAKER_04] No taki problem sobie na głowę sprowadziliśmy w Polsce kiedyś tam i banki sobie to sprowadziły, te, które chciały w to wejść, bo przecież część nie weszła.
+[SPEAKER_04] I musimy to powoli rozsopłowywać, natomiast zapobiegliśmy temu, co było najgorsze, to znaczy, że jakaś, no ten mir domoklesu spadnie właśnie, jakaś taka tomba się tu pojawi, która zdestabilizuje kilka banków przynajmniej.
+[SPEAKER_04] co by miało fatalne psychologiczne konsekwencje i dla całego systemu banków, jego wiarygodności i tak dalej.
+[SPEAKER_04] Drugim problemem jest to, że staramy się jakąś taką bezpieczną tworzyć ścieżkę rozwoju dla banków spółdzielczych, które stanowią 10% całego systemu.
+[SPEAKER_04] Też są w trudnej sytuacji w tym świecie niskich stóp procentowych.
+[SPEAKER_04] Ten świat niskich stóp procentowych dla banków takich mniejszych, lokalnych, które mają kredyty różnego rodzaju takie, których te banki komercyjne nie mają.
+[SPEAKER_04] jest trudnym światem.
+[SPEAKER_04] No i też musimy razem właśnie z KNF-em, z BFG, z Ministrem Finansów, no temu się przyglądać i tworzyć jakieś.
+[SPEAKER_04] No i trzeci wreszcie, no system skoków.
+[SPEAKER_04] Też temu musimy się przyglądać, jakieś bezpieczne scenariusze tworzyć.
+[SPEAKER_04] Jedne są ważniejsze, drugie mniej ważne.
+[SPEAKER_04] To pierwsze działanie z walutowymi dotyczyło najważniejszej sfery, czyli banków komercyjnych, w tym tych dużych banków komercyjnych.
+[SPEAKER_04] I to jest na razie zrobione, ale to oznacza ogromną pracę dla KNF-u, dla nas, no i dużo ludzi, najlepszych fachowców, którzy na tym znają, musieliśmy do tego desygnować, czyli odciągnąć ich od innej pracy.
+[SPEAKER_02] I jeszcze tylko na sam koniec, a propos Pana Chrzanowskiego, życzymy mu jak najlepiej, ale zaczął nasz tydzień i po prostu chciałam jeszcze dopytać.
+[SPEAKER_02] Rozumiem, że brał dzisiaj udział we wszystkich głosowaniach, normalnie...
+[SPEAKER_04] No dużo tych głosowań nie było, no.
+[SPEAKER_04] Konkretnie jedno, prawda, właściwie.
+[SPEAKER_04] No dwa, no powiedzmy, jakieś tam aklamacje i głosowanie.
+[SPEAKER_04] No normalnie funkcjonuje, działa.
+[SPEAKER_02] Rozumiem, czyli z tego, co Państwo powiedzieli, wynika, że nie było wniosku o obniżenie stóp procentowych dzisiaj?
+[SPEAKER_04] Tego nie powiedziałem.
+[SPEAKER_02] Powiedział Pan, że przez aklamację, to rozumiem, że nadal...
+[SPEAKER_04] Ale przez aklamację jakieś tam inne, prawda, głosowania.
+[SPEAKER_04] My dzisiaj, proszę Państwa, nie zajmowaliśmy się, tylko mieliśmy część tajną dopiero po części jawnej.
+[SPEAKER_04] To może tak to wyjaśnię.
+[SPEAKER_04] Mieliśmy dokończenie różnych spraw, które nam spadły wczoraj i mieliśmy część jawną, a dopiero po niej, po właśnie załatwieniu różnych spraw, no między innymi założeń polityki pieniężnej, dopiero potem przeszliśmy do części utajnionej.
+[SPEAKER_04] Taką mamy procedurę.
+[SPEAKER_00] Bardzo Państwu dziękujemy.
+[SPEAKER_04] Nic się niestety nie dzieje i przepraszam Państwu, nie ma żadnych tutaj newsów, ale ogólnie jest dobre przesłanie.
+[SPEAKER_00] Chyba możemy się z tego wszyscy cieszyć.
+[SPEAKER_00] Dziękujemy Państwu za udział w dzisiejszej konferencji i zapraszamy na kolejną, która odbędzie się za miesiąc.
+[SPEAKER_04] Dziękujemy.

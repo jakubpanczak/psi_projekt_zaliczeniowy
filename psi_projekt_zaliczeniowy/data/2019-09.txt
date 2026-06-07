@@ -1,0 +1,364 @@
+[UNKNOWN_SPEAKER] Muzyka Muzyka
+[SPEAKER_05] Dzień dobry Państwu.
+[SPEAKER_05] Witamy bardzo serdecznie na konferencji prasowej po posiedzeniu Rady Polityki Pieniężnej.
+[SPEAKER_05] W dzisiejszej konferencji udział biorą Pan Profesor Adam Glapiński, Prezes Narodowego Banku Polskiego, Przewodniczący Rady Polityki Pieniężnej oraz członkowie Rady Polityki Pieniężnej Pan Profesor Eryk Łon i Pan Profesor Rafał Sura.
+[SPEAKER_05] Panie Prezesie, bardzo proszę oddaję Panu głos.
+[SPEAKER_06] Informacja po posiedzeniu Rady Polityki Pieniężnej w dniach 10-11 września 2019 r. Rada postanowiła utrzymać stopy procentowe NBP na niezmienionym poziomie.
+[SPEAKER_06] Stopa referencyjna 1,5%, stopa lombardowa 2,5%, stopa depozytowa 0,5% i stopa dyskonta Wexli 1,70,75%.
+[SPEAKER_06] Napływające dane wskazują, że tempo wzrostu w gospodarce światowej pozostaje relatywnie niskie.
+[SPEAKER_06] a perspektywy globalnej koniunktury pogorszyły się.
+[SPEAKER_06] W strefie euro w drugim kwartale wzrost PKB utrzymał się na niskim poziomie.
+[SPEAKER_06] Mimo nadal dobrej sytuacji w sektorze usług w tej strefie, aktywność w sektorze przemysłowym pozostaje słaba.
+[SPEAKER_06] W Stanach Zjednoczonych koniunktura pozostaje dobra, choć dynamika PKB w drugim kwartale się obniżyła.
+[SPEAKER_06] a odczyty wskaźników koniunktury sygnalizują możliwe osłabienie aktywności w kolejnych kwartałach.
+[SPEAKER_06] W Chinach wzrost PKB także spowolnił w drugim kwartale bieżącego roku.
+[SPEAKER_06] W ostatnim okresie obniżyły się ceny ropy naftowej na rynkach światowych.
+[SPEAKER_06] Jednocześnie inflacja w wielu krajach utrzymuje się na umiarkowanym poziomie.
+[SPEAKER_06] Europejski Bank Centralny utrzymuje stopy procentowe na poziomie bliskim zera.
+[SPEAKER_06] w tym stopę depozytową poniżej zera oraz reinwestuje zapadające papiery wartościowe zakupione w ramach programu skupu aktywów.
+[SPEAKER_06] EBC sygnalizuje także możliwość poluzowania polityki pieniężnej w najbliższym czasie.
+[SPEAKER_06] Rezerwa Federalna Stanów Zjednoczonych obniżyła stopy procentowe oraz zaprzestała zmniejszania swojej sumy bilansowej.
+[SPEAKER_06] W Polsce mimo osłabienia wzrostu gospodarczego za granicą utrzymuje się dobra koniunktura.
+[SPEAKER_06] a tempo wzrostu PKB w drugim kwartale bieżącego roku wyniosło 4,5% rok do roku.
+[SPEAKER_06] Wzrostowi aktywności gospodarczej sprzyja rosnąca konsumpcja wspierana przez zwiększające się zatrudnienie i płace, bardzo dobre nastroje konsumentów oraz wypłaty świadczeń społecznych.
+[SPEAKER_06] W drugim kwartale rosły także, mimo pewnego obniżenia dynamiki, inwestycje.
+[SPEAKER_06] Jednocześnie obniżyło się tempo wzrostu eksportu i importu.
+[SPEAKER_06] Inflacja w sierpniu bieżącego roku według szybkiego szacunku GUS wyniosła 2,8% rok do roku.
+[SPEAKER_06] W kierunku wyższej dynamiki cen oddziałuje głównie istotny wzrost cen żywności.
+[SPEAKER_06] Ograniczająco na dynamikę cen wpływają natomiast niższe niż przed rokiem ceny energii, w tym paliw.
+[SPEAKER_06] Jednocześnie inflacja bazowa utrzymuje się na umiarkowanym poziomie.
+[SPEAKER_06] W ocenie Rady perspektywy krajowej koniunktury pozostają korzystne, a dynamika PKB utrzyma się w najbliższych latach na relatywnie wysokim poziomie.
+[SPEAKER_06] Wzrosła jednak niepewność dotycząca skali i trwałości osłabienia koniunktury za granicą i jego wpływu na krajową aktywność gospodarczą.
+[SPEAKER_06] Inflacja po przejściowym wzroście w pierwszym kwartale 2020 roku w horyzoncie oddziaływania polityki pieniężnej będzie się ukształtować w pobliżu celu inflacyjnego.
+[SPEAKER_06] Rada ocenia, że obecny poziom stóp procentowych sprzyja utrzymaniu polskiej gospodarki na ścieżce zrównoważonego wzrostu oraz pozwala zachować równowagę makroekonomiczną.
+[SPEAKER_06] Rada przyjęła na posiedzeniu założenia polityki pieniężnej na rok 2020.
+[SPEAKER_06] Dziękuję.
+[SPEAKER_05] Dziękuję bardzo Panie Prezesie.
+[SPEAKER_05] Bardzo proszę, zapraszam do zadawania pytań.
+[SPEAKER_05] Pani redaktor Oliasz, bardzo proszę.
+[SPEAKER_03] Mam pytanie o zaznaczonym w komunikacie wzrost niepewności i wpływu na polską gospodarkę, jeśli chodzi o spowolnienie zewnętrzne.
+[SPEAKER_03] Na ile to może zwiększyć obawy i prognozy związane z dynamiką wzrostu PKB na kolejne kwartały tego roku, przyszłego roku?
+[SPEAKER_06] Tak jak powiedziałem, koniunktura jest dobra, wzrost jest dobry, ale spowalniający.
+[SPEAKER_06] Już nie mówimy o 5% wzrostu, tylko mówimy o 4,5%.
+[SPEAKER_06] Mówimy o 4, może 3,5%.
+[SPEAKER_06] To jest ta tendencja.
+[SPEAKER_06] Nasza gospodarka na tle innych gospodarek ma się bardzo dobrze.
+[SPEAKER_06] To jest jeden z najwyższych wzrostów w ogóle, jaki jest.
+[SPEAKER_06] Na tle gospodarki niemieckiej w szczególności, w której prawdopodobnie jest recesja, to znaczy drugi kwartał będzie spadek PKB prawdopodobnie.
+[SPEAKER_06] Wszystko na to wskazuje.
+[SPEAKER_06] Mamy się wyjątkowo dobrze, ale jednak jest spowalniający wzrost gospodarczy.
+[SPEAKER_06] Nadal bardzo dobry, cieszymy się z niego, ale niższy.
+[SPEAKER_05] Bardzo proszę kolejne pytanie, pan redaktor Tuszyński.
+[SPEAKER_00] Dzień dobry, Rafał Tuszyński, Polska Agencja Prasowa, Redakcja Ekonomiczna.
+[SPEAKER_00] Panie prezesie, ja bym chciał zapytać o dzisiejszą wypowiedź prezesa Kaczyńskiego, który powiedział, że wczoraj przedstawił pan mu ocenę najnowszego pakietu dla gospodarki, jaką Prawo i Sprawiedliwość przygotował w programie wyborczym.
+[SPEAKER_00] Chciałbym zapytać przede wszystkim, czy RPP została dzisiaj przedstawiona taka analiza i czy pan przedstawił to właśnie prezesowi Kaczyńskiemu, czy to była wyłącznie pana prywatna opinia?
+[SPEAKER_06] Dzisiaj na posiedzeniu Rady Polityki Pieniężnej rozmawialiśmy na ten temat ze staffem banku.
+[SPEAKER_06] Zastanawialiśmy się nad tymi konsekwencjami.
+[SPEAKER_06] Dyskutujemy na temat wszystkiego, co w przestrzeni się pojawia i dotyczy polskich finansów.
+[SPEAKER_06] Dzisiaj Rada też dyskutowała na ten temat.
+[SPEAKER_00] To pozwolę sobie powtórzyć pytanie.
+[SPEAKER_00] Czy to była Pana prywatna opinia przedstawiona prezesowi Kaczyńskiemu, czy to były analizy, z którymi najpierw zapoznała się Rada, w związku z tym niekoniecznie one miały charakter publiczny w pierwszej kolejności?
+[SPEAKER_06] Proszę Pana, każda rzecz, która się pojawia w mediach jest tego samego dnia albo następnego, jeśli to było późno, dyskutowana w Narodowym Banku Polskim.
+[SPEAKER_06] Trudno mówić o formalnych...
+[SPEAKER_06] w projekcjach co o cenach, bo te przedstawiamy, jak Państwo wiedzą, w projekcji inflacji.
+[SPEAKER_06] Jeśli będą skonkretyzowane formalnie jakieś propozycje o dużym stopniu prawdopodobieństwa, że zostaną zrealizowane, to odniesiemy się do nich w listopadzie, kiedy będziemy prezentować raport o inflacji.
+[SPEAKER_06] Zawsze tak robimy.
+[SPEAKER_06] Natomiast na posiedzeniach Rady dyskutujemy bieżące kwestie także i na konferencji prasowej.
+[SPEAKER_06] W tym wypadku w dniu dzisiejszym mogę państwu coś na ten temat powiedzieć, co prezentuję wszystkim innym zainteresowanym na ten temat.
+[SPEAKER_00] W związku z tym, jak RPP ocenia propozycję dużego wzrostu płacy minimalnej?
+[SPEAKER_00] Czy to będzie miało przełożenie na inflację, ewentualnie na wzrost obciążeń dla firm czy na inwestycje?
+[SPEAKER_00] Jak Rada się zapatrzyła?
+[SPEAKER_06] Przede wszystkim z interesującego nas punktu widzenia, od naszej odpowiedzialności.
+[SPEAKER_06] Narodowy Bank Polski jest odpowiedzialny za stabilność polskiego złotego, za stabilność cen.
+[SPEAKER_06] Jeśli takie będą konkretne działania, jak te przedstawione propozycje,
+[SPEAKER_06] to po wyborach się okaże i przy projekcie budżetu przedstawionego przez nowy rząd, przypominam, do którego się będziemy odnosić też, to jest minimalny wpływ na inflację.
+[SPEAKER_06] Maksimum tego wpływu to jest w przyszłym roku jakieś 0,1, w następnym roku jakiś podobny rząd wielkości.
+[SPEAKER_06] Nieporównywalnie mniejsze to jest oddziaływanie na gospodarkę niż w przypadku 500+, o których tak samo od razu dyskutowaliśmy, jak się pojawiły te propozycje.
+[SPEAKER_06] 500+, to była zmiana wielkości popytu typu 1% PKB.
+[SPEAKER_06] a tutaj mamy 0,1%.
+[SPEAKER_06] To 2023 roku my nie obejmujemy już naszą projekcją.
+[SPEAKER_06] Zwykle mówimy, że nasza projekcja, jak wiadomo, to jest rok, w którym się jemu ogłasza i dwa lata do przodu.
+[SPEAKER_06] Więcej to już jest tyle różnych dodatkowych czynników, że trudno odpowiedzialnie coś na ten temat powiedzieć.
+[SPEAKER_06] Ale w ogóle na ten temat będziemy mieli jakieś już analizy konkretne, przymiarki.
+[SPEAKER_06] To Państwu przedstawimy w listopadowej.
+[SPEAKER_06] Natomiast teraz mogę powiedzieć, że nie jest to żadne jakieś ważne wyzwanie czy zmiana.
+[SPEAKER_06] Z punktu widzenia inflacji to właściwie jest marginalne wydarzenie.
+[SPEAKER_06] Natomiast prywatnie mogę powiedzieć, zdaje się, że obaj członkowie rady, które akurat tu też są, prywatnie jako ekonomista zawsze uważałem, że trzeba jak najszybciej, to będzie możliwe i realne, podnosić płace minimalne.
+[SPEAKER_06] Średnia płaca też powinna rosnąć.
+[SPEAKER_06] Ona oczywiście rośnie wraz z możliwościami gospodarczymi, ze wzrostem gospodarczym, ale płace minimalne były radykalnie za niskie.
+[SPEAKER_06] Ten wzrost płacy minimalnej, proszę pamiętać, to będzie jakieś 15,5%, a płace nam rosną średnio co roku o 7%.
+[SPEAKER_06] Więc to nie jest jakaś dramatyczna różnica.
+[SPEAKER_06] Gospodarka doskonale to 7% wzrostu płac rok do roku przyjmuje i rozpędzamy się bardzo ładnie gospodarczo.
+[SPEAKER_06] Także to nie będzie jakaś dramatyczna różnica.
+[SPEAKER_06] Zmniejszy się być może najprawdopodobniej trochę rozpiętość między płacą minimalną a płacą średnią, co na naszym etapie rozwoju jest rzeczą zrozumiałą.
+[SPEAKER_05] Kolejne pytania?
+[SPEAKER_05] Bardzo proszę, pani redaktor Bartyzel.
+[SPEAKER_04] Dorota Bartyzel, Bloomberg News.
+[SPEAKER_04] Najpierw pociągnę ten temat płac.
+[SPEAKER_06] Proszę bardzo, niech pan ciągnie.
+[SPEAKER_04] Mówił pan o wpływie na inflację.
+[SPEAKER_04] Ja przeczytałam dzisiaj troszeczkę inne szacunki, jeśli chodzi o ten wpływ.
+[SPEAKER_04] Mianowicie 1 punkt procentowy wzrostu płac przekłada się, czy równa się mniej więcej 0,3 punkta procentowego wzrostu.
+[SPEAKER_04] inflacji, decyzja o wzroście przychodzi w czasie, kiedy inflacja i tak prawdopodobnie przynajmniej w pierwszej połowie przyszłego roku sięgnie, a może nawet przekroczy 3,5%.
+[SPEAKER_04] Niektórzy analitycy mówią, że dojdzie do 4%.
+[SPEAKER_06] Chciałabym zapytać, czy wszyscy członkowie Rady Polityki Pieniężnej… Ale chciałem tylko zwrócić uwagę, że pani mówi o wzroście średniej płacy, o wpływie wzrostu średniej płacy na inflację.
+[SPEAKER_06] A my tu z panem rozmawialiśmy, odpowiedziałam na pytanie o wzrost płacy minimalnej.
+[SPEAKER_06] Jaki będzie wpływ zmiany wysokości płacy minimalnej?
+[SPEAKER_06] To moja odpowiedź tego dotyczyła.
+[SPEAKER_06] Nie średniej.
+[SPEAKER_06] Oczywiście relacja między minimalną i średnią jakaś zachodzi, ale trudno mi powiedzieć jaka.
+[SPEAKER_06] No to dopiero byśmy mogli zobaczyć, jak to nastąpi.
+[SPEAKER_06] Ale teoretycznie płaca średnia może się nie zmienić przy wzroście płacy minimalnej.
+[SPEAKER_06] Oczywiście należy podejrzewać, że się będzie jakoś zmieniać, ale o ile, to mi trudno powiedzieć.
+[SPEAKER_04] Chciałabym dopytać w takim razie, czy wszyscy członkowie Rady Polityki Pieniężnej są tak spokojni o wpływ zarówno wzrostu płacy minimalnej, jak też i najprawdopodobniej płacy średniej, jak Pan, Panie Prezesie, jeśli chodzi o wpływ z jednej strony na inflację, ale z drugiej strony taka arbitralna zmiana płacy minimalnej oraz płacy na godzinę.
+[SPEAKER_04] jak ona wpłynie na konkurencyjność polskich przedsiębiorstw, jakie będzie miała znaczenie dla innowacyjności, dla skłonności do inwestycji, jaki będzie miała wpływ na zwiększenie się kosztów polskich przedsiębiorców i jak to na koniec ma się do tego, co zdaje się jest solą w naszym oku, mianowicie żebyśmy jednak wspierali także przedsiębiorców.
+[SPEAKER_06] Ale to o to ja nie byłem jeszcze spytany.
+[SPEAKER_06] No to właśnie o to chciałam dopytać.
+[SPEAKER_04] Powiedziałam nie tylko o inflację, ale także o drugą stronę.
+[SPEAKER_06] Na razie wspomniałem o tym, co jest głównym jakby naszym obowiązkiem, czyli pilnowanie gospodarki z punktu widzenia wartości polskiego pieniądza, stabilności cel, czyli inflacji ogólnie rzecz biorąc.
+[SPEAKER_06] I tu wpływ będzie minimalny, jak o tym powiedziałem.
+[SPEAKER_06] Teraz druga kwestia, to jest wpływ na PKB, na wzrost PKB.
+[SPEAKER_06] według takiego wstępnego rozważania i zastanowienia się, i przymierzenia do istniejących danych, wpływ na PKB będzie neutralny.
+[SPEAKER_06] Pewien będzie efekt popytowy, pozytywny, jeśli chodzi o wzrost PKB i może być pewien wpływ negatywny.
+[SPEAKER_06] I one się wzajemnie przynajmniej zrównoważą.
+[SPEAKER_06] Czyli wpływ na wzrost PKB minimalny.
+[SPEAKER_06] Natomiast na inflację niewielki.
+[SPEAKER_06] Proszę pamiętać, o tym właśnie mówiłem, że przez ostatnie lata mamy cały czas do czynienia z 7% wzrostem płac średnim.
+[SPEAKER_06] Czy polska gospodarka i jej konkurencyjność coś na tym ucierpiały?
+[SPEAKER_06] Polska dynamika gospodarcza?
+[SPEAKER_06] Nie.
+[SPEAKER_06] Czy polski eksport coś na tym ucierpiał?
+[SPEAKER_06] Nie ucierpiał.
+[SPEAKER_06] To jest normalne.
+[SPEAKER_06] Przechodzimy z klasy tych krajów słabiej rozwiniętych, o mniejszym zaawansowaniu gospodarczym, technicznym, jeśli chodzi o kapitał ludzki, do krajów bogatszych, bardziej opartych o to, co nazywamy szeroko rozumianym kapitałem ludzkim.
+[SPEAKER_06] I nie sądzę, żeby tutaj coś się w tym
+[SPEAKER_06] zmieniło.
+[SPEAKER_06] Jeśli chodzi o wpłaty do ZUS-u, proszę pamiętać, że one są odnoszone, przedsiębiorstwo rozliczające się ryczałtem, o średnie wynagrodzenia, a nie o minimalne.
+[SPEAKER_06] Tak że to są jakieś wypowiedzi nieodpowiedzialne, te, które wieszczą w tym jakieś dramatyczne wyzwanie dla naszego sporu.
+[SPEAKER_06] Ja pamiętam, byłem w Radzie Polityki Pieniężnej, kiedy rosła płaca minimalna chyba w 2016 roku
+[SPEAKER_06] Marek Belka siedział na tym miejscu, czy z jakiegoś innego miejsca udzielał wywiadów, to wtedy on mówił, że apokaliptyczne wizje dotyczące negatywnych zmian związanych z podwyżką płac minimalnych są absolutnie wyrwane z kontekstu i nierealne.
+[SPEAKER_06] Mogę to samo powiedzieć.
+[SPEAKER_06] Wtedy i dzisiaj było tak samo.
+[SPEAKER_06] Płace minimalne były radykalnie za niskie, jak na nasze możliwości i aspiracje.
+[SPEAKER_04] Czyli z tego, co Pan mówi, Panie Prezesie, wynika, że te propozycje dotyczące szybszego niż dotychczas wzrostu płacy minimalnej nie pobudziły w żaden sposób, ani nie powiększyły tego skrzydła, które sobie tak umownie nazywamy jastrzębim w Radzie Polityki Pieniężnej.
+[SPEAKER_04] Tego, które by twierdziło, że to może mieć na tyle wpływ na właśnie wzrost inflacji.
+[SPEAKER_06] Nie wszystkie szczegóły naszych dyskusji możemy ujawnić, a przynajmniej ujawnić w tej chwili.
+[SPEAKER_06] Ale nie skłamię, jeśli powiem, że wprost przeciwnie.
+[SPEAKER_06] Dzisiaj żadnych objawów tego nie było, a nawet wprost przeciwnie.
+[SPEAKER_06] Tak to bym powiedział.
+[SPEAKER_06] To nie jest naprawdę nic, co powodowałoby wśród nas niepokój o inflację.
+[SPEAKER_06] Wzrost płacy minimalnej taki, jaki jest zapowiedziany.
+[SPEAKER_06] Można analizować różne tego aspekty, ale z naszego punktu widzenia nie ma nic niepokojącego.
+[SPEAKER_06] Ani na inflację, ani na PKB, na tempo wzrostu PKB.
+[SPEAKER_06] Ale rozumiem, pytanie jest skierowane do innych członków, prawda?
+[SPEAKER_04] Tak, to pytanie jest skierowane do innych członków, ale zarówno pan profesor Łon, jak i pan profesor Sura nie należą do tego Jastrzębiego.
+[SPEAKER_04] skrzydła, chyba że zmienili swoje stanowisko w konsekwencji tych decyzji Prawa i Sprawiedliwości.
+[SPEAKER_06] Ale może im Pani, podpowiem Pani, może im Pani dodać podchwytliwe pytanie, czy któryś z członków Rady Polityki Pieniężnej, tych, rozumiem, jak Pani ich nazywa, Jastrzębiami,
+[SPEAKER_06] był dzisiaj zaniepokojony.
+[SPEAKER_04] Ja właśnie o to zapytałam, czy to ożywiło.
+[SPEAKER_06] To może się szczerze na to odpowiedzieć, to nie jest jakaś tajemnica, chociaż tak ogólnikowo sformułowane pytanie.
+[SPEAKER_04] I dlaczego nie mamy dzisiaj któregoś z takich ewidentnych jastrzębi na konferencji?
+[SPEAKER_06] Kogo pani by chciała tutaj spotkać na tej sali?
+[SPEAKER_04] Na przykład pana Gatnara, na przykład pana Harta, na przykład pana Zuby.
+[SPEAKER_04] Ja nie mam nic przeciwko temu, żeby był pan Surak.
+[SPEAKER_06] Mogę pani załatwić na następne posiedzenie.
+[SPEAKER_04] To poprosimy pana Gatnara, poprosimy pana Zubelewicza.
+[SPEAKER_06] Któregoś z tego, których pani nazywa im Jastrzębie, jeśli oni się na to zgadzają, nie wiem.
+[SPEAKER_06] Na te ptasie nazwy, bo to może być upokarzające dla mężczyzny.
+[SPEAKER_04] Nie, dlaczego?
+[SPEAKER_04] Bycie Jastrzębiem?
+[SPEAKER_06] Nie wiem, nie wiem.
+[SPEAKER_06] Trudno mi się wczuć w inne osoby.
+[SPEAKER_06] Ja bym nie chciał, żeby mnie ptasią nazywać jakoś.
+[SPEAKER_04] No dobrze, to może pan profesor Sura i potem pan profesor Łom.
+[SPEAKER_01] Jeśli można, pani redaktor.
+[SPEAKER_01] Ja jestem generalnie zdystansowany, jeśli chodzi o podział według tego kryterium ornitologicznego.
+[SPEAKER_01] Natomiast koncentrując się na istocie sprawy, to istotnie należy zauważyć, że w obecnych miesiącach,
+[SPEAKER_01] W przeszłych miesiącach tego roku, mam tu na myśli lipiec, czerwiec, nastąpił wzrost inflacji w ujęciu rok do roku.
+[SPEAKER_01] I też warto podkreślić, że ten wzrost jest nieco wyżej niż był zakładany w projekcji lipcowej.
+[SPEAKER_01] Co więcej, w nadchodzących miesiącach należy się spodziewać, że ten wzrost również będzie nieco wyższy, podkreślam, nieco wyższy niż zakładany był w projekcji lipcowej.
+[SPEAKER_01] I to jest jedna strona medalu.
+[SPEAKER_01] Natomiast dużo istotniejszą kwestią jest to,
+[SPEAKER_01] że ten wzrost nie ma charakteru trwałego.
+[SPEAKER_01] On jest spowodowany czynnikami podażowymi.
+[SPEAKER_01] Mam tu na myśli głównie kwestie związane z warunkami meteorologicznymi, które spowodowały wzrost cen żywności.
+[SPEAKER_01] To po pierwsze.
+[SPEAKER_01] A po drugie, szokiem podażowym, gdy chodzi o ceny żywności spowodowanym ASF w Chinach.
+[SPEAKER_01] I ten czynnik, który w tej chwili oddziaływuje i będzie oddziaływał jeszcze w perspektywie dwóch, trzech miesięcy, on będzie w dalszej perspektywie, w dłuższym horyzoncie czasowym wygasał.
+[SPEAKER_01] W związku z tym należy oczekiwać w drugim kwartale i w kolejnych przyszłego roku, że inflacja będzie po krótkookresowym wybiciu w granicę
+[SPEAKER_01] górnego pasma odchyleń od celu powracała do środka celu, czyli do 2,5%.
+[SPEAKER_01] W związku z tym my nie możemy swoich decyzji podejmować na podstawie tego, co dane nam dostarczają za okres dwóch, trzech miesięcy, tylko musimy sięgać daleko, daleko w przód.
+[SPEAKER_01] Z tego powodu uważam, że na dzień dzisiejszy nie ma żadnych przesłanek ku temu, żeby skłaniać się ku zmianie stóp.
+[SPEAKER_01] Najbardziej optymalnym scenariuszem dla polskiej gospodarki w tej chwili jest stabilizacja stóp na obecnym poziomie.
+[SPEAKER_06] Pani redaktor, warto zwrócić uwagę
+[SPEAKER_06] na kontekst dla wszystkich analityków jasnych.
+[SPEAKER_06] Wszystkie banki centralne obniżają stopy, z wyjątkiem norweskiego.
+[SPEAKER_06] Tam jest specyficzna sytuacja, specyficzna, jakby krajowa sytuacja.
+[SPEAKER_06] Wszystkie banki centralne.
+[SPEAKER_06] Dzisiaj chyba EBC będzie decydował, jutro będzie EBC decydował, Fed będzie decydował i wszyscy się oczekują, że będą obniżane stopy.
+[SPEAKER_06] a nawet rozważany powrót do luzowania ilościowego.
+[SPEAKER_06] Taka jest sytuacja.
+[SPEAKER_06] W Niemczech mamy prawdopodobnie recesję.
+[SPEAKER_06] Stopy w krajach europejskich są bliskie zera albo poniżej.
+[SPEAKER_06] Niestety, bo to nie jest nic radosnego, tylko smutne, koniunktura na świecie się pogarsza.
+[SPEAKER_06] Czy to jest związane głównie z cyklem koniunkturalnym, czy wpływ na to ma tzw. wojna handlowa,
+[SPEAKER_06] i spadek tych obrotów handlowych.
+[SPEAKER_06] Spowolnienie wzrostu ma miejsce wszędzie.
+[SPEAKER_06] Nawet u nas, chociaż nasze fundamenty są tak mocne i ta dynamika powinna być wysoka i jest wysoka, to też mamy lekkie spowolnienie, chociaż ta dynamika na te inne kraje wysoka, bo mamy wewnętrzne źródła tego wzrostu.
+[SPEAKER_06] W tej sytuacji to nie jest dobra pogoda dla Jastrzębi, tak bym to powiedział, do latania.
+[SPEAKER_06] Może one się czają na lepszą okazję, ale ja bym chciał, żeby taka okazja była, żebyśmy mówili o sytuacji, że jest zbyt szybki wzrost, zbyt wysoka koniunktura.
+[SPEAKER_06] zbyt dobra sytuacja wszędzie na świecie i że banki przystępują do podwyżek stóp.
+[SPEAKER_06] Nie ma takiej sytuacji.
+[SPEAKER_06] Natomiast my jesteśmy w tej różnej sytuacji od banków Europy Zachodniej, że tamte stopy są bliskie zera, a u nas się szczęśliwie dzięki poprzedniej Radzie Polityki Pieniężnej i tej Radzie Polityki Pieniężnej utrzymały na tym dodatnim poziomie i on jest całkowicie w tej chwili
+[SPEAKER_06] dobry ten poziom i ustabilizowany i my mamy tą przestrzeń.
+[SPEAKER_06] Gdyby była w przyszłości potrzeba, że koniunktura odpukać by się pogorszyła jakoś znacząco i nagle, to my możemy też obniżać stopy, czego żaden z banków zachodnich w tej chwili już nie może zrobić.
+[SPEAKER_06] To znaczy obniżają to, nawet rozważają przecież, żeby stopy obniżać, minusowe stopy, żeby jeszcze obniżać trochę.
+[SPEAKER_06] Ale efekt tego oczywiście niesłychanie ograniczony.
+[SPEAKER_06] Wtedy tylko niestandardowe
+[SPEAKER_06] metody pobudzania koniunktury, właśnie to drukowanie pieniądza czy luzowanie ilościowe, jak się eufemistycznie teraz mówi, może mieć miejsce.
+[SPEAKER_06] U nas jesteśmy odlegli od takiego świata.
+[SPEAKER_06] My żyjemy cały czas w normalnym, klasycznym świecie, kiedy tradycyjne metody są
+[SPEAKER_06] Obecnie mogę powtórzyć to, co kiedyś mówiłem.
+[SPEAKER_06] Chwilo trwają.
+[SPEAKER_06] Sytuacja polskiej gospodarki jest idealna.
+[SPEAKER_06] 0,5% jest w górę czy w dół, ale PKB szybko rośnie.
+[SPEAKER_06] Poziom życia rośnie szybko, konsumpcja rośnie szybko, płace rosną około 6-7%.
+[SPEAKER_06] Możemy sobie pozwolić na podwyżkę płac minimalnych.
+[SPEAKER_06] poziom życia się podnosi, kredyty mieszkaniowe, złotowe się rozwijają, a my nie musimy zmieniać parametrów.
+[SPEAKER_06] Bo wbrew temu, co niektórzy, raczej nie analitycy, a publicyści, czy byli politycy, publicyści obecnie, czy jakby to powiedzieć, twierdzą, nie następują żadnej nierównowagi.
+[SPEAKER_06] Obiektywnie rzecz biorąc, patrząc z boku, nie będąc członkiem rady,
+[SPEAKER_06] Członkowie Rady są całkowicie niezależni w swoich opiniach.
+[SPEAKER_06] Przecież nie ma żadnej znaczącej, czy w ogóle nie ma żadnej poważnej makro nierównowagi w Polsce.
+[SPEAKER_06] Na żadnym rynku.
+[SPEAKER_06] To jest sytuacja nadzwyczajna.
+[SPEAKER_06] To jest to, co nazywamy, mówiłem, my się tak krępujemy, bo jesteśmy skromni jako Polacy, ale mamy do czynienia z cudem gospodarczym trwającym już wiele lat.
+[SPEAKER_06] Oczywiście nie dlatego, że tu siedzący i inni jakichś tam nadzwyczajnych czarów dokonali.
+[SPEAKER_06] Tak się złożyło, tak się to Polsce należało.
+[SPEAKER_06] A wzrost płac jest możliwy też dlatego, że on bardzo długo był utrzymywany na bardzo, bardzo niskim poziomie.
+[SPEAKER_06] Przy rosnącej wydajności pracy, przy rosnącej edukacji.
+[SPEAKER_06] wartości kapitału ludzkiego.
+[SPEAKER_06] Płace w Polsce były bardzo długo na bardzo niskim poziomie i nasza konkurencyjność wynikała głównie z niskich płac.
+[SPEAKER_06] A teraz przechodzimy – i nie bójmy się tego – proces, który może spowodować w przyszłości jakieś perturbacje i większy wysiłek z naszej strony.
+[SPEAKER_06] Przechodzimy z gospodarki, która konkuruje niską ceną siły roboczej i niskich płac, do gospodarki, która konkuruje
+[SPEAKER_06] wysoką wydajnością pracy, wysokim poziomem technicznym, wysoką edukacją pracowników itd.
+[SPEAKER_06] I to jest bardzo szczęśliwy moment.
+[SPEAKER_06] Nie ma go co psuć, tego momentu jakimś kwękaniem kogoś, kto by chciał utrzymywać cały czas pracowników polskich na poziomie takim, że tylko mają coś zjeść, wypić
+[SPEAKER_06] i ledwo gdzie spać.
+[SPEAKER_06] Naprawdę nie.
+[SPEAKER_06] Jeśli nie będziemy podwyższać radykalnie poziomu życia, to perspektywy nasze zawsze będą jako tego trzecioświatowego, drugoświatowego kraju.
+[SPEAKER_06] Proszę bardzo.
+[SPEAKER_02] Jeżeli chodzi o te przydomki, to mnie bardzo
+[SPEAKER_02] One w ogóle mi się bardzo podobają, a tak naprawdę, jak pewnie Państwo wiecie z wypowiedzi, mi jest bardzo bliskie określenie orła.
+[SPEAKER_02] I tak naprawdę chciałbym zasłużyć na miano orła.
+[SPEAKER_02] Orzeł to jest zwolennik utrzymania polskiej waluty narodowej, polskiej polityki pieniężnej w polskich rękach.
+[SPEAKER_02] I to, jeżeli chodzi o te przydomki.
+[SPEAKER_02] Jeżeli chodzi o te wynagrodzenia, to ja bardzo pozytywnie to traktuję.
+[SPEAKER_02] Dlaczego?
+[SPEAKER_02] Dlatego, że
+[SPEAKER_02] Uważam, że jeżeli będzie się to w pewnym okresie będziemy te wynagrodzenia, te dochody między Polakami będą się wyrównywać, to właśnie o to chodzi, bo to wtedy właśnie z badań nawet wynika, że wtedy mamy Polacy się czują jak jedna polska rodzina.
+[SPEAKER_02] Im mniejsze są jakby rozbieżności w dochodach, tym większe jest poczucie, jakby większe przywiązanie do kraju.
+[SPEAKER_02] I też wiem, że
+[SPEAKER_02] akurat te rozwiązania są planowane też po to, żeby właśnie zmniejszać, żeby zwiększać skłonność poczucia bycia we własnym kraju i żeby właśnie w przyszłości ta emigracja zarobkowa właśnie żeby się zmniejszyła, bo tak naprawdę chodzi o to, żeby utrzymać polskich tutaj, żeby jak najwięcej właśnie młodych ludzi właśnie utrzymać w Polsce, a na to oczywiście trzeba doprowadzić do wzrostu dochodów, a przynajmniej zniwelowania tych skrajności i pod tym względem postrzegam to bardzo pozytywnie.
+[SPEAKER_02] I też powiem tak, że nie dostrzegam zagrożeń co do inflacji.
+[SPEAKER_02] Wręcz przeciwnie, nawet bym powiedział, że tutaj zresztą była mowa chyba w pierwszym pytaniu o te zagrożenia zewnętrzne.
+[SPEAKER_02] Jeżeli już jakieś tam widzę czynniki ryzyka, to raczej z zewnątrz, nie w Polsce, bo uważam, że obecna polityka fiskalna jest prowadzona w sposób zrównoważony, odpowiedzialny społecznie.
+[SPEAKER_02] A widzę czynniki zewnętrzne, które i właśnie ze względu na czynniki zewnętrzne, o których tutaj była mowa i o których wspominał tutaj już pan prezes Glapiński, uważam, że te zagrożenia właśnie z gospodarki amerykańskiej, to jest odwrócenie krzywej dochodowości, oczywiście tam ostatnio w swojej wypowiedzi o tym sygnalizowałem, no i oczywiście to, co się dzieje w strefie euro.
+[SPEAKER_02] Strefa euro znowu ma problemy,
+[SPEAKER_02] zwłaszcza gospodarka niemiecka.
+[SPEAKER_02] I z tego punktu widzenia uważam, sam osobiście uważam, że nawet powinniśmy się bardziej zastanawiać nad obniżkami stóp procentowych, aniżeli w ogóle nad podwyżkami.
+[SPEAKER_02] Odłożyć w ogóle myślenie o podwyżkach na razie na bok, bo w tej chwili to powinniśmy przede wszystkim troszyć się w tej chwili o utrzymanie wzrostu gospodarczego, utrzymanie dobrych zatrudnienia.
+[SPEAKER_02] jak jest w tej chwili, jest niskie bezrobocie i przede wszystkim dobrych nastrojów konsumentów, przedsiębiorców i to trzeba po prostu właśnie przede wszystkim na tym się skoncentrować, ale uważam, że tutaj sytuacja w polskiej gospodarki, tak jak tutaj Pan Prezes to mówił i kolega Pan Profesor Sura, jest dobra, mamy dobre fundamenty i widzimy, że złoty jest stabilny.
+[SPEAKER_02] Właśnie to pokazujemy, jak bardzo ważną
+[SPEAKER_02] odgrywa nasz właśnie złoty, co właśnie kraje strefy euro w tej chwili mogą nam pozazdrościć.
+[SPEAKER_02] Teraz mają problemy gospodarcze i wiele z tych krajów, krajów południa Europy, zazdroszczą nam, że my mamy własną walutę, mamy własną politykę pieniężną, możemy użyć, a oni już nie mogą.
+[SPEAKER_02] Oni są tylko zdani na łaskę i niełaskę właśnie tych urzędników, którzy tam zasiadają we Frankfurcie nad Menem w Europejskim Banku Centralnym.
+[SPEAKER_06] Były takie badania Europejskiego Banku Centralnego w 2014 roku na temat, jak przedsiębiorstwa reagują na wzrost płacy minimalnej.
+[SPEAKER_06] I głównym kanałem reakcji było tam ograniczenie kosztów niezwiązanych z pracą i podnoszenie produktywności.
+[SPEAKER_06] Te badania obejmowały także Polskę.
+[SPEAKER_06] I wszystko wskazuje, że u nas będzie tak samo.
+[SPEAKER_06] Były badania Międzynarodowego Funduszu Walutowego na temat nierówności też wynagrodzeń, które wskazywały, że nierówności nie sprzyjają wzrostowi gospodarczemu, że im te nierówności są mniejsze, tym wzrost gospodarczy jest szybszy.
+[SPEAKER_06] Natomiast jeśli chodzi o inflację, to tak jak to mówiliśmy wielokrotnie i tu nadal to się nie zmienia, chociaż się zmieniają same liczby czy cyfry,
+[SPEAKER_06] Ta inflacja w 2020 roku wzrośnie w pierwszym kwartale, a w drugim kwartale już będzie spadać.
+[SPEAKER_06] Podejrzewamy, czy przewidujemy według modelu, że w 2020 roku wzrośnie w pierwszym kwartale do 3,5, ale w drugim kwartale już będzie wynosić 2,8, mówi o CPI.
+[SPEAKER_06] A bazowa wzrośnie do 2,6 i spadnie w drugim kwartale
+[SPEAKER_06] gdzieś koło połowy roku 2,4.
+[SPEAKER_06] Ale już w lipcu 2020 prognoza mówi, że będziemy mieli CPI 2,3.
+[SPEAKER_06] Gdzieś po połowie roku, a bazowa 2,2.
+[SPEAKER_06] Już mieliśmy takie zjawisko, kiedy to było, żeśmy też omawiali, przewidywali, że to lekko wzrośnie i spadnie.
+[SPEAKER_06] Zakładając, że wszystkie czynniki tak będą wyglądać, jak je dzisiaj można przewidzieć.
+[SPEAKER_06] Także te międzynarodowe, związane z cenami surowców.
+[SPEAKER_06] Jak Państwo wiedzą ceny surowców spadły znacząco i spadają.
+[SPEAKER_05] Szanowni Państwo, goni nas nieubłaganie czas niestety za zobowiązania kalendarzowe.
+[SPEAKER_05] Musimy już dzisiaj kończyć konferencję.
+[SPEAKER_05] Dziękujemy Państwu za dzisiejsze spotkanie.
+[SPEAKER_05] Bardzo przepraszam, musimy już kończyć.
+[SPEAKER_00] Bardzo dziękuję.
+[SPEAKER_05] Dajmy dwa pytania, bo Państwo jakoś są zdenerwowani.
+[SPEAKER_06] Proszę.
+[SPEAKER_05] Bardzo proszę dwa pytania, dwa pytania bardzo proszę.
+[SPEAKER_05] Po jednym Pani redaktor Bartyzel, Pan redaktor Cieszyński bardzo proszę.
+[SPEAKER_00] Proszę bardzo.
+[SPEAKER_00] Muszę spytać o słonia w pokoju, czyli wyrok Trybunału Sprawiedliwości i Unii Europejskiej w sprawie kredytów frankowych.
+[SPEAKER_00] Według analityków sektor bankowy może ponieść w skrajnie niekorzystnym scenariuszu bardzo duże straty i być może również stabilność całego sektora finansowego Polski, a tym samym gospodarki może zostać zaburzona.
+[SPEAKER_00] Mam pytanie, czy KSFM, którego w wersji makroostrożnościowej z Panem Przewodniczącym podjął ten temat, jakie analizy Państwo przeprowadziliście i czy stabilność polskiego sektora finansowego nie jest zagrożona i ewentualnie jakie środki zaradcze opracowuje KSFM?
+[SPEAKER_06] Swoim pytaniem dwa razy użył Pan określenia być może.
+[SPEAKER_06] No więc być może wejdzie jakiś słoń, być może nie wejdzie.
+[SPEAKER_06] My tego wyroku jeszcze nie mamy na biurku.
+[SPEAKER_06] Wiem, że on dzisiaj zapadł z gazet, z agencji, ale go nie mamy.
+[SPEAKER_06] No i nie wiemy, jaka będzie praktyka sądowa w Polsce, jak sądy będą to interpretować.
+[SPEAKER_06] Pan profesor jest profesorem prawa, mógłby więcej na ten temat powiedzieć, więc trudno nam się do tego odnosić.
+[SPEAKER_06] Na posiedzeniach KSFM-u
+[SPEAKER_06] Mieliśmy już jakieś na ten temat dyskusje i rozważania.
+[SPEAKER_06] To wszystko, co mogę powiedzieć.
+[SPEAKER_06] Trudno się odnosić do czegoś, co nie wiadomo,
+[SPEAKER_06] Czy w ogóle zaistnieje i w jakiej skali, jak to będzie w czasie rozłożone i tak dalej.
+[SPEAKER_00] Ale jakieś scenariusze KSF musi nakreślić, żeby być przygotowanym na ewentualne negatywne scenariusze.
+[SPEAKER_00] Więc jaki jest scenariusz centralny dla KSF?
+[SPEAKER_06] To jest jeszcze za wcześnie, żeby mówić o jakimś konkretnym scenariuszu, bo nie wiemy, czy zjawisko nastąpi, jaka będzie skala zjawiska.
+[SPEAKER_05] Panie redaktorze, bardzo proszę.
+[SPEAKER_05] Pani redaktor Barty Zyliszczyn prosiła o pytania.
+[SPEAKER_05] Mamy czas na ostatnie pytanie.
+[SPEAKER_04] A to ja chciałabym, zanim zadam pytanie, powiedzieć, że to jest tak poważna sprawa, to co się dzieje z bankami.
+[SPEAKER_04] Państwo, jestem absolutnie przekonana, macie świadomość tego, co stało się z waluacją banków, które są na giełdzie.
+[SPEAKER_04] Niektóre z nich straciły jedną trzecią swojej wartości.
+[SPEAKER_04] Wielu analityków, w tym także międzynarodowych, ja też bym chciała powiedzieć, że są lepsi niż polscy, ale że to także międzynarodowi dostrzegają tego słonia, jak go fajnie nazwał,
+[SPEAKER_04] tutaj Rafał i mówią, że ten niepokój przenosi się również na sytuację na rynku walutowym, w związku z czym to nie jest chyba tak, że Narodowy Bank Polski zawsze reaguje na to, co się dzieje, ale także przewiduje to, co się stać może.
+[SPEAKER_04] To nie jest pytanie, przepraszam.
+[SPEAKER_06] No to oczywiście to nie jest zadanie Narodowego Banku Polskiego w tym wypadku, tylko Komitetu Stabilności Finansowej w wersji makro.
+[SPEAKER_06] Tam ta kwestia była wielokrotnie dyskutowana, wielowariantowa, ale nadal to jest słoń, którego jeszcze nie ma.
+[SPEAKER_06] Może tam słychać jakieś porykiwania, ale nie wiadomo jeszcze, kto to jest, jak wyjdzie na scenę.
+[SPEAKER_06] Natomiast wahania giełdowe, no to nie wiem, czy pani kiedyś grała na giełdzie albo się jakoś interesowało bardziej.
+[SPEAKER_06] Jak coś się pojawia jako potencjalna gdzieś możliwość, to jest od razu polem czy przedmiotem pewnej gry i może na tym jakoś grać.
+[SPEAKER_06] Ale w takim razie czy Narodowy Bank Polski, czy KSF… A potem te notowania w górę pójdą i też się na tym odpowiednio zarobi, jeśli się okaże, że strach ma wielkie oczy.
+[SPEAKER_04] No tak, czy Narodowy Bank Polski albo KSF w ogóle ma w swoim instrumentarium takie narzędzia, które mogą zniwelować te problemy, przed jakimi banki stoją?
+[SPEAKER_04] Bo to przecież nie jest tak, że ten słoń jest wydumany.
+[SPEAKER_06] Nie uważamy, żeby z tego tytułu były jakieś takie dramatyczne problemy, do których się w tej chwili już by trzeba odnosić.
+[SPEAKER_06] Na poziomie KSFM-u, bo oczywiście proszę pamiętać, że to bardziej zakres zainteresowań Komisji Nadzoru Finansowego.
+[SPEAKER_06] Jestem w stałym kontakcie z prezesem Jastrzębskim.
+[SPEAKER_06] Rozmawiamy na ten temat i na wszystkie inne zresztą, ale na ten temat też rozmawiamy.
+[SPEAKER_06] Czekamy, co przyniosą wydarzenia.
+[SPEAKER_04] Ja mam bardzo ważne pytanie.
+[SPEAKER_04] Ja wiem, ja rozumiem, ale mam bardzo ważne pytanie.
+[SPEAKER_06] Natomiast same banki oczywiście, czy Związek Banków Polskich, no musi podnosić tą sprawę, no bo to jest przedmiot ich zainteresowania.
+[SPEAKER_06] To jest ich zadanie, że tym wszystkich starają się zainteresować.
+[SPEAKER_06] Zobaczymy, jak będzie.
+[SPEAKER_06] Zobaczymy, jakie będą wyroki polskich sądów, jeśli dojdzie do orzekania w tych sprawach.
+[SPEAKER_06] Nie wiemy przecież tego w ogóle.
+[SPEAKER_06] Pani też nie wie.
+[SPEAKER_06] Pani redaktor, były dwa pytania dodatkowe.
+[SPEAKER_06] Bardzo proszę.
+[SPEAKER_04] Przepraszam bardzo.
+[SPEAKER_04] Musimy już kończyć.
+[SPEAKER_04] Pani redaktor.
+[SPEAKER_04] Ja rozumiem, ale może pan prezes będzie chciał odpowiedzieć na pytanie dotyczące niezależności Narodowego Banku Polskiego.
+[SPEAKER_04] W związku z tym, że pan prezes Kaczyński powiedział, iż otrzymał od pana pozytywną opinię dotyczącą programu, w tym przede wszystkim oczywiście wzrostu płac.
+[SPEAKER_04] Chciałbym zapytać, czy tego typu wypowiedź z jednej strony nie narusza tego przeświadczenia, że Narodowy Bank Polski jest niezależny, a z drugiej strony, czy przewiduje pan też spotkania z innymi liderami innych partii politycznych?
+[SPEAKER_06] Ja się nie spotykam z liderami partii politycznych w żadnym wypadku.
+[SPEAKER_06] Natomiast z prezesem Kaczyńskim od dobrych 30 czy 40 lat, czy coś takiego, bywa, że się spotykamy.
+[SPEAKER_06] Rozmawiamy oczywiście o tym, co nas interesuje, czyli głównie w moim wypadku sprawy gospodarcze i finansowe.
+[SPEAKER_06] Natomiast konkretnie pani pyta, jak prezes
+[SPEAKER_06] prezes czy przewodniczący Schetyna by chciał przyjść do banku i o czymś porozmawiać, no to oczywiście się normalną drogą można zapisać i porozmawiamy.
+[SPEAKER_06] Nie jestem tutaj zamknięty, chociaż nie znam człowieka i nigdy nie rozmawialiśmy.
+[SPEAKER_05] Dziękujemy Państwu za dzisiejsze spotkanie.
+[SPEAKER_05] Zapraszamy na kolejną konferencję za miesiąc.
+[SPEAKER_05] Do zobaczenia.

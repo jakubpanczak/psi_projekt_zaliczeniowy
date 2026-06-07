@@ -1,0 +1,431 @@
+[UNKNOWN_SPEAKER] Muzyka Muzyka
+[SPEAKER_03] Dzień dobry Państwu.
+[SPEAKER_03] Witamy bardzo serdecznie na konferencji prasowej po posiedzeniu Rady Polityki Pieniężnej.
+[SPEAKER_03] W dzisiejszej konferencji udział biorą pan profesor Adam Glapiński, prezes Narodowego Banku Polskiego, przewodniczący Rady Polityki Pieniężnej oraz członkowie Rady Polityki Pieniężnej, pan profesor Łukasz Hart i pan profesor Rafał Sura.
+[SPEAKER_03] Panie prezesie, bardzo proszę, oddaję pan głos.
+[SPEAKER_04] Informacja po posiedzeniu Rady Polityki Pieniężnej w dniach 5 i 6 listopada 2019 r. Rada postanowiła utrzymać stopy procentowe NBP na niezmienionym poziomie.
+[SPEAKER_04] I tak stopa referencyjna wynosi 1,5%, stopa lombardowa 2,5%, stopa depozytowa 0,5% i stopa redyskontowe 1,75%.
+[SPEAKER_04] Tempo wzrostu w gospodarce światowej
+[SPEAKER_04] pozostaje relatywnie niskie oraz utrzymuje się niepewność dotycząca perspektyw kształtowania się globalnej koniunktury.
+[SPEAKER_04] W strefie euro wraz z trwającą dekoniunkturą w przemyśle roczna dynamika PKB w trzecim kwartale bieżącego roku obniżyła się.
+[SPEAKER_04] W Stanach Zjednoczonych koniunktura wciąż jest relatywnie dobra, jednak tempo wzrostu PKB w trzecim kwartale w tej gospodarce również się zmniejszyło.
+[SPEAKER_04] Jednocześnie w Chinach dynamika aktywności gospodarczej w dalszym ciągu spowalnia.
+[SPEAKER_04] Inflacja w wielu krajach obniżyła się w ostatnich miesiącach i nadal kształtuje się na umiarkowanym poziomie, czemu sprzyjają niższe niż przed rokiem ceny ropy naftowej.
+[SPEAKER_04] W szczególności niska jest inflacja w strefie euro.
+[SPEAKER_04] Europejski Bank Centralny po obniżeniu stopy depozytowej głębi poniżej zera we wrześniu utrzymuje ją na niezmienionym poziomie.
+[SPEAKER_04] Jednocześnie EBC wznowił program skupu aktywów i sygnalizuje utrzymywanie luźnej polityki pieniężnej w kolejnych kwartałach.
+[SPEAKER_04] Rezerwa federalna Stanów Zjednoczonych w październiku po raz kolejny obniżyła stopy procentowe.
+[SPEAKER_04] W Polsce utrzymuje się dobra koniunktura, chociaż napływające dane wskazują na prawdopodobne obniżenie się tempa wzrostu gospodarczego w trzecim kwartale, do czego przyczynia się głównie osłabienie koniunktury za granicą.
+[SPEAKER_04] Stabilizująco na dynamikę MPKB oddziałuje rosnąca konsumpcja wspierana przez zwiększające się zatrudnienie i płace, bardzo dobre nastroje konsumentów oraz wypłaty świadczeń społecznych.
+[SPEAKER_04] Napływające dane wskazują jednocześnie na dalszy, choć wolniejszy wzrost inwestycji w gospodarce.
+[SPEAKER_04] Inflacja w październiku bieżącego roku, według szybkiego szacunku GUS, wyniosła 2,5% rok do roku.
+[SPEAKER_04] Dynamika cen żywności, mimo stopniowego obniżania się, pozostaje podwyższona i oddziałuje w kierunku wyższej inflacji.
+[SPEAKER_04] Ograniczająco na dynamikę cen wpływają natomiast niższe niż przed rokiem ceny energii, w tym paliw.
+[SPEAKER_04] Jednocześnie inflacja bazowa w ostatnim okresie wzrosła, pozostając jednak na umiarkowanym poziomie.
+[SPEAKER_04] Rada zapoznała się z wynikami listopadowej projekcji inflacji i PKB przygotowanej przy założeniu niezmienionych stóp procentowych NBP.
+[SPEAKER_04] Listopadowa projekcja uwzględnia dane i informacje opublikowane do 18 października bieżącego roku.
+[SPEAKER_04] Zgodnie z listopadową projekcją z modelu NetMod roczna dynamika ceny znajdzie się z 50% prawdopodobieństwem w przedziale 2,2% do 2,4% w 2019 r. wobec poprzednio przewidywanej w projekcji z lipca 1,7% do 2,3%.
+[SPEAKER_04] 2,1% do 3,6% w 2020 roku wobec poprzednio przewidywanych 1,9% do 3,7% oraz 1,6% do 3,6% w 2020 roku wobec poprzedniego przedziału 1,3% do 3,5%.
+[SPEAKER_04] Z kolei roczne tempo wzrostu PKB według tej projekcji znajdzie się z 50-procentowym prawdopodobieństwem w przedziale 3,9%,
+[SPEAKER_04] do 4,7% 2019 roku wobec 3,9% do 5,1% w projekcie z lipca 2019 roku, 2,7% do 4,4% w 2020 roku wobec poprzednio przedziału 3,0% do 4,8% oraz 2,3% do 4,2% w 2021 roku.
+[SPEAKER_04] wobec przewidywanego poprzednio projekcji przedziału 2,4 do 4,3.
+[SPEAKER_04] W ocenie Rady perspektywy krajowej koniunktury pozostają korzystne.
+[SPEAKER_04] Dynamika PKB mimo oczekiwanego obniżenia utrzyma się w najbliższych kwartałach na relatywnie wysokim poziomie.
+[SPEAKER_04] Jednocześnie utrzymuje się niepewność dotycząca skali i trwałości osłabienia koniunktury za granicą oraz jego wpływu na krajową aktywność gospodarczą.
+[SPEAKER_04] Inflacja po przejściowym wzroście w pierwszym kwartale 2020 roku w horyzoncie oddziaływania polityki pieniężnej będzie się ukształtować w pobliżu celu inflacyjnego.
+[SPEAKER_04] Taką ocenę wspierają wyniki listopadowej projekcji inflacji i PKB.
+[SPEAKER_04] Rada ocenia, że obecny poziom stóp procentowych sprzyja utrzymaniu polskiej gospodarki na ścieżce zrównoważonego wzrostu oraz pozwala zachować równowagę makroekonomiczną.
+[SPEAKER_04] Podjęła uchwałę w sprawie zasad tworzenia i rozwiązywania rezerwy na pokrycie ryzyka zmian kursu złotego do walut obcych w Narodowym Banku Polskim oraz uchwałę zmieniającą uchwałę w sprawie zasad ruchowości NBP.
+[SPEAKER_04] Dziękuję.
+[SPEAKER_03] Dziękuję bardzo panie prezesie.
+[SPEAKER_03] Bardzo państwa proszę o zadawanie pytań.
+[SPEAKER_03] Pan redaktor Tuszyński, bardzo proszę.
+[SPEAKER_05] Dzień dobry, Rafał Tuszyński, Polska Agencja Prasowa, Redakcja Ekonomiczna.
+[SPEAKER_05] Pierwsze pytanie, które się nasuwa zawsze przy publikacji projekcji, to jest jaką ścieżkę stuprocentową Państwa zdaniem ta projekcja wspiera?
+[SPEAKER_04] No taką, jaka jest przewidziana w projekcji.
+[SPEAKER_04] No tam jest pasmo, to najbardziej prawdopodobne.
+[SPEAKER_04] O ścieżkę stuprocentowych pytam.
+[SPEAKER_04] O ścieżkę stuprocentowych, no to Pan mnie aż zaszkoczył tym pytaniem.
+[SPEAKER_04] Nie spodziewałem się.
+[SPEAKER_04] Jeśli o mnie chodzi, to wielokrotnie się wypowiadałem, że spodziewam się do końca mojej kadencji
+[SPEAKER_04] niezmienionych stóp procentowych.
+[SPEAKER_04] I w tej chwili znajduję potwierdzenie kolejne dla tej swojej indywidualnej projekcji i pewnej intuicji, bo oczywiście przewidywać to można z jakąś dozą dużego prawdopodobieństwa na dwa lata.
+[SPEAKER_04] Natomiast więcej oczywiście już jest trudno.
+[SPEAKER_01] Panowie profesorowie?
+[SPEAKER_01] Tak, jeśli można.
+[SPEAKER_01] Panie redaktorze, ja również podzielam pogląd, że w najbliższych kwartałach nie ma żadnych podstaw do tego, aby zmieniać stopy procentowe.
+[SPEAKER_01] Uważam, że obecny poziom stóp procentowych w sposób najbardziej optymalny służy polskiej gospodarce.
+[SPEAKER_01] A na poparcie tej tezy mamy dane, które wprost wynikają z tej bieżącej projekcji.
+[SPEAKER_01] Mówią jasno.
+[SPEAKER_01] że po przejściowym wzroście inflacji do poziomu bliskiego, pasma odchyleń od celu, ona w połowie przyszłego roku będzie wracać w granicę środka przedziału, czyli 2,5%.
+[SPEAKER_01] Warto tylko jeszcze może dodać, że zdarzyć się może taka sytuacja, że inflacja będzie nieco nawet niższa
+[SPEAKER_01] niż ta pokazana w projekcji z tego powodu, że założone jest bardzo takie konserwatywne podejście mówiące o tym, że ceny energii w przyszłym roku mogą wzrosnąć w okolicach 8%.
+[SPEAKER_01] Mi wydaje się, podobnie zresztą jak w roku ubiegłym, również w listopadzie, stwierdziłem, że w 2019 roku ceny energii będą utrzymane na poziomie z 2018 roku
+[SPEAKER_01] I ten pogląd w chwili obecnej podtrzymuje.
+[SPEAKER_01] A to spowoduje, że ta ścieżka inflacji pokazana w projekcji bieżącej może ulec zmianie średnio 0,3%.
+[SPEAKER_05] Czyli jak dobrze rozumiem, projekcja zakłada, że ceny prądu dla gospodarstw domowych zostają odmrożone w przyszłym roku.
+[SPEAKER_01] Tak, no tak nasi eksperci założyli.
+[SPEAKER_01] Mi się wydaje, że to jednak będzie rewidowane w dół.
+[SPEAKER_04] To znaczy założeniem działania Narodowego Banku Polskiego, jak poprzednio,
+[SPEAKER_04] Zawsze jest takie konserwatywne podejście do problemów.
+[SPEAKER_04] Nie uwzględniamy tu żadnych czynników politycznych czy decyzyjnych innych niż to, co można przewidzieć z danych.
+[SPEAKER_04] Zakładamy konserwatywnie, że ta podwyżka nastąpi.
+[SPEAKER_04] Pamiętajmy, to państwo poprzednio też zakładaliśmy, ona nie nastąpiła.
+[SPEAKER_04] Teraz też ją zakładamy, ale jak będzie, zobaczymy.
+[SPEAKER_04] Gdyby nie nastąpiło, to wtedy oczywiście inflacja będzie odpowiednio
+[SPEAKER_04] Lepiej być zaskoczonym i plus.
+[SPEAKER_04] O jakieś 0,3 będzie niższa wtedy.
+[SPEAKER_00] Jeśli można, to rzeczywiście projekcja przewiduje wzrost inflacji nawet do 3,5% na początku przyszłego roku.
+[SPEAKER_00] I tu myślę, że pomiędzy nami jest zgoda.
+[SPEAKER_00] Natomiast oczywiście pytanie i dyskusja dotyczy tego, co później.
+[SPEAKER_00] a jeśli to jak szybko inflacja będzie wracała w okolice celu inflacyjnego.
+[SPEAKER_00] Znaczy mamy dużo czynników potencjalnie proinflacyjnych, wynagrodzenia, kredyty szybko rosnące i proszę zobaczyć jak wysoka jest dynamika cen usług chociażby w tym momencie.
+[SPEAKER_00] Jest na historycznie wysokim poziomie, co odzwierciedla pewną wewnętrzną presję inflacyjną i o tych czynnikach proinflacyjnych mógłbym mówić długo, ale jest jedno duże ale.
+[SPEAKER_00] Tym dużym ale jest
+[SPEAKER_00] zwalniająca gospodarka w Niemczech, niepewność co do cen energii elektrycznej i również pewna niepewność co do polityki fiskalnej rządu w przyszłym roku.
+[SPEAKER_00] To nie jest ten moment, abyśmy w tym momencie reagowali zmianami parametrów polityki pieniężnej, chociaż ja nie mogę wykluczyć, że jeśli te czynniki proinflacyjne przeważyłyby, a to spowoduje, nie, nie, nie, chociażby w gospodarce niemieckiej było wolniejsze niż przewidujemy,
+[SPEAKER_00] to jeśli ta inflacja doszłaby do 3,5% i nie widziałbym trwałej, realistycznej perspektywy zejścia szybkiego do celu, to nie wykluczam jednak konieczności niewielkiego podniesienia stopy procentowej w przyszłym roku.
+[SPEAKER_00] Ale na razie niepewność jest tak wysoka, że optymalną strategią jest strategia wait and see.
+[SPEAKER_04] To jest stanowisko profesora Harta.
+[SPEAKER_04] W Radzie mamy różne stanowiska, także, że trzeba myśleć o obniżaniu stóp.
+[SPEAKER_04] Generalnie w całej Radzie przeważa stanowisko, żeby stóp nie zmieniać i że inflacja utrzyma się blisko celu inflacyjnego w najbliższych dwóch latach w projekcji całej przewidywalnej przez nas.
+[SPEAKER_04] I dlatego stopy, w moim przekonaniu, przez dwa lata z ogromnym prawdopodobieństwem graniczącym z pewnością,
+[SPEAKER_04] Nie będą podnoszone.
+[SPEAKER_04] Są czynniki proinflacyjne, lekko.
+[SPEAKER_04] Są czynniki przeciwinflacyjne, też lekko, dezinflacyjne.
+[SPEAKER_04] No i one się w sumie równoważą.
+[SPEAKER_03] Bardzo proszę, kolejne pytanie.
+[SPEAKER_03] Pani redaktor Bartyzel.
+[SPEAKER_06] Dorota Bartyzel, Bloomberg News.
+[SPEAKER_06] Ja patrząc na te liczby, które dzisiaj otrzymaliśmy w odniesieniu do inflacji oraz w odniesieniu do wzrostu PKB, nie będę ukrywać, że jestem troszeczkę zaskoczona, bo wydaje mi się, że pan prezes przez ostatnie dwa miesiące zapowiadał, że oczekują państwo troszeczkę wyższej inflacji.
+[SPEAKER_06] Tymczasem inflacja właściwie pozostaje na niezmienionym poziomie, mimo tego, że jak zrozumiałam...
+[SPEAKER_04] Nie, rośnie w pierwszym kwartale przyszłego roku.
+[SPEAKER_04] Znacząco.
+[SPEAKER_04] I potem znów się obniża.
+[SPEAKER_06] A potem znów się obniża i średnio wychodzi tak bardzo podobnie.
+[SPEAKER_04] Prawie w celu.
+[SPEAKER_06] Niewiele wyżej niż cel.
+[SPEAKER_06] Niewiele wyżej niż cel.
+[SPEAKER_06] Natomiast jest znaczna różnica w odniesieniu do wzrostu PKB.
+[SPEAKER_06] Jest on…
+[SPEAKER_06] Wydaje się, na tyle na ile dziś możemy powiedzieć, nie mając centralnej ścieżki przed oczami, że ten wzrost założony w projekcji jest jednak sporo niższy niż założony w projekcji lipcowej.
+[SPEAKER_04] Czy sporo, czy trochę, czy… no to są kwestie… No to już jest poniżej 4% w przyszłym roku.
+[SPEAKER_04] No to, że poniżej 4% w przyszłym roku to było oczywiste od chyba początku.
+[SPEAKER_06] No nie było oczywiste patrząc na projekcję z lipca.
+[SPEAKER_04] na projekcje z lipca.
+[SPEAKER_04] My obserwujemy sytuację oczywiście w dużej mierze w Niemczech.
+[SPEAKER_04] Drugi raz mamy minusowy odczyt w Niemczech, chociaż niewielki.
+[SPEAKER_04] Przewidywany jest lekko na plusie.
+[SPEAKER_04] To ma duże znaczenie cała Europa Zachodnia, cała strefa euro, Stany.
+[SPEAKER_04] To nie czynniki wewnętrzne decydują o tym, że ten wzrost będzie lekko
+[SPEAKER_04] lekko niższy.
+[SPEAKER_04] W tej chwili można przypuszczać z modelu w kardynozie naszego, który bierzemy pod uwagę, wynika, że ten wzrost może w 2020 roku wynieść 3,6.
+[SPEAKER_04] a w roku 2021 3,3.
+[SPEAKER_04] Ale jeśli będzie wyższy, to nie będziemy jakoś zaskoczeni.
+[SPEAKER_06] Rozumiem.
+[SPEAKER_06] Natomiast to pytanie, do którego zmierzałam, a ciągle jeszcze się nie wysłowiłam, jest takie, że oczywiście wszyscy wiedzą, iż panuje ogólnie nastrój na świecie bardziej sprzyjający łagodzeniu polityki monetarnej,
+[SPEAKER_06] I teraz czy ten scenariusz, w którym my jasno widzimy, że bardziej obawiamy się o wzrost gospodarczy, czyli bardziej widzimy tutaj z tej projekcji, że ten wzrost będzie wolniejszy, a inflacja zasadniczo pozostaje jakoś szczególnie groźna, czy on raczej nie sprzyja temu, żeby dołączyć się do tego ogólnego nastroju łagodzenia polityki pieniężnej,
+[SPEAKER_06] No i jeszcze tutaj troszeczkę dla wsparcia mojego pytania chciałam przypomnieć, że Pan Prezes powiedział nam kiedyś, że ten następny ruch, gdyby znów powołać się bardziej na Pańską intuicję, to raczej byłaby obniżka.
+[SPEAKER_04] Otrzymuję tą wypowiedź, że jeśli miałby nastąpić zmiana poziomu stóp, to w moim przekonaniu nastąpi...
+[SPEAKER_04] bo będzie dużo argumentów za tym, a mniej przeciwnych.
+[SPEAKER_04] Ale jednak moją prywatną główną ścieżką jest to, że stopy nie ulegną zmianie.
+[SPEAKER_04] Spowolnienie będzie niewielkie, inflacja będzie pod kontrolą i nie będzie żadnego powodu, żeby zmieniać stół.
+[SPEAKER_04] I czekamy, aż się zacznie lepiej działać trochę w Niemczech i w strefie euro.
+[SPEAKER_04] To jest to, co można powiedzieć.
+[SPEAKER_04] Rzeczywiście świat jest w tej chwili, nie można powiedzieć w kryzysie, świat zachodni, ale i w Chinach, przecież mamy spowolnienie w innych krajach.
+[SPEAKER_04] Świat nie jest w kryzysie, ale jest w stanie pewnej takiej w zasadzie stagnacji, na niewielkim plusie powiedzmy.
+[SPEAKER_04] Stopy są bardzo niskie, ujemne.
+[SPEAKER_04] Nasze stopy, pozostając na niezmienionym poziomie, są w stosunku do nich jeszcze wyższe niż poprzednio.
+[SPEAKER_04] To też powoduje pewne
+[SPEAKER_04] pewne oczywiście reakcje.
+[SPEAKER_04] To są dobre stopy.
+[SPEAKER_04] Nasze naturalne tempo wzrostu, jak to ekonomiści niektórzy liczą, to jest jakieś 3,5% wzrostu PKB rocznie.
+[SPEAKER_04] Ja do tego nie przykładam wielkiej wagi.
+[SPEAKER_04] Uważam, że to jest czysto hipotetyczne i nie przywiązywałem nigdy znaczenia do tego naturalnej stopy wzrostu, że w ogóle ona coś odzwierciedla realistycznego.
+[SPEAKER_04] Ale niewątpliwie, jeśli by nawet spadło do 3,3 w 2021 roku,
+[SPEAKER_04] To jest dobre tempo wzrostu dla Polski.
+[SPEAKER_04] Nadal rosną płace, nadal rosną wszystkie wskaźniki.
+[SPEAKER_04] Nie mamy żadnych problemów budżetowych z tego tytułu.
+[SPEAKER_03] Bardzo proszę, kolejne pytanie.
+[SPEAKER_06] Jeszcze chciałabym dopytać Panie Prezesie, bo jednak od wielu miesięcy umacnia Pan w nas i w opinii publicznej takie przeświadczenie, że w Polsce mamy do czynienia niemalże z cudem gospodarczym.
+[SPEAKER_04] Nie, nie, nie, nieprawda.
+[SPEAKER_04] Nigdy nie powiedziałem niemalże z cudem.
+[SPEAKER_04] Powiedziałem z cudem.
+[SPEAKER_06] Z cudem gospodarczym.
+[SPEAKER_04] Zdecydowanie podtrzymuję z cudem.
+[SPEAKER_04] To nie jest…
+[SPEAKER_04] Niemalże, bo to, co przywykliśmy nazywać cudem gospodarczym w Niemczech, to nie było nic lepszego.
+[SPEAKER_04] Mamy rzeczywiście cud, czyli długo utrzymujące się, wysokie tempo wzrostu, bezinflacyjne.
+[SPEAKER_04] czy w warunkach minimalnej inflacji pod kontrolą i przy makrorównowadze i tych gołęziowych, sektorowych równowagach.
+[SPEAKER_04] To naprawdę jest cud.
+[SPEAKER_04] Wysoki tempo wzrostu, wzrost płac po 7% rocznie i równowaga we wszystkich sektorach ważnych.
+[SPEAKER_06] Panie prezesie, może nie można powiedzieć, że jest pan odosobniony, ale chyba musiały się pojawić głosy w Radzie Polityki Pieniężnej, które zwróciły uwagę na pewne chmury, jakie nasunęły się na to lazurowe niebo, pod którym jest Polska.
+[SPEAKER_04] Chmury, chmurki to i na Morzu Śródziemnym są, i w egzotycznych krajach bliskich Równika.
+[SPEAKER_04] To się zdarza, ale czy to jest jakaś chmura,
+[SPEAKER_04] w której spada coś więcej niż przelotny deszczyk.
+[SPEAKER_04] To jest to pytanie.
+[SPEAKER_04] Jakieś chmurki są, ale ja nie widzę nadal żadnego zagrożenia dla równowagi w ważnych sektorach.
+[SPEAKER_04] Zawsze dyskutujemy dużo.
+[SPEAKER_04] Dyskutujemy dużo o kredytach, szczególnie hipotecznych.
+[SPEAKER_04] W ogóle o rynku nieruchomości dużo dyskutujemy, o kredytach konsumpcyjnych dyskutujemy, o bankach i tak dalej.
+[SPEAKER_04] I naprawdę z tych dyskusji i z tych informacji,
+[SPEAKER_04] uzyskujemy, nie wynika jakiekolwiek zagrożenie, chociaż zdarza się, że nie widać chmurek, a coś się wydarza, prawda?
+[SPEAKER_04] Ja nikogo nie zaskoczę, że… Jedyną dużą chmurą jest sytuacja gospodarcza w Niemczech, koniunktura dokładnie, bo proszę pamiętać, sytuacja gospodarcza w Niemczech jest dobra.
+[SPEAKER_04] To jest w wspaniałym stanie gospodarka, zapewniająca bardzo wysoki poziom życia i zatrudnienie, i przyjęcie tych imigrantów i tak dalej, olbrzyme ciężary, ale się jakby nie rozwija przez ostatnie kwartały.
+[SPEAKER_06] Jestem pewna, że ktoś ewentualnie dopyta o te zagrożenia.
+[SPEAKER_06] Natomiast ja chciałabym wskazać… Ale co Pani redaktor?
+[SPEAKER_06] Nie, no to ja chciałabym sama wskazać na takie jedno, które być może jest związane z wyrokiem Trybunału Sprawiedliwości Unii Europejskiej dotyczącym kredytów walutowych.
+[SPEAKER_06] Dzisiaj ukazał się taki raport JP Morgan, który wskazuje na to, że…
+[SPEAKER_06] Jest coraz większa determinacja Polaków do tego, żeby jednak ruszyć do sądów, żeby tam szukać sprawiedliwości i są wyliczenia, z których wynika, że ten koszt może przekroczyć 11 miliardów euro.
+[SPEAKER_04] Panią, no wyliczenia, no przed wyrokiem TSUE były wyliczenia, czytałem 60 miliardów, media się pojawiały inne, no te wyliczenia są,
+[SPEAKER_04] Tak są wzięte te wyliczenia.
+[SPEAKER_04] To nie są żadne wyliczenia.
+[SPEAKER_04] To są jakieś tam szacunki publicystyczne.
+[SPEAKER_04] Co będzie, to zobaczymy.
+[SPEAKER_04] To zależy od wyroku polskich sądów, które mają tutaj niezależny swój status i podejmują takie czy inne decyzje.
+[SPEAKER_04] Zobaczymy, co się będzie działo.
+[SPEAKER_04] Na razie się nie potwierdziły te katastroficzne zapowiedzi.
+[SPEAKER_04] Ten wyrok jest umiarkowany.
+[SPEAKER_04] Nie przyniósł żadnego pogorszenia znaczącego
+[SPEAKER_04] sytuacji banków.
+[SPEAKER_04] Nawet te banki, które najbardziej były omawiane po przejściowym spadku akcji na giełdzie poprawiły swoją pozycję.
+[SPEAKER_04] Nie ma żadnych powodów do niepokoju o stabilność systemu bankowego jako całości.
+[SPEAKER_06] A zbliżające się wybory prezydenckie.
+[SPEAKER_06] Prezydent Duda
+[SPEAKER_06] przecież zapowiadał konwersję kredytów.
+[SPEAKER_06] Czy obawia się pan, że to ryzyko polityczne może na nowo zawisnąć na wyceną tych kredytów?
+[SPEAKER_04] Absolutnie się nie spodziewam i chciałem przypomnieć, że dopiero co były wybory parlamentarne, też były różne obawy, jakie to mogą być perturbacje gospodarcze i finansowe z tego tytułu i nie było żadnych, żadnych, dosłownie żadnych perturbacji gospodarczych z tego tytułu i nic na to nie wskazuje.
+[SPEAKER_04] Ja rozumiem, że jest potrzeba jakichś wydarzeń, ale polska gospodarka naprawdę jest nudna z tego punktu widzenia, że jest stabilna, że są te równowagi właśnie i cały czas rośnie.
+[SPEAKER_04] Trochę wolniej teraz będzie rosła, w każdym razie w tej perspektywie projekcji dwóch lat, ale nadal to jest bardzo dobry wzrost.
+[SPEAKER_04] I wynagrodzenia też będą rosły, może trochę wolniej, ale będą rosły.
+[SPEAKER_04] Tak to wygląda w tej chwili.
+[SPEAKER_03] Czy jakieś kolejne pytania z Państwa strony?
+[SPEAKER_03] Bardzo proszę Pan redaktor Tuszyński.
+[SPEAKER_05] Chciałbym zapytać o uchwałę, którą Rada dzisiaj podjęła w sprawie rezerwy na ryzyko kursowe.
+[SPEAKER_05] Czy jej treść jest zbieżna z jej skutki z artykułem, który Pan ostatnio opublikował, czy jakieś zmiany może zaszły?
+[SPEAKER_04] Prace nad uchwałą Rada Polityki i tym samym Zarząd i Staw Bankowy
+[SPEAKER_04] prowadzi od dawna, od, o ile pamiętam, roku co najmniej.
+[SPEAKER_04] I bodźcem do prowadzenia prac był przede wszystkim strata banku, ujemny wynik w 2017 roku.
+[SPEAKER_04] Ten system poprzedni mieliśmy od 2010 roku.
+[SPEAKER_04] On się dobrze sprawdzał.
+[SPEAKER_04] Też był takim przyjętym, rozsądnym rozwiązaniem pragmatycznym.
+[SPEAKER_04] nie żadnym skrajnym, tylko takim umiarkowanym, rozsądnym, ale dużo się zmieniło.
+[SPEAKER_04] Wspomnę o jednym czynniku najważniejszym.
+[SPEAKER_04] Nasze rezerwy są dwukrotnie większe, czy ponad dwukrotnie nawet większe, droga, ale powiedzmy dwukrotnie większe rezerwy mamy.
+[SPEAKER_04] W ciągu ostatnich 5 lat wzrosły o 30 miliardów, a tym samym ryzyko kursowe chociażby jest o wiele większe.
+[SPEAKER_04] Ryzyko procentowe też zresztą, ale ryzyko kursowe jest większe, więc trzeba było tutaj
+[SPEAKER_04] Podjąć działania, które przede wszystkim zapewniały w konserwatywnym pojęciu stabilność banku, mniejszą wrażliwość na wahania kursu, większą stabilność wyniku finansowego.
+[SPEAKER_04] Idziemy po prostu na rezerwę, która będzie trzykrotnie większa.
+[SPEAKER_04] która będzie stanowiła tą większą poduszkę na zmiany kursowe, będzie bardziej stabilizować wynik banku.
+[SPEAKER_04] Do tego, żebyśmy mieli rezerwę, zmusza nas ustawa w ogóle o NBP i ona jest i jest logicznie, że jest.
+[SPEAKER_04] Natomiast reszta rzeczy jest taka do wyliczenia, do przewidzenia, ale też intuicji, co się może dziać w najbliższych pięciu czy sześciu.
+[SPEAKER_04] Mam nadzieję, że dziesięć lat przetrwa ta uchwała z kolei.
+[SPEAKER_04] A czy po dziesięciu latach, czy ośmiu,
+[SPEAKER_04] Będzie wymagała zmiany?
+[SPEAKER_04] Nie wiem.
+[SPEAKER_04] Te rezerwy też będą rosły cały czas, chociaż po 2021 roku, po 2021 pewnie wolniej będą rosły.
+[SPEAKER_00] Jeśli można, to dodam, jeśli chodzi o rok 2017, to strata z tytułu różnic konkursowych była tak znacząca, ja upraszczam, że nie starczyło rezerwy, żeby ją pokryć, w związku z czym wynik odnotowany przez Narodowy Bank Polski w tymże roku był ujemny.
+[SPEAKER_04] Całą rezerwę zużyliśmy, plus jeszcze mieliśmy ujemność.
+[SPEAKER_00] zmieniliśmy, oznacza wzrost rezerwy w związku z tym, że taka jest struktura bilansu banku, także w aktywach po prostu mamy waluty obce, praktycznie w 100% w aktywach są waluty obce i Rada uznała, już od dłuższego czasu o tym rozmawialiśmy, że zachowanie tego obecnego systemu właściwie sprzed dekady w tym momencie jest suboptymalne i musimy to zmienić.
+[SPEAKER_00] Czyli nie do końca dobra.
+[SPEAKER_04] W 2007 roku mieliśmy minus 12,5 miliarda, a w 2017 mieliśmy minus 2,5, mimo tego, że zużyliśmy całą rezerwę, która w tym momencie wynosiła 10 miliardów, o ile pamiętam.
+[SPEAKER_04] Czyli była zużyta cała rezerwa i jeszcze 2,5 było
+[SPEAKER_04] na minusie.
+[SPEAKER_04] No po prostu jest duża rezerwa i przy zmianie kursu to duża wartość wchodzi w grę, no dwa razy więcej niż poprzednio.
+[SPEAKER_05] To może zapytam tak, czy fortunny jest moment wprowadzenia tych zmian, ponieważ jeśli bank wypracowuje zysk, no to oczywiście 95% zysku trafia do budżetu państwa.
+[SPEAKER_05] W związku z tym rząd twierdzi, że budżet jest w świetnej kondycji, deficyt nie przekroczy 3%,
+[SPEAKER_05] Więc czy, jaki jest cel wprowadzonych zmian?
+[SPEAKER_04] Nie można mylić jeszcze wyniku finansowego z zyskiem.
+[SPEAKER_04] Jaki będzie w ogóle zysk w NPP, no to nie jesteśmy w tej chwili w stanie odpowiedzieć.
+[SPEAKER_04] Tak naprawdę, jak wiecie, ogłaszamy to zawsze na końcu marca, w końcu marca, w końcu pierwszego kwartału, po zatwierdzeniu przez audyt.
+[SPEAKER_04] A tak nieoficjalnie, to my coś wiemy po zakończeniu roku.
+[SPEAKER_04] ale jeszcze przed zatwierdzeniem wyniku, ale po zakończeniu roku kalendarzowego my coś w ogóle wiemy, ale to jest też jeszcze takie nieoficjalne.
+[SPEAKER_04] Tak to wygląda.
+[SPEAKER_04] To zależy, czy się aprecjonuje kurs, czy spada, jaki jest wynik roboczo-operacyjny, jakie są zmiany cen obligacji i oprocentowania na rynku światowym.
+[SPEAKER_04] Od wielu czynników.
+[SPEAKER_04] Natomiast jeśli chodzi o sytuację budżetu, to nie moje zadanie, ale my oczywiście ocenę tego budżetu, który przedstawił ten rząd w poprzednim składzie przed wyborami przedstawiliśmy.
+[SPEAKER_04] Uznaliśmy, że to jest realistyczny, konserwatywny budżet.
+[SPEAKER_04] Czekamy, będzie jakiś nowy chyba przedstawiony, znaczy chyba musi być w ogóle przedstawiony nowy, się na jego temat wypowiemy, ale sytuacja budżetu jest bardzo dobra.
+[SPEAKER_04] Nie widzę tutaj żadnych problemów.
+[SPEAKER_04] Chodzi pan o dyskusję dotyczącą 30-krotności, tak?
+[SPEAKER_04] Między innymi.
+[SPEAKER_04] Rząd postawił sobie ambitne zadanie, żeby był zero deficit budżet, prawda, ten następny.
+[SPEAKER_04] Chociaż nie ma takiego obowiązku, ani międzynarodowego, ani krajowego.
+[SPEAKER_04] Tylko tak, żeby ten stan dobry gospodarki i finansów publicznych był widoczny także w ten sposób.
+[SPEAKER_04] Pomijając dyskusję, czy to dobrze, czy źle,
+[SPEAKER_04] Nie jesteśmy do tego zobowiązani.
+[SPEAKER_04] Chociaż dobrze, jeśli ten deficyt stopniowo się zmniejsza.
+[SPEAKER_04] Czy będzie w stanie wykonać to zero deficytu, czy nie, trudno mi powiedzieć.
+[SPEAKER_04] Ale te dyskusje dotyczące tej 30-krotności nie zmieniają faktu, że jest to realistyczne założenia budżetowe.
+[SPEAKER_04] Te, które były, mówię o tych, które były, do których się odnieśliśmy.
+[SPEAKER_04] To jest suma około 5 miliardów.
+[SPEAKER_05] Wspomniał Pan wcześniej, że dużo Rada dyskutowała o kwestii rynku kredytowego, hipotecznych i konsumpcyjnych.
+[SPEAKER_05] O ile dobrze pamiętam po raz pierwszy raz Pan się wypowiedział, że dużo Rada o tym dyskutowała.
+[SPEAKER_05] No dużo.
+[SPEAKER_05] Po publikacji ostatniego raportu o sytuacji na rynku kredytowym, mieszkaniowym głównie, pojawiły się takie głosy, że niektórzy ekonomici wskazują, że być może mamy do czynienia z rosnącą bańką na tym rynku.
+[SPEAKER_04] Broń Boże nie, absolutnie nie, dementuję.
+[SPEAKER_04] Żadne badania tego nie potwierdzają, żaden ośrodek, żadne bieżące dane z banków tego nie potwierdzają.
+[SPEAKER_04] Nie mamy z niczym takim do czynienia.
+[SPEAKER_04] Ale my to bardzo obserwujemy.
+[SPEAKER_04] Dlaczego?
+[SPEAKER_04] Że to jest taka najczęściej zdarzająca się na rynkach finansowych bańka, bo tam cykl budownictwa, brania kredytu, spłacania jest taki,
+[SPEAKER_04] który to może spowodować, jak w rolnictwie cykl świński dawniej, no to w gospodarce właśnie ten cykl, bo nieruchomość się dłuższy, no wiadomo, dłuższy jest cykl produkcji, jest odległość w czasie od efektu płacenia, sfinansowana jest budowa z kredytów hipotecznych i tak dalej.
+[SPEAKER_04] Ale i ze strony banków i danych, jeśli chodzi o spłacalność kredytu, jego bezpieczeństwo i tak samo po stronie banków, jak i klientów, nie ma niepokojących sygnałów.
+[SPEAKER_04] a po stronie podaży też nie ma niepokojących sygnałów, żeby jakaś bańka była.
+[SPEAKER_04] chociaż się może zdarzyć, no bo cykl budowlany jest długi, mogą przeszarżować, a ci deweloperzy, no różne są sytuacje.
+[SPEAKER_04] My to dlatego obserwujemy, ale czy tak bardzo dużo czasu poświęciliśmy.
+[SPEAKER_04] Właściwie tak się zastanawiam, o czym głównie dzisiaj rozmawialiśmy tak długo.
+[SPEAKER_05] Bardzo chętnie się tego dowiem, ponieważ obecne posiedzenie było najdłuższe od dziewięciu lat.
+[SPEAKER_04] Dziesięciu członków rady, każdy się wypowiada, prawda.
+[SPEAKER_04] I dzisiaj było, jest pewne takie, no dobre są wyniki ogólnie i gospodarcze,
+[SPEAKER_04] Z ulgą się pochyliliśmy nad raportem ostatecznie, nad projekcją.
+[SPEAKER_04] Są bardzo dobre wyniki, są bardzo dobre prognozy.
+[SPEAKER_04] Właściwie każdy członek Rady Polityki Pieniężnej dzisiaj mówił tak szerzej o tym, czego się spodziewa w gospodarce światowej, krajowej, co go może niepokoić, jaki widzi dodatkowe efekty.
+[SPEAKER_04] Mniej się martwimy, jak państwo widzą, o kwestie demograficzne, podaży pracy, co dawniej przyciągało dużą naszą uwagę.
+[SPEAKER_04] Niektórzy członkowie Rady
+[SPEAKER_04] czy każdy, nawet ma jakiegoś konika, którym się głównie interesuje.
+[SPEAKER_04] Jest jeden członek rady, który się bardziej interesuje kredytami konsumpcyjnymi i zawsze to analizuje, czy tam się coś nie czai niebezpiecznego i hipotecznymi też.
+[SPEAKER_04] Są tacy, których aspekt międzynarodowy interesuje.
+[SPEAKER_04] Jest taki, który bardzo się interesuje ceną energii, także na rynkach międzynarodowych, a w szczególności ropą naftową i to śledzi.
+[SPEAKER_04] I my się dowiadujemy dużo rzeczy, których nawet
+[SPEAKER_04] Z banku nie dostajemy, bo się grzebie w jakichś materiałach zewnętrznych.
+[SPEAKER_04] Ja między tym pływam.
+[SPEAKER_04] Jako prezes jestem optymistą, bo widzę, że nawet szukanie przy mocnej latarce jakichś słabych punktów powoduje, że nic się nie znajduje.
+[SPEAKER_04] Były takie trochę wyostrzone stanowiska w poprzednich miesiącach, dyskusje dotyczące czy stopy nie są trochę za niskie,
+[SPEAKER_04] nie powinny być wyższe czy coś takiego, to wygasło wszystko, bo stan gospodarki jest bardzo dobry.
+[SPEAKER_04] Oby tak dalej i żebyśmy doczekali spokojnie, aż koniunktura w Niemczech się zacznie poprawiać.
+[SPEAKER_04] Lekki sygnał jakby stamtąd napłynął, że powiedzmy te 2% gospodarka rośnie czy 1,5%, że w ogóle jest ruch w górę, to by znakomicie wszystko poprawiły.
+[SPEAKER_04] Nastroje przedsiębiorców też.
+[SPEAKER_04] Jeśli można zwrócić uwagę, to nastroje przedsiębiorców się pogorszyły.
+[SPEAKER_04] Są gorsze, bo oni też czytają gazety, oglądają telewizję.
+[SPEAKER_00] Nieznacznie się pogorszyły.
+[SPEAKER_04] Jak się rozmawia?
+[SPEAKER_04] My mamy regularne spotkanie z przedsiębiorcami.
+[SPEAKER_04] Każdy oddział właściwie prowadzi ankiety z przedsiębiorcami i są potem spotkanie członków zarządu, członków Rady Polityki Pieniężnej z tymi przedsiębiorcami i wysłuchujemy, poza tym, że oni na piśmie jakby
+[SPEAKER_04] wypełniają ankiety i tak dalej.
+[SPEAKER_04] No i oni też się głównie niepokoją sytuacją w Niemczech.
+[SPEAKER_03] Szanowni Państwo, mamy jeszcze czas na jedno pytanie.
+[SPEAKER_03] Bardzo proszę.
+[SPEAKER_03] Pan redaktor Grotowski, bardzo proszę.
+[SPEAKER_02] Ja chciałem się zapytać, wracając do mechanizmu tworzenia rezerwy, czy Panowie chociażby szeroko szacowali, jak to może się odbyć na wpływach do budżetu, wpływów PAP?
+[SPEAKER_04] No dwojako może, w zależności od tego, co się będzie działo z gospodarką.
+[SPEAKER_04] No bo z jednej strony zwiększamy szalenie
+[SPEAKER_04] rezerwę.
+[SPEAKER_04] Zwiększamy ponad dwukrotnie rezerwę.
+[SPEAKER_04] Czyli tę rezerwę dłużej będziemy budować.
+[SPEAKER_04] Czyli będziemy zmniejszać to, co ostatecznie jako zysk się przetworzy i może z tego 95% wpłynąć do budżetu.
+[SPEAKER_04] Czyli będziemy zmniejszać.
+[SPEAKER_04] Jednocześnie zmieniamy sposób gromadzenia tej rezerwy, że ona trochę wolniej będzie
+[SPEAKER_04] gromadzona stabilnie.
+[SPEAKER_04] Także to w obie strony może działać w zależności od roku.
+[SPEAKER_04] Nigdy nie będzie już tak, jak było w poprzednich latach, że nagle jest dodatni wynik różnic kursowych i całość, a rezerwa jest cała już wypełniona, to 13 miliardów i nagle całość ogromna idzie 8 czy 9 miliardów na zysk i z tego 95% idzie
+[SPEAKER_04] Tak teraz nie będzie, bo zawsze połowa tego będzie szła na budowę rezerwy.
+[SPEAKER_04] Ale z kolei nie będzie też tak, że nic nie będzie szło.
+[SPEAKER_00] Generalnie mechanizm będzie polegał na tym, odnośnie tego pytania, że wypłaszczymy strumień ewentualnych wpłat do budżetu państwa.
+[SPEAKER_00] Tak jest cel.
+[SPEAKER_00] Ewentualnych, bo jeśli złoty się będzie, to zależy od kursu złotego oczywiście.
+[SPEAKER_00] I wynik banku wypłaszczymy.
+[SPEAKER_00] Natomiast mechanizm wypłasza, czyli zamiast jednego roku duża wpłata, kolejnego żadnej wpłaty, będziemy mieli małą wpłatę w jednym roku i podobnie małą wpłatę w drugim roku albo w ogóle.
+[SPEAKER_00] To zależy od kursu walutowego.
+[SPEAKER_04] A wpłata większa lub mniejsza w zależności od wyników?
+[SPEAKER_04] To jest sprawa dla nas absolutnie drugorzędna.
+[SPEAKER_00] Dla mnie osobiście akceptowanie takiego systemu rezerwy na ryzyko kursowe, który był obecnie, była trudna do przyjęcia.
+[SPEAKER_04] Chociaż niewątpliwie na początku i długi czas, jeszcze jak ja byłem w Radzie, to był dobry kompromis.
+[SPEAKER_00] To był dobry kompromis, ale trzeba było to zmodyfikować.
+[SPEAKER_04] Podstawa zmiany to jest to, że rezerwa wzrosła ponad dwukrotnie, a więc ryzyko
+[SPEAKER_04] i wahania także ponad dwukrotnie wzrosły.
+[SPEAKER_04] Jeszcze mogę dodać jedno, że w tej chwili zanalizowaliśmy sytuację, ponownie Rada zanalizowała we wszystkich bankach europejskich, w całej strefie euro, w eurosystemie i w tej chwili nasze rozwiązanie jeszcze bardziej jest zbliżone
+[SPEAKER_04] we wszystkich parametrach do tego, co się robi w europejskich bankach strefy euro, w eurosystemie.
+[SPEAKER_03] Pani redaktor, musimy już kończyć.
+[SPEAKER_03] Bardzo przepraszam.
+[SPEAKER_03] Szanowni państwo, dziękujemy za dzisiejsze spotkanie.
+[SPEAKER_03] Zapraszamy 12 listopada.
+[SPEAKER_04] Jedno pytanie jeszcze tradycyjnie, pani Bartyzyl.
+[SPEAKER_03] Bardzo proszę, oczywiście.
+[SPEAKER_06] Ja przepraszam bardzo, ale tak naprawdę to, bo pan Hart dzisiaj ma taką skłonność właśnie do używania słów i ja chciałabym, żebyśmy może takich intrygujących, tak?
+[SPEAKER_06] Żeby może optymalnie przełożyć na nasze słowo wypłaszczenie.
+[SPEAKER_00] Bo to jest kwestia, bo to jest mechanizm tworzenia rezerwy jest kwestią jednak dosyć techniczną.
+[SPEAKER_00] Państwo wiedzą, wszyscy ci z Państwa tutaj obecni, że przy szacowaniu
+[SPEAKER_00] ryzyka, stosujemy różne na przykład rozkłady prawdopodobieństw o różnych parametrach.
+[SPEAKER_00] Cały mechanizm jest skomplikowany.
+[SPEAKER_00] Dlatego też te słowa, które prawdopodobnie dzisiaj użyłem są takie nieco, że tak powiem techniczne, bo to jest techniczna zmiana, chociaż istotna pewnie.
+[SPEAKER_06] No właśnie, jeśli ona jest istotna, to czy wypłaszczenie możemy zrozumieć jako większe prawdopodobieństwo regularnych wpłat zysku do budżetu, abstrahując od ich wysokości?
+[SPEAKER_04] Jeśli będzie zysk.
+[SPEAKER_04] Ceteris paribus.
+[SPEAKER_00] A tego nie wiemy.
+[SPEAKER_04] Ceteris paribus, jeśli będzie zysk.
+[SPEAKER_04] Ale też nie będzie takich wielkich wpłat, jak bywało.
+[SPEAKER_04] Ale to nie może być tych skoków właśnie takich.
+[SPEAKER_04] Nie możemy nikogo poinformować w ciągu roku, jaka będzie ta wpłata, czy jaki będzie zysk, czy jaki będzie wynik.
+[SPEAKER_04] No bo w tak dużym stopniu zmiany kursu i oprocentowanie obligacji to zmieniają.
+[SPEAKER_04] To dopiero naprawdę my wiemy.
+[SPEAKER_04] Teraz się wiemy, że aprecjonuje złoty od miesiąca bardzo silnie.
+[SPEAKER_04] Zobaczymy, jak będzie do końca roku.
+[SPEAKER_04] Paradoks był taki, że im gospodarce się działo lepiej, im kurs złotego się umacniał, tym wynik był gorszy i nie było żadnej wpłaty wtedy.
+[SPEAKER_04] Taki był paradoks.
+[SPEAKER_04] Upodabniamy się do banków europejskich, chociaż jest zasadnicza różnica nadal, bo my mamy złoty, oni mają euro.
+[SPEAKER_04] My mamy rezerwy wszystkie w walutach obcych i w złocie, ale złoto tu nie jest brane pod uwagę.
+[SPEAKER_04] Powiedziałbym, że zaczynamy ten okres teraz z końca roku bardzo tak optymistycznie i dobrze.
+[SPEAKER_04] Ze względu na to złoto nie można tego przecenić, a to zakończy, zwiększa prestiż naszego banku.
+[SPEAKER_04] że mamy już ten poziom światowy średni, chociaż nadal dwa razy mniejszy niż europejski, to jakoś to nasze poczucie zabezpieczenia, rezerw zwiększa i zaufanie do naszego banku i do złotego.
+[SPEAKER_04] Teraz uregulowaliśmy tą trudną kwestię, nad którą pracowaliśmy rok, chociaż z ogromnym natężeniem ostatnie miesiące.
+[SPEAKER_04] Opinia publiczna żyła innymi wydarzeniami politycznymi, a my pracowaliśmy.
+[SPEAKER_04] Ogromne podziękowanie dla
+[SPEAKER_04] dla stafu bankowego, dla kilku departamentów, które się zajmowały, dla zarządu, który ogromną pracę wykonał, przygotowując projekt.
+[SPEAKER_04] Tu nie mogę zdradzać jakichś wyników głosowań, czegoś takiego, 6 tygodni na to potrzeba, ale mogę powiedzieć tak, jeśli chodzi o zarząd i Radę, wyjątkowa była, że tak powiem, zgodność myślenia i brak kontrowersji.
+[SPEAKER_04] Po prostu to jest taka oczywista sprawa.
+[SPEAKER_04] My unikamy żadnych tutaj takich rozwiązań,
+[SPEAKER_04] – Co do tej rezerwy, tak.
+[SPEAKER_04] A co do stóp?
+[SPEAKER_04] Co do stóp też.
+[SPEAKER_04] Chociaż oczywiście, proszę państwa, jeśli jednostkowe jakieś opinie są inne, to jest bardzo dobrze.
+[SPEAKER_04] Strasznie bym się źle czuł, będąc przewodniczącym rady, gdzie wszyscy mają jedno zdanie.
+[SPEAKER_04] To w ogóle bym chyba na chorobowe poszedł.
+[SPEAKER_04] Już raz się tak nudziłem, wiele lat, będąc senatorem kiedyś i nigdy więcej.
+[SPEAKER_04] Jest ciekawie, dyskusje są ciekawe.
+[SPEAKER_00] Mamy też inne perspektywy teoretyczne, inną wrażliwość teoretyczną każdy z nas.
+[SPEAKER_04] Dyskusje się dokonują często tak, że jeden coś mówi, a potem trzech kolejnych z nim polemizuje.
+[SPEAKER_04] Ale wynik ostateczny zwykle jest zgodność, czyli jesteśmy przekonani, że to jest dobre.
+[SPEAKER_04] Przedtem pracuję nad tym bardzo, bardzo długo.
+[SPEAKER_04] Bankowy duży zespół, nawet nie wiem ile to osób, w sumie może ze 100 z różnych departamentów, z Departamentu Analiz Ekonomicznych w szczególności.
+[SPEAKER_04] Te różne były powody.
+[SPEAKER_04] Mój osobisty, musiałem przerwać posiedzenie, odbyć różne ważne rozmowy telefoniczne, nie zrywając tajności obrad oczywiście.
+[SPEAKER_04] Trochę później zaczęliśmy.
+[SPEAKER_04] Są czynniki zewnętrzne.
+[SPEAKER_04] Ja reprezentuję bank na zewnątrz też i dzieje się dużo różnych rzeczy, które
+[SPEAKER_04] Nie mogę tak, a powinien być odizolowany tego dnia całkowicie, gdzieś zamknięty w jakiejś izolacji, ale żaden bank tak nie postępuje, z tego co wiem.
+[SPEAKER_04] Oczywiście nie mamy telefonu w środku łączności, badamy podsłuchy, cała jest strefa odpowiednia, zabezpieczona, ale niemniej jakieś tam decyzje są potrzebne do wewnątrz banku podejmowane.
+[SPEAKER_04] Także to się zdarza, proszę się nie przejmować.
+[SPEAKER_04] Proszę państwa, sytuacja jest taka, że nie mogliście
+[SPEAKER_04] się denerwować, że jakieś decyzje będą ważne.
+[SPEAKER_04] Sytuacja jest taka, że absolutnie, powiedziałbym, nudna.
+[SPEAKER_04] Nie możecie oczekiwać, proszę Państwa, zmiany stóp.
+[SPEAKER_04] I to przez najbliższe jeszcze kwartały.
+[SPEAKER_04] Chyba, że coś w Niemczech by się wydarzyło takiego.
+[SPEAKER_04] Ale my mieliśmy dzisiaj dane z eksportu.
+[SPEAKER_04] Polski eksport, proszę Państwa, znakomicie funkcjonuje.
+[SPEAKER_04] Zwiększył się eksport części samochodowych do Niemiec.
+[SPEAKER_04] A wszyscy żyjemy tym, że przemysł samochodowy niemiecki przecież gorzej eksportuje, że jest trudna sytuacja.
+[SPEAKER_04] My zwiększyliśmy eksport części samochodowych.
+[SPEAKER_04] Napływają same dobre wiadomości, a to, że spowolnienie lekkie będzie, wiedzieliśmy.
+[SPEAKER_04] Jak będzie już to niepokojące, że się będzie przedłużała ta flauta ekonomiczna w zachodzie Europy i w Niemczech, to państwo poinformujemy, że zaczyna być
+[SPEAKER_04] że chmury się zbierają właśnie i się zastanawiamy, co będzie dalej.
+[SPEAKER_04] Na razie dla nas takim punktem wyjścia jest 2021 rok.
+[SPEAKER_04] Koniec tej perspektywy budżetowej i dużo różnych nowych zjawisk będzie.
+[SPEAKER_04] Ale myślę, że może też to odwrócimy.
+[SPEAKER_04] Jest naprawdę cud.
+[SPEAKER_04] Tak jak się żyje w cudzie, to się tego nie czuje.
+[SPEAKER_04] Ale jakby sprzytać tych, co żyli przed nami w tym okresie i kierowali bankiem,
+[SPEAKER_04] nie daj Bóg, jacyś co będą gdzieś tam w przyszłości, no to ten okres wszyscy będą wspominali jako cudno.
+[SPEAKER_04] Dla Rady też to jest takie zajęcie, że od początku Rady nie zmienili poziomu stóp.
+[SPEAKER_04] No takie nietypowe.
+[SPEAKER_04] Ja byłem w Radzie i to latało.
+[SPEAKER_04] Kolega był w Radzie Polityki, razem byliśmy, Kaźmierczak, prezes, profesor.
+[SPEAKER_04] No to od ściany do ściany było, prawda.
+[SPEAKER_04] I na każdym posiedzeniu zaciekły boje, bo składali różni ludzie, różni członkowie Rady wnioski o podwyższenie i nie obniżenie.
+[SPEAKER_04] Różne były bardzo ostre spory i rzeczywiście czasami było trudno wyczuć.
+[SPEAKER_04] Popełniliśmy jeden błąd, no nie jakiś taki dramatyczny w skutkach, jeden błąd, że za późno podjęliśmy pewną decyzję, co się zawsze musi zdarzyć.
+[SPEAKER_04] No tu nie ma takich sytuacji.
+[SPEAKER_03] Dziękujemy bardzo za dzisiejsze spotkanie.
+[SPEAKER_03] Dziękujemy bardzo.
+[SPEAKER_03] Do zobaczenia.

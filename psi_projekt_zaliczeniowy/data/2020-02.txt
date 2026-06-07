@@ -1,0 +1,248 @@
+[UNKNOWN_SPEAKER] Muzyka Muzyka
+[SPEAKER_06] Dzień dobry Państwu.
+[SPEAKER_06] Miło nam powitać Państwa na konferencji prasowej po posiedzeniu Rady Polityki Pieniężnej.
+[SPEAKER_06] W dzisiejszej konferencji udział biorą pan prof. Adam Glapiński, prezes Narodowego Banku Polskiego i przewodniczący Rady Polityki Pieniężnej oraz członkowie Rady Polityki Pieniężnej, pan prof. Eryk Łon i pan dr Kamil Zubelewicz.
+[SPEAKER_06] Panie prezesie, bardzo proszę o takie głosy.
+[SPEAKER_05] Informacja po posiedzeniu Rady Polityki Pieniężnej w dniach 4-5 lutego 2020 roku.
+[SPEAKER_05] Rada postanowiła utrzymać stopy procentowe NBP na niezmienionym poziomie.
+[SPEAKER_05] Stopa referencyjna 1,5%, stopa lombardowa 2,5%, stopa depozytowa 0,5%, stopa redyskonta weksli 1,75%.
+[SPEAKER_05] Napływające informacje z gospodarki światowej wskazują na stabilizowanie się tempa wzrostu gospodarczego na relatywnie niskim poziomie.
+[SPEAKER_05] Jednocześnie utrzymuje się niepewność dotycząca perspektyw globalnej koniunktury w kolejnych kwartałach, choć niektóre wskaźniki sugerują pewną poprawę nastrojów.
+[SPEAKER_05] W strefie euro wobec trwającej dekoniunktury w przemyśle dynamika wzrostu gospodarczego w czwartym kwartale obniżyła się.
+[SPEAKER_05] W Stanach Zjednoczonych koniunktura wciąż jest relatywnie dobra,
+[SPEAKER_05] Choć osłabiona aktywność w przemyśle oddziaływała ograniczająco na tempo wzrostu gospodarczego w IV kwartale.
+[SPEAKER_05] Final dynamika PKB w IV kwartale ustabilizowała się na poziomie niższym niż w poprzednich latach.
+[SPEAKER_05] W ostatnim okresie ceny ropy naftowej na rynku światowym po wcześniejszym, wyraźniejszym wzroście obniżyły się.
+[SPEAKER_05] Jednocześnie w ostatnich miesiącach wzrosły ceny wielu surowców żywnościowych.
+[SPEAKER_05] W efekcie inflacja w otoczeniu polskiej gospodarki nieco wzrosła.
+[SPEAKER_05] Europejski Bank Centralny utrzymuje stopę depozytową poniżej zera, także prowadzi skup aktywów oraz sygnalizuje utrzymanie luźnej polityki pieniężnej w kolejnych kwartałach.
+[SPEAKER_05] Rezerwa Federalna Stanów Zjednoczonych po obniżkach stóp procentowych w 2019 roku utrzymuje je na niezmienionym poziomie.
+[SPEAKER_05] W Polsce koniunktura pozostaje dobra, mimo obniżania się tempa wzrostu gospodarczego.
+[SPEAKER_05] Na podstawie wstępnego szacunku GUS dotyczącego PKB w 2019 roku można szacować, że dynamika PKB w czwartym kwartale obniżyła się.
+[SPEAKER_05] Pozytywnie na wzrost PKB oddziaływuje systematyczny, choć wolniejszy niż wcześniej, wzrost konsumpcji wspierany przez korzystną sytuację na rynku pracy, dobre nastroje konsumentów oraz wypłaty świadczeń społecznych.
+[SPEAKER_05] Jednocześnie napływające informacje sygnalizują dalszy wzrost inwestycji i eksportu.
+[SPEAKER_05] Inflacja w grudniu 2019 r. wyniosła 3,4% rok do roku.
+[SPEAKER_05] Do wyższej inflacji przyczynił się wzrost cen żywności i paliw.
+[SPEAKER_05] Jednocześnie przyspieszenie wzrostu cen usług podwyższyło inflację bazową, która utrzymuje się jednak na umiarkowanym poziomie.
+[SPEAKER_05] W ocenie Rady
+[SPEAKER_05] Perspektywy krajowej koniunktury pozostają korzystne, jednak dynamika PKB będzie prawdopodobnie niższa niż w poprzednich latach.
+[SPEAKER_05] Utrzymuje się niepewność dotycząca skali trwałości osłabienia koniunktury za granicą oraz jego wpływu na krajową aktywność gospodarczą.
+[SPEAKER_05] Bieżące prognozy wskazują, że w najbliższych miesiącach inflacja może przekroczyć górną granicę odchyleń od celu inflacyjnego.
+[SPEAKER_05] Do przejściowego wzrostu dynamiki cen przyczynią się czynniki,
+[SPEAKER_05] o charakterze podażowym i regulacyjnym, a więc pozostające poza bezpośrednim wpływem krajowej polityki pieniężnej.
+[SPEAKER_05] Wraz z wygaśnięciem wpływu tych czynników oraz oczekiwanym osłabieniem tempa wzrostu PKB, inflacja będzie się obniżać.
+[SPEAKER_05] W horyzoncie oddziaływania polityki pieniężnej dynamika cen będzie się kształtować w pobliżu celu inflacyjnego.
+[SPEAKER_05] Rada ocenia, że obecny poziom stóp procentowych sprzyja utrzymaniu polskiej gospodarki na ścieżce zrównoważonego wzrostu oraz pozwala zachować równowagę makroekonomiczną, a jednocześnie umożliwia realizację celu inflacyjnego w średnim okresie.
+[SPEAKER_05] Dziękuję.
+[SPEAKER_06] Dziękuję bardzo panie prezesie.
+[SPEAKER_06] Bardzo państwa proszę o zadawanie pytań.
+[SPEAKER_06] Pani redaktor Agniesz, bardzo proszę.
+[SPEAKER_02] Chciałam zapytać, czy ostatnie dane, odczyty GUS-owskie za wzrost gospodarczy w zeszłym roku na poziomie 4% rok do roku, czy one utwierdzają radę w tym, że nie ma potrzeby zmiany stóp procentowych do końca roku, jak i również skłaniają do obniżki ścieżki wzrostu gospodarczego w nowej, marcowej projekcji?
+[SPEAKER_02] Tym bardziej, że PMI jest wciąż na bardzo niskich odczytach.
+[SPEAKER_05] Może zacznę od ostatniego fragmentu pani pytania.
+[SPEAKER_05] Jaka będzie projekcja?
+[SPEAKER_05] Zobaczymy za miesiąc.
+[SPEAKER_05] Nie będziemy teraz o niej mówić, zresztą niewiele wiemy ostatecznie do końca.
+[SPEAKER_05] Jeśli chodzi o odczyt GUS-owski, to on się niestety potwierdził, ten flash, który tam był.
+[SPEAKER_05] Mniej więcej wiemy, jak to wyglądało.
+[SPEAKER_05] Czy nastąpi podwyżka czy obniżka stóp procentowych w ciągu roku tego
+[SPEAKER_05] Oczywiście Rada nie jest w stanie przewidzieć, w zależności od sytuacji, jaka się pojawi, od tego, jakie będą przewidywania na następne kwartały, bo jak wiecie, działamy z pewnym wyprzedzeniem.
+[SPEAKER_05] Odnosimy się w naszej polityce stóp do tego, co może nastąpić za ileś tam kwartałów.
+[SPEAKER_05] Natomiast jeśli chodzi o moje osobiste zdanie, to potwierdzam to, co zawsze państwo tak dziennikarsko
+[SPEAKER_05] Przypuszczam, że do końca mojej kadencji, a tym samym kadencji Rady, stopy pozostaną na tym samym poziomie.
+[SPEAKER_05] A generalnie prawdopodobieństwo ich obniżenia będzie w tym okresie większe niż podwyższenia.
+[SPEAKER_06] Bardzo proszę kolejne pytanie, pani redaktor Bartyzel.
+[SPEAKER_03] Dorota Bartyzel, Bloomberg News.
+[SPEAKER_03] Jeśli mówi pan panie prezesie, że prawdopodobieństwo obniżki stóp procentowych jest większe niż podwyżki, to znaczy, że spodziewa się pan, że wzrost gospodarczy będzie coraz słabszy?
+[SPEAKER_05] Spodziewam się, że będzie słaby, taki jaki jest na świecie.
+[SPEAKER_05] W Polsce fundamenty wzrostu są
+[SPEAKER_05] zdrowe.
+[SPEAKER_05] Nie ma żadnych wewnętrznych powodów, żebyśmy się rozwijali wolniej niż przedtem, np. 5%, a teraz w kierunku 3% zmierzamy.
+[SPEAKER_05] Mamy 4% ostatnio odczyty.
+[SPEAKER_05] Natomiast za granicą ta koniunktura wyraźnie przygasła.
+[SPEAKER_05] Są podejmowane wysiłki przez banki centralne i przez rządy, jeśli chodzi o politykę fiskalną, żeby ten rozwój
+[SPEAKER_05] żeby ten wzrost utrzymać albo przyspieszyć.
+[SPEAKER_05] One dają ograniczony sukces, jak w Niemczech.
+[SPEAKER_05] Naszym głównym partnerem jest Niemcy, na Niemcy głównie patrzymy.
+[SPEAKER_05] W jakiś sposób udało się tam zatrzymać spadek koniunktury.
+[SPEAKER_05] Ta koniunktura jest na plusie, na powyżej powierzchni wody, jak to mówimy, 0,6% wzrostu.
+[SPEAKER_05] Chce być dobrej myśli prezes Banku Niemieckiego,
+[SPEAKER_05] Prezes Banku Europejskiego, pani prezes, zapewnia o tym, że nastąpi pewien powolny wzrost i wychodzenie z tej stagnacji, bo tak to trzeba nazwać.
+[SPEAKER_05] Ale obarczone to jest wieloma niewiadomymi.
+[SPEAKER_05] Jeśli tak będzie, jak jest, to wzrost będzie niższy.
+[SPEAKER_05] A tym samym prawdopodobieństwo obniżki stóp jest większa niż podwyżki.
+[SPEAKER_03] Rozumiem, że spodziewa się Pan, że wzrost w Polsce, bo bardzo dużo mówi Pan na temat wzrostu na Zachodzie, czy ogólnie ucieka Pan od mówienia o wzroście w Polsce.
+[SPEAKER_03] Tymczasem PKB za ubiegły rok, w tym oczywiście wszystko to, co można do tej pory powiedzieć o czwartym kwartale,
+[SPEAKER_03] wskazują na to, że również te czynniki do tej pory stanowiące motor rozwoju, rozruchu w Polsce nie były tak mocno oddziałujące, jak spodziewali się tego analitycy.
+[SPEAKER_03] Więc chciałabym zapytać, czy pańskim zdaniem gospodarka w Polsce będzie w takim stanie, że będzie wymagała obniżenia stóp procentowych?
+[SPEAKER_05] W Polsce, tak jak w całej Europie,
+[SPEAKER_05] W gruncie rzeczy w całym świecie zachodnim wzrost przez ostatnią dekadę jest ciągnięty przez konsumpcję i przez rosnące dochody konsumentów.
+[SPEAKER_05] Nie ma żadnych wewnętrznych czynników, które by tempo wzrostu naszego spowalniały.
+[SPEAKER_05] Nie nastąpił żadnych z tych czynników, których się obawiali obserwatorzy.
+[SPEAKER_05] Trudności na rynku pracy nie wystąpiły w takim stopniu, jak się tego spodziewano.
+[SPEAKER_05] Rosło cały czas zatrudnienie.
+[SPEAKER_05] Radzimy sobie z tym, pojawiają się jakieś.
+[SPEAKER_05] Rezerwy tego zatrudnienia, dochody cały czas rosły, wynagrodzenia rosły.
+[SPEAKER_05] Tak że tu żadnych po tej stronie obiektywnych czynników spowalniania nie było.
+[SPEAKER_05] Natomiast wystąpiły trudności po stronie podaży.
+[SPEAKER_05] Trudności polegające na tym, że wzrosły ceny zakupywanych za granicą produktów.
+[SPEAKER_05] Ze względu na choroby ASF w Chinach i w Europie częściowo ceny wieprzowiny bardzo wzrosły i tym samym cała żywność i napoje
+[SPEAKER_05] niealkoholowe wzrosły, nastąpiła podwyżka cen energii elektrycznej, czy następuje w związku z polityką energetyczną Unii Europejskiej i obsesją dążącą do czystej atmosfery.
+[SPEAKER_05] I to jest element także administracyjny, na który my nie mamy żadnego wpływu.
+[SPEAKER_05] I wreszcie nastąpiła komplikacja sytuacji geopolitycznej.
+[SPEAKER_05] Na Bliskim Wschodzie było zaostrzenie konfliktu amerykańsko-izraelsko-irańskiego i przejściowo wzrosły ceny ropy naftowej.
+[SPEAKER_05] Ale już w międzyczasie sytuacja się trochę uspokoiła, w każdym razie na tyle, że ceny spadły.
+[SPEAKER_05] Ale te czynniki oddziaływują.
+[SPEAKER_05] I jeszcze jest taki czynnik, na przykład pogoda.
+[SPEAKER_05] Jak na przykład do tej pory ta pogoda jest taka, że gdyby się utrzymały takie warunki jak w tej chwili, bez opadów, bez śniegu, no to znów by były pewne problemy z suszą.
+[SPEAKER_05] Ale jeszcze wszystko przed nami.
+[SPEAKER_05] Zdaje się, że dzisiaj pada na południu bardzo intensywnie.
+[SPEAKER_05] Wewnętrznych przyczyn spowolnienia wzrostu, powtarzam, nie ma.
+[SPEAKER_05] Fundamenty wzrostu w Polsce są bardzo zdrowe i dobre.
+[SPEAKER_05] Natomiast ze względu na obniżenie tempa wzrostu czy zahamowanie nawet w Europie Zachodniej przede wszystkim i w Niemczech w szczególności,
+[SPEAKER_05] to tempo u nas z pewnym opóźnieniem, większym niż dawniej to bywało, ale jednak się spadło.
+[SPEAKER_05] I spadło z tych pięciu gdzieś tam w okolice być może 3, 3,5, 3,6.
+[SPEAKER_05] Zobaczymy, jak to będzie.
+[SPEAKER_03] Ja mówię o całym roku.
+[SPEAKER_03] Ja tylko chciałam dopytać, czy koronawirus w jakimkolwiek stopniu zajmował dzisiaj Radę Polityki Pieniężnej jako ewentualny efekt?
+[SPEAKER_03] Gdyby pan mógł o tym coś powiedzieć, panie prezesie.
+[SPEAKER_03] I potem może pan Zubelewicz, jeśli możemy pana powitać.
+[SPEAKER_05] Tak jest.
+[SPEAKER_05] Myślę, że pani będzie zainteresowana odpytywaniem pana Zubelewicza.
+[SPEAKER_05] Mamy dzisiaj jednego jastrzębia, jednego gołębia tu w składzie.
+[SPEAKER_05] Tak pani marzyła o tym, żeby było i pośrodku siedzi człowiek wyważony.
+[SPEAKER_05] Koronawirus w sensie medycznym nie interesuje oczywiście.
+[SPEAKER_05] Natomiast jako zjawisko, które wpływa na ekonomię bardzo.
+[SPEAKER_05] Były przedstawiane pewne analizy i refleksje w związku z tym, jak to będzie dalej działało w porównaniu z tymi poprzednimi epidemiami, z którymi mieliśmy do czynienia z SARS-em itd.
+[SPEAKER_05] Już w Chinach widać pewne rezultaty.
+[SPEAKER_05] To dotyka na razie branżę komunikacyjną, transportową itd.
+[SPEAKER_05] Ale jeśli to potrwa, to też na spadek koniunktury będzie miało istotny wpływ.
+[SPEAKER_05] Zakładam, że nie potrwa.
+[SPEAKER_05] Natury jestem optymista.
+[SPEAKER_05] Myślę, że to zostanie szybko opanowane.
+[SPEAKER_05] Wierzę w naukę medycyny.
+[SPEAKER_05] to pewnie zostanie opanowane.
+[SPEAKER_05] Natomiast na razie wywiera wpływ niekorzystny.
+[SPEAKER_05] W szczególności na gospodarkę chińską, a gospodarka chińska w coraz większym stopniu decyduje o koniunkturze na całym świecie.
+[SPEAKER_05] I tak ma trudności, i tak bardzo spowolniła na skutek tych sporów ze Stanami Zjednoczonymi handlowych.
+[SPEAKER_05] A teraz jeszcze ten niestężny koronawirus.
+[SPEAKER_06] Pan dr Zuberowicz, tak?
+[SPEAKER_06] Bardzo proszę.
+[SPEAKER_05] Na to samo pytanie?
+[SPEAKER_05] Koronawirus, tak.
+[SPEAKER_04] Mówię więcej, nie powiem.
+[SPEAKER_04] Myśmy na ten temat dzisiaj dyskutowali dość sporo.
+[SPEAKER_04] Widać, że państwa Azji Południowo-Wschodniej reagują na spodziewane spowolnienie gospodarcze także za pomocą narzędzi polityki pieniężnej, ale to na szczęście nie jest i mam nadzieję nie będzie nasz case.
+[SPEAKER_04] Zdajemy sobie sprawę z potencjalnego zagrożenia.
+[SPEAKER_04] Wszyscy widzimy, jak wzmocniła się pozycja Chin w gospodarce światowej w porównaniu z poprzednim tego typu kryzysem medycznym, ale
+[SPEAKER_04] Na razie nie powinno to nas dotyczyć.
+[SPEAKER_03] Ja tylko dopytam, bo chciałabym wiedzieć, czy Pan również podziela taką perspektywę, że ten następny ruch to będzie obniżenie stóp procentowych i jest Pan też przekonany, że tylko czynniki, które są poza wpływem Rady Polityki Pieniężnej wpływają na wysoką relatywnie inflację.
+[SPEAKER_04] Jeżeli w roku 2016 mieliśmy w Polsce do czynienia z deflacją,
+[SPEAKER_04] a potem systematycznie inflacja się pojawiała, rosła, rosła, rosła i będzie rosnąć, to przypuszczam, że czynnik jest wewnętrzny.
+[SPEAKER_04] I od samego początku swojej obecności w Radzie to poruszałem, że po pierwsze mamy zbyt niski poziom stóp procentowych.
+[SPEAKER_04] Tu muszę się zgodzić z panem prezesem, który w poprzedniej kadencji Rady głosował przeciwko obniżce stopy procentowej z dwóch punktów do półtora.
+[SPEAKER_04] Tak, zgadzam się.
+[SPEAKER_04] powinny być dwa punkty procentowe.
+[SPEAKER_04] Taki powinien być poziom stóp, stopy podstawowej.
+[SPEAKER_04] Dlaczego?
+[SPEAKER_04] Dlatego, że to pozwoliłoby uniknąć nadmiernych wzrostów cen i jednocześnie zmniejszyłoby wahania cyklu koniunkturalnego.
+[SPEAKER_04] I w takiej sytuacji dzisiaj nie mielibyśmy ryzyka przekroczenia górnego poziomu odchylenia od celu.
+[SPEAKER_04] Niestety mój wniosek skromny,
+[SPEAKER_04] złożony prawie półtora roku temu, w listopadzie, nie uzyskał poparcia Rady, mimo że to była już druga projekcja, która pokazywała, że w całym horyzoncie projekcji będziemy mieli inflację powyżej środka naszego celu.
+[SPEAKER_04] Dlaczego uważałem, że wtedy należało stopy podwyższać?
+[SPEAKER_04] Ponieważ musimy sobie zawsze zdawać sprawę z tego, że mogą nastąpić pewne nieprzewidziane wydarzenia,
+[SPEAKER_04] które ścieżkę inflacji taką jaką możemy prognozować na podstawie wydarzeń przewidywanych wybiją w górę.
+[SPEAKER_04] Te zdarzenia mogą być rozmaite, to może być właśnie problem typu epidemii jakiegoś wirusa, problem dotyczący chorób odzwierzęcych czy wśród trzody chlewnej i tak.
+[SPEAKER_04] To mogą być decyzje administracyjne, które jednak w mojej ocenie są możliwe do przewidzenia, ponieważ
+[SPEAKER_04] Państwo, organy administracji prędzej czy później podnoszą ceny usług, podatki, nadążając wraz ze wzrostem cen.
+[SPEAKER_04] Nie mogą nieskończoność pilnować, żeby ceny były niskie.
+[SPEAKER_04] Jeżeli ceny generalnie w gospodarce rosną, to można się spodziewać działań dostosowawczych ze strony państwa.
+[SPEAKER_04] I w tym roku mamy do czynienia z taką może nie najszczęśliwszym zbiegiem okoliczności, no ale nieszczęścia lubią chodzić parami.
+[SPEAKER_04] Mianowicie z jednej strony pojawiła się zauważalna inflacja, natomiast z drugiej strony coraz szerszy zakres będą miały pracownicze programy kapitałowe.
+[SPEAKER_04] One z kolei, czy tego chcemy, czy nie, podwyższają koszt pracy.
+[SPEAKER_04] Ktoś powie, że oczywiście to podwyższenie kosztu pracy oznacza, że tak naprawdę pracownicy później otrzymają swoje podwyżki.
+[SPEAKER_04] Że przedsiębiorcy nie będą tak skłonni do dawania podwyżek, ponieważ muszą się zaangażować w PPK.
+[SPEAKER_04] Ale z punktu widzenia pracowników to oznacza, że wynagrodzenia realne mogą się utrzymać na tym samym poziomie, bo nie będzie podwyżek, a będzie podatek.
+[SPEAKER_04] lub nawet spaść, jeżeli ktoś nie jest w stanie wynegocjować sobie podwyżki.
+[SPEAKER_04] Czyli z jednej strony mamy presję inflacyjną, z drugiej strony mamy wpływ PPK na podaż pracy negatywny, z trzeciej po prostu zjawiska związane z cyklem koniunkturalnym.
+[SPEAKER_04] I ta kumulacja według mnie nie powinna skłaniać do obniżenia stóp.
+[SPEAKER_04] Dlaczego?
+[SPEAKER_04] Dlatego, że przynajmniej na dziś te dokumenty, które mamy
+[SPEAKER_04] Nic nie mówią o tym, żebyśmy się mogli spodziewać jakiegoś gwałtownego spadku wzrostu gospodarczego, ale czekamy na projekcje.
+[SPEAKER_04] Skoro tak, no to wróćmy może do roku 2016, kiedy wzrost gospodarczy nie był imponujący, natomiast mieliśmy deflację i mimo tego nikt stóp procentowych w Polsce nie obniżał.
+[SPEAKER_04] I mam nadzieję, że też takiego ruchu nikt w najbliższych miesiącach forsować nie będzie, że jest to do uniknięcia.
+[SPEAKER_04] Czy potrzebna jest podwyżka stóp?
+[SPEAKER_04] Generalnie, tak jak państwo wiecie, uważam, że ścieżka inflacji w Polsce jest za wysoka, więc jestem za podwyżką stóp.
+[SPEAKER_04] Natomiast gdybym chciał przyjąć punkt odniesienia większości rady,
+[SPEAKER_04] czyli cel na poziomie 2,5% plus minus 1, to musimy jeszcze poczekać z decyzjami do najnowszej projekcji.
+[SPEAKER_04] Tym niemniej niestety te moje prognozy się sprawdziły.
+[SPEAKER_04] W roku wyborczym Polska spotyka się z
+[SPEAKER_04] zbyt wysokim wzrostem cen, które ludzie zauważają.
+[SPEAKER_04] Dziękuję bardzo.
+[SPEAKER_01] Bardzo proszę, Panie Profesorze.
+[SPEAKER_01] Tak naprawdę, proszę Państwa, tutaj oczywiście gołębiem jestem postrzegany jako gołąb, ale tak naprawdę, jak Państwo wiecie, jestem orłem.
+[SPEAKER_01] czyli zwolennikiem suwerenności monetarnej, a tak naprawdę orłem o gołębim sercu, o tak bym się określił.
+[SPEAKER_01] Czyli taki po prostu orzeł, który również patrzy na stopę inflacji, że wiadomo to jest jeden z podstawowych celów działania banku centralnego, ale też oczywiście, który troszczy się o wzrost gospodarczy, o miejsca pracy i tak właśnie postrzegam tutaj swoją misję.
+[SPEAKER_01] Tutaj chciałbym zaznaczyć,
+[SPEAKER_01] Ja uważam, że to, że mamy ten niski poziom stóp procentowych, że udało nam się go utrzymać przez już cztery lata, w zasadzie mija czwarty rok, kiedy mamy tą naszą obecną kadencję Rady.
+[SPEAKER_01] I uważam, że ten niski poziom stóp procentowych zapewnił, był jednym z czynników, może to nie jedyny, ale jeden z czynników, który właśnie podtrzymał wysokie tempo wzrostu gospodarczego.
+[SPEAKER_01] Szybciej dochodzimy do bogactwa krajów Europy Zachodniej i uważam, że powinniśmy podtrzymać to dobre tempo wzrostu gospodarczego.
+[SPEAKER_01] Mam odmienne zdanie niż właśnie kolega pan doktor Zubelewicz.
+[SPEAKER_01] Uważam, że warto właśnie utrzymywać niskie stopy procentowe, żeby pobudzać gospodarkę, ale też oczywiście trzymać, hamować inflację, utrzymywać pod kontrolą i uważam, że ta sytuacja ma miejsce.
+[SPEAKER_01] No i uważam, że swoje zadania spełniamy bardzo pozytywnie.
+[SPEAKER_01] Odnośnie ostatnich może odczytów, to też powiem, że też tutaj podzielam zdanie pana prezesa Glapińskiego, że za spowolnienie naszej gospodarki głównie stoją te czynniki zewnętrzne, zwłaszcza pogorszenie sytuacji gospodarczej u naszych partnerów handlowych, głównych partnerów handlowych, czyli Niemiec, no i innych krajów tam z Europy Zachodniej.
+[SPEAKER_01] Ale właśnie to, co nam się udaje, że jednak ten tempo wzrostu gospodarczego utrzymujemy dosyć wysokie, nawet 3 czy 4-krotnie wyższe niż w tamtych krajach.
+[SPEAKER_01] Odnośnie, tu jeszcze bym powiedział, że ja postrzegałem właśnie cel inflacyjny 2,5% z odchyleniami plus, minus 1 punkt procentowy w górę i w dół jako bardzo elastyczne podejście.
+[SPEAKER_01] Ta elastyczność naszej krajowej polityki monetarnej
+[SPEAKER_01] jest naszym atutem.
+[SPEAKER_01] Właśnie atutem to możemy się chlubić tutaj, szczycić to, że mamy własny bank centralny, własną politykę monetarną, własny pieniądz i możemy oczywiście się różnić, tak jak tutaj z panem doktorem Zubylewiczem się spieramy na radach, ale po prostu to my tutaj Polacy decydujemy o tym, jak ta polityka monetarna jest prowadzona i nawet wielu naszych kolegów z Europy Środkowo-Wschodniej, Słowaków czy innych, teraz mieliśmy też tą konferencję przecież w Warszawie, zazdrości nam, że my sami decydujemy tutaj o swojej polityce monetarnej, my Polacy decydujemy o tym,
+[SPEAKER_01] a oni to już mogą tylko pomarzyć, bo oddali swoje narzędzia polityki monetarnej organom ponadnarodowym.
+[SPEAKER_01] I będzie, jak Państwo wiecie, jako orzeł będę na pewno bronił tych narzędzi bardzo mocno.
+[SPEAKER_01] I to jest ważne, żebyśmy tutaj te spory odbywali we własnym gronie.
+[SPEAKER_01] Uważam, że to co mnie na przykład troszeczkę doszło do małego spowolnienia naszej gospodarki i tutaj też
+[SPEAKER_01] pod wpływem styczników zewnętrznych, ale też no myślę, że warto zwrócić uwagę na ten ostatni odczyt, jeżeli chodzi o nastroje przedsiębiorców przemysłowych, no to tak jak Państwo tam pamiętacie, ja tam w swoich wywiadach właśnie mówię, że niestety troszeczkę mnie niepokoi, że to jest dłuższy czas już się to odbywa, ponad rok ten wskaźnik PMI dla naszego przemysłu jest poniżej 50 punktów, czyli tej pewnej psychologicznej bariery.
+[SPEAKER_01] No i oczywiście myślę, że są pewne możliwości, żeby lekko złagodzić tą politykę monetarną, żeby jeszcze właśnie ten, przede wszystkim o co tu chodzi, żeby podtrzymać tempo wzrostu gospodarczego, żeby przeciwdziałać właśnie spadkowi, znaczy wzrostowi bezrobocia.
+[SPEAKER_01] I to widzimy, że inne banki centralne, nawet tutaj z Europy Środkowo-Wschodniej, na przykład Węgry, przecież mają nawet nieco wyższą inflację od nas, a nawet niższą stopę procentową, a przecież stóp nie podnoszą, a nawet przecież łagodzą politykę monetarną.
+[SPEAKER_01] I większość banków centralnych, właśnie tych krajów wschodzących, to widać, nawet...
+[SPEAKER_01] i w poprzednim roku i teraz właśnie stopy procentowe obniża, właśnie bojąc się o to, że ta koniunktura spowalnia i chcąc przeciwdziałać, chcąc wspierać właśnie wzrost gospodarczy, generalnie utrzymując w ryzach oczywiście inflację.
+[SPEAKER_01] I myślę, że tutaj z tego zadania też się wywiązujemy.
+[SPEAKER_01] Też nasza polska gospodarka jest w nowym trendzie gospodarczym i wydaje mi się, że jest to bardzo korzystne dla polskiej gospodarki, nasza polityka monetaria.
+[SPEAKER_05] Generalnie Rada Polityki Pieniężnej
+[SPEAKER_05] Uważa jako całość, że stabilizacja stóp procentowych na dotychczasowym poziomie dobrze służyła polskiej gospodarce, dobrze nadal służy i będzie służyć.
+[SPEAKER_05] A ja mam nadzieję, że to jeszcze długo tak będzie.
+[SPEAKER_05] Sytuacja gospodarcza Polski jest dobra, chociaż tempo wzrostu gospodarczego jest nieco niższe, a inflacja nieco gorsza.
+[SPEAKER_05] wyższa, zakładam, że przejściowo.
+[SPEAKER_05] Taka jest sytuacja.
+[SPEAKER_06] Dziękuję bardzo.
+[SPEAKER_06] Szanowni Państwo, jesteśmy dzisiaj ograniczani czasowo, więc mamy czas jeszcze na dwa krótkie pytania.
+[SPEAKER_06] Bardzo proszę, pan redaktor Tuszyński.
+[SPEAKER_00] Dzień dobry, Rafał Tuszyński, Polska Agencja Prasowa, Redakcja Ekonomiczna.
+[SPEAKER_00] Przepraszam.
+[SPEAKER_00] Chciałbym się odnieść do treści komunikatu po dzisiejszej Radzie, mianowicie jak szybko inflacja będzie Państwa zdaniem zbiegać do celu?
+[SPEAKER_00] Czy to będzie pod koniec tego roku, czy dopiero w 2021?
+[SPEAKER_05] W perspektywie, którą bierzemy pod uwagę, a są to zawsze dwa lata, a szczegółowo zobaczymy w marsowej projekcji, która będzie.
+[SPEAKER_05] Natomiast teraz przewidujemy w pierwszych kwartałach tego roku wzrost inflacji.
+[SPEAKER_05] Trudno powiedzieć, do jakiego ostatecznie poziomu, ale być może powyżej górnego pułapu odchyleń celu inflacyjnego.
+[SPEAKER_05] I potem w drugiej połowie roku spadek.
+[SPEAKER_00] To w takim razie, jaki poziom inflacji powiedzmy w połowie 2021 roku obecnie Rada przewiduje?
+[SPEAKER_05] To w marcu odpowiem na to pytanie, jak będziemy mieli tą projekcję i wszystkie ewentualne elementy weźmiemy pod uwagę, ale też pokażemy, jakie są zagrożenia tej projekcji, jakie są ryzyka po stronie jednej i po drugiej.
+[SPEAKER_00] W kluczowym fragmencie dzisiejszego komunikatu dodano fragment, który już w minutkę był obecny, że obecny poziom stóp procentowych umożliwia realizację celu inflacyjnego w średnim okresie.
+[SPEAKER_00] To jak gorąca dyskusja na temat trzymania się tego celu w średnim okresie była na obecnej radzie, na poprzedniej i czy wszyscy z obecnych panów zgadzają się, że ten cel w średnim okresie będzie realizowany?
+[SPEAKER_05] Na poprzedni to szczerze mówiąc.
+[SPEAKER_05] Nie pamiętam.
+[SPEAKER_05] No na tej była.
+[SPEAKER_05] Przy redagowaniu komunikatu się trochę spieraliśmy, ale wszyscy się zgodziliśmy, że ta dyskusja będzie miała większy sens w marcu, jak będziemy mieli projekcję.
+[SPEAKER_05] Czyli zaraz będzie ta projekcja, to wtedy będziemy mogli bardziej racjonalnie rozmawiać.
+[SPEAKER_05] I ostatnie pytanie, bardzo proszę.
+[SPEAKER_00] To jeszcze do doktora Zubelewicza chciałem się skierować.
+[SPEAKER_00] Ostatnio w Monitorze Sądowym i Gospodarczym ukazała się informacja, że głosował Pan przeciwko zatwierdzeniu planu finansowego NBP na 2020 rok, kolejny rok z rzędu i jakie są tego powody?
+[SPEAKER_04] Tradycyjnie chodzi o wzrost wynagrodzeń.
+[SPEAKER_04] Uważam, że można by było bardziej oszczędną politykę prowadzić.
+[SPEAKER_04] Tak samo zresztą jak w polityce pieniężnej uważam, że wyższe stopy procentowe
+[SPEAKER_04] czyli większe oszczędności bardziej by sprzyjały długoterminowym inwestycjom i polskiej gospodarce.
+[SPEAKER_05] Wspominał, że Rada Polityki Pieniężnej też uzyskała wzrost wynagrodzeń.
+[SPEAKER_05] Za dobrą pracę, dobre wynagrodzenia.
+[SPEAKER_06] Szanowni Państwo, bardzo dziękujemy za dzisiejsze spotkanie.
+[SPEAKER_06] Zapraszamy na kolejne za miesiąc.
+[SPEAKER_06] Dziękujemy.
+[SPEAKER_06] Do zobaczenia.

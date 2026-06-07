@@ -1,0 +1,736 @@
+[SPEAKER_00] Szanowni Państwo, serdecznie witam na comiesięcznej konferencji profesora Adama Glapińskiego, prezesa Narodowego Banku Polskiego.
+[SPEAKER_00] Tematem konferencji jest ocena bieżącej sytuacji ekonomicznej.
+[SPEAKER_00] Ze względu na liczne pytania oraz w trosce o Państwa komfort wprowadziliśmy pewną zmianę w formule konferencji.
+[SPEAKER_00] Zarówno transmisja, jak i odpowiedzi, jak i pytania, które Państwu przesłali, dostępne są na stronie banku, na stronie nbp.pl.
+[SPEAKER_00] Pan prezes będzie odpowiadał na pytania pogrupowane w pewne sekcje tematyczne, zgodnie z ustalonymi numerami.
+[SPEAKER_00] Treść pytań możecie Państwo właśnie śledzić, sprawdzając sobie te numery, możecie śledzić na stronie nbp.pl.
+[SPEAKER_00] Przechodzimy do pierwszej grupy pytań.
+[SPEAKER_00] To są pytania dotyczące bieżącej i przyszłej inflacji w Polsce.
+[SPEAKER_00] Pytania o numerach od 1 do 8.
+[SPEAKER_01] Proszę bardzo, Panie Prezesie.
+[SPEAKER_01] Dzień dobry Państwu jeszcze raz.
+[SPEAKER_01] Zanim odpowiem na to konkretne pytanie, natury ogólnej taką uwagę zrobię dotyczącej formy tej konferencji.
+[SPEAKER_01] Wielu z Państwa
+[SPEAKER_01] W mediach wyraża się krytycznie o sposobie komunikowania przeze mnie z mediami.
+[SPEAKER_01] Proszę państwa, trwa pandemia.
+[SPEAKER_01] To nie my przeszliśmy na inną formę komunikowania się.
+[SPEAKER_01] Ja jestem do państwa dyspozycji przez 24 godziny na dobę.
+[SPEAKER_01] Odpowiadam na każde pytanie.
+[SPEAKER_01] Wbrew temu, co niektórzy z Państwa sugerowali czy pisali wprost w mediach, nie odpowiadam wybiórczo na pytania, które do nas napływają.
+[SPEAKER_01] To chciałem podkreślić.
+[SPEAKER_01] Odpowiadam na wszystkie pytania.
+[SPEAKER_01] Nie wybieramy pytań wygodnych i odrzucamy w niewygodnych, tylko odpowiadam na wszystkie pytania.
+[SPEAKER_01] Gdyby konferencja była w formule tej, za którą część z Państwa się opowiada, że jest cała online na żywo i Państwo zadają pytania na żywo i ja na żywo na nie odpowiadam, to mielibyśmy 5-6 pytań na jednej konferencji, na które byłbym w stanie odpowiedzieć.
+[SPEAKER_01] Konferencja trwa około pół godziny.
+[SPEAKER_01] Łatwo policzyć.
+[SPEAKER_01] Może byłoby 8, coś takiego.
+[SPEAKER_01] A my otrzymujemy od Państwa kilkadziesiąt pytań.
+[SPEAKER_01] Więc to jest kwestia wyboru.
+[SPEAKER_01] Jeśli Państwo zdecydowanie chcą tę formę na żywo, to będzie 5-6 pytań.
+[SPEAKER_01] I to w dodatku jakoś przypadkowo, któremu z Państwa się uda szybciej połączyć.
+[SPEAKER_01] Uważam, że byłaby to zła forma.
+[SPEAKER_01] Chyba nie ma co się o to spierać.
+[SPEAKER_01] Już niedługo przechodzimy przecież do normalnej formuły.
+[SPEAKER_01] Dlatego, że pandemia na szczęście, być może, o czym jeszcze będę mówił, się skończy.
+[SPEAKER_01] Ale formuła, że odpowiadam na wszystkie pytania pogrupowane, chyba jest lepsza.
+[SPEAKER_01] I tak nam się wydawało od samego początku.
+[SPEAKER_01] Tego się trzymamy i staramy się, aby komunikacja była dobra.
+[SPEAKER_01] Z naszych statystyk, z naszych obliczeń wynika, że jest komunikacja w czasie pandemii nasilona.
+[SPEAKER_01] a nie słabsza.
+[SPEAKER_01] Opublikowano bardzo dużo wypowiedzi, wywiadów zarówno moich, jak i współpracowników.
+[SPEAKER_01] Obszerne uzasadnienia naszych stanowisków w formie artykułów, w formie wywiadów.
+[SPEAKER_01] Jest konferencja prasowa po każdym posiedzeniu.
+[SPEAKER_00] No i mają Państwo do dyspozycji członków Rady Pieniężnej w każdym czasie i w każdej ilości.
+[SPEAKER_01] Oni od poniedziałku są gotowi odpowiadać na Państwa pytania i robią to.
+[SPEAKER_01] i mogą Państwo dowoli z tego korzystać.
+[SPEAKER_01] Także zupełnie nie rozumiem tego zarzutu o tym, że komunikacja jest jakaś gorsza.
+[SPEAKER_01] Jest gorsza, bo jest pandemia.
+[SPEAKER_01] Wszystko jest właściwie gorsze.
+[SPEAKER_01] Jakość życia jest gorsza.
+[SPEAKER_01] Nie tylko państwa, ale i nasza.
+[SPEAKER_01] Druga kwestia.
+[SPEAKER_01] Poruszali ją państwo ostatnio często, szczególnie po ostatniej konferencji.
+[SPEAKER_01] Kwestia czasu, momentu, w którym publikujemy wynik, obrad i komunikat.
+[SPEAKER_01] To nie zależy ode mnie.
+[SPEAKER_01] To nie zależy od Zarządu Narodowego Banku Polskiego.
+[SPEAKER_01] To zależy od członków Rady Polityki Pieniężnej, które mają wolną kartę i wolne prawo do wypowiadania się tak długo i tak obszernie, jak sobie tego życzą.
+[SPEAKER_01] Na obradach w czasie obrad wywiązuje się ożywiona dyskusja, są często polemiki.
+[SPEAKER_01] To polemiki mają uzasadnienie merytoryczne.
+[SPEAKER_01] Sięgamy czasem po jakieś dodatkowe materiały i trwa to raz krócej, raz dłużej.
+[SPEAKER_01] Z góry to zapowiadam i proszę się z tym liczyć.
+[SPEAKER_01] Nie będę sztucznie limitował
+[SPEAKER_01] do wypowiedzi członków Rady Polityki Pieniężnej.
+[SPEAKER_01] Szczególnie w okresie kryzysu pandemicznego, który stawia cały szereg różnego rodzaju pytań.
+[SPEAKER_01] I wreszcie trzecia kwestia.
+[SPEAKER_01] I tu właśnie już zbliżam się do tego pytania, które państwo zadają, dotyczące inflacji.
+[SPEAKER_01] Niektórzy z państwa posunęli się do tego, że piszą, że Rada Polityki Pieniężnej i NBP lekceważy sobie inflację.
+[SPEAKER_01] że abstrahuję od inflacji, że żartuję na ten temat, że w niej wierzę pod uwagę.
+[SPEAKER_01] W czasie obrad Rady Polityki Pieniężnej 99% dyskusji jest na temat bieżącej i przewidywalnej inflacji.
+[SPEAKER_01] To jest oczywiste i to jest główny cel naszych obrad, żeby dojść do jakiejś konkluzji w tej kwestii.
+[SPEAKER_01] To, że decyzja jest taka, a nie inna, wynika z analizy merytorycznych przesłanek do podejmowania decyzji.
+[SPEAKER_01] Inflacja jest wyższa niż była przewidywana, ale charakter tej inflacji jest taki, a nie inny.
+[SPEAKER_01] Do tego właśnie teraz przechodzę, odpowiadając na pytanie.
+[SPEAKER_01] Inflacja w kwietniu wyniosła rzeczywiście, ku pewnemu zaskoczeniu obserwatorów, ale nie mojemu, 4,3%.
+[SPEAKER_01] Według wstępnego szacunku, który może być jeszcze skorygowany.
+[SPEAKER_01] Ale do tego wzrostu inflacji, co łatwo sprawdzić przecież, przyczyniły się wyłącznie droższe paliwa i żywność.
+[SPEAKER_01] Jednocześnie inflacja bazowa prawdopodobnie się obniżyła.
+[SPEAKER_01] To nie było żadne zaskoczenie, bo przecież obserwujemy zarówno ceny paliw, ceny żywności.
+[SPEAKER_01] Tam się składa cały szereg różnego rodzaju elementów, poza bazą, która odgrywa bardzo dużą rolę.
+[SPEAKER_01] z żywnością cena drobiu, bo ptasia grypa i tak dalej.
+[SPEAKER_01] Jest dużo czynników.
+[SPEAKER_01] Obserwowaliśmy je i nie jesteśmy tym zaskoczeni.
+[SPEAKER_01] Akurat sam wskaźnik może nigdy nie jest do przewidzenia.
+[SPEAKER_01] Żaden z tych elementów nie podlega polityce pieniężnej.
+[SPEAKER_01] Niezależnie od wysokości stóp procentowych i innych elementów polityki pieniężnej, te ceny wzrosły i nic by tego nie zmieniło.
+[SPEAKER_01] wskazujemy też w komunikacie, że inflacja powyżej górnej granicy odchylenia od celu może się także utrzymać w kolejnych miesiącach.
+[SPEAKER_01] Powtarzam, może się utrzymać także w kolejnych miesiącach, żeby Państwo nie byli też jakoś nadmiernie zaskoczeni tym wskaźnikiem następnych miesiącach.
+[SPEAKER_01] To wszystko jest do przewidzenia, kiedy obserwuje się te trendy, które obecnie się ukształtowały.
+[SPEAKER_01] czynniki podwyższające inflację teraz i w najbliższym przyszłości, jest przede wszystkim wzrost cen paliw, wynikający z droższej ropy naftowej na rynkach światowych.
+[SPEAKER_01] Ale także z tego, że ropa naftowa akurat mniej więcej równo rok temu bardzo staniała i była na samym dołku cenowym.
+[SPEAKER_01] Więc ta baza tego odbicia ceny jest niezwykle… Baza była niezwykle niska i odbicie jest niezwykle wysokie.
+[SPEAKER_01] Do tego dochodzą efekty wcześniejszych podwyżek, o których szeroko mówiłem na poprzednich konferencjach.
+[SPEAKER_01] Ceny energii elektrycznej, wynikające z polityki Unii Europejskiej i klimatycznej, no i ten nieszczęsny wzrost opłat za wywóz śmieci.
+[SPEAKER_01] Nie będę do tego wracał, niektórych z Państwa to śmieszy, ale te śmieci stanowią bardzo ważny element wzrostu cen w poprzednim okresie.
+[SPEAKER_01] Nawiasem mówiąc, w związku z tym, że na ten temat się szeroko wypowiadałem, otrzymałem cały szereg interesujących bardzo przesłanych mi propozycji, chociaż niechaj się przecież tym zajmuję, dotyczących tego, jak by te ceny wywozu śmieci kontrolować.
+[SPEAKER_01] Te otrzymane materiały są interesujące.
+[SPEAKER_01] Dziękuję za nie i prześlę je do innych instytucji, które się tym powinny zajmować.
+[SPEAKER_01] Polityka klimatyczna i ekologiczna Unii Europejskiej nie podlega żadnemu wpływowi Rady Polityki Pieniężnej i NBP.
+[SPEAKER_01] Nie muszę tego chyba mówić.
+[SPEAKER_01] Wpływ czynników regulacyjnych i wyższych cen paliw odpowiada za dwa punkty procentowe z bieżącego wskaźnika cen.
+[SPEAKER_01] Powtarzam jeszcze raz.
+[SPEAKER_01] Dwa punkty procentowe z bieżącego wskaźnika cen.
+[SPEAKER_01] Gdyby państwo z bieżącego wskaźnika cen odjęli dwa punkty procentowe,
+[SPEAKER_01] W naszym celu inflacyjnym, poniżej tego celu inflacyjnego.
+[SPEAKER_01] One są całkowicie niezależne, te elementy, te czynniki od krajowej polityki pieniężnej.
+[SPEAKER_01] Oczywiście czynnik administrowanych cen jest częściowo decyzją rządu, które mogą być być może takie czy nie inne.
+[SPEAKER_01] Dla nas to jest czynnik zewnętrzny.
+[SPEAKER_01] My się nie odnosimy do cen administrowanych.
+[SPEAKER_01] One przychodzą do nas tak, jak czynniki klimatyczne, unijne czy pogodowe.
+[SPEAKER_01] To jest czynnik zewnętrzny.
+[SPEAKER_01] Istnieje zasadnicza odrębność polityki fiskalnej i polityki, jak państwo wiedzą, pieniężnej.
+[SPEAKER_01] Jako prezes NBP i nikt z NBP nigdy się nie wypowiada na temat polityki prowadzonej przez Ministerstwo Finansów i rząd.
+[SPEAKER_01] I nigdy tego nie będziemy robić.
+[SPEAKER_01] Chyba, że chwalimy bardzo, że tak jak w tym wypadku, w przypadku kryzysu, że ta polityka jest niezwykle skuteczna i dobra.
+[SPEAKER_01] Tak samo oczekujemy od przedstawicieli rządu każdego szczebla.
+[SPEAKER_01] że nie odnosi się do polityki pieniężnej prowadzonej przez NBP.
+[SPEAKER_01] Jeśli któremuś z przedstawicieli rządu dowolnego szczebla zdarza się zapomnieć o tym, to mu przy okazji przypominam, że nie powinien się na ten temat wypowiadać.
+[SPEAKER_01] To psuje po prostu dobre relacje.
+[SPEAKER_01] Niemniej muszę przyznać, że przez cały okres dotychczasowy mojego sprawowania funkcji prezesa NBP nigdy, powtarzam nigdy,
+[SPEAKER_01] przysięgam na wszystkie świętości – nigdy żaden z przedstawicieli rządu, ani premier, ani nikt inny, ani nie dzwonił do mnie, ani nie mówił przy kawie jakichś sugestii dotyczących polityki pieniężnej prowadzonej przez Narodowy Bank Polski.
+[SPEAKER_01] Tego nie było i to bardzo sobie cenię i jestem za to wdzięczny.
+[SPEAKER_01] Ale ostatnio się pojawiają jakieś takie nieostrożne wypowiedzi, które może wynikają z braku doświadczenia.
+[SPEAKER_01] Więc te czynniki, które podbiły nam inflację i podbijają nadal, są typowymi negatywnymi szokami podażowymi, takimi szkolnymi, z podręczników.
+[SPEAKER_01] Negatywne szoki podażowe, czyli one nie tylko podbijają inflację, ale jednocześnie ograniczają tempo wzrostu gospodarczego w Polsce i realne dochody.
+[SPEAKER_01] To są negatywne czynniki z każdego punktu widzenia.
+[SPEAKER_01] To nie jest inflacja wynikająca z działania czynników, które jednocześnie wpływają na zwiększenie się tempa wzrostu gospodarczego.
+[SPEAKER_01] To są czynniki, które zarówno są antywzrostowe, jak i proinflacyjne, czyli niezwykle negatywne, ale na które nie ma żadnego wpływu jako prezes NBP, na które nie ma wpływu Rada Polityki Pieniężnej, ani NBP jako takiej.
+[SPEAKER_01] Chociaż wpływ tych czynników na roczny wskaźnik inflacji utrzyma się przez najbliższe miesiące, to nie ulega wątpliwości, to nie będzie on przecież trwały.
+[SPEAKER_01] To są czasowe czynniki.
+[SPEAKER_01] No i baza też będzie mieć słabnący efekt.
+[SPEAKER_01] Oznacza to, że w przyszłym roku, jeśli nie dojdzie do kolejnych podwyżek cen elektryczności i wywozu śmieci na przykład, a ropa noftowa nie będzie nadal drożeć ze względu na jakieś nowe czynniki geopolityczne czy inne, to czynniki to przestaną podbijać inflację.
+[SPEAKER_01] I te czynniki, które w tej chwili wyłącznie są odpowiedzialne za wzrost inflacji, o dwa punkty procentowe przynajmniej, przestaną działać.
+[SPEAKER_01] Z kolei, jeżeli chodzi o wpływ czynników popytowych i tych zależnych od polityki pieniężnej NBP,
+[SPEAKER_01] to z pewnością ledwo co wychodząca z pandemii gospodarka sama w sobie nie przyczynia się jeszcze do podwyższonej inflacji.
+[SPEAKER_01] My naprawdę jeszcze, proszę Państwa, nie jesteśmy w tym punkcie, że pandemia się skończyła i gospodarka i przedsiębiorcy hasają na jakiejś zielonej łące.
+[SPEAKER_01] To zupełnie nie jest ten moment.
+[SPEAKER_01] My liczymy na to, że jesteśmy już o krok, że widać jakiś horyzont, że widać jakieś światełko w tunelu, że pandemia się skończy w sierpniu na przykład całkiem w Unii Europejskiej czy w Europie w ogóle.
+[SPEAKER_01] W świecie zachodnim.
+[SPEAKER_01] I gospodarka wróci na tory tego szybkiego rozwoju.
+[SPEAKER_01] Nasza gospodarka, na której była poprzednia.
+[SPEAKER_01] A Unia Europejska czy kraj Zachodu na wolniejsze tempo, ale jednak wzrostu.
+[SPEAKER_01] To nie jest jeszcze ten moment.
+[SPEAKER_01] My liczymy na to.
+[SPEAKER_01] Pozostaję w kontakcie z Ministerstwem Zdrowia, z innymi instytucjami.
+[SPEAKER_01] Naprawdę to jeszcze nie jest ten moment.
+[SPEAKER_01] To nie jest przesądzone.
+[SPEAKER_01] Jest wielka szansa na to.
+[SPEAKER_01] Ale równie dobrze może być czwarta fala pandemii.
+[SPEAKER_01] Znowu kolejny lockout i kolejne przeciągnięcie się tego kryzysu.
+[SPEAKER_01] A nawet jego pogłębienie przy jakimś złym scenariuszu odpłukuje w niemalowane drzewa.
+[SPEAKER_01] Wszyscy śledzimy przecież te doniesienia na temat tego, co się dzieje z pandemią, z nowymi mutacjami itd.
+[SPEAKER_01] Nie ma żadnych podstaw, więc by twierdzić, że polityka pieniężna nadmierna pobudza inflację.
+[SPEAKER_01] Niestety w mediach się zdarzają takie opinie, że Rada Polityki Pieniężnej, NBP
+[SPEAKER_01] pobudza inflację przez to, że nic nie robi.
+[SPEAKER_01] My właśnie bardzo dużo robimy.
+[SPEAKER_01] Robimy w tej chwili bardzo dużo przez to, że nie zmieniamy poziomu stóp.
+[SPEAKER_01] To jest bardzo istotne, ważne działanie.
+[SPEAKER_01] Nie spodziewamy się także, niestety, żeby w dalszej części tego roku oddziaływanie czynników popytowych proinflacyjnych się nasilało.
+[SPEAKER_01] Niestety jeszcze nie.
+[SPEAKER_01] A chciałbym tu się mylić, żeby jednak to nastąpiło.
+[SPEAKER_01] Żeby tak wybuchł rozwój gospodarczy, pandemia się skończyła, że zaczniemy się przyglądać z niepokojem, czy ten popyt nie wybuchł tak mocno i konsumpcja, że trzeba będzie podjąć jakieś działanie.
+[SPEAKER_01] Chciałbym, żeby tak było, ale przewiduję w tej chwili, że to może nastąpi w połowie 2022 roku.
+[SPEAKER_01] Może wcześniej kwartal, zobaczymy.
+[SPEAKER_01] Natomiast w tym roku będzie się stopniowo obniżała inflacja bazowa i będą słabnąć te czynniki proinflacyjne podażowe, kosztowe.
+[SPEAKER_01] Przyszły rok z tego punktu widzenia zapowiada się nieskończenie lepiej.
+[SPEAKER_01] Ale wszystko zależy, powtarzam, od pandemii.
+[SPEAKER_01] Inflacja powinna się obniżać.
+[SPEAKER_01] Nie wiem, jak silny będzie ten spadek.
+[SPEAKER_01] To będzie w zależności od kształtowania się przyszłej koniunktury.
+[SPEAKER_01] nie tylko w Polsce, ale na całym świecie, a w Europie w szczególności, w Niemczech.
+[SPEAKER_01] Nie wiem, jaka będzie dokładnie sytuacja na rynku pracy po ustaniu działania tarcz antykryzysowych.
+[SPEAKER_01] Rząd i Polski Fundusz Rozwoju zapowiedział stanowczo, że
+[SPEAKER_01] że kończy ten etap wspierania gospodarki poprzez tarcze.
+[SPEAKER_01] Będą realizowane jeszcze te elementy, które zostały przygotowane i te środki zebrane.
+[SPEAKER_01] Zobaczymy, jak będzie po ustaniu działania tarcz antykryzysowych, przy tej normalizacji polityki antykryzysowej.
+[SPEAKER_01] Czy nie pojawi nam się problem na rynku pracy z bezrobociem itd.
+[SPEAKER_01] Nie wiem też, czy tak pewne są przewidywania tych, którzy zakładają, że zrośnie presja płacowa, która też by miała jakieś proinflacyjne znaczenie.
+[SPEAKER_01] Ja nie dostrzegam na razie żadnych przesłanek, żeby taka presja płacowa była.
+[SPEAKER_01] Płace rosną wolniej.
+[SPEAKER_01] Na szczęście w czasie kryzysu w Polsce rosną płace.
+[SPEAKER_01] W odróżnieniu od innych krajów, gdzie wypłaty tych dochodów się obniżyły.
+[SPEAKER_01] U nas płace rosną, tylko wolniej zasadniczo.
+[SPEAKER_01] Na razie jesteśmy w pandemii.
+[SPEAKER_01] Wcale nie wiadomo, czy ostatecznie ją pokonaliśmy.
+[SPEAKER_01] Proszę nie wątpić nigdy w to.
+[SPEAKER_01] I wszyscy, co mnie znają lepiej, żyję dostatecznie długo, żeby mieli szansę mnie poznać, wiedzą, że się nie zawaham.
+[SPEAKER_01] Jeśli będzie taka konieczność, to stopy procentowe i inne elementy polityki pieniężnej będą zmienione.
+[SPEAKER_01] Przy czym proszę zwrócić uwagę, dopiero teraz o tym mówię, ale to jest przecież niezwykle istotne, o czym niektórzy zapominają.
+[SPEAKER_01] we wszystkich bankach centralnych działania są podobne czy takie same.
+[SPEAKER_01] Najpierw, proszę Państwa, to nie Rada Polityki Pieniężnej, tylko Zarząd Narodowego Banku Polskiego.
+[SPEAKER_01] Zarząd Narodowego Banku Polskiego ma takie uprawnienia i ogłosi decyzję, że likwiduje, że kończy skup papierów wartościowych, że nie prowadzi aukcji skupu obligacji skarbowych.
+[SPEAKER_01] Przestaniemy luzować ilościowo.
+[SPEAKER_01] Jak przestaniemy luzować ilościowo, wtedy dopiero będzie czas na działanie w sferze stóp procentowych.
+[SPEAKER_01] Niepotrzebne są takie nerwowe oczekiwania przed każdym posiedzeniem Rady Polityki Pieniężnej.
+[SPEAKER_01] Kiedy tak naprawdę każdy prywatnie wie, że się nic nie będzie działo.
+[SPEAKER_01] Ja rozumiem, że zawsze się zarabia na takich jakichś emocjach, ale i to jest normalne i akceptowalne.
+[SPEAKER_01] Ale w poważnych analizach się nie powinno tego brać pod uwagę.
+[SPEAKER_01] Jak sobie wyobrażają Państwo podwyższanie stóp procentowych przy nieograniczonym w tej chwili prowadzeniu skupu papierów przez Narodowy Bank Polski?
+[SPEAKER_01] To przecież całkowicie było nielogiczne.
+[SPEAKER_01] Tak jak najpierw trzeba było obniżyć stopy procentowe blisko zera, żeby przystąpić do luzowania ilościowego.
+[SPEAKER_01] Wszystko w logicznym porządku.
+[SPEAKER_01] Przecież to jest zabecanło.
+[SPEAKER_01] Nie mogliśmy zacząć masowo skupować papieru, utrzymując wysokie stopy.
+[SPEAKER_01] To wszystkie banki robią tak samo.
+[SPEAKER_01] I Europejski Bank Centralny, i System Rezerw Federalnych Stanów Zjednoczonych.
+[SPEAKER_01] Wszystkie poważne banki centralne.
+[SPEAKER_01] A w sytuacji tej pandemicznej, kryzysowej wszyscy odpowiedzialni działają podobnie.
+[SPEAKER_01] Mogą się zdarzać jakieś szczególne sytuacje w poszczególnych krajach, wynikające z ich wewnętrznej sytuacji.
+[SPEAKER_01] Ale poważne banki zachowują się w ten sposób i przewidywalnie całkowicie.
+[SPEAKER_01] Wbrew temu, co niektórzy krytycy niesprawiedliwie mówią, polityka Narodowego Banku Polskiego pieniężno-kredytowa jest absolutnie przewidywalna.
+[SPEAKER_01] Absolutnie.
+[SPEAKER_01] Ja jestem konserwatywny, jeśli chodzi o to, żeby nic nie zmieniać albo niewiele zmienić, jeśli rzeczy toczą się dobrze.
+[SPEAKER_01] Natomiast jeśli się sprawy toczą niedobrze, to przestaje być konserwatystą i radykalnie, szybko i zdecydowanie, jak najszybciej dokonuje zmian.
+[SPEAKER_01] I tak będzie.
+[SPEAKER_01] Zapewniam Państwu, że jeśli powstaną przesłanki do zmiany polityki pieniężnej, to ani jeden miesiąc nie zostanie zmarnowany i do tego przystąpimy.
+[SPEAKER_01] Ale powtarzam, w świetle dzisiejszej wiedzy,
+[SPEAKER_01] Prawdopodobnie o tym zaczniemy myśleć w połowie przyszłego roku.
+[SPEAKER_01] Daj Bóg, żeby wcześniej.
+[SPEAKER_01] To znaczy, że gospodarka szybciej zaczęła się gwałtownie rozwijać.
+[SPEAKER_00] Ale w tej chwili to wygląda na połowę przyszłego roku.
+[SPEAKER_01] Do tego czasu zalecam spokój.
+[SPEAKER_01] Komunikację możemy zmieniać w każdym kierunku, żeby Państwo byli doinformowani.
+[SPEAKER_01] Według mnie są dobrze poinformowane.
+[SPEAKER_01] Mamy cały czas kontakt z zagranicznymi bankami centralnymi, z bankami komercyjnymi, z właścicielami banków komercyjnych, tych sieci europejskich i światowych.
+[SPEAKER_01] I nie ma tu żadnych zakłóceń.
+[SPEAKER_01] Bardzo dobrze się z nimi porozumiewamy.
+[SPEAKER_01] I oni całkowicie rozumieją naszą politykę.
+[SPEAKER_01] Najlepszy dowód, że i ja, i Narodowy Bank Polski otrzymaliśmy najwyższe noty.
+[SPEAKER_01] Dopiero co.
+[SPEAKER_01] Od Międzynarodowego Funduszu Walutowego, z naszej polityki w czasie pandemii pieniężno-kredytowej, z Międzynarodowego Funduszu Walutowego, z Europejskiego Banku Centralnego.
+[SPEAKER_01] Otrzymaliśmy tytuł banku, który najlepiej zachowywał się w czasie kryzysu pandemicznego w zeszłym roku.
+[SPEAKER_01] Wszyscy doskonale rozumieją, co my robimy i doskonale wiedzą, co zrobimy, jeśli będzie tego potrzeba.
+[SPEAKER_01] A jakie się zdarzają takie autorytety czy pseudoautorytety, które to kwestionują?
+[SPEAKER_01] Oczywiście dopuszczam to, że ktoś może się mylić po prostu, ale nie może też wykluczyć jakichś partykularnych interesów po prostu.
+[SPEAKER_01] Więc mogę powiedzieć, że żadnej presji
+[SPEAKER_01] politycznej, czy publicystycznej, czy medialnej, czy jakiejkolwiek innej, Narodowy Bank Polski nie ulegnie.
+[SPEAKER_01] Nigdy nie ulegnie i w przyszłości też nie będzie ulegał.
+[SPEAKER_01] Czy to rządowej, czy grup interesów poszczególnych, czy banków, czy centrów zagranic międzynarodowych.
+[SPEAKER_01] Prowadzimy niezależną politykę.
+[SPEAKER_01] Chyba żaden z najbardziej surowych krytyków nie może wątpić w to, że Narodowy Bank Polski jest niezależny.
+[SPEAKER_01] absolutnie niezależny, suwerenny w swojej polityce, zgodnie z konstytucją, zgodnie z ustawą.
+[SPEAKER_01] I tak będzie i do końca tego roku, i w następnym roku, i w 2023 roku, i w 2024, i w 2025, i tak dalej.
+[SPEAKER_01] Zawsze tak będzie.
+[SPEAKER_01] Po prostu taka jest Polska praworządna.
+[SPEAKER_01] Proszę bardzo.
+[SPEAKER_00] Przechodzimy do kolejnej grupy pytań.
+[SPEAKER_00] To są pytania dotyczące sytuacji na rynku pracy w kontekście inflacji.
+[SPEAKER_00] Pytania o numerach od 9 do 12.
+[SPEAKER_01] Proszę Państwa, na rynku pracy jest bardzo dobrze.
+[SPEAKER_01] Mamy najniższe bezrobocie w Europie, ale to nie jest jakaś sytuacja idealna.
+[SPEAKER_01] To nie jest żadna bonanza.
+[SPEAKER_01] To nic nie jest manna z nieba.
+[SPEAKER_01] Pamiętajmy, że zatrudnienie przez toże przedsiębiorstw jest niższe.
+[SPEAKER_01] Pamiętajmy, że prawdopodobnie 300 tysięcy miejsc pracy jest utrzymywanych dzięki tarczom.
+[SPEAKER_01] Jest pytanie, jak to będzie, kiedy działanie tarcz się skończy.
+[SPEAKER_01] Czy to bezrobocie się nam nagle nie pojawi?
+[SPEAKER_01] a jednocześnie z tych względów, o których mówiłem wcześniej, trzeba stopniowo będzie przecież normalizować politykę.
+[SPEAKER_01] Nie możemy wiecznie dokonywać emisji nowych – to jest kwestia rządu oczywiście – obligacji i wpuszczać w gospodarkę kolejnych pieniędzy.
+[SPEAKER_01] Tak że tę sytuację będziemy obserwować, ale w tej chwili sytuacja jest bardzo dobra i spokojna, cały czas ją monitorujemy.
+[SPEAKER_00] Trzecia grupa pytań to są pytania o skutki inflacji i polityki niskich stóp procentowych NBP dla konsumentów.
+[SPEAKER_00] Pytania od 13 do 15.
+[SPEAKER_01] I to dotyczą czego te pytania?
+[SPEAKER_00] Dotyczą – już powtarzam – skutki inflacji i polityki niskich stóp procentowych NBP dla konsumentów.
+[SPEAKER_01] Dla konsumentów.
+[SPEAKER_01] Proszę Państwa, to są różni konsumenci.
+[SPEAKER_01] Każde zjawisko ekonomiczne ma swoje dobre i złe strony.
+[SPEAKER_01] Dla różnych grup społecznych czasami różne.
+[SPEAKER_01] Inflacja w ogóle jest najbardziej niekorzystna dla najniższych grup dochodowych.
+[SPEAKER_01] Niestety tak jest.
+[SPEAKER_01] Analizujemy przyczyny inflacji, analizujemy skutki inflacji, oczywiście takie, jakie ona w tej chwili ma miejsce.
+[SPEAKER_01] Niskie stopy procentowe są niekorzystne dla tych, którzy przechowują oszczędności i swój kapitał w bankach, a są korzystne dla tych, którzy spłacają kredyt złotowy na przykład.
+[SPEAKER_01] Jedni są zadowoleni z tego, a inni z innego.
+[SPEAKER_01] Jak kiedyś stopy procentowe będą podwyższone, to będzie chór oczywiście żalu i krytyki ze strony tych, którzy spłacają, milionów, które spłacają kredyty złotowe, bo nagle ich miesięczne raty będą wyższe.
+[SPEAKER_01] Tak to jest.
+[SPEAKER_01] Natomiast pewne jest to, co już mówiłem.
+[SPEAKER_01] Gdyby przyczyny wyższej obecnej inflacji miały charakter monetarny,
+[SPEAKER_01] i pojawiłoby się ryzyko utrwalenia podwyższonej inflacji, oczekiwań inflacji w średnim okresie, wówczas trzeba by zacieśnić politykę pieniężną.
+[SPEAKER_01] To nie jest ten moment.
+[SPEAKER_01] Zdecydowanie nie jest ten i każdy obiektywny analityk przecież ma przed sobą na stole dane czy w monitorze i to potwierdzi.
+[SPEAKER_00] Kolejna grupa pytań.
+[SPEAKER_00] Pytania o wzrost gospodarczy i jego perspektywy.
+[SPEAKER_00] Pytania o numerach od 16 do 19.
+[SPEAKER_01] W pierwszym kwartale roczna dynamika PKB była niestety jeszcze ujemna.
+[SPEAKER_01] Miałem nadzieję, że będzie inaczej, ale była ujemna.
+[SPEAKER_01] Ale koniunktura była już lepsza niż pod koniec zeszłego roku.
+[SPEAKER_01] To cieszy.
+[SPEAKER_01] W szczególności polski przemysł radzi sobie bardzo dobrze.
+[SPEAKER_01] Przypominam, że w polskiej gospodarce przemysł ma bardzo duże znaczenie.
+[SPEAKER_01] Większe niż w Europie Zachodniej, może poza Niemcami.
+[SPEAKER_01] Mimo pandemicznych ograniczeń przemysł ma bardzo dobre wyniki i bardzo dynamicznie się rozwija.
+[SPEAKER_01] Ale oczywiście sektory usługowe zostały bardzo dotknięte przez różnego rodzaju restrykcje.
+[SPEAKER_01] Aktywność w budownictwie jest też wyraźnie niższa niż rok temu.
+[SPEAKER_01] Ale ogólny spadek liczby zakażeń, który teraz obserwujemy, luzowanie kolejnych obostrzeń dają nadzieję na wyraźne odbicie aktywności gospodarczej, a szczególnie w usługach działalności restauracyjnej, hotelowej, we wszystkich usługach w ogóle.
+[SPEAKER_01] Nadzieje te zwiększają dane o sprzedaży detalicznej.
+[SPEAKER_01] Choć trzeba pamiętać, że w maju silnie zaburzony przez efekt bazy.
+[SPEAKER_01] Trzeba tutaj o tej bazie pamiętać, która w zeszłym roku też była nietypowa.
+[SPEAKER_01] Są niewątpliwe sygnały ożywienia.
+[SPEAKER_01] Nie twierdzę, że nie jest jakoś optymistyczniej wraz z pierwszym słońcem, co się pojawia jakoś ważne, ale trwałość tego ożywienia jest niepewna.
+[SPEAKER_01] Kolejne ogniska zachorowań na świecie, kolejne pandemie, kolejne mutacje pandemii niepokoją.
+[SPEAKER_01] Być może będziemy się mierzyć jeszcze z trudniejszymi etapami tej pandemii i wtedy znowu będzie i w gospodarce gorzej.
+[SPEAKER_01] Natomiast patrząc na dzisiejsze dane, dzisiejsze przesłanki, gdyby to było dalej tak, jak w tej chwili, to w drugiej połowie roku powinno być silne przyspieszenie gospodarcze, powinno być odbicie inwestycji i trwałe już ożywienie konsumpcji na dużą skalę.
+[SPEAKER_01] Czy to będzie, czy tak będzie, zobaczymy za kilka miesięcy.
+[SPEAKER_01] W zeszłym roku przedwcześnie ogłaszaliśmy, znaczy nie my jako NBP, tylko w ogóle wszyscy jako społeczeństwo, myśleliśmy, że pandemia już się kończy.
+[SPEAKER_01] zaburzenia gospodarcze się kończą, niestety okazało się inaczej.
+[SPEAKER_01] Dlatego szczególnie trzeba być teraz ostrożnym.
+[SPEAKER_01] Porozmawiamy o tym głębiej i szerzej w lipcu, kiedy będzie nowa projekcja NBP i będzie można lepiej przewidywać rozwój sytuacji do końca roku, a także już mieć jakąś perspektywę na przyszły rok i lata następne.
+[SPEAKER_00] – Dwa pytania dotyczące prawdopodobieństwa stabilizacji stóp procentowych.
+[SPEAKER_00] Pytania 20 i 21.
+[SPEAKER_01] – Ja wielokrotnie mówiłem, że spodziewam się stabilizacji stóp procentowych NBP do końca kadencji tej rady.
+[SPEAKER_01] Oczywiście to jest takie żartobliwe mówienie.
+[SPEAKER_01] Tak to było.
+[SPEAKER_01] Przecież jestem w pełni świadomy, że są czynniki, które się nagle mogą zmienić i wszystko będzie inaczej.
+[SPEAKER_01] Może powiem dzisiaj tak.
+[SPEAKER_01] To jest najbardziej prawdopodobny scenariusz nadal, bo kadencja rady się gdzieś tam kończy na początku przyszłego roku.
+[SPEAKER_01] Już.
+[SPEAKER_01] Zależy, czy ta część senacka, czy sejmowa, czy prezydencka.
+[SPEAKER_01] Poszczególne osoby mają różne daty.
+[SPEAKER_01] Stabilizacja stóp procentowych jest najbardziej prawdopodobna, bo dzisiaj można domniemywać, że sytuacja się zmieni gdzieś w połowie przyszłego roku.
+[SPEAKER_01] Być może.
+[SPEAKER_01] W optymistycznym scenariuszu, o którym już mówiłem, że gospodarka ruszy mocno, popyt ruszy mocno itd.
+[SPEAKER_01] Więc nadal powiem, że to jest najbardziej prawdopodobne.
+[SPEAKER_01] Ale chciałbym coś innego podkreślić, co mówiłem na początku.
+[SPEAKER_01] Mogę powiedzieć tak.
+[SPEAKER_01] Stabilizacja stóp procentowych do końca kadencji tej rady jest najbardziej prawdopodobnym scenariuszem.
+[SPEAKER_01] Ale teraz pewnym scenariuszem jest też to, że jeśli zajdzie tego potrzeba, to natychmiast polityka pieniężna Narodowego Banku się zmieni.
+[SPEAKER_01] Prawdopodobieństwo tego uważam za niesłychanie małe, ale na pewno nie stracimy nawet miesiąca, gdyby była taka potrzeba.
+[SPEAKER_00] I grupa pytań.
+[SPEAKER_00] Częściowo już pan prezes poruszył ten temat.
+[SPEAKER_00] Pytania o perspektywę podwyżek stóp procentowych NBP.
+[SPEAKER_00] To są pytania od 22 do 30.
+[SPEAKER_01] No to już o tym mówiłem.
+[SPEAKER_01] Chyba nie ma co do tego popracować.
+[SPEAKER_00] Pytanie o ewentualne obniżki stóp procentowych.
+[SPEAKER_00] Pytania 31-32.
+[SPEAKER_01] W tej chwili oczywiście nie dyskutujemy o obniżkach.
+[SPEAKER_01] Jesteśmy blisko zera.
+[SPEAKER_01] Jakieś rozważania na temat minusowych stóp procentowych oczywiście zawsze mają sens, ale pragmatycznie patrząc, w tej chwili jest to strata czasu.
+[SPEAKER_01] A już w szczególności to, co w mediach czasami szalało, czyli temat ujemnych stóp procentowych dla klientów indywidualnych banków.
+[SPEAKER_01] To w ogóle była fantastyka.
+[SPEAKER_01] I to nie science fantastyka, tylko fantastyka całkowita.
+[SPEAKER_01] Nigdy do tego KNF, podejrzewam, by nie dopuścił.
+[SPEAKER_01] My też byśmy się starali, żeby to nie miało miejsca.
+[SPEAKER_01] I w tych krajach, gdzie jest ujemna stopa, jeśli dotyka klientów indywidualnych, to wyjątkowych klientów, miliarderów itd.
+[SPEAKER_01] Więc przy całej pokorze dla scenariuszy na przyszłość, w skrajnie złym sytuacji, odpukać, jeśli ta pandemia nagle się w twardej fali okaże czymś katastroficznym, katastrofalnym,
+[SPEAKER_01] i wybuchnie z jakąś mocą i będziemy mieli długi lockout, to przecież znów wrócimy do tej dyskusji.
+[SPEAKER_01] Ale absolutnie obniżania stóp procentowych takiego tematu nie ma w tej chwili.
+[SPEAKER_01] Jest kwestia, kiedy można zacząć się zastanawiać nad zmianą, nad normalizacją polityki pieniężnej i to gdzieś o odległym terminie przyszłego roku może będzie na stole ta dyskusja.
+[SPEAKER_00] – Pytania o politykę pieniężną NBP w kontekście polityki pieniężnej EBC i Fedu.
+[SPEAKER_00] Pytania o numerach 33 i 34.
+[SPEAKER_01] – Rzeczywiście tak się zrobiło.
+[SPEAKER_01] Ja często o tym mówię, że nasza polityka jest teraz bardzo podobna.
+[SPEAKER_01] W ścisłej analogii pozostaje do polityki Fedu i EBC.
+[SPEAKER_01] Tak w przeszłości nie było.
+[SPEAKER_01] Mieliśmy swoją specyfikę.
+[SPEAKER_01] Być może znowu tak będzie, że będziemy mieli swoją specyfikę, jak wrócimy do
+[SPEAKER_01] tak zwanej normalności, czyli do szybkiego wzrostu ekonomicznego.
+[SPEAKER_01] U nas ten wzrost będzie wynosił na przykład 5% czy 4,5%, a na zachodzie będzie wynosił 2%.
+[SPEAKER_01] Znów sytuacja się może bardzo różnicować.
+[SPEAKER_01] Będziemy prowadzić inną politykę niż EBC i FED.
+[SPEAKER_01] Ale w tej chwili rzeczywiście, przynajmniej z pozoru, z zewnątrz jest to polityka analogiczna.
+[SPEAKER_01] Podobnie zmiana tej polityki.
+[SPEAKER_01] Zmiana tej polityki się szykuje, czy jest rozważana w takich przedziałach czasowych, jak rozważa to EBC czy FED.
+[SPEAKER_01] FED i EBC też stawia jasno sprawę, tak jak ja dzisiaj.
+[SPEAKER_01] że zacieśnianie polityki pieniężnej może zacząć być dyskutowane i nastąpić ostatecznie w sytuacji, kiedy już będzie pewne wejście gospodarki na trwały wzrost gospodarczy, że już jest ten wzrost pewny, że nie jest zagrożony jeszcze postkryzysowymi jakimiś zjawiskami, że gospodarka już pracuje.
+[SPEAKER_01] a będzie element groźby pojawienia się jakichś popytowych czynników proinflacyjnych.
+[SPEAKER_01] Wtedy z pewnym wyprzedzeniem, właściwym wyprzedzeniem, nie nadmiernym i nie za małym, będzie się zmieniać ta polityka.
+[SPEAKER_01] Więc wypada to gdzieś właśnie w połowie przyszłego roku.
+[SPEAKER_01] Tak przewiduje EBC i FED.
+[SPEAKER_01] I znów zachowamy się trochę podobnie.
+[SPEAKER_01] Ale proszę pamiętać też, najpierw będzie to działanie na skupie papierów wartościowych, a potem na stopach procentowych.
+[SPEAKER_01] Polska jest gospodarką doganiającą, szybko doganiającą te gospodarki bogatsze.
+[SPEAKER_01] Oznacza też stopniową konwergencję płac, stopniową konwergencję cen.
+[SPEAKER_01] I ta wyższa inflacja w Polsce też jest normalnym zjawiskiem.
+[SPEAKER_01] Kraj, który się szybciej rozwija, dwukrotnie szybciej czy w ogóle szybciej, ma zawsze wyższą inflację, jeśli to są gospodarki zrównoważone, niż ten kraj, który się wolniej rozwija.
+[SPEAKER_01] A jeszcze my mamy te elementy kosztowe.
+[SPEAKER_01] Unijna polityka klimatyczna.
+[SPEAKER_01] I ona nam istotnie podbija cenę energii elektrycznej.
+[SPEAKER_01] Przez najbliższe 20 lat będziemy cały czas ten element mieli.
+[SPEAKER_01] Ale ten nie dotyczący polityki pieniężnej, bo to jest czynnik z zewnątrz, który jest dokładany do naszej inflacji.
+[SPEAKER_01] W ogóle nie podlega naszej polityce.
+[SPEAKER_01] Więc prowadzimy politykę podobną do Fedu i do EBC, ale tak naprawdę, jak głębiej w to wejść, to ona jest cały czas inna.
+[SPEAKER_01] Przecież nasz rynek papierów wartościowych, obligacji skarbowych jest zupełnie inny.
+[SPEAKER_01] My możemy na wielką skalę zwiększyć ten skup papierów wartościowych, na ogromną skalę, ale w pewnym momencie w naturalny sposób ten skup nie ma racji bytu, bo nie trzeba strukturalnych działań robić na rynku obligacji, bo wszystko jest zrównoważone i tych nowych obligacji się po prostu… Nie pojawiają się nowe obligacje, więc to jest kompletnie inna sytuacja.
+[SPEAKER_01] I tak było w tym kryzysie.
+[SPEAKER_01] My zwiększyliśmy bardzo ten skup.
+[SPEAKER_01] Był potrzebny, żeby zrównoważyć sytuację na rynku obligacji i ich ceny.
+[SPEAKER_01] Natomiast w pewnym momencie to zgasło prawie do zera.
+[SPEAKER_01] Teraz znów trochę wzrosło.
+[SPEAKER_01] Na ostatnie aukcje skupiliśmy się za 5 mld zł, a podaż była o jakieś 10 mld zł z różnych powodów.
+[SPEAKER_01] Tak że to się zmienia, ale to są małe ilości, porównując z tym, co się dokonało w przeszłości.
+[SPEAKER_01] Tak że my realizujemy mandat zawarty w Konstytucji, mandat zawarty w ustawie o NBP.
+[SPEAKER_01] Ściśle się tego trzymamy.
+[SPEAKER_01] Jeśli polityka doprowadzona w Polsce musi być inna niż Fedu i EBC, to to robimy.
+[SPEAKER_01] I to nas niewiele dotyka.
+[SPEAKER_01] Natomiast oczywiście, jak EBC zmieni swoje nastawienie, to będzie dla nas bardzo ważny czynnik zewnętrzny, który musimy brać pod uwagę.
+[SPEAKER_00] Kolejne pytania dotyczą zmiany w treści komunikatu po ostatnim posiedzeniu Rady Polityki Pieniężnej.
+[SPEAKER_00] To są pytania od 35 do 37.
+[SPEAKER_01] Z pewnym rozbawieniem patrzyliśmy, jak to zostało odebrane przez rynek jako coś niesłychań ważnego i istotnego.
+[SPEAKER_01] Wielu obserwatorów twierdziło, że to jest jakiś sygnał, że Rada Polityki Pieniężnej mrugnęła okiem, że będzie zacieśniać w najbliższym czasie, czy że się bardziej niepokoi inflacją.
+[SPEAKER_01] Nic takiego nie ma miejsca.
+[SPEAKER_01] Komunikat jest krótszy.
+[SPEAKER_01] Nie ma tego akapitu, bo nie można było tego komunikatu w nieskończoność wydłużać.
+[SPEAKER_01] Tam nic nowego się w tym komunikacie zasadniczo nie pojawi.
+[SPEAKER_01] Piszemy, że inflację szczegółowo analizujemy, przyglądamy się jej.
+[SPEAKER_01] Mówimy, że nadal utrzymujemy stopy w pobliżu zera.
+[SPEAKER_01] Nie zapowiadamy w żaden sposób, że miało to ulec zmianie.
+[SPEAKER_01] Nadal prowadzimy skup aktywów na tyle, na ile to jest potrzebne.
+[SPEAKER_01] Nadal powtarzamy, że możemy stosować interwencje walutowe i to potężne interwencje, jeśli to jest nam potrzebne do czegoś.
+[SPEAKER_01] W tej chwili nie widać żadnej takiej potrzeby.
+[SPEAKER_01] Nadal oferujemy kredyt wekslowy, gdyby był brak kapitału, co nie obserwujemy na rynku.
+[SPEAKER_01] Zapotrzebowanie na ten kredyt wekslowy jest minimalne.
+[SPEAKER_01] Żadnych zmian nie zapowiadamy, nie mrugamy okiem.
+[SPEAKER_01] Nie dokonują się tu żadne istotne zmiany.
+[SPEAKER_01] Natomiast komunikat zawsze odzwierciedla zmieniające się uwarunkowania.
+[SPEAKER_01] bardzo ważny jest w danym momencie.
+[SPEAKER_01] Musieliśmy poświęcić więcej miejsca właśnie bieżącej inflacji, czynnikom podwyższającym tę inflację.
+[SPEAKER_01] Jakie to są czynniki?
+[SPEAKER_01] To, o czym mówiłem na początku naszej konferencji.
+[SPEAKER_01] To wydawało nam się najważniejsze.
+[SPEAKER_01] I że właśnie to nie są czynniki, które by skłaniały do zmiany polityki pieniężnej i tyle.
+[SPEAKER_00] Kolejna grupa pytań dotyczy godziny ogłoszenia decyzji Rady i właściwie pan prezes odpowiedział.
+[SPEAKER_00] Mówiłem o tym.
+[SPEAKER_00] To są pytania 38 do 40.
+[SPEAKER_01] Oczywiście ja prowadząc obrady Rady, staram się jakoś limitować jej trwanie, ale jeśli dyskusja jest naprawdę głęboka i istnieją stanowiska, które wymagają głębszego umotywowania,
+[SPEAKER_01] większej analizy ze strony naszych departamentów materiałów, to ona trwa dłużej.
+[SPEAKER_01] I tak po prostu zwracam Państwu uwagę na elementy formalne.
+[SPEAKER_01] My przyjęliśmy różnego rodzaju raporty i dokumenty okresowe, które zawsze przyjmujemy.
+[SPEAKER_01] Rada Polityki Pieniężnej przyjmuje sprawozdanie z realizacji założeń polityki pieniężnej.
+[SPEAKER_01] Rada Polityki Pieniężnej przyjmuje sprawozdanie z działalności Narodowego Banku Polskiego, zarządu i tak dalej.
+[SPEAKER_01] I to oczywiście też odpowiednio czas zabrało.
+[SPEAKER_00] Kolejne dwa pytania, 41 i 42, dotyczą parametrów rezerwy obowiązkowej.
+[SPEAKER_01] Co do tego też się toczyła długa dyskusja na ostatnim posiedzeniu i na kilku jeszcze posiedzeniach.
+[SPEAKER_01] Rada jako całość uważa, że stopa rezerwy obowiązkowej jest w pełni zgodna z kierunkiem prowadzonej polityki pieniężnej przez Narodowy Bank Polski.
+[SPEAKER_01] Rezerwa federalna, przypominam, amerykańska, też obniżyła rezerwę obowiązkową w czasie pandemii.
+[SPEAKER_01] I na razie ani myśli o jej podwyższaniu.
+[SPEAKER_01] Także nie widzę tu powodu, żeby to zmienić.
+[SPEAKER_00] Pytanie kolejne dotyczy wpływu środków unijnych na wzrost gospodarczy.
+[SPEAKER_00] I to jest pytanie o numerze 43.
+[SPEAKER_01] Oczywiście pełne.
+[SPEAKER_01] Ciekawi nas to bardzo.
+[SPEAKER_01] I pełną odpowiedź na to pytanie poznamy, gdy opracowana zostanie projekcja lipcowa.
+[SPEAKER_01] Bo wtedy będzie więcej wiadomo na temat Krajowego Planu Odbudowy.
+[SPEAKER_01] Nieznany jest podział środków z Funduszu Odbudowy.
+[SPEAKER_01] Także trudno prognozować, co z tego może wyniknąć.
+[SPEAKER_01] Ale bardzo liczymy na ten
+[SPEAKER_01] na realizację tego planu i że to wniesie do naszej gospodarki istotne ożywienie.
+[SPEAKER_01] Chociaż trudno tu mówić o jakiejś rewolucyjnej zmianie.
+[SPEAKER_01] Z tym planem i bez planu.
+[SPEAKER_01] Oczywiście lepiej mieć kilkadziesiąt miliardów euro niż ich nie mieć.
+[SPEAKER_01] To jest oczywiste.
+[SPEAKER_01] Ale proszę pamiętać, że to są środki na określone działy gospodarki itd.
+[SPEAKER_01] Ale na pewno będzie skutek bardzo pozytywny.
+[SPEAKER_00] Przed nami kolejne pytania i właściwie kolejne pytania, które są już właściwie pytaniami pojedynczymi.
+[SPEAKER_00] I to jest pytanie o numerze 44.
+[SPEAKER_00] I ono dotyczy takiej refleksji, prośba o refleksję pana prezesa na temat wspomnień, jak zasiadał pan w Radzie w latach 2011-2012 i ówczesna Rada podwyższała stopy procentowe, a następnie relatywnie szybko wycofała się z tego posunięcia.
+[SPEAKER_00] Czy tamto doświadczenie ma wpływ na pańskie obecne stanowisko?
+[SPEAKER_01] Oczywiście.
+[SPEAKER_01] W szczególności te lata 2011-2012, jak byłem w Radzie i toczyliśmy też bardzo długie dyskusje na ten temat.
+[SPEAKER_01] Podwyższaliśmy stopy, potem obniżaliśmy.
+[SPEAKER_01] Wyciągam z tego wnioski, zarówno te pozytywne,
+[SPEAKER_01] co nam się udało zrobić i te decyzje, które podjęliśmy, trafnie, jak i z pewnych błędów czy niewłaściwych decyzji, które wtedy podjęliśmy, mając do dyspozycji te informacje, które mieliśmy.
+[SPEAKER_01] I wspomaganie ze strony analityków NBP.
+[SPEAKER_01] Od 2010 roku pracuję w Narodowym Banku Polskim i oczywiście przez 10 lat się nauczyłem, jak korzystać z tych wszystkich ekspertyz, które mamy i z tych danych, jaki jest charakter zjawisk finansowych różnego rodzaju, które działają z pewnym opóźnieniem.
+[SPEAKER_01] Obserwowałem też to, co się działo w innych bankach centralnych.
+[SPEAKER_01] Najbardziej pożyteczne z tego punktu widzenia, w moim przekonaniu, są dyskusje w Bazylei w ramach obrad BIS-u.
+[SPEAKER_01] To jest ciekawe.
+[SPEAKER_01] Ale bolesną lekcję wszyscy bankierzy centralni wyciągnęli przede wszystkim z błędów Europejskiego Banku Centralnego.
+[SPEAKER_01] Europejski Bank Centralny, jak pamiętamy, właśnie w tym okresie przedwcześnie zacieśnił politykę pieniężną.
+[SPEAKER_01] To był duży błąd.
+[SPEAKER_01] Przyczyną był szybki, nagły wzrost cen ropy naftowej.
+[SPEAKER_01] Bank Centralny, zacieśniając tę politykę pieniężną, przyczynił się do recesji w gospodarce strefy euro.
+[SPEAKER_01] Niewątpliwie, co we wszystkich analizach Banku Centralnego Europejskiego jest przytaczane.
+[SPEAKER_01] Zaostrzył bardzo przebieg kryzysu zadłużeniowego.
+[SPEAKER_01] Wskutek tego musiał później jeszcze bardziej poluzować politykę monetarną, niż to by było potrzebne wcześniej, gdyby tego błędu nie zrobiono.
+[SPEAKER_01] To tak jest, że jeśli się zaostrzy nadmiernie politykę pieniężną albo za długo się ją będzie właśnie tak realizować, to później trzeba gwałtowniej poluzować.
+[SPEAKER_01] Czyli te fluktuacje są gwałtowniejsze, co jest oczywiście ze skutkiem negatywnym dla rozwoju gospodarczego i równowagi gospodarczej.
+[SPEAKER_00] Pytanie o numerze 45 dotyczy nowego modelu równowagi ogólnej Most.pl.
+[SPEAKER_00] Prośba o komentarz.
+[SPEAKER_01] To jest bardzo ciekawe narzędzie.
+[SPEAKER_01] Nowe w naszym zestawie modeli, w innych krajach także.
+[SPEAKER_01] Ale to nie jest narzędzie do prognozowania inflacji, do oceny inflacji.
+[SPEAKER_01] Ono służy do zupełnie innych elementów, bardzo ważnych.
+[SPEAKER_01] Mianowicie wpływu zmian strukturalnych na ścieżkę rozwoju polskiej gospodarki.
+[SPEAKER_01] To jest niezwykle ważne.
+[SPEAKER_01] Polska gospodarka, tak jak inne gospodarki europejskie, się strukturalnie bardzo szybko zmienia.
+[SPEAKER_01] Świat się bardzo szybko zmienia i mamy bardzo silne procesy zmian w sferze finansowej także.
+[SPEAKER_01] To jest rewolucja cyfrowa między innymi, jeszcze te kolejne etapy globalizacji itd.
+[SPEAKER_01] I tu jest potrzebne nowe narzędzia ekonometryczne, żeby właśnie to zanalizować.
+[SPEAKER_01] Na przykład wpływ kształtowania się tych cen, wzrostu cen rynku emisji CO2.
+[SPEAKER_01] I prognozowanie tego do przodu.
+[SPEAKER_01] Jaki będzie wpływ tego na gospodarkę polską?
+[SPEAKER_01] Bolesny wpływ, prawda?
+[SPEAKER_01] Jaki będzie wpływ na ceny konsumenta właśnie na skutek tego?
+[SPEAKER_01] Ale w tym modelu nie ma inflacji.
+[SPEAKER_01] Są tylko zmiany cen relatywnych wobec zmian deflatora PKB.
+[SPEAKER_00] Pytanie o numerze 46.
+[SPEAKER_00] Dotyczy reakcji Narodowego Banku Polskiego, gdyby rynek ocenił politykę banku centralnego jako spóźnioną.
+[SPEAKER_01] Nie sądzę, żeby rynek tak to ocenił, spóźniono w stosunku do czego.
+[SPEAKER_01] Zareagowaliśmy na kryzys chyba jako pierwsi w Europie, czy jedni z pierwszych równo z innymi, co podkreślają właśnie międzynarodowe instytucje finansowe, chwaląc Narodowy Bank Polski.
+[SPEAKER_01] Byliśmy przygotowani przede wszystkim.
+[SPEAKER_01] My się nie spodziewaliśmy kryzysu pandemicznego.
+[SPEAKER_01] Ale wyciągając naukę z kryzysu finansowego roku 2008, byliśmy przygotowani na kryzys.
+[SPEAKER_01] Prowadziliśmy różnego rodzaju ćwiczenia, analizy.
+[SPEAKER_01] Rada Polityki Pieniężnej miała przygotowany ten zestaw wszystkich narzędzi, przepracowany, dobrze zanalizowany.
+[SPEAKER_01] Byliśmy gotowi.
+[SPEAKER_01] W momencie, jak się pojawił kryzys, natychmiast przystąpiliśmy do maksymalnie radykalnych działań, biorąc pod uwagę całą gospodarkę i swój mandat, czyli stabilność cen i wspieranie polityki gospodarczej rządu, jeśli ten pierwszy cel nie jest zagrożony.
+[SPEAKER_01] Tak że tu nie byliśmy spóźnieni nawet o godzinę.
+[SPEAKER_01] Dokładnie wyszliśmy z bloków startowych we właściwym momencie.
+[SPEAKER_01] Teraz jest taka sugestia, że być może się spóźnimy.
+[SPEAKER_01] w ocenie, kiedy gospodarka właśnie wystrzeli w górę i zaczną się procesy inflacyjne wynikające ze zmiany popytu.
+[SPEAKER_01] Zapewniam, że się nie spóźnimy.
+[SPEAKER_01] Zapewniam się, że dokładnie w tym punkcie, w którym trzeba będzie, to ruszymy.
+[SPEAKER_01] Ale do tego jest tak odległy czas, tak odległy dystans, że nie ma co tego podgrzewać bez przerwy i analizować, bo wtedy wprowadzamy w błąd
+[SPEAKER_01] zwykłych uczestników rynku, którzy nie mają czasu, żeby tak głęboko w to wchodzić.
+[SPEAKER_01] Oni mogą myśleć, że to jest już, zaraz, za chwilę i że my już coś się opóźniamy.
+[SPEAKER_01] Różne tytuły prasowe sugerujące coś takiego, że NBP lekceważy inflację, mogą takie skutki negatywne wywrzeć.
+[SPEAKER_01] Przecież nie może być głupszych tytułów niż to, bo to jest główny przedmiot naszego zainteresowania.
+[SPEAKER_01] Jakbyśmy to jej lekceważyli, to byśmy lekceważyli w ogóle siebie samych.
+[SPEAKER_01] Więc to jest absurd.
+[SPEAKER_01] Jesteśmy na to przygotowani.
+[SPEAKER_01] Jeśli krzywa dochodowości by się rzeczywiście jakoś zmieniła, niekorzystnie i stała na przeszkodzie realizacji celów NBP, to mamy narzędzia też, żeby na tą krzywą dochodowości oddziaływać i przeciwdziałać.
+[SPEAKER_00] Pytanie o numerze 47 dotyczy oczekiwań inflacyjnych Polaków.
+[SPEAKER_00] Czy one są na odpowiednim poziomie zakotwiczone i czy bank w swojej polityce komunikacyjnej ma zamiar uwzględniać wpływ?
+[SPEAKER_01] Oczywiście nie są zakotwiczone na właściwym poziomie, bo w tytułach gazet, w szczególności tabloidów, w szybkim przekazie elektronicznym dzisiejsze media starają się maksymalnie skrócić poważne wiadomości.
+[SPEAKER_01] na rzecz jakichś takich, przyciągających uwagę swoją sensacyjnością, to takie skomprzymowane te wiadomości czasem sugerują coś, czego nie ma.
+[SPEAKER_01] Na przykład właśnie szybki wzrost cen i inflacji.
+[SPEAKER_01] i wyrwanie się spod kontroli tej inflacji.
+[SPEAKER_01] W szczególności, jak ludzie dotykają wzrostu cen tych usług czy towarów, które bezpośrednio w codziennym ich dniu są widoczne, te zmiany cen.
+[SPEAKER_01] Czyli prąd, jak drożeje, wywóz śmieci, jak drożeje, paliwa, jak ceny ich rosną szybko i tak gwałtownie, dostrzegalnie, że się pamięta poprzednią cenę, a już się widzi obecną.
+[SPEAKER_01] jeśli to są takie uderzeniowe zmiany, to oczywiście wpływa negatywnie na postrzeganie procesów inflacyjnych i może być przekonanie, że ten wzrost cen jest powszechny i taki ogólny i dotyczy wszystkiego.
+[SPEAKER_01] To są czynniki całkowicie niezależne od polityki pieniężnej NBP.
+[SPEAKER_01] Komunikacyjnie jak NBP może oddziaływać?
+[SPEAKER_01] Tak jak dzisiaj to robię.
+[SPEAKER_01] Ale co z tego dociera do
+[SPEAKER_01] to jest inna kwestia.
+[SPEAKER_01] Przecięty człowiek nie ma czasu, proszę Państwa, zastanawiać się nad naturą inflacji.
+[SPEAKER_01] Najczęściej nie wie, zresztą to jest inflacja i nie musi wiedzieć.
+[SPEAKER_01] My jesteśmy od tego, żeby wiedzieć.
+[SPEAKER_01] Państwo, którzy są po drugiej stronie w tej chwili tego przekazu,
+[SPEAKER_01] i pracownicy Narodowego Banku Polskiego.
+[SPEAKER_01] Starajmy się przekazać społeczeństwu, że inflacja nie wyrywała się spod kontroli, że są te czynniki kosztowe, podażowe, te szoki podażowe, że one czasowo podwyższyły i podwyższają inflację, ale
+[SPEAKER_01] Baza też to czyni, a w przyszłym roku powinniśmy wrócić na normalne tory i będziemy pilnować, żeby inflacja się nie wmknęła spod kontroli, kiedy dojdą do głosu czynniki popytowe.
+[SPEAKER_01] Długookresowe zakotwiczenie chcielibyśmy, żeby nastąpiło od ich oczekiwań w pobliżu 2,5%, co jest naszym celem inflacyjnym.
+[SPEAKER_01] Myślę, że ludzie tak długookresowo
+[SPEAKER_01] Trudno powiedzieć.
+[SPEAKER_01] Prowadzimy badania, ale to się ciągle zmienia pod wpływem bieżących wydarzeń.
+[SPEAKER_01] Ale żeby ludzie w ten sposób to odbierali, że około 2,5% te ceny mogą długookresowo rosnąć.
+[SPEAKER_01] To jest normalne w takim kraju o takim tempie wzrostu jak Polska.
+[SPEAKER_00] Pytanie o numerze 48.
+[SPEAKER_00] Dotyczy oceny sukcesów banku centralnego w walce z ryzykiem deflacji.
+[SPEAKER_01] Wydaje mi się, że to ryzyko realnie istniało przecież na początku.
+[SPEAKER_01] To ryzyko deflacji wielogospodarka się zrealizowało przecież.
+[SPEAKER_01] Natomiast bez naszych działań z 2020 roku zdecydowanych to ryzyko stałoby się poważnym wyzwaniem dla naszej gospodarki.
+[SPEAKER_01] Ale właśnie dzięki naszym działaniom, tym szybkim, zdecydowanym udało się tego uniknąć.
+[SPEAKER_01] Dzięki temu mamy najniższe bezrobocie
+[SPEAKER_01] To trzeba ciągle podkreślać.
+[SPEAKER_01] Najniższe bezrobocie w Unii Europejskiej nastąpiło dlatego, że zarówno Narodowy Bank Polski, jak i rząd szybko, zdecydowanie i w właściwym momencie na samym początku podjęło tak zmasowane działania.
+[SPEAKER_01] Szokujące dla niektórych, bo po raz pierwszy w historii Polski.
+[SPEAKER_00] Pytanie o numerze 49 dotyczy sytuacji NBP, a właściwie możliwości przeciwdziałania wzrostowi cen oraz związania z poziomem złotego, zwłaszcza w sytuacji, gdy NBP wspiera polską gospodarkę i stoi raczej na straży słabości złotego.
+[SPEAKER_01] To jest złośliwa uwaga, absolutnie niezgodna z prawdą.
+[SPEAKER_01] Działamy w ramach konstytucji, w ramach ustawy NBP.
+[SPEAKER_01] Mamy te instrumenty, które są szczegółowo opisane w dokumencie założenia polityki pieniężnej, które są co roku przyjmowane, przedstawiane rządowi, sejmowi itd.
+[SPEAKER_01] Kurs złotego, jak na walutę wolną, całkowicie wolną, swobodnie kształtującą się, jego kurs złotego się kształtuje całkowicie swobodnie na rynku, to ten kurs jest bardzo stabilny.
+[SPEAKER_01] Jest relatywnie bardzo stabilny.
+[SPEAKER_01] Kurs złotego jest absolutnie płynny.
+[SPEAKER_01] To czynniki rynkowe kształtują kurs złotego.
+[SPEAKER_01] Dzisiaj, co warto przypomnieć, kurs złotego względem euro jest nieco słabszy niż w 2020 roku.
+[SPEAKER_01] Ale kurs złotego wobec dolara jest silniejszy.
+[SPEAKER_01] Tak funkcjonuje rynek.
+[SPEAKER_01] Kurs jest trochę słabszy niż w 2020, a trochę mocniejszy
+[SPEAKER_01] Wobec dolara, niż był wtedy.
+[SPEAKER_01] Nasza interwencja, której dokonaliśmy, po raz pierwszy w historii tak duża, zdecydowana i szybka, była związana z tym, że bardzo szybko kurs złotego parł w górę.
+[SPEAKER_01] radykalnie szybko, zbyt szybko, burząc pewne relacje gospodarcze i zaskakując producentów, w szczególności eksporterów.
+[SPEAKER_01] Dokonaliśmy punktowej, szybkiej interwencji.
+[SPEAKER_01] Uzyskaliśmy ten efekt, który chcieliśmy i zeszliśmy z tego rynku.
+[SPEAKER_01] Nie przewidujemy w najbliższym czasie żadnych interwencji, a naszym celem nie jest ani słabszy dolar, ani silniejszy złoty.
+[SPEAKER_01] W ogóle naszym celem nie jest kurs walutowy.
+[SPEAKER_01] My tego nie mamy w swoich narzędziach, nie planujemy tego, nie sprawozdajemy tego, obserwujemy tylko uważnie.
+[SPEAKER_00] Pytanie o numerze 50 dotyczy komentarza do cytatu pani prezes Janet Yellen.
+[SPEAKER_00] Stopy procentowe będą musiały nieco wzrosnąć, by upewnić się, że nasza gospodarka nie ulegnie przegrzaniu.
+[SPEAKER_01] Pani Janet Yellen, co chciałem uprzejmie, ale grzecznie przekazać, nie jest już obecnie szefem Banku Centralnego Stanów, rezerw federalnych, tylko jest ministrem skarbu.
+[SPEAKER_01] A szef Banku Centralnego Stanów, Jerome Powell, mówi zupełnie coś innego.
+[SPEAKER_01] Dokładnie to, co ja mówię.
+[SPEAKER_00] Tak, tu rzeczywiście była uwaga sekretarz skarbu.
+[SPEAKER_00] To w pytaniu było tak.
+[SPEAKER_00] Sekretarz skarbu.
+[SPEAKER_00] I pytanie o numerze 51.
+[SPEAKER_00] dotyczy właściwie komentarza.
+[SPEAKER_00] Przedstawiciele krajowych banków argumentują, że uwzględniając podatek od niektórych instytucji finansowych obecny poziom stóp NBP jest zbliżony do ujemnych stóp Europejskiego Banku Centralnego.
+[SPEAKER_00] EBC stosuje system, w którym część nadwyżkowych rezerw nie jest oprocentowana ujemną stopą depozytową.
+[SPEAKER_00] Czy NBP rozważa zmiany w zestawie swoich instrumentów, które skutkowałyby mniejszą dolegliwością dla banków?
+[SPEAKER_01] Proszę Państwa, my jako Zarząd NBP
+[SPEAKER_01] Obserwujemy oczywiście rentowność banków, bardzo się tym interesujemy.
+[SPEAKER_01] Ustawowo jesteśmy zobowiązani poprzez Komitet Stabilności Finansowej, ja jako przewodniczący tego komitetu, do dbałości o stabilność systemu bankowego.
+[SPEAKER_01] Ale rentowność banków to jest temat dla zarządów banków komercyjnych.
+[SPEAKER_01] Dla zarządów, dla właścicieli, którzy te zarządy kształtują poprzez rady nadzorcze.
+[SPEAKER_01] To nie jest w ogóle zadanie NBP.
+[SPEAKER_01] To nas jakby nie interesuje.
+[SPEAKER_01] A w szczególności zadaniem NBP, o czym niektórzy może zapominają,
+[SPEAKER_01] Nie jest dotowanie sektora bankowego kosztem polskiej gospodarki i polskiego podatnika.
+[SPEAKER_01] W żadnym wypadku nigdy nie pójdziemy w tym kierunku, że polski podatnik ma ponosić wyższe ciężary, żeby poprawić sytuację banków.
+[SPEAKER_01] Zarządy banków komercyjnych same sobie muszą z tym radzić.
+[SPEAKER_01] To byłoby wbrew prawu, wbrew naszym celom ustawowym, ale też niezgodne z poczuciem przyzwoitości.
+[SPEAKER_01] W pandemii, w kryzysie jakimkolwiek wszyscy tracą.
+[SPEAKER_01] Dla wszystkich to jest niekorzystne.
+[SPEAKER_01] Dla obywateli niekorzystne i dla banków niekorzystne.
+[SPEAKER_01] Tego się nie da uniknąć.
+[SPEAKER_01] Musiała się pogorszyć sytuacja banków.
+[SPEAKER_01] Natomiast zwracam uwagę, że NBP, tak jak rząd, znakomicie złagodził kryzys.
+[SPEAKER_01] A przez złagodzenie kryzysu jest on mniej dolegliwy dla banków.
+[SPEAKER_01] Wyniki banków komercyjnych są wielokrotnie lepsze,
+[SPEAKER_01] które by były, gdybyśmy nie zamortyzowali szoku pandemicznego naszą polityką.
+[SPEAKER_01] Obniżeniem stóp procentowych, o których się tak często mówi.
+[SPEAKER_01] Patrząc tak powierzchownie, bo możemy powiedzieć, że obniżenie stóp procentowych jest niekorzystne dla banków, zmniejsza ich dochody.
+[SPEAKER_01] Ale tak nie jest.
+[SPEAKER_01] Obniżenie stóp procentowych wraz z innymi narzędziami przyczyniło się do złagodzenia kryzysu, do mniejszej ilości bankructw, do ograniczenia bezrobocia.
+[SPEAKER_01] Gdyby nastąpiły tamte elementy, to banki by o wiele bardziej były dotknięte kryzysem.
+[SPEAKER_01] Tym, że wiarygodność klientów by spadła, że byłoby bardzo dużo złych kredytów itd.
+[SPEAKER_01] Także tutaj generalnie patrząc na cały system banków, bardzo bankom pomogliśmy.
+[SPEAKER_01] Tak jak wszystkim innym podmiotom ekonomicznym.
+[SPEAKER_01] Natomiast poszczególne banki to jest przedmiot zainteresowania i odpowiedzialności zarządów poszczególnych banków.
+[SPEAKER_00] Przed nami grupa pytań dotycząca kredytów.
+[SPEAKER_00] To są pytania od 52 do 61.
+[SPEAKER_00] Proszę bardzo.
+[SPEAKER_01] Jeśli chodzi o dzisiejsze orzeczenie czy wyrok, to nie jestem w stanie jeszcze wszystkich jego aspektów ocenić, bo to trzeba się temu przyjrzeć.
+[SPEAKER_01] Natomiast to orzeczenie TSUE można ocenić jako kontynuację dotychczasowej linii orzeczniczej TSUE.
+[SPEAKER_01] Przewidywałem, że tak będzie.
+[SPEAKER_01] Ona niewiele zmienia.
+[SPEAKER_01] Ona mówi tyle.
+[SPEAKER_01] Odpowiedzialność za rozwiązanie tego problemu leży na polskim systemie sądownictwa.
+[SPEAKER_01] Na uchwałach Sądu Najwyższego naszego i na decyzjach później sądów poszczególnych.
+[SPEAKER_01] I tak to wygląda.
+[SPEAKER_00] Pytanie częściowo związane.
+[SPEAKER_00] Pytanie o numerze 61.
+[SPEAKER_00] Czy NBP będzie wspomagał PKO w procesie dotyczącym kredytów?
+[SPEAKER_01] Nie wypowiadam się i Narodowy Bank Polski się nie wypowiada na temat poszczególnych banków.
+[SPEAKER_01] My się wypowiadamy tylko na temat całego systemu bankowego czy grupy banków, na przykład wszystkich banków mających kredyty.
+[SPEAKER_01] I tu powtórzę, jeśli grupa banków obciążonych kredytami frankowymi, które przecież sami podejmowali tę decyzję, że mają te kredyty, jest zainteresowana jakimś rozwiązaniem, jeśli to jest grupa, która ma więcej niż połowę kredytów frankowych, to NBP wtedy zdecyduje o tym, że może z tą grupą banków współpracować.
+[SPEAKER_01] Natomiast z poszczególnymi bankami w tym zakresie nie możemy współpracować, bo byłoby to złamanie prawa.
+[SPEAKER_00] Pytanie o numerze 62 dotyczy Nawalnym Zgromadzeniu PKO BP.
+[SPEAKER_00] Przedstawiciel Ministerstwa Aktywów Państwowych poinformował o konsultacjach z Komisją Nadzoru Finansowego, ale także z Narodowym Bankiem Polskim dotyczących potencjalnego skupu akcji PKO BP.
+[SPEAKER_00] Z czego wynika uprawnienie NBP do uczestniczenia w takich konsultacjach?
+[SPEAKER_01] NBP chętnie dyskutuje każdy problem, z którym przychodzą przedstawiciele
+[SPEAKER_01] odpowiedzialnych instytucji rządowych czy publicznych i każdemu udzielamy informacji w tym zakresie, na ile to jest możliwe, korzystając ze swojego doświadczenia.
+[SPEAKER_00] I pytania dotyczące skupu obligacji.
+[SPEAKER_00] To są działania NBP w zakresie skupu obligacji.
+[SPEAKER_00] Pytania 63 do 69.
+[SPEAKER_01] My skupujemy te dłużne papiery wartościowe w ramach prawa, w ramach swoich uprawnień i w ramach tych możliwości, które nam dają założenia polityki pieniężnej przyjmowane przez Radę Polityki Pieniężnej.
+[SPEAKER_01] Częstotliwość stosowania operacji, ich skala.
+[SPEAKER_01] wynika z celu, jaki sobie stawia bank centralny w tym zakresie i tę decyzję podejmuje zarząd, kierując się bieżącymi warunkami rynkowego.
+[SPEAKER_01] Na bieżąco to analizujemy, dokonujemy pewnych zmian operacyjnych w tym zakresie.
+[SPEAKER_01] 11 marca na przykład
+[SPEAKER_01] tego roku 2021 zapowiedzieliśmy jako Zarząd, że bardziej elastycznie będziemy oferowali operacje strukturalne na tym rynku.
+[SPEAKER_01] To znaczy, że zwiększamy częstotliwość stosowania tych operacji tak, jak to będzie konieczne.
+[SPEAKER_01] Dwukrotnie zwiększyliśmy co najmniej tę częstotliwość, skalę ustalamy dowolnie i także zwiększyliśmy tę skalę, a także rentowność obligacji akceptowanych.
+[SPEAKER_01] To tak, że dokonaliśmy zmian, czyli szerszy skup jest obligacji niż poprzednio.
+[SPEAKER_01] Robimy to dlatego, że też podjęliśmy się zadania wpływania na rentowność obligacji.
+[SPEAKER_01] I to jest to nowe zadanie, w ramach którego dążymy do obniżenia kosztów obsługi długu przez Polskę, konkretnie przez rząd.
+[SPEAKER_00] Dwa pytania dotyczące CBDC.
+[SPEAKER_00] Pytania o numerach 70 i 71.
+[SPEAKER_00] komentarz do wypowiedzi pana prezesa Marka Dietla, który powiedział wczoraj, że cyfrowy… – No tak, to teraz była ta konferencja, kilka dni temu.
+[SPEAKER_01] Proszę państwa, ja wielokrotnie już o tym mówiłem.
+[SPEAKER_01] To jest tak.
+[SPEAKER_01] Wszystko, co dotyczy ucyfrowiania usług finansowych, ucyfrowiania płatności itd., są tematy, które są bardzo porywające dla dziennikarzy, dla analityków, dla młodych ludzi.
+[SPEAKER_01] Nie ma bardziej nowoczesnej instytucji z tego punktu widzenia niż Narodowy Bank Polski.
+[SPEAKER_01] Nasz system płatniczy jest jednym z najnowocześniejszych na świecie.
+[SPEAKER_01] Wiele bogatszych od nas o wiele krajów ma bardziej przestarzałe systemy, mniej nowoczesne.
+[SPEAKER_01] Jeśli chodzi o cyfrowy pieniądz banku centralnego, to tylko takie kraje, które wymieniam bez uśmiechu.
+[SPEAKER_01] Wspólnota Bahamów i Unia Wschodnich Karaibów wdrażają produkcyjne wersje w systemie CBDC.
+[SPEAKER_01] Oczywiście ani Wspólnota Bahamów, ani Unia Wschodnich Karaibów nie jest dla nas żadnym benchmarkiem.
+[SPEAKER_01] Są specyficzne powody, dla których oni wdrażają coś takiego.
+[SPEAKER_01] Nie jest to zresztą ten cyfrowy pieniądz bankowy, o którym się najczęściej mówi.
+[SPEAKER_01] Dążenie w kierunku powstania tego pieniądza w ogóle to wymaga prowadzenia wieloletnich i ogłębnych badań, analiz prawnych, ekonomicznych, technologicznych itd., praktycznych eksperymentów.
+[SPEAKER_01] Daleka droga jest do cyfrowego pieniądza banku centralnego.
+[SPEAKER_01] Wprowadzenie jego na taką czy inną skalę to będą ogromne skutki dla sektora bankowego, dla stabilności finansowej państwa, dla polityki pieniężnej, funkcjonowania systemu płatniczego.
+[SPEAKER_01] To jest szalenie skomplikowane.
+[SPEAKER_01] Naszym celem każdego banku centralnego w cywilizowanym kraju jest służenie gospodarki i społeczeństwu, stabilizacja systemu finansowego.
+[SPEAKER_01] Nowa forma pieniędzy nie może zdestabilizować tego systemu.
+[SPEAKER_01] To jest bardzo trudne.
+[SPEAKER_01] Jedynym krajem dużym, poważnym, który zapowiada wprowadzenie cyfrowego pieniądza w jakimś bliskim czasie są Chiny Ludowe.
+[SPEAKER_01] Ale proszę pamiętać, że Chiny nie ukrywają, rząd Chin nie ukrywa, że będzie to pieniądz terminowy,
+[SPEAKER_01] Proszę pamiętać, że przy tym pieniądzu władze centralne państwa, tak czy inaczej ukształtowane, demokratycznie lub niedemokratycznie całkiem, mogą nagle ten pieniądz zlikwidować, unieważnić, mogą dwukrotnie zmniejszyć jego wartość, mogą wprowadzić jego terminowe wygaśnięcie z końcem roku albo od pierwszego następnego miesiąca itd.
+[SPEAKER_01] Młodzi ludzie, którzy tak o tym myślą entuzjastycznie, chyba sobie nie zdają z tego sprawę, że ten pieniądz cyfrowy banku centralnego to może być elementem totalnej władzy nad jednostką, nad społeczeństwem.
+[SPEAKER_01] Już i dość dużo mamy tych elementów, które niosą ze sobą ograniczenia wolności.
+[SPEAKER_01] A cóż będzie totalne ograniczenie tej wolności?
+[SPEAKER_01] Nawet w tej sferze tak intymnej, jak właśnie zarabianie pieniędzy i gospodarowanie swoimi pieniędzy już po ich uzyskaniu.
+[SPEAKER_01] Terminowy pieniądz sterowany i decydowany przez jakąś centralną instytucję, z której nie możecie nic zrobić bez wiedzy tych centralnych instytucji.
+[SPEAKER_01] Czy to jest jakaś wizja ponętna dla normalnego człowieka?
+[SPEAKER_01] z cywilizacji zachodniej, że tak powiem.
+[SPEAKER_01] Oczywiście nie.
+[SPEAKER_01] Natomiast jakieś tam elementy tego pieniądza pewnie będą użyteczne.
+[SPEAKER_01] Tak samo jak z całego tego zamętu wobec tych nowych innowacji finansowych coś się wdraża w końcu i coś jest przydatne w pewnych elementach, czy to prywatnej bankowości, czy centralnej.
+[SPEAKER_01] My mamy u siebie Departament, który się zajmuje tym.
+[SPEAKER_01] Współpracujemy bardzo z Departamentem Odpowiednim, który istnieje w KNF-ie.
+[SPEAKER_01] Będziemy prowadzić dalej te badania.
+[SPEAKER_01] W najbliższym czasie przedstawię Państwu dosłownie w ciągu tygodnia, dwóch pewnie raport obszerny, który zbiera te elementy, nad którymi pracujemy i nasz stosunek do tego przedstawimy.
+[SPEAKER_01] On jest taki.
+[SPEAKER_01] Badania prowadzimy i będziemy prowadzić, tak jak inne banki centralne europejskie.
+[SPEAKER_01] Wydatkujemy na to środki, zatrudniamy do tego specjalistów, bardzo usilnie to obserwujemy, trzymamy rękę na pulsie, ale na razie celowości wprowadzenia tego pieniądza nie widzimy.
+[SPEAKER_00] Pytanie o numerze 72 dotyczy reakcji może spodziewanego wzrostu wartości pieniądza gotówkowego w obiegu.
+[SPEAKER_01] W tym roku przewidujemy, że rzeczywiście ten wzrost nastąpi.
+[SPEAKER_01] Tak jak do tej pory to obserwujemy, to prognozujemy, że około 16% nastąpi wzrost ilości pieniądza gotówkowego w obiegu.
+[SPEAKER_01] Do tej pory mamy 6% wzrostu do końca kwietnia, więc to się wydaje prawdopodobne.
+[SPEAKER_01] Ale przypomnę, że przed pandemią
+[SPEAKER_01] W 2016 roku taki wzrost mieliśmy wysoki też w 2016 roku i to było 15%, czyli mniej więcej to samo.
+[SPEAKER_01] I wtedy też mieliśmy bardzo niskie stopy procentowe.
+[SPEAKER_01] No nie takie jak teraz, ale bardzo niskie.
+[SPEAKER_01] Nie jest to nic nadzwyczajnego.
+[SPEAKER_00] Ostatnie pytanie o numerze 73 dotyczy właśnie refleksji, na czym ma polegać działanie NBP, których celem jest zapewnienie Polakom nieutrudnionego dostępu do gotówki.
+[SPEAKER_01] To są oczywiście działania w ramach tego ogłoszonego przez nas uroczyście budowy tego Narodowej Strategii Bezpieczeństwa Obrotu Gotówkowego.
+[SPEAKER_01] Te prace cały czas trwają.
+[SPEAKER_01] Są zespoły, które to prowadzą.
+[SPEAKER_01] Raportują etapy zakończenia tych prac.
+[SPEAKER_01] Całość prac powinna być zakończona w czwartym kwartale bieżącego roku, o czym informowaliśmy.
+[SPEAKER_01] Diagnozujemy stan dostępności gotówki na terenie kraju, we wszystkich płaszczyznach, we wszystkich miejscach, przede wszystkim w bankomatach, w placówkach bankowych.
+[SPEAKER_01] Analizujemy i formułujemy postulaty wprowadzenia zmian regulacyjnych, poprawiających dostępność gotówki, minimalizujących ryzyko zmniejszenia się dostępności gotówki dla obywateli.
+[SPEAKER_01] To jest bardzo ważny element, czasami lekceważony przez
+[SPEAKER_01] obserwatorów rynku finansowego w wielkich miastach.
+[SPEAKER_01] Chcemy takich rozwiązań, które zapewnią realizację prawa.
+[SPEAKER_01] To znaczy, że bilety Narodowego Banku Polskiego będą prawnym środkiem płatności wszędzie na terenie Polski.
+[SPEAKER_01] We wszystkich rodzajach płatności – detalicznych, za codzienne zakupy, przy regulowaniu zobowiązań finansowych itd.
+[SPEAKER_01] Poza sytuacjami, gdzie oczywiście płacenie gotówką nie ma żadnego sensu.
+[SPEAKER_01] Wielokrotnie to powtarzaliśmy.
+[SPEAKER_01] Są takie miejsca, sytuacje, gdzie się płaci bezgotówkowo.
+[SPEAKER_01] To jest oczywiste i to musi być zachowane.
+[SPEAKER_01] Ale żeby gotówka jednak pozostała w kilkudziesięciu procentach płatności, tym najwygodniejszą formą.
+[SPEAKER_01] Pomijając fakt, że cały czas 10-11% obywateli się tylko gotówką posługuje, do tego jest przyzwyczajone i tego chce.
+[SPEAKER_01] A Narodowy Bank Polski, podobnie jak rząd, podobnie jak Sejm, podobnie jak wszystkie instytucje publiczne i publicznego zaufania, muszą realizować to, czego chcą ludzie.
+[SPEAKER_01] A ludzie chcą, żeby gotówka była pełnoprawnym środkiem płatniczym.
+[SPEAKER_00] Szanowni Państwo, bardzo dziękuję za udział w konferencji.
+[SPEAKER_00] To było ostatnie pytanie.
+[SPEAKER_00] Dziękuję bardzo, Panie Profesorze.
+[SPEAKER_01] Dziękuję Państwu bardzo i ciekaw jestem Państwa refleksji z dzisiejszej konferencji.
+[SPEAKER_01] Cokolwiek możemy zmienić w sposobie komunikowania, rozważymy i zrobimy, a już szczególnie po wakacjach, kiedy pandemii, mam nadzieję, nie będzie.
+[SPEAKER_01] Jestem otwarty na wszystkie dobre pomysły.
+[SPEAKER_01] Dziękuję Państwu.
+[SPEAKER_01] Do widzenia.

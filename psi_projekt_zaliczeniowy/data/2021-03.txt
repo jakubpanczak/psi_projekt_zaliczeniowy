@@ -1,0 +1,689 @@
+[SPEAKER_01] Szanowni Państwo, serdecznie witamy na comiesięcznej konferencji pana profesora Adama Glapińskiego, prezesa Narodowego Banku Polskiego.
+[SPEAKER_01] Przepraszamy jednocześnie za opóźnienie.
+[SPEAKER_01] Konferencja dotyczy bieżącej sytuacji ekonomicznej i przechodzimy do serii pytań przesłanych przez dziennikarzy.
+[SPEAKER_01] Na początek
+[SPEAKER_01] Trzy pytania.
+[SPEAKER_01] Pierwsze pytanie pana Bartosza Bednarza, interia.pl.
+[SPEAKER_01] Czy NBP widzi ryzyko wzrostu inflacji ponad wskazany w projekcji przedział 2,7% do 3,6% w 2021 roku?
+[SPEAKER_01] Drugie pytanie przez pana Rafała Toszyńskiego, PAP Biznes.
+[SPEAKER_01] Jaka jest struktura inflacji zakładana w projekcji?
+[SPEAKER_01] Jakie czynniki podbijają inflację?
+[SPEAKER_01] Czy marcowa projekcja NBP uwzględnia napływ transferów unijnych w ramach Funduszu Odbudowy Unii Europejskiej?
+[SPEAKER_01] A jeżeli tak, to jaka jest ich kontrybucja do wzrostu PKB w kolejnych latach?
+[SPEAKER_01] Oraz pytanie przesłane przez Panią Renatę Oliarz, ISB News.
+[SPEAKER_01] Czy inflacja może trwale znaleźć się w górnej granicy odchylenia od celu NBP w tym roku?
+[SPEAKER_01] Według zrewidowanej ścieżki CPI w tym roku wyniesie 3,1%.
+[SPEAKER_01] Czy spodziewane z uwagi na trzecią falę pandemii przesunięcie odbicia gospodarczego na drugą połowę tego roku jest ryzykiem dla pojawienia się silnej presji
+[SPEAKER_01] inflacyjne i w tym okresie w sytuacji narastających obecnie presji podażowych, które wykazał m.in. wskaźnik PMI dla Polski w lutym.
+[SPEAKER_01] Proszę bardzo, Panie Profesorze.
+[SPEAKER_00] Dzień dobry Państwu.
+[SPEAKER_00] Serdecznie Państwa witam.
+[SPEAKER_00] Inflacja w styczniu wyniosła 2,7%, a więc była prawie całkowicie, prawie w pełni zgodna z celem inflacyjnym.
+[SPEAKER_00] Odchylenie jest absolutnie malutkie.
+[SPEAKER_00] Znajdujemy się dokładnie w celu inflacyjnym.
+[SPEAKER_00] Pamiętajmy jednocześnie, że inflacja jest podbijana przez wzrost cen energii, z tym wzrost cen energii elektrycznej i wyższe ceny ropy naftowej na świecie.
+[SPEAKER_00] Jak wiadomo, są tu negatywne szoki podażowe, które są całkowicie niezależne od polityki pieniężnej.
+[SPEAKER_00] Z przyczyn endogenicznych inflacja w ogóle nie rośnie.
+[SPEAKER_00] Być może ktoś ma wpływ na ceny odbioru śmieci,
+[SPEAKER_00] O tym już mówiłem szeroko, ale na pewno nie Rada Polityki Pieniężnej.
+[SPEAKER_00] Natomiast dwa pozostałe czynniki, o których przed chwilą powiedziałem, są zewnętrzne.
+[SPEAKER_00] Jeden wynika z polityki Unii Europejskiej, szkodliwej wyjątkowo dla Polski, a drugi wynika z tego, że następuje pewne ożywienie na świecie gospodarczej i ceny ropy naftowej rosną.
+[SPEAKER_00] Od drugiego kwartału inflacja może wzrosnąć w pobliże 3%, co wynika jasno z naszej prognozy.
+[SPEAKER_00] Do tego wzrostu w dużej mierze przyczynią się jednak efekty bazy związane z drastycznym spadkiem cen paliw przed rokiem.
+[SPEAKER_00] obserwowany obecnie wzrost cen ropy w stosunku do zeszłego roku, to jest skok.
+[SPEAKER_00] W całym roku inflację istotnie podwyższać będą czynniki regulacyjne, o których przed chwilą mówiłem.
+[SPEAKER_00] Wyższe ceny energii elektrycznej i tak już będzie przez najbliższe dziesięciolecia.
+[SPEAKER_00] No i planowane dalsze podwyżki cen wywozu śmieci.
+[SPEAKER_00] Zachęcam dziennikarzy, żeby się tym zajęli, tymi podwyżkami cen wywozu śmieci.
+[SPEAKER_00] Robię to już kolejny kwartał czy rok, jakoś dziennikarze się tym nie chcą zająć.
+[SPEAKER_00] Jakiś dziwna jest nad tym kurtyna milczenia czy zmowa milczenia.
+[SPEAKER_00] To jest kompletnie bezprecedensowe i nie zdarza się w innych krajach.
+[SPEAKER_00] Natomiast sama inflacja bazowa, co nas interesuje z punktu widzenia polityki pieniężnej, ta inflacja bazowa będzie się obniżać.
+[SPEAKER_00] Nie widać żadnej presji cenowej ani nadmiotnego popytu w całej gospodarce.
+[SPEAKER_00] W przemyśle pojawiają się pewne sygnały wzrostu kosztów wytwarzania.
+[SPEAKER_00] Luka popytowa gospodarce jest ujemna, głęboko ujemna.
+[SPEAKER_00] I taka pozostanie zapewne przez kilka najbliższych kwartałów.
+[SPEAKER_00] Ten wzrost cen, z którym mamy do czynienia, jest nieczuły na jakieś działania w sferze polityki pieniężnej.
+[SPEAKER_00] To jest zresztą niewielki wzrost.
+[SPEAKER_00] Znajdujemy się cały czas w celu inflacyjnym.
+[SPEAKER_00] Projekcja pokazuje, że inflacja w najbliższych dwóch latach nie będzie rosnąć nadmiernie i cały czas będzie zgodna z celem inflacyjnym NBP.
+[SPEAKER_00] Wyjątkowo komfortowa sytuacja.
+[SPEAKER_00] Przypomnę, że w 2020 roku wyniosła 3,4%.
+[SPEAKER_00] a w tym roku ma wynieść 3,1%.
+[SPEAKER_00] A w 2022 roku jeszcze ma być niższe, czyli 2,8%.
+[SPEAKER_00] Natomiast rok 2023 to jest zbyt odległa perspektywa, żeby kreślić jakieś realistyczne scenariusze na ten czas.
+[SPEAKER_00] Tyle się zmienia w gospodarce światowej.
+[SPEAKER_00] Jest kwestia tej pandemii, kiedy ona się tak naprawdę skończy.
+[SPEAKER_00] tego się nie da bez bardzo, bardzo wysokiej niepewności określić.
+[SPEAKER_00] Jeśli szczegóły odnoszące się do projekcji Państwa interesują, to zapraszam oczywiście, jak zawsze, na prezentację szczegółową, gdzie będzie można na ten temat dyskutować, pytać.
+[SPEAKER_00] Odbędzie się w poniedziałek o godzinie 11.00, jak zawsze.
+[SPEAKER_01] Kolejne pytania przed nami.
+[SPEAKER_01] Pierwsze przesłane przez panów redaktorów Piotra Skolimowskiego i Wojciecha Moskwę z Bloomberga.
+[SPEAKER_01] Najnowsza projekcja NBP przewiduje wyższą niż w listopadzie ścieżkę inflacji w latach 2021-2022 oraz wskazuje na prawdopodobieństwo wyjścia inflacji powyżej górnego pułapu celu w roku 2023.
+[SPEAKER_01] Równocześnie NBP widzi wyższe tempo wzrostu w tym roku.
+[SPEAKER_01] Czy taka perspektywa definitywnie przekreśla możliwość obniżki stóp procentowych i zwiększa szanse zacieśnienia polityki pieniężnej?
+[SPEAKER_01] Czy taka ewentualność była dyskutowana lub wspomniana na środowym posiedzeniu Rady Polityki Pieniężnej?
+[SPEAKER_01] Czy obecna projekcja w jakikolwiek sposób przemawia za normalizacją polityki monetarnej w horyzoncie roku?
+[SPEAKER_01] A jeżeli tak, to jaka mogłaby być sekwencja normalizacji polityki pieniężnej, biorąc pod uwagę obecnie sformułowane i stosowane instrumenty?
+[SPEAKER_01] Czy rynek ma rację, że do końca 2021 roku stopy pójdą w górę?
+[SPEAKER_01] Jak Pan Prezes ocenia perspektywy podwyżek w 2022 roku w świetle tego, że rynek wycenia podwyżki do końca 2022 roku na około 80 punktów bazowych stan na środę?
+[SPEAKER_01] Kolejne pytanie pana redaktora Bartosza Bednarza z interia.pl.
+[SPEAKER_01] Co dla ścieżki podwyżki stóp procentowych oznacza marcowa projekcja inflacji i PKB?
+[SPEAKER_01] Czy prawdopodobieństwo podwyżki stóp procentowych w Polsce szybciej niż za kilka kwartałów właśnie rośnie?
+[SPEAKER_01] Pytanie pana Rafała Tuszyńskiego, PAP Biznes.
+[SPEAKER_01] W jakich warunkach podwyżki stóp procentowych byłyby możliwe za kadencję obecnej Rady Polityki Pieniężnej w odniesieniu do marcowej projekcji?
+[SPEAKER_01] Pytanie pana Pawła Florkiewicza, Reuters.
+[SPEAKER_01] Czy biorąc pod uwagę pogarszającą się sytuację pandemiczną, ryzyko zamykania kolejnych branż, sektorów czy regionów, nie wzrosło jednak prawdopodobieństwo obniżki stuprocentowych, która miałaby na celu dalsze wsparcie polskiej gospodarki?
+[SPEAKER_01] Kolejne pytanie też pana Pawła Florkiewicza, Reuters.
+[SPEAKER_01] Jak w tym kontekście należy odczytywać najnowszą projekcję inflacji, która wskazuje, że tempo wzrostu cen będzie przyspieszać w tym roku, ale także i w kolejnych?
+[SPEAKER_01] Czy to nie jest sygnał do zaostrzenia polityki monetarnej banku centralnego?
+[SPEAKER_01] Kolejne pytanie także pana redaktora Florkiewicza z Reuters.
+[SPEAKER_01] Czy obecnie nadal najbardziej prawdopodobnym scenariuszem jest pozostawienie stóp procentowych na obecnym poziomie do końca obecnej kadencji Rady Polityki Pieniężnej?
+[SPEAKER_01] Pytanie Pani Renaty Oliarz i SB News.
+[SPEAKER_01] Czy w świetle podwyższonej marcowej projekcji ścieżki inflacji na cały okres objęty projekcją oraz ścieżki PKB na 2021 rok zmalało prawdopodobieństwo obniżki stóp w tym roku?
+[SPEAKER_01] Jaki jest scenariusz bazowy co do stóp procentowych na najbliższe miesiące?
+[SPEAKER_01] Także pytanie Pani Renaty Oliarz, ISB News.
+[SPEAKER_01] Ścieżka inflacji została podniesiona w całym horyzoncie projekcji.
+[SPEAKER_01] Ścieżka PKB na ten rok jest również wyższa niż zakładała to listopadowa projekcja.
+[SPEAKER_01] Czy przemawia to za możliwym zacieśnieniem polityki pieniężnej podwyżką stóp w najbliższych kwartałach bieżącego roku lub 2022 roku?
+[SPEAKER_01] Ostatnie w tej serii pytanie pana redaktora Michała Żuławińskiego, Bankier.pl.
+[SPEAKER_01] 15 stycznia 2021 roku stwierdził pan, że scenariusz podwyżek stóp procentowych jest abstrakcyjny, jeżeli mowa o najbliższej przyszłości.
+[SPEAKER_01] Czy nowe projekcje inflacji skłaniają pana do zmiany zdania i otwierają pole do dyskusji o podwyżkach stóp jeszcze przed końcem obecnej kadencji Rady Polityki Pieniężnej?
+[SPEAKER_01] Proszę bardzo.
+[SPEAKER_00] Proszę państwa, tak ogólnie.
+[SPEAKER_00] Ja rozumiem, że ta polityka pieniężna, którą Narodowy Bank Polski prowadzi od dłuższego czasu, jest dla państwa nudna, bo niewiele się zmienia.
+[SPEAKER_00] Ale tutaj na jakąś rychłą rozrywkę w tym zakresie nie mogą państwo liczyć.
+[SPEAKER_00] Nie wiem, skąd takie ożywienie w różnych tytułach.
+[SPEAKER_00] naszej projekcji, czy po zasygnalizowaniu głównych elementów tej projekcji, nadal prawdopodobieństwo podwyżek stóp procentowych w czasie obecnej kadencji Rady Polityki Pieniężnej wynosi, jakby to powiedzieć, może nie abstrakcyjne jest, ale wynosi zero.
+[SPEAKER_00] Jest zero, potem jest przecinek i po tym zerze pojawia się jakaś kolejna cyfra.
+[SPEAKER_00] Ale jest mniej więcej taka.
+[SPEAKER_00] to jest nadal bardzo niska inflacja.
+[SPEAKER_00] To nadal niestety, to ważne, żeby powiedzieć niestety, z punktu widzenia ogólnej makrosytuacji ekonomicznej, to nadal jest sytuacja, kiedy my jeszcze nie wyszliśmy na ścieżkę szybkiego, dynamicznego wzrostu.
+[SPEAKER_00] Jeśli wyjdziemy na ścieżkę zdecydowanego, szybkiego, ustabilizowanego wzrostu, to wtedy się zastanowimy.
+[SPEAKER_00] Nie chciałbym cytować dosłownie to, co mówi szef Fedu czy szef EBC, ale my mamy takie samo stanowisko.
+[SPEAKER_00] Takie samo, jak główne banki centralne świata.
+[SPEAKER_00] Nic nie zapowiada tego, żeby stopy procentowe w najbliższym czasie były podwyższane.
+[SPEAKER_00] Natomiast cały czas istnieje z pewnym prawdopodobieństwem, wynikający z rozwijania się pandemii,
+[SPEAKER_00] Istnieje niestety taki czarny scenariusz ewentualny, że ta pandemia niestety nie zaniknie, że będą jakieś kolejne fale, że będą jakieś kolejne ograniczenia i że gospodarka nie wejdzie na ścieżkę, ponownie na ścieżkę szybkiego wzrostu.
+[SPEAKER_00] O czym marzymy?
+[SPEAKER_00] I w związku z tym, scenariusz obniżenia stóp procentowych nadal istnieje.
+[SPEAKER_00] On w ostatnim czasie jest mniej prawdopodobny, mało prawdopodobny, bo mamy to ożywienie, ale wszystko zależy, co dalej będzie się działo z tą chorobą, z rozwojem tej choroby.
+[SPEAKER_00] Obserwujemy sytuację w krajach, z którymi graniczymy.
+[SPEAKER_00] Różnie to wygląda.
+[SPEAKER_00] Nie będę tu wchodził w szczegóły zjawisk, na których się nie znam.
+[SPEAKER_00] Czytam po prostu media.
+[SPEAKER_00] Różnie może być.
+[SPEAKER_00] Jeśli szok pandemiczny będzie się nasilał, to oczywiście gospodarka będzie też pogrążała się w szoku.
+[SPEAKER_00] wrócić do scenariusza obniżenia stóp procentowych, żeby temu przeciwdziałać.
+[SPEAKER_00] Natomiast, jeśli gospodarka, tak jak to przewidujemy w tej projekcji, będzie się rozwijać, coraz lepiej się rozwijać, to wzrost cen jakiś będzie następował w pewnym momencie.
+[SPEAKER_00] Ale daleko od poziomu, w którym wymagana byłaby nasza interwencja.
+[SPEAKER_00] Na razie wzrost cen, przypominam, wynika z trzech elementów pochodzących spoza zakresu oddziaływania polityki
+[SPEAKER_00] pieniężno-kredytowej.
+[SPEAKER_00] Są zupełnie te elementy, te czynniki nieczułe na politykę pieniężną.
+[SPEAKER_00] Oczywiście, jeśli kryzys będzie pandemiczny, światowy się rozszerzał, to i ceny ropy naftowej spadną.
+[SPEAKER_00] Jedyne pewne to jest wzrost kar, które praktycznie ponosimy za emisję CO2.
+[SPEAKER_00] To jest jedynie pewne.
+[SPEAKER_00] i wyznaczone w planie działania Unii Europejskiej.
+[SPEAKER_00] Natomiast ze śmieciami, powtarzam, to zależy od efektywności działania władz administracyjnych.
+[SPEAKER_00] A jeśli chodzi o ropę naftową, to ceny zależą w sposób oczywisty od koniunktury.
+[SPEAKER_00] Chciałbym znaleźć się w sytuacji, że Rada Polityki Pieniężnej usiądzie i będzie rozpatrywać po raz pierwszy, dyskutować możliwość podwyższenia stóp procentowych.
+[SPEAKER_00] Bo to znaczy, że była indygoniczna inflacja.
+[SPEAKER_00] z ożywienia gospodarczego, takiego porządnego ożywienia, wzrostu ustabilizowanego.
+[SPEAKER_00] To byłby szczęśliwy bardzo moment.
+[SPEAKER_00] Podwyżka stóp procentowych nie jest smutną okolicznością, negatywną, tylko pozytywną.
+[SPEAKER_00] To znaczy, że gospodarka się szybko rozwija.
+[SPEAKER_00] Natomiast jesteśmy od tego, żeby nie cytować Tarantino, bardzo, bardzo daleko niestety.
+[SPEAKER_01] Kolejne dwa pytania.
+[SPEAKER_01] Pierwsze pana redaktora Michała Żuławińskiego, Bankier.pl.
+[SPEAKER_01] Jak pańskim zdaniem należy interpretować ostatni wzrost rynkowych oczekiwań dotyczących podwyżek stóp?
+[SPEAKER_01] Oraz pytanie pana redaktora Rafała Toszyńskiego, PAP Biznes.
+[SPEAKER_01] Czy rynek ma rację, że do końca 2021 roku stopy pójdą w górę?
+[SPEAKER_01] Jak pan prezes ocenia perspektywy podwyżek w 2022 roku w świetle tego,
+[SPEAKER_01] że rynek wycenia podwyżki do końca 2022 na 80 punktów bazowych stan na środę?
+[SPEAKER_00] – Odpowiadając bardzo zwięźle, rynek nie ma racji.
+[SPEAKER_00] Ale w pewnym sensie nie ma racji.
+[SPEAKER_00] Żeby na rynku zarabiać, potrzebna jest zmienność.
+[SPEAKER_00] Nie da się zarabiać na całkowicie ustabilizowanym rynku.
+[SPEAKER_00] Rynki próbują jakąś tam zmienność znaleźć, lubią zmienność.
+[SPEAKER_00] No i szukają takiej możliwości i spekulują.
+[SPEAKER_00] Z mojego punktu widzenia, powtarzam,
+[SPEAKER_00] nic nie zapowiada tego, żeby stopy procentowe w tym albo w przyszłym roku wzrosły.
+[SPEAKER_00] Inflacja lekko wzrośnie, a potem znowu się obniży i cały czas będziemy w zakresie celu inflacyjnego i tego marginesu, który tam wyznaczyliśmy.
+[SPEAKER_00] Natomiast rynki mogą oczywiście spekulować.
+[SPEAKER_00] Trochę rośną ceny, trochę rośnie inflacja z powodu cen regulowanych i rynki od razu zaczynają się nad tym zastanawiać.
+[SPEAKER_00] Ale nasz mandat jest jednoznaczny.
+[SPEAKER_00] Zapewniamy stabilność cen i ta stabilność cen przez dłuższy jeszcze czas będzie istnieć – wiele, wiele kwartałów.
+[SPEAKER_00] A jednocześnie mamy wspomagać politykę rządu wtedy, kiedy nie jest zagrożona stabilność cen.
+[SPEAKER_00] I my na tym wspieraniu polityki gospodarczej rządu, przezwyciężaniu kryzysu pandemicznego w sferze gospodarki mającej swój refleks, koncentrujemy naszą pracę.
+[SPEAKER_01] Kolejne pytania.
+[SPEAKER_01] Pierwsze pytanie zadane przez panów redaktorów Piotra Skolimowskiego, Wojciecha Moskwę, Bloomberg.
+[SPEAKER_01] Kurs złotego osłabił się od czasu ostatniego posiedzenia… Ja może dodam do tego poprzedniego.
+[SPEAKER_00] Gdybyśmy rozważali podwyżkę, gdybyśmy dokonali podwyżki w tym lub przyszłym roku stóp,
+[SPEAKER_00] na skutek jakichś projekcji nieuzasadnionych dotyczących roku 2023, co byłoby absolutnie niedopuszczalną spekulacją, bo 2023 jest wielką niewiadomą.
+[SPEAKER_00] To byśmy pomnili podobny błąd, jak kiedyś Leszek Balcerowi czy jego koledzy, kiedy zbyt wcześnie zamrozili gospodarkę.
+[SPEAKER_00] Zanim gospodarka zaczęła się rozwijać, to już byśmy podcięli skrzydła pod ten rozwój.
+[SPEAKER_00] I tego błędu ta Rada Polityki Pieniężnej – ręczę Państwu za to – nigdy nie popełni.
+[SPEAKER_00] FED i EBC jasno określiły swoją politykę.
+[SPEAKER_00] My nie będziemy jakimś rarogiem i zachowywać się w inny sposób.
+[SPEAKER_00] Będziemy działać dokładnie tak, jak FED i EBC.
+[SPEAKER_00] Dziękuję.
+[SPEAKER_01] Wracamy zatem do pytań panów redaktorów Piotra Skolimowskiego i Wojciecha Moskwy-Bloomberg.
+[SPEAKER_01] Kurs złotego osłabił się od czasu ostatniego posiedzenia RPP, ale w swoim komunikacie Rada nadal wskazuje na brak wyraźnego i trwalszego dostosowania kursu.
+[SPEAKER_01] Czy należy odbierać to jako sygnał, że RPP wciąż uważa obecny kurs złotego za nieodzwierciedlający fundamentów gospodarki?
+[SPEAKER_01] Jeśli nie, to czemu NBP dotychczas nie zdecydowało się skorzystać w tym roku z interwencji walutowych?
+[SPEAKER_01] Pytanie Pana Rafała Tuszyńskiego, PAP Biznes.
+[SPEAKER_01] W kontekście komunikatów RPP i groźby interwencji walutowej, jak Pan Prezes ocenia obecnie stan na środę poziomy złotego w okolicy 4,55 w stosunku do euro?
+[SPEAKER_01] Jak kształtuje się kurs walutowy w horyzoncie najnowszej projekcji w poszczególnych latach?
+[SPEAKER_01] Oraz pytanie Pani redaktor Renaty Oliarz, ISB News.
+[SPEAKER_01] Czy prowadzone od grudnia ubiegłego roku interwencje na rynku walutowym ograniczyły ryzyko procyklicznego umocnienia złotego?
+[SPEAKER_01] Czy kolejne interwencje na Forexie są w perspektywie?
+[SPEAKER_00] Jak Państwo wiedzą, w Polsce przyjęliśmy politykę płynnego kursu.
+[SPEAKER_00] Kurs złotego jest całkowicie płynny.
+[SPEAKER_00] Dobrą polityką, dobrą metodą postępowania jest to, że nie komentujemy bieżących poziomów kursu, ani prognoz dotyczących kursu żadnych nie przedstawiamy publicznie.
+[SPEAKER_00] Możemy to robić na własny użytek.
+[SPEAKER_00] Natomiast podtrzymujemy stanowisko, że umocnienie złotego byłoby w obecnej sytuacji gospodarczej bardzo niepożądane.
+[SPEAKER_00] Działoby procyklicznie, osłabiałoby skalę, tempo odbudowy gospodarki po kryzysie.
+[SPEAKER_00] Natomiast dzisiaj gospodarka potrzebuje akomodacyjnej polityki pieniężnej.
+[SPEAKER_00] Utrzymujemy w związku z tym niskie stopy, prowadzimy skup obligacji.
+[SPEAKER_00] Ewentualnie umocnienie kursu, tak jak tłumaczyliśmy to przy poprzedniej interwencji, szłoby w przeciwnym kierunku do prowadzonych przez nas działań.
+[SPEAKER_00] Dlatego interwencje muszą być starannie wyważone i dokonywane w odpowiednim momencie.
+[SPEAKER_00] Dotychczasowe interwencje walutowe NBP były do tej pory zawsze skuteczne.
+[SPEAKER_00] Podtrzymujemy całkowicie gotowość do dalszych działań w tym zakresie.
+[SPEAKER_00] Natomiast jeśli chodzi o terminy, skalę interwencji, to jest uzależnione od warunków rynkowych i tego nie będziemy tłumaczyć.
+[SPEAKER_01] Przed nami kolejne dwa pytania.
+[SPEAKER_01] Pierwsze Piotr Skolimowski, Wojciech Moskwa, Bloomberg.
+[SPEAKER_01] W niedawnym artykule na łamach Gazety Bankowej prof. Eugeniusz Gatnar stwierdził, że koncepcja umorzenia obligacji rządowych będących w posiadaniu banków centralnych
+[SPEAKER_01] wydaje się jedynym rozwiązaniem problemu ogromnych długów publicznych na świecie.
+[SPEAKER_01] Jaka jest Pańska opinia na ten temat?
+[SPEAKER_01] Czy widzi Pan szansę, aby NBP rozważyło możliwości takiej operacji w przyszłości i jak miałaby ona
+[SPEAKER_01] wyglądać.
+[SPEAKER_01] Oraz pytanie pana redaktora Marcina Tronowicza w gospodarce.pl.
+[SPEAKER_01] Profesor Eugeniusz Gatnar pisze w marcowym numerze Gazety Bankowej, że koncepcja umorzenia obligacji rządowych będących w posiadaniu banków centralnych wydaje się jedynym rozwiązaniem problemu ogromnych długów publicznych na świecie.
+[SPEAKER_01] Jaka jest opinia prezesa NBP w tej sprawie?
+[SPEAKER_00] – Przypomnę, że pani Lagardier dostarcznie się w tej kwestii wypowiedziała.
+[SPEAKER_00] grupa około stu ekonomistów, kto się mówi lewicowych, czy takich interwencjonistycznych, taki pomysł publicznie i autorów różnych modnych książek taki pomysł przedstawiło.
+[SPEAKER_00] Pani Lagartsi jednoznacznie w tej kwestii wypowiedziała.
+[SPEAKER_00] Burzyłoby to oczywiście całkowicie dotychczasowy sposób postępowania, zasady udzielania kredytów, zasady, że długi się spłaca itd.
+[SPEAKER_00] Ale chciałem zwrócić uwagę na coś innego, bo to nie jest nasz problem.
+[SPEAKER_00] Nie ma żadnego problemu z nadmiernym długiem publicznym.
+[SPEAKER_00] A już w szczególności w Polsce.
+[SPEAKER_00] W Polsce nie mamy żadnego problemu długu publicznego.
+[SPEAKER_00] Ten problem nie występuje w ogóle.
+[SPEAKER_00] Ani teraz, ani nie wystąpi w przewidywalnej przyszłości.
+[SPEAKER_00] Prowadzimy racjonalną, konserwatywną politykę w tym zakresie.
+[SPEAKER_00] Wszystkie instytucje międzynarodowe, Komisja Europejska,
+[SPEAKER_00] międzynarodowy fundusz walutowy itd.
+[SPEAKER_00] Stwierdzają jednoznacznie, że Polska wyróżnia się jedną z najlepszych sytuacji fiskalnych w Europie.
+[SPEAKER_00] Jeśli chodzi o kraje naszej wielkości, to poza Niemcami mamy wyjątkowo najlepszą sytuację fiskalną, budżetową w Europie.
+[SPEAKER_00] Nasze zadłużenie jest bardzo małe, a nasze zadłużenie zagraniczne niesłychanie małe.
+[SPEAKER_00] Na razie prawo europejskie nie pozwala na takie umarzanie.
+[SPEAKER_00] Natomiast powstaje takie teoretyczne pytanie – gdyby to się stało możliwe, co absolutnie tego nie przypuszczam, to byłaby kwestia wtedy zaufania do krajowego pieniądza.
+[SPEAKER_00] Osobiście dziwię się, że prof. Gatnar odniósł się w ogóle do takiego pomysłu publicznie,
+[SPEAKER_00] Nie wydaje się to ani rozsądne, ani potrzebne, ani uzasadnione.
+[SPEAKER_01] Przeda mi kolejne trzy pytania.
+[SPEAKER_01] Pierwsze – redaktora Bartosza Bednarza, Interia.pl.
+[SPEAKER_01] Czy wzrost cen nieruchomości nie wskazuje na konieczność uwzględnienia ich przy podejmowaniu decyzji w polityce monetarnej?
+[SPEAKER_01] Pytanie redaktora Michała Żuławińskiego, Bankier.pl.
+[SPEAKER_01] Nowozelandzki Bank Centralny przy prowadzeniu polityki monetarnej będzie brał pod uwagę sytuację na rynku mieszkaniowym.
+[SPEAKER_01] Czy uważa Pan, że to słuszny kierunek?
+[SPEAKER_01] i podobnie jak wprowadzony w Nowej Zelandii w 1990 roku bezpośredni cel inflacyjny, może być to trend, który rozleje się po świecie bankowości centralnej.
+[SPEAKER_01] Oraz pytanie pana redaktora Bartosza Bednarza, Interia.pl.
+[SPEAKER_01] Czy polityka monetarna prowadzona przez NBP nie przyczynia się do napędzania cen na rynku nieruchomości?
+[SPEAKER_01] Proszę bardzo.
+[SPEAKER_00] Oczywiście polityka pieniężna prowadzona przez Narodowy Bank Polski, jak i każdy bank centralny, oddziaływuje na aktywność.
+[SPEAKER_00] Taki jest jej cel i procesy cenowe w całej gospodarce.
+[SPEAKER_00] Także na rynku nieruchomości.
+[SPEAKER_00] Głównym celem tej polityki jest stabilność cen.
+[SPEAKER_00] Ta stabilność rozumiana jako inflacja cen konsumenta zgodna ze średniookresowym celem banku centralnego.
+[SPEAKER_00] Chociaż tym celem nie jest zero.
+[SPEAKER_00] Nie jest inflacja zerowa.
+[SPEAKER_00] We wszystkich krajach rozwiniętych to jest około 2%.
+[SPEAKER_00] Jednocześnie naszym zadaniem
+[SPEAKER_00] Jeśli jest spełniony pierwszy warunek, jak Państwo wiedzą, jest wspieranie polityki gospodarczej rządu.
+[SPEAKER_00] Jak stabilność cen jest zapewniona, nie jest zagrożona, to mamy wspierać wzrost gospodarczy i ograniczać bezrobocie.
+[SPEAKER_00] I to robimy.
+[SPEAKER_00] Z powodzeniem i z wielkim sukcesem.
+[SPEAKER_00] Przypomnę, według wczorajszych danych Komisji Europejskiej Polska ma najniższe bezrobocie w Europie.
+[SPEAKER_00] Najniższe bezrobocie w Europie.
+[SPEAKER_00] W zeszłym roku w reakcji na szok pandemiczny złagodziliśmy politykę pieniężną, co było oczywistym działaniem.
+[SPEAKER_00] To było niezbędne, żeby ograniczać koszty gospodarcze pandemii, ożywić koniunkturę.
+[SPEAKER_00] Nie ma wątpliwości, że podjęte przez NBP działania były skuteczne.
+[SPEAKER_00] przyniosły zamierzony skutek.
+[SPEAKER_00] Działaliśmy najszybciej, jak tylko można i na skalę największą, jaka była możliwa.
+[SPEAKER_00] Co i Międzynarodowy Fundusz Walutowy i wszystkie inne instytucje międzynarodowe, Europejski Bank Centralny i wszystkie inne instytucje podkreślają.
+[SPEAKER_00] Jeśli chodzi o nieruchomości mieszkaniowe, monitorujemy starannie aktywność i ceny na tym rynku, wydajemy specjalne raporty określowe w tym zakresie.
+[SPEAKER_00] Ta aktywność rzeczywiście pozostaje wysoka, choć w zeszłym roku było na tym rynku przejściowe osłabienie.
+[SPEAKER_00] Ceny nadal rosną, choć proszę pamiętać, że jednocześnie rosną też cały czas dochody.
+[SPEAKER_00] W trakcie kryzysu dochody cały czas także dynamicznie rosły.
+[SPEAKER_00] Na świecie i w Polsce dominuje pogląd, że polityka stopy procentowej nie jest właściwym instrumentem, który powinien być używany do wpływania do sytuacji na rynku nieruchomości.
+[SPEAKER_00] Gdyby w Polsce pojawiało się ryzyko makroekonomiczne związane ze wzrostem cen nieruchomości, to właściwą reakcją, która już kiedyś miała miejsce, byłoby zastosowanie instrumentów makroostrożnościowych.
+[SPEAKER_00] kompetencji Komitetu Stabilności Finansowej.
+[SPEAKER_00] Jako przewodniczący Komitetu Stabilności Finansowej, reprezentujący i zawierający w sobie cztery podstawowe instytucje regulujące rynki finansowe, podejmiemy wtedy, jeśli będzie taka potrzeba, odpowiednie działania z zakresu właśnie tych instrumentów, które
+[SPEAKER_00] w swoim posiadaniu mają te instytucje.
+[SPEAKER_00] Natomiast nie jest to stopa procentowa.
+[SPEAKER_00] Stopa procentowa reguluje aktywność makroekonomiczną.
+[SPEAKER_01] Kolejne pytanie od pana redaktora Marka Chądzyńskiego, Dziennik Gazeta Prawna.
+[SPEAKER_01] Z czego będzie wynikał duży wzrost inflacji, jaki ma nastąpić według najnowszej projekcji NBP w tym roku?
+[SPEAKER_01] Czy szybki wzrost cen w połączeniu z zakładanym mocnym odbiciem w gospodarce będzie skłaniał bank centralny do zaostrzenia polityki pieniężnej?
+[SPEAKER_01] W szczególności, czy NBP rozważa już zakończenie programu skupu obligacji Skarbu Państwa i gwarantowanych przez Skarb Państwa?
+[SPEAKER_01] Proszę bardzo.
+[SPEAKER_00] Pierwszą część tego pytania już odpowiadałem.
+[SPEAKER_00] Nie przewidujemy wzrostu cen jakiegoś szczególnego.
+[SPEAKER_00] To są wszystko niewielkie wzrosty cen, wynikające z czynników zewnętrznych.
+[SPEAKER_00] Przypominam – ropa naftowa, regulacje europejskie, a z krajowych może te śmieci.
+[SPEAKER_00] W drugiej części roku przewidujemy odbicie aktywności.
+[SPEAKER_00] Żeby to nastąpiło, musimy wspierać polską gospodarkę.
+[SPEAKER_00] Bardzo mocno wspierać.
+[SPEAKER_00] Zapewniać właściwe finansowanie wszystkim podmiotom.
+[SPEAKER_00] o zakończeniu skupu obligacji.
+[SPEAKER_00] W związku z tym nie ma absolutnie mowy.
+[SPEAKER_00] Podkreślaliśmy to, że rozpoczęliśmy tę akcję i nie kończymy.
+[SPEAKER_00] Zakres tego skupu zależy od wielu różnych czynników, między innymi od podaży.
+[SPEAKER_00] W tym kontekście warto zwrócić uwagę na to, co przyciąga Państwa uwagę – obserwatorów rynków – wzrost rentowności obligacji skarbowych, który w tym kontekście następuje.
+[SPEAKER_00] To jest właśnie efekt optymistycznej oceny perspektyw gospodarki światowej przez rynki finansowe.
+[SPEAKER_00] Ten optymizm właśnie powoduje podbicie rentowności w strefie euro w Stanach Zjednoczonych.
+[SPEAKER_00] gospodarkach rozwiniętych i w krajach regionu Europy Środkowej.
+[SPEAKER_00] Niektóre banki centralne odniosły się do tych wzrostów w komunikacji, zaznaczając swoją determinację do utrzymania łagodnych warunków finansowych.
+[SPEAKER_00] My też obserwujemy oczywiście zmiany tych rentowności polskich obligacji.
+[SPEAKER_00] Nadal one są bardzo małe przecież, niskie.
+[SPEAKER_00] Jak wskazujemy w naszym komunikacie od wielu miesięcy, będziemy dostosowywać terminy, skale prowadzonych operacji skupu do warunków rynkowych.
+[SPEAKER_00] W skrócie odpowiedź brzmi – nie, nie zakończyliśmy operacji skupu.
+[SPEAKER_00] Cały czas obserwujemy rynek, są przetargi i na tych przetargach wszystko jest możliwe.
+[SPEAKER_01] – Pytanie pana redaktora Rafała Tuszyńskiego, PAP Biznes.
+[SPEAKER_01] Jakie są według NBP koszty przewalutowania kredytów frankowych w różnych scenariuszach?
+[SPEAKER_00] – UKNF 2 marca opublikował informacje na temat potencjalnego wpływu różnych scenariuszy dotyczących ugód, rozstrzygnięć sądowych, spraw kredytów mieszkaniowych powiązanych z kursem franka.
+[SPEAKER_00] Nasze wewnętrzne pracowania prowadzą do zbliżonych, choć nie takich samych wyników, ale nie należy się przywiązywać do tych liczb.
+[SPEAKER_00] To wszystko zależy, ile będzie tych ugód, ile będzie spraw sądowych itd.
+[SPEAKER_00] To są szacunki.
+[SPEAKER_01] Piotr Skolimowski, Wojciech Moskwa, Bloomberg.
+[SPEAKER_01] Jak na obecnym etapie ocenia Pan szansę wypracowania przez banki systemowego rozwiązania problemu walutowych kredytów mieszkaniowych?
+[SPEAKER_01] Czy sytuacja uległa zmianie od czasu ostatniego komunikatu z 25 lutego, gdzie NBP wskazuje na brak informacji ze strony sektora co do spełnienia przedstawionych przez niego warunków brzegowych?
+[SPEAKER_00] Chciałem zacząć od tego, że wbrew tej lawinie pytań, które otrzymuję i treści różnych artykułów zamieszczanych ostatnio w prasie, NBP – podkreślę to mocno – Narodowy Bank Polski nie jest gospodarzem tego problemu, tego zagadnienia.
+[SPEAKER_00] powtórzę jeszcze raz – NBP nie jest gospodarzem tego problemu.
+[SPEAKER_00] Proszę swoje pytania i dociekania kierować pod adresem Komisji Nadzoru Finansowego i pod adresem tych banków, które publicznie mówią o tym, czy chciałyby coś takiego robić, czyli w szczególności PKO BP.
+[SPEAKER_00] Natomiast my nic na ten temat nie wiemy.
+[SPEAKER_00] My mamy swoje wyliczenia dotyczące rynku bankowego, dotyczące sektora bankowego.
+[SPEAKER_00] Natomiast powtórzę to jeszcze raz, bo jakoś słabo to wybrzmiało i państwo nie chcą tego uparcie wziąć pod uwagę.
+[SPEAKER_00] Ja do tej pory nie otrzymałem od przewodniczącego Komisji Nadzoru Finansowego, w którym jestem w bardzo dobrych relacjach skądinąd, maila, który by prezentował tę koncepcję, a nie listu, który by prezentował tę koncepcję zarządowi NBP albo mnie.
+[SPEAKER_00] Co więcej, nawet telefonu nie otrzymałem, w którym by była o tym mowa.
+[SPEAKER_00] Także ta cała rozmowa dla nas jest bardzo abstrakcyjna.
+[SPEAKER_00] My możemy oceniać różne koncepcje, ale wtedy, kiedy one leżą na stole i tam jest coś konkretnego.
+[SPEAKER_00] Tak ogólnie powiedzieć, że dobrze by było, gdyby te kredyty się zamieniły na złote, dobrowolnie, to fajnie by było, jakby tak było.
+[SPEAKER_00] Jakby wszyscy byli młodzi i zdrowi i szczęśliwi w miłości.
+[SPEAKER_00] To byłoby bardzo fajnie, bardzo dobrze, ale to przecież jest szalenie skomplikowany problem.
+[SPEAKER_00] Wydaje się w ogóle w tej chwili, że tak zdecydowanie zainteresowany w tym to jest tylko jeden bank.
+[SPEAKER_00] Z tych, które mają jakieś pakiety liczące się kredytów frankowych.
+[SPEAKER_00] Także ja się na ten temat już nie będę więcej wypowiadał.
+[SPEAKER_00] Powiem tylko tyle.
+[SPEAKER_00] Nie jestem gospodarzem, nie jesteśmy jako Narodowy Bank Polski gospodarzem tego
+[SPEAKER_00] i nie otrzymaliśmy go, nie mamy przed sobą projektu, który moglibyśmy sobie ocenić.
+[SPEAKER_00] Jesteśmy w gotowości, żeby pomóc rozwiązać ten problem, jeśli przyjdzie na to czas, jeśli będzie jakiś projekt.
+[SPEAKER_00] Natomiast tego projektu nie ma.
+[SPEAKER_00] Przypominam, że to nie są decyzje samych zarządów banków komercyjnych, to są decyzje ich właścicieli.
+[SPEAKER_00] Do tego w ogóle bardzo daleko.
+[SPEAKER_00] Żadni właściciele banków się nie wypowiedzieli na ten temat.
+[SPEAKER_00] Wszyscy czekają po prostu na decyzję Sądu Najwyższego Izby Cywilnej 25 marca, jeśli wtedy ta decyzja będzie podjęta.
+[SPEAKER_00] jaka ta decyzja będzie i jak będzie uzasadniona.
+[SPEAKER_00] Wtedy możemy porozmawiać.
+[SPEAKER_00] Wtedy może banki się zbiorą, przedstawią jakąś propozycję.
+[SPEAKER_00] My przedstawiliśmy, proszę Państwa, dwukrotnie Narodowy Bank Polski, chociaż nie było żadnych powodów, żebyśmy to robili.
+[SPEAKER_00] 9 lutego i 25 lutego dwukrotnie.
+[SPEAKER_00] przedstawiliśmy publicznie poprzez Polską Agencję Prasową warunki brzegowe zaangażowania się NBP w rozwiązywanie tego problemu.
+[SPEAKER_00] Pięć warunków, z których pierwszy i oczywisty jest taki, że rozwiązanie obejmuje większość tych kredytów.
+[SPEAKER_00] Nic na ten temat nie wiem, żeby ktokolwiek się podjął spełnienia chociaż jednego z tych warunków i w ogóle się odniósł merytorycznie do tej kwestii.
+[SPEAKER_00] Tak że Narodowy Bank Polski nie ma powodu, żeby się na ten temat wypowiadać.
+[SPEAKER_01] Dobrze.
+[SPEAKER_01] Kolejne pytanie.
+[SPEAKER_01] To jest pytanie pana redaktora Roberta Litke, Alebank.pl.
+[SPEAKER_01] Czy zdaniem pana prezesa celowa byłaby modyfikacja podatku bankowego tak, aby jego pobór był zawieszony w przypadku kredytów udzielonych przedsiębiorstwom dotkniętym skutkami pandemii?
+[SPEAKER_01] Kredytów inwestycyjnych dla startupów, firm inwestujących w nowe technologie, przemiany cyfrowe, inwestycje w zieloną energetykę.
+[SPEAKER_00] – Szanowni Państwo, to jest pytanie do prezesa NBP.
+[SPEAKER_00] Jako prezes, jako osoba, jako Adam Glapiński mam pogląd oczywiście na te sprawy i w momencie podejmowania decyzji o wprowadzeniu tego podatku i jego charakteru itd.
+[SPEAKER_00] Ale to nie ma znaczenia, jaki ja mam pogląd.
+[SPEAKER_00] Polityka podatkowa znajduje się całkowicie poza kompetencjami Narodowego Banku Polskiego.
+[SPEAKER_00] I my na temat polityki podatkowej – powtarzam stanowczo – nigdy się nie będziemy wypowiadać.
+[SPEAKER_00] Tak jak rząd nigdy się nie będzie wypowiadał przecież o polityce pieniężno-kredytowej prowadzonej przez bank centralny.
+[SPEAKER_00] To po prostu zasady prawa.
+[SPEAKER_01] – Także pytanie pana redaktora Roberta Litke, alebank.pl.
+[SPEAKER_01] Czy zdaniem pana prezesa jest wskazane, aby banki namawiały klientów na zaciąganie kredytów mieszkaniowych ze stałą stopą procentową np. na 5 lat lub na zmianę obecnych umów kredytowych ze stopą zmienną na umowy ze stopą stałą?
+[SPEAKER_00] – Proszę państwa, ta dyskusja się toczy już tyle lat, że nawet już nie pamiętam.
+[SPEAKER_00] Chyba byłem jeszcze młody wtedy, kiedy ta dyskusja już trwała.
+[SPEAKER_00] Oczywiście nie ma żadnego powodu, że banki nie proponowały i proponują zresztą, z tego co wiem, niektóre przecież, kredytów ze stałym oprocentowaniem, ale nie ma żadnych szczególnych przewag tego stałego oprocentowania.
+[SPEAKER_00] To nie jest tańszy kredyt czy łatwiejszy dla klientów.
+[SPEAKER_00] Nie ma czegoś takiego jak stała procentowa na zawsze.
+[SPEAKER_00] Ta stopa procentowa jest stała przez kilka lat, a później musi być urealniona, bo inaczej banki by do tego musiały
+[SPEAKER_00] dokładać.
+[SPEAKER_00] Ryzyko byłoby zbyt dużo.
+[SPEAKER_00] Także kredytobiorcy nadal byliby narażeni na ryzyko wzrostu rat, tylko co jakiś czas, ale za to gwałtowniej, np. co 5 lat.
+[SPEAKER_00] Nie wiem, czy woleliby takie rozwiązanie.
+[SPEAKER_00] Ale takie kredyty jak najbardziej powinny być oferowane i są oferowane.
+[SPEAKER_00] To raczej w podtekście tego pytania
+[SPEAKER_00] Nie wiem, dlaczego się unika tego postawienia wprost.
+[SPEAKER_00] Jest mowa o tym, że może sugestie, że państwo powinno w jakiś sposób stabilizować te kredyty, dofinansowywać itd.
+[SPEAKER_00] To jest zupełnie inna kwestia.
+[SPEAKER_00] Ja o niej w tej chwili nie będę mówił.
+[SPEAKER_01] Przed nami trzy kolejne pytania.
+[SPEAKER_01] Piotr Skolimowski, Wojciech Moskwa, Bloomberg.
+[SPEAKER_01] Zakładając, że warunki zostaną jednak przez banki spełnione, jak konkretnie miałoby wyglądać zaangażowanie NBP w procesie?
+[SPEAKER_01] Czy mówimy o wykorzystaniu rezerw walutowych, uruchomieniu linii swapowej z Bankiem Szwajcarii?
+[SPEAKER_01] Pytanie pani Renaty Oliasz, ISB News.
+[SPEAKER_01] Na czym będzie polegało uczestnictwo w NBP w przewalutowaniu kredytów frankowych na złoty?
+[SPEAKER_01] Gdyby NBP zgodził się użyć swoich rezerw do wymiany złotych na euro poza rynkiem, czy pozwoliłoby to uniknąć destabilizującej presji na osłabienie złotego?
+[SPEAKER_01] Pytanie pana redaktora Macieja Rutke, Rzeczpospolita.
+[SPEAKER_01] Banki wstrzymują się z podjęciem decyzji o uruchomieniu ugód dla frankowiczów.
+[SPEAKER_01] Jak prezes NBP ocenia przygotowanie banków do zaoferowania porozumień klientom?
+[SPEAKER_01] Czy oczekuje przyspieszenia prac i podejmowania bardziej zdecydowanych działań?
+[SPEAKER_01] Czy NBP podtrzymuje gotowość do wsparcia banków przy przewalutowaniu?
+[SPEAKER_00] Proszę Państwa, to są dalej pytania, jakby nie do mnie.
+[SPEAKER_00] My nic nie wiemy na temat jakiegokolwiek porozumienia czy pomysłu konkretnie tych ugód.
+[SPEAKER_00] Spracowaliśmy pięć warunków brzegowych.
+[SPEAKER_00] Proszę starannie się tym warunkom brzegowym przyjrzeć.
+[SPEAKER_00] Możemy się w to zaangażować wyłącznie, jeśli to będzie obejmowało większość kredytów.
+[SPEAKER_00] Może bardziej powinienem brutalnie powiedzieć.
+[SPEAKER_00] NBP w żadnym wypadku nie może się zaangażować i swoich rezerw zaangażować
+[SPEAKER_00] kursu wymiany czy wejście w posiadanie, w podstawienie franków dla jednego banku na przykład.
+[SPEAKER_00] Bo to byłoby jaskrawe łamanie zasady nieudzielania pomocy publicznej w Unii Europejskiej i byłoby nie fair wobec wszystkich innych banków.
+[SPEAKER_00] W tej chwili, tak mówiąc wprost, to ja widzę tylko jeden bank zainteresowany zamianą kredytów frankowych na złotowy.
+[SPEAKER_00] Taka jest sytuacja.
+[SPEAKER_00] Proszę spojrzeć na tych pięć naszych warunków i wtedy Państwo będą mieli odpowiedź na to pytanie.
+[SPEAKER_00] My możemy także rezerwy używać w stosunku do stabilizacji całego sektora.
+[SPEAKER_00] sektora bankowego, w interesie makroekonomicznym, w interesie całego społeczeństwa.
+[SPEAKER_00] A nasze rezerwy nie są do dyspozycji poszczególnych banków po to, żeby wzmocnić ich sytuację konkurencyjną względem innych banków, które w to nie wchodzą.
+[SPEAKER_01] Kolejne dwa pytania.
+[SPEAKER_01] Pana redaktora Bartosza Bednarza z interia.pl.
+[SPEAKER_01] Proszę o komentarz odnośnie do wzrostu stawki Vibor 3M na grudzień 2022.
+[SPEAKER_01] Do kiedy jest ważna oferta NBP dla banków związana z kredytami walutowymi?
+[SPEAKER_00] Nie ma żadnej oferty NBP.
+[SPEAKER_00] My odpowiedzieliśmy na jakieś ogólnie formułowane publicznie pytania.
+[SPEAKER_00] czy NBP może w jakiejś sytuacji konkretnej wspomóc ten proces.
+[SPEAKER_00] Sformułowaliśmy pięć warunków.
+[SPEAKER_00] Kiedy banki spełnią te warunki, to już od nich zależy, czy teraz, czy za rok, czy za dwa.
+[SPEAKER_00] Nie ma żadnej granicy.
+[SPEAKER_00] My swoje ustawowe zadania wypełniamy zawsze, kiedy to jest potrzebne.
+[SPEAKER_01] Pytanie pana redaktora Macieja Wojtaszka, bsnet.pl.
+[SPEAKER_01] Niski poziom stóp procentowych powoduje dla sektora banków spółdzielczych praktycznie zerową lub wręcz ujemną rentowność.
+[SPEAKER_01] na udzielonych rolnikom kredytach preferencyjnych.
+[SPEAKER_01] Czy NBP dostrzega ten problem i jakie mogą być konsekwencje jego nierozwiązania dla systemu bankowego?
+[SPEAKER_01] Maciej Wojtaszek, BS.net.pl.
+[SPEAKER_00] – Oczywiście dostrzegamy ten problem, ale ten problem analizujemy na poziomie Komitetu Stabilności Finansowej.
+[SPEAKER_00] Dyskutujemy ten problem.
+[SPEAKER_00] W ramach oceny sektora banków współdzielczy się temu przyglądamy.
+[SPEAKER_00] Nie w NBP.
+[SPEAKER_01] Pytanie pana redaktora Pawła Florkiewicza, Reuters.
+[SPEAKER_01] Banki czekają na werdykt Sądu Najwyższego dotyczący hipotek frankowych.
+[SPEAKER_01] Czy gdyby okazało się, że spowodowałby on konieczność ponoszenia przez banki znacznych kosztów, to czy NBP jest gotowy na udzielenie sektorowi pomocy?
+[SPEAKER_01] W jaki sposób i na jakich zasadach?
+[SPEAKER_00] powiem, na ile oceniam prawdopodobieństwo, że banki wysuną razem te banki, które posiadają ten problem frankowy, które posiadają te duże pakiety kredytów frankowych, że banki przedstawią razem jedną propozycję ugód.
+[SPEAKER_00] Podobnie jak oceniam szanse na prawdopodobieństwo wzrostu stóp procentowych do końca tej Rady Polityki Pieniężnej – 0, jakaś tam cyfra.
+[SPEAKER_00] się pojawia.
+[SPEAKER_00] Nie sądzę, żeby te banki w tak różnej sytuacji – już o tym dużo mówiłem – doszły do jakiegoś porozumienia.
+[SPEAKER_00] Natomiast jeśli chodzi o sytuację po wyroku Izby Cywilnej.
+[SPEAKER_00] Nie mam pojęcia, jaki ten wyrok może być.
+[SPEAKER_00] Nie wiem, czy ktoś ma pojęcie.
+[SPEAKER_00] To będzie posiedzenie w pełnym składzie.
+[SPEAKER_00] Bardzo trudny problem, bardzo złożony i nie mam pojęcia, jaki będzie ten wyrok.
+[SPEAKER_00] Natomiast chciałem podkreślić, że sektor bankowy w Polsce posiada bardzo, bardzo wysokie bufory kapitałowe.
+[SPEAKER_00] Między innymi dzięki rekomendacjom właśnie Komitetu Stabilności Finansowej, który wprowadził dodatkowe wymogi z tytułu kredytów walutowych.
+[SPEAKER_00] To było bardzo mądre i słuszne działanie.
+[SPEAKER_00] miażdżąca większość banków jest w stanie zaobserwować nawet wysokie, bardzo wysokie potencjalne koszty, wielomiliardowe koszty.
+[SPEAKER_00] Większość banków jest w stanie to zaobserwować, co nie znaczy, że wszystkie.
+[SPEAKER_00] Jeden bank nie będzie w stanie, jeden bank będzie miał z tym pewne kłopoty, ale sobie da radę itd., itd., w zależności od tego, jaki koszt będzie z tej decyzji wynikał.
+[SPEAKER_00] Ta cała harmonia kosztów możliwych, która jest możliwa, wyliczona przez Urząd Komisji Nadzoru Finansowego, którą w dużej mierze się pokrywa z naszymi szacunkami, to pokazuje, że te koszty przecież są od 35 miliardów do 200.
+[SPEAKER_00] Jakoś w tym zakresie to się mieści.
+[SPEAKER_00] Na pewno 35 miliardów jest, na pewno 200 nie jest, ale poczekamy, do 25 nie jest tak daleko.
+[SPEAKER_01] Maciej Rutke, Rzeczpospolita.
+[SPEAKER_01] Czy Izba Cywilna Sądu Najwyższego zwróciła się do NBP z prośbą o analizę wpływu różnych scenariuszy dotyczących rozwiązania problemu frankowego?
+[SPEAKER_01] Czy NBP przedstawił Sądowi Najwyższemu takie opracowanie?
+[SPEAKER_00] Powtarzałem to wielokrotnie na poprzedniej konferencji też.
+[SPEAKER_00] Ani NBP, ani KSFM przewodnicze nie mają żadnych podstaw prawnych do występowania do Sądu Najwyższego z własnej inicjatywy.
+[SPEAKER_00] Takie występowanie byłoby niewłaściwe i mogłoby być posądzone o to, że próbujemy wywrzeć nacisk na sąd.
+[SPEAKER_00] Podobnie Izba Cywilna Sądu Najwyższego nie wystosowało do nas żadnej prośby o udostępnienie analiz, scenariuszy z tym związanych.
+[SPEAKER_00] Natomiast Rzecznik Sądu Najwyższego przedstawił publicznie opinię, że Sąd Najwyższy, podobnie jak my z innej strony, nie ma również żadnych podstaw prawnych, by występować do NBP lub KSF o wydanie opinii.
+[SPEAKER_00] To zamyka całkowicie sprawę.
+[SPEAKER_00] Nie ma co do tego wracać.
+[SPEAKER_01] Pozostajemy w tej samej tematyce.
+[SPEAKER_01] Także pan redaktor Maciej Rutke, Rzeczpospolita.
+[SPEAKER_01] Możliwa jest sytuacja, że ugody po uchwale Sądu Najwyższego zaplanowanej na 25 marca staną się mniej atrakcyjne dla klientów.
+[SPEAKER_01] Czy zdaniem prezesa NBP konieczne jest jakieś inne rozwiązanie lub modyfikacja warunków ugód?
+[SPEAKER_01] Czy jednak można pozwolić sprawom biec swoim rytmem i niech spór rozstrzygają sądy?
+[SPEAKER_00] Proszę Państwa, ja mam swój pogląd na ten temat, ale przecież nie będę go
+[SPEAKER_00] i mogę tylko powtórzyć – Narodowy Bank Polski nie jest inicjatorem tej dyskusji teraz.
+[SPEAKER_00] Nie jest uczestnikiem procesu przygotowywania ugód.
+[SPEAKER_00] Wbrew błędnym informacjom czy przeinaczonym informacjom podawanym przez niektóre media, przedstawiciel NBP nie uczestniczył, nie uczestniczy i nie będzie uczestniczył w żadnym procesie przygotowywania ugód.
+[SPEAKER_00] na pierwszych dwóch posiedzeniach różnych gremiów, które się zmieniają, mieliśmy obserwatora, ale go wycofaliśmy właśnie, żeby nie powstawały takie nieporozumienia.
+[SPEAKER_00] Nie uczestniczymy w żadnym procesie przygotowywania, nie jesteśmy konsultowani w tej kwestii, nie mamy zdania, nie jesteśmy inicjatorem, nie zostaliśmy poinformowani, że takie coś się szykuje, że taki proces dyskusyjny się szykuje i nie uczestniczymy w nim i nie będziemy uczestniczyć.
+[SPEAKER_00] Tylko od banków zależy, jakie propozycje przedstawią kredytobiorcom, a w szczególności to, jak będą atrakcyjne te propozycje dla kredytobiorców.
+[SPEAKER_00] Natomiast z drugiej strony, bo jest ta druga strona, proszę pamiętać, ja się wypowiadam w imieniu wszystkich kredytobiorców i wszystkich banków, podkreślam, a nie z punktu widzenia jednego rodzaju kredytobiorców i jednego banku, czy jednej grupy banków.
+[SPEAKER_00] dla kredytobiorców walutowych, z naszego punktu widzenia, nie powinny stawiać ich też w uprzywilejowanej pozycji wobec kredytobiorców złotowych.
+[SPEAKER_00] Źle by było, gdyby przyjęto rozwiązania, które by powodowały u kredytobiorców złotowych poczucie krzywdy czy niesprawiedliwości związane z tym, że znaleźli się nagle w o wiele gorszej sytuacji.
+[SPEAKER_01] Pytanie pana redaktora Łukasza Wilkowicza, Dziennik Gazeta Prawna.
+[SPEAKER_01] Czy można poprosić pana prezesa o ocenę dotyczącą konsekwencji spodziewanych rozstrzygnięć Izby Cywilnej Stanu Najwyższego dla stabilności naszego systemu finansowego?
+[SPEAKER_01] Jeśli nie dziś, to czy ze strony NBP można spodziewać się publicznej informacji w tym zakresie przed 25 marca?
+[SPEAKER_00] Na pewno przed 25 marca nic nie może być publicznie przedstawiane.
+[SPEAKER_00] że zerowe prawdopodobieństwo, że banki dojdą do jakiegoś porozumienia przed wyrokiem Sądu Najwyższego, bo to byłoby absolutnie z ich punktu widzenia nieracjonalne i niemądre po prostu.
+[SPEAKER_00] Natomiast ten wyrok wpłynie oczywiście na ujednolicenie linii orzeczniczej sądów powszechnych.
+[SPEAKER_00] Chociaż te sądy nadal będą całkowicie niezależnie podejmować swoje decyzje.
+[SPEAKER_00] Być może wpłynie to na przyspieszenie postępowań sądowych.
+[SPEAKER_00] Na pewno z naszego punktu widzenia jest istotne to, że spodziewamy się zmniejszenia niepewności w tym zakresie, a niepewność nie służy żadnej działalności gospodarczej.
+[SPEAKER_00] W tym wypadku banków niepewności, niepewności klientów.
+[SPEAKER_00] Banki zyskają uprawdopodobnioną, o wiele bardziej niż obecnie, podstawy do szacowania ryzyka, tworzenia odpowiednich rezerw.
+[SPEAKER_00] a koszt tego dla banków może być całkowicie zróżnicowany i bardzo różny w zależności od tego wyroku.
+[SPEAKER_01] Kolejne dwa pytania przed nami.
+[SPEAKER_01] Łukasz Wilkowicz, Dziennik Gazeta Prawna.
+[SPEAKER_01] Czy może KSF będzie się zajmował lub zajmuje się konsekwencjami uchwały Izby Cywilnej Sądu Najwyższego lub ugód dla stabilności naszego systemu finansowego?
+[SPEAKER_01] Oraz pytanie pana redaktora Eugeniusza Twaroga, Puls Biznesu.
+[SPEAKER_01] Czy rozważa pan zwołanie KSFM w sprawie konsekwencji projektowanych ugód z frankowiczami dla stabilności finansowej?
+[SPEAKER_01] Jaki wpływ na stabilność finansową będzie miał fakt, że poza systemem ugód może pozostać kilka banków z istotnymi w skali rynku portfelami frankowymi?
+[SPEAKER_01] Jak NBP ocenia fakt, że stosunkowo duży portfel frankowy znajduje się w Raiffeisen Bank, który nie podlega polskiemu nadzorowi?
+[SPEAKER_00] Komitet Stabilności Finansowej systematycznie od czasu do czasu, regularnie przez swoją wyspecjalizowaną grupę, zajmuje się kwestią portfela kredytów walutowych.
+[SPEAKER_00] Obserwuje to cały czas w ramach obserwacji poziomu ryzyka systemowego w polskim systemie finansowym.
+[SPEAKER_00] Na jakimś kolejnym posiedzeniu oczywiście też będzie o tym dyskutował, ale na pewno przed 25 marca żadne decyzje nie mogą być podejmowane.
+[SPEAKER_00] I ocena sytuacji oczywiście racjonalna będzie dopiero możliwa po wyroku Izby Cywilnej
+[SPEAKER_00] Sądu Najwyższego.
+[SPEAKER_00] Wtedy możemy się nad tym pochylić, wtedy możemy o tym dyskutować, wtedy banki się też zaczną do tego jakoś przymierzać, bo teraz ta dyskusja ma charakter chaotyczny i taki ogólny, publicystyczny, z czego nic nie wynika.
+[SPEAKER_00] Po prostu nic nie wynika.
+[SPEAKER_00] Z całego tego chaosu informacyjnego, tych jakich rzucanych w pośpiechu oświadczeń, pomysłów, nic nie wynika poza szumem informacyjnym.
+[SPEAKER_01] Łukasz Wilkowicz, Dziennik Gazeta Prawna.
+[SPEAKER_01] Czy problemem kredytów frankowych zajmuje się Rada Polityki Pieniężnej?
+[SPEAKER_01] Jaka jest ocena wpływu ugód potencjalnego rozstrzygnięcia Sądu Najwyższego na politykę pieniężną, w tym kursową?
+[SPEAKER_00] Musiałbym znów powtórzyć to, co do tej pory na ten temat mówiłem.
+[SPEAKER_00] Także skrócę się do odpowiedzi.
+[SPEAKER_00] Nie, nie zajmowała się.
+[SPEAKER_01] Pytanie także pana redaktora Łukasza Wilkowicza, Dziennik Gazeta Prawna.
+[SPEAKER_01] Czy pan prezes zarząd NBP bądź Rada Polityki Pieniężnej spotykały się z prezesami banków, które deklarują udział w programie UGUT, a przynajmniej wprowadziły tę kwestię lub oficjalnie zapowiedziały jej wprowadzenie do porządku najbliższego walnego zgromadzenia?
+[SPEAKER_00] Powiem tak.
+[SPEAKER_00] Oczywiście spotykamy się z bankami w różnych sprawach.
+[SPEAKER_00] Zawsze jeśli banki się chcą spotkać albo my się chcemy spotkać, to się spotykamy.
+[SPEAKER_01] Pan redaktor Eugeniusz Twaróg, Puls Biznesu.
+[SPEAKER_01] Czy NBP widzi przestrzeń dla niepodatkowych zachęt nadzorczych i regulacyjnych, np. w zakresie wymogów kapitałowych na kredyty frankowe czy wag ryzyka dla tych banków, które dobrowolnie obejmą klientów ugodami?
+[SPEAKER_00] W tej kwestii proszę się zwrócić do Ministerstwa Finansów i do Komisji Nadzoru Finansowego.
+[SPEAKER_00] NBP z tym nie ma nic wspólnego.
+[SPEAKER_01] Przed nami kilka, właściwie sześć pytań.
+[SPEAKER_01] Pierwsze, pan redaktor Marek Chądziński, Dziennik Gazeta Prawna.
+[SPEAKER_01] Jak Pan ocenia wzrost rentowności obligacji dziesięcioletnich po ogłoszeniu głównych prognoz z projekcji?
+[SPEAKER_01] Pytanie Pana redaktora Grzegorza Siemionczyka-Parkiet.
+[SPEAKER_01] Czy NBP planuje przeciwdziałać wzrostowi rentowności obligacji skarbowych Polski, zwiększając skalę zakupów tych instrumentów na rynku wtórnym?
+[SPEAKER_01] W jakich okolicznościach można ewentualnie oczekiwać takich działań?
+[SPEAKER_01] Pytanie Piotr Skolimowski, Wojciech Moskwa, Bloomberg.
+[SPEAKER_01] Czy w obliczu rosnących rentowności obligacji rządowych na świecie, w tym w Polsce, NBP rozważa zwiększenie częstotliwości operacji zakupu papierów skarbowych tak, aby ograniczyć zacieśnienie warunków finansowych dla gospodarki?
+[SPEAKER_01] Pytanie redaktora V. Tuszyńskiego, PAP Biznes.
+[SPEAKER_01] W ostatnich dniach doszło do istotnego zacieśnienia warunków finansowania w Polsce, między innymi z uwagi na mocne wzrosty rentowności obligacji skarbowych.
+[SPEAKER_01] Czy NBP widzi problem w rosnących rentownościach i dynamice wyprzedaży na rynku długu?
+[SPEAKER_01] Czy przewiduje podjęcie działań stabilizujących rynek długu np. poprzez dodatkową aukcję odkupu wcześniej niż 17 marca?
+[SPEAKER_01] Czy NBP zwiększy skalę odkupu na przetargach?
+[SPEAKER_01] Także pytanie pana redaktora Rafała Tuszyńskiego, PAP Biznes.
+[SPEAKER_01] Jakie są warunki zakończenia programu skupu obligacji NBP,
+[SPEAKER_01] Kiedy ten instrument przestanie być stosowany?
+[SPEAKER_01] Czy NBP opracował politykę zarządzania sumą bilansową, a jeżeli tak, to jakie są jej założenia, np. zasady rolowania papierów itp.?
+[SPEAKER_01] Rozpytanie pana redaktora Marka Chądzyńskiego, Dziennik Gazeta Prawna.
+[SPEAKER_01] Czy sytuacja na rynku obligacji będzie przesłanką braną pod uwagę o ewentualnym zakończeniu programu skupu obligacji skarbowych, szczególnie w sytuacji, gdyby wzrost rentowności się nasilał?
+[SPEAKER_00] rosnące ratowności, o tym już mówiłem, obligacji, odzwierciedlają – prawdopodobnie, ale z dużą dozą prawdopodobieństwa, graniczące z pewnością – po prostu lepsze perspektywy wzrostu gospodarczego.
+[SPEAKER_00] Tak to wygląda.
+[SPEAKER_00] Natomiast przyjęty przez NBEP sposób realizacji strukturalnych operacji otwartego rynku pozwala błyskawicznie reagować na niepożądane z punktu widzenia polityki pieniężnej zmiany na krajowym rynku długu.
+[SPEAKER_00] wszyscy oceniają pozytywnie to, co na tym rynku robimy.
+[SPEAKER_00] Ja mogę jeszcze raz powtórzyć, że nie ma żadnej dyskusji o zakończeniu tych operacji czy tej polityki.
+[SPEAKER_00] Ja nie widzę w ogóle perspektyw, żeby w najbliższych latach kiedykolwiek mogło się dokonać zamknięcie stosowania tego narzędzia.
+[SPEAKER_00] Podobnie jak FED czy Bank Europejski.
+[SPEAKER_00] Będziemy skupować tak długo, jak to będzie potrzebne.
+[SPEAKER_00] Być może już zawsze.
+[SPEAKER_01] Pan redaktor Rafał Tuszyński, Pub Biznes.
+[SPEAKER_01] Czy NBP zamierza korzystać z platformy BondSpot, której jest uczestnikiem od marca 2020 roku dla celów prowadzenia programu skupu obligacji?
+[SPEAKER_00] Dodatkowo Bank Polski nie jest uczestnikiem tego rynku.
+[SPEAKER_01] Przed nami kolejne pytania.
+[SPEAKER_01] Rafał Tuszyński, PAP Biznes.
+[SPEAKER_01] Jakie działania do tej pory podjął NBP, a jakie planuje w kierunku zapewnienia bankom odpowiedniej ilości walut obcych na potrzeby przewalutowania kredytów walutowych?
+[SPEAKER_01] Czy toczą się rozmowy z Bankiem Szwajcarii dotyczące zakupu franków poza rynkiem?
+[SPEAKER_01] Łukasz Wilkowicz, Dziennik Gazeta Prawna.
+[SPEAKER_01] Czy NBP prowadzi już rozmowy z Bankiem Centralnym Szwajcarii w sprawie ewentualnego ułatwienia przeprowadzania przewalutowania kredytów frankowych w Polsce?
+[SPEAKER_01] Na czym polegałoby zaangażowanie NBP
+[SPEAKER_01] Czy na zakupie franków w Banku Szwajcarii?
+[SPEAKER_01] Jeżeli tak, jakie byłyby konsekwencje dla wysokości struktury aktywów rezerwowych NBP?
+[SPEAKER_01] Eugeniusz Twaróg, Puls Biznesu.
+[SPEAKER_01] Czy NBP sprzeda bankom frankowym franki i euro lub będzie stabilizował rynek walutowy w związku z tym, że większość banków rozważa przystąpienie do ugód oraz zwoła walne, na których poinformuje akcjonariuszy o propozycji przewalutowania kredytów walutowych?
+[SPEAKER_01] Pani Renata Oliarz, ISB News.
+[SPEAKER_01] Czy spodziewa się Pan Prezes istotnego wpływu na osłabienie złotego przy operacji przewalutowywania kredytów frankowych na złotego?
+[SPEAKER_01] Jakiego?
+[SPEAKER_01] Czy w założeniu uczestnictwa NBP w tym procesie wpływ na osłabienie złotego będzie znacząco mniejszy?
+[SPEAKER_00] A propos jednego z tych pytań.
+[SPEAKER_00] Nie wiem, skąd któraś redakcja uzyskała informację czy wrażenie.
+[SPEAKER_00] Powiedziała, że większość banków przymierza się do ugód.
+[SPEAKER_00] Ja wcale takiego wrażenia nie odniosłem, nawet wprost przeciwnie.
+[SPEAKER_00] Zdecydowana większość się nie przygotowuje.
+[SPEAKER_00] Natomiast NB, pogólnie odpowiadając, nie jest upoważniony do ustalania warunków ewentualnej konwersji kredytów walutowych na złotowe.
+[SPEAKER_00] Nie jesteśmy do tego upoważnieni.
+[SPEAKER_01] Pan redaktor Bartosz Bednarz, interia.pl.
+[SPEAKER_01] Prawda powiedziawszy, pytanie to padło, tylko w innym kontekście.
+[SPEAKER_01] Proszę o komentarz odnośnie do wzrostu stawki Vibor 3M na grudzień 2022 roku do poziomu 1%.
+[SPEAKER_00] Rynek, to co w cudzysłowie nazywamy rynkiem, w sposób dla mnie trochę zadziwiający.
+[SPEAKER_00] W dużej mierze, jak mówię, z tego powodu, że rynek lubi zmienność, przyjął prawdopodobnie założenie, że RPP rozpocznie podwyżki stóp np. w przyszłym roku.
+[SPEAKER_00] Całkowicie to jest niezrozumiałe i powtarzam, prawdopodobieństwo tego wynosi niewiele ponad zero.
+[SPEAKER_00] Czechy, Węgry często mają całkiem odmienną sytuację i prowadzą odmienną politykę.
+[SPEAKER_01] Pytanie pana redaktora Pawła Florkiewicza, Reuters.
+[SPEAKER_01] Czy Pana zdaniem interwencje walutowe przyniosły pożądany skutek?
+[SPEAKER_01] Kurs złotego zakotwiczył w okolicach 4,50 euro.
+[SPEAKER_01] Czy w związku z tym prawdopodobieństwo i potrzeba kolejnych interwencji zmniejszyła się?
+[SPEAKER_00] Bardzo jesteśmy zadowoleni z tych interwencji, które były dokonane, odniosły zakładany i pożądany przez nas skutek.
+[SPEAKER_00] Przy czym, przypominam, celem Narodowego Banku Polskiego absolutnie nie jest utrzymywanie jakiegoś określonego kursu.
+[SPEAKER_00] Nie jest celem, żeby interwencja doprowadziła do jakiegoś określonego kursu.
+[SPEAKER_00] Zupełnie nie.
+[SPEAKER_00] My po prostu stosujemy interwencje na rynku walutowym zgodnie z założeniami polityki pieniężnej, jak zawsze.
+[SPEAKER_00] stabilizować pewne procesy.
+[SPEAKER_00] Jeśli NBP uzna, że jest to uzasadnione, interwencje mogą zostać w każdej chwili wznowione.
+[SPEAKER_01] Pytanie pana redaktora Michała Żuławińskiego, Bankier.pl.
+[SPEAKER_01] Czy NBP zamierza opublikować wyniki analiz dotyczących wprowadzenia pieniądza cyfrowego Banku Centralnego w Polsce?
+[SPEAKER_00] Tak, w najbliższym czasie, a na pewno w tym roku, opublikujemy duży raport na ten temat.
+[SPEAKER_00] przygotowujemy się różnych dalszych działań i powołania różnego rodzaju piaskownic takich, gdzie sobie będziemy to badać.
+[SPEAKER_00] Natomiast powtarzam, wprowadzenie ewentualnie cyfrowego pieniądza w Polskim Banku Centralnym to w tej chwili byłoby ze wszechmiarów do niczego nieprzydatne.
+[SPEAKER_00] Tylko dwa kraje wprowadziły, o ile wiem, pieniądz cyfrowy.
+[SPEAKER_00] Banku Centralnego, Bahamy i jeszcze jakiś równie ważny kraj.
+[SPEAKER_00] Nic z Bahamą nie ustępując, chętnie bym tam spędzał czas.
+[SPEAKER_00] Tak że wszystkie banki prowadzą na ten temat jakieś badania, analizy i my także prowadzimy, zajmujemy się tym i opublikujemy większy raport na ten temat.
+[SPEAKER_01] Bartosz Bednarz, interia.pl.
+[SPEAKER_01] Jakie są główne założenia strategii bezpieczeństwa obrotu gotówkowego oraz pan redaktor Karol Murawski, alebank.pl.
+[SPEAKER_01] Jesienią ubiegłego roku NBP zapowiedział pan prezes wdrożenie strategii ochrony gotówki.
+[SPEAKER_01] Jakich rozwiązań wspierających korzystanie z tradycyjnej formy płatności możemy się spodziewać w nadchodzących miesiącach?
+[SPEAKER_00] Tak jak to publicznie przedstawialiśmy, ta narodowa strategia, narodowo obejmująca całość obrotu w Polsce, Narodowa Strategia Bezpieczeństwa Obrotu Gotówkowego ma siedem filarów podstawowych.
+[SPEAKER_00] Jest siedem filarów bezpieczeństwa gotówki.
+[SPEAKER_00] Po pierwsze, to jest akceptacja gotówki powszechna.
+[SPEAKER_00] A w tej chwili jest tak, że kolejne instytucje coraz częściej odmawiają akceptowania gotówki.
+[SPEAKER_00] Wczoraj dostałem chyba informację,
+[SPEAKER_00] macierzysta uczelnia też zaprzestała akceptowania gotówki.
+[SPEAKER_00] Pod pretekstem pandemii, pod różnymi pretekstami się to robi, wbrew prawu.
+[SPEAKER_00] Po drugie, to jest dostępność gotówki powszechna.
+[SPEAKER_00] Po trzecie, to jest fizyczne bezpieczeństwo gotówki, w całym zakresie znaczenia tego słowa.
+[SPEAKER_00] Oforte to jest cyberbezpieczeństwo tych krytycznych systemów obiegi gotówki.
+[SPEAKER_00] Kolejna ciągłość zaopatrzenia rynku w gotówkę.
+[SPEAKER_00] To szczególnie na początku pandemii było bardzo istotne dla Polaków.
+[SPEAKER_00] Wreszcie tradycyjnie przeciwdziałanie fałszerstwom banknotów i wszystkich znaków pieniężnych.
+[SPEAKER_00] I wreszcie to, co dotyczy banku centralnego – zapewnienie odpowiedniego zapasu znaków pieniężnych, za co bezpośrednio jest odpowiedzialny NBP.
+[SPEAKER_00] Taki zapas mamy, ale cały czas prowadzimy analizy, jaki on powinien być.
+[SPEAKER_00] Aktualna wartość obiegu gotówkowego to aż 325 mld zł.
+[SPEAKER_00] Od początku roku wartość obiegu gotówki wzrosła kolejny 1% – zgodna z naszymi prognozami.
+[SPEAKER_00] Natomiast przypomnę, że wczoraj minął dokładnie rok, jeden rok od potwierdzenia pierwszego przypadku zachorowań na COVID-19 w Polsce.
+[SPEAKER_00] Wtedy mieliśmy do czynienia z masowym, rekordowym wypływem gotówki.
+[SPEAKER_00] Powiedziałem wtedy publicznie na konferencji w Kancelarii Premiera, że w imieniu NBP, że gotówki na pewno wystarczy, że mamy nieprzebrane, jak to powiedziałem,
+[SPEAKER_00] opisowo, chociaż oczywiście one są do przebrania, ale nie przebrane zapasy gotówki, co było jakoś tam wyśmiewane.
+[SPEAKER_00] W tym znaczenia słowa, że nie ma się co tłoczyć przed bankomatami i w innych miejscach, gdzie wypłaty gotówki można było trzymać, bo tej gotówki nie zabraknie i NBP to gwarantuje.
+[SPEAKER_00] Mamy odpowiednią ilość tej gotówki i zawsze ją dostarczymy.
+[SPEAKER_00] Mogą być kwestie dowozu, przewozu, opóźnienia, niedostosowania bankomatów, za mało bankomatów, ale to banki komercyjne są za to odpowiedzialne.
+[SPEAKER_00] Otrzymałem słowa, gotówki nie zabrakło i cały problem się rozładował szybko.
+[SPEAKER_00] ale powoli wszyscy zaczynamy myśleć, że świat w tym znaczeniu tego słowa, a nie jakimś tam filozoficznym, nie będzie dokładnie taki sam jak przed pandemią, bo to doświadczenie w ludziach zostaje.
+[SPEAKER_00] Tak jak było doświadczenie wojenne, powojenne dotyczące gotówki, z inflacji wielkiej czasów w Niemczech itd.
+[SPEAKER_00] Także to doświadczenie też w ludziach zostało.
+[SPEAKER_00] Świadomość tego, jakie zaufanie pokładają Polacy w pieniądzu gotówkowym w trudnych czasach, jakichkolwiek trudnych, z jakiegokolwiek powodu, każe nam wyprzedzać zdarzenia, przygotowywać rozwiązania systemowe, żeby tej gotówki nigdy nie zabrakło w jakimś sensownym czasie.
+[SPEAKER_00] Dlatego wyszedłem z inicjatywą opracowania tej Narodowej Strategii Bezpieczeństwa Obrotu Gotówkowego.
+[SPEAKER_00] Dlatego
+[SPEAKER_00] Wybieram presję na banki, ale mogę tylko ustną wybierać.
+[SPEAKER_00] Trudno mi inną wybierać, żeby tych bankomatów nie likwidować, tak jak teraz w szybkim tempie, co roku kilkaset.
+[SPEAKER_00] zlikwidowanych, żeby nie zmniejszać liczby okienek, żeby prawnie egzekwować akceptację gotówki wszędzie.
+[SPEAKER_00] To, że ludzie w okresach trudnych czy niepewnych dążą do tego, żeby zgromadzić zasób gotówki bezpośrednio, materialnego pieniądza, nie jest jakimś brakiem wykształcenia ludzi czy niedojrzałością, jak niektórzy próbują sugerować entuzjaści pieniądza, wyłącznie pieniądza cyfrowego.
+[SPEAKER_00] elementem zdrowego rozsądku, pragmatyzmu i nagromadzonych doświadczeń.
+[SPEAKER_00] Pieniądz, dopóki istnieje i Państwo Polskie, Bank Centralny Narodowy,
+[SPEAKER_00] Pieniądz jest zagwarantowany, wartość złotego jest stabilna.
+[SPEAKER_00] To jest twardy pieniądz, bezpieczny i można w nim śmiało gromadzić oszczędności.
+[SPEAKER_00] Oczywiście uważając na jakichś kryminalistów, którzy mają zakusy na naszą gotówkę.
+[SPEAKER_00] Ale to zawsze w okresie kryzysu się pojawia.
+[SPEAKER_00] Pojawia się zwątpienia w pieniądz cyfrowy i wzrost zaufania do pieniądza gotówkowego.
+[SPEAKER_00] My nie jesteśmy przeciwko rozwojowi obrotu bezgotówkowego oczywiście.
+[SPEAKER_00] On jeszcze ma szerokie pole do rozwoju, ale istnieje pewien określony poziom, wysoki poziom,
+[SPEAKER_00] procent obrotu, który musi dokonywać się w gotówce.
+[SPEAKER_00] To jest oczywiste dla każdego, kto jest pozbawiony złej woli, ale jakiegoś partykularnego punktu widzenia wynikającego z tego, że tak jednoznacznie i jednostronnie jest zaangażowany w zyski banków, a w szczególności korporacji międzynarodowych, które emitują karty płatnicze, karty kredytowe.
+[SPEAKER_00] Obrót cyfrowy podlega temu wszystkiemu, czemu podlega Internet.
+[SPEAKER_00] Można wymieniać długo listę źródeł zakłócenia tego obiegu i zakłócenia płatności cyfrowych.
+[SPEAKER_00] Nie chcę tu tego robić, żeby jakichś nieprzyjemnych rzeczy nie mówić, nie epatować ludzi, ale gotówka to jest gotówka.
+[SPEAKER_00] Impuls elektroniczny to jest tylko impuls elektroniczny, który bardzo łatwo może ulec zakłóceniu i zapisy, i przelewom.
+[SPEAKER_00] Tak że my jesteśmy jako Polska bardzo zaawansowani w obrocie bezgotówkowym, w nowoczesnych formach płatności.
+[SPEAKER_00] Należymy do czołówki europejskiej i światowej.
+[SPEAKER_00] I tak będzie, jest i będzie.
+[SPEAKER_00] I Narodowy Bank Polski jest zaangażowany w to, co najnowocześniejsze.
+[SPEAKER_00] Natomiast
+[SPEAKER_00] Jesteśmy zaangażowani także w to, żeby obrót był bezpieczny i żeby obywatele mają to, czego chcą.
+[SPEAKER_00] Żeby Polacy, którzy chcą gotówki w chwilach kryzysowych, mieli tę gotówkę.
+[SPEAKER_00] Po prostu jesteśmy za wolnym wyborem, za wolnością i za bezpieczeństwem.
+[SPEAKER_01] Pytanie pana redaktora Michała Żuławińskiego, Banki.pl.
+[SPEAKER_01] Na ostatnim posiedzeniu Rada Polityki Pieniężnej przyjęła uchwałę w sprawie Narodowej Strategii Bezpieczeństwa Obrotu Gotówkowego.
+[SPEAKER_01] Czy znany jest już dokładniejszy termin
+[SPEAKER_01] Przedstawienia tej strategii i dotychczasowa komunikacja mówi jedynie o 2021 roku.
+[SPEAKER_00] Z wielką satysfakcją przyjmuję fakt i informuję o tym, jednocześnie jak ktoś nie zauważył, że Rada Polityki Pieniężnej przedwczoraj podjęła uchwałę, jednogłośnie podjęła uchwałę, popierającą opracowanie Narodowej Strategii Bezpieczeństwa Obrotu Gotówkowego.
+[SPEAKER_00] Mimo różnych poglądów, które przecież członkowie Rady mają na politykę pieniężną,
+[SPEAKER_00] nie mieli wątpliwości, że ta Narodowa Strategia Bezpieczeństwa Obrotu Gotówkowego jest potrzebna.
+[SPEAKER_00] I te główne filary, te siedem filarów, jest oczywistych.
+[SPEAKER_00] Prace nad przygotowaniem tej strategii zostały powierzone Radzie ds.
+[SPEAKER_00] Obrotu Gotówkowego.
+[SPEAKER_00] Rada, przypomnę, jest ogólnym doradczym działającym przy Zarządzie NBP.
+[SPEAKER_00] Tam są przedstawiciele NBP, rynku, urzędów, instytucji odpowiedzialnych za regulacje na tym obszarze.
+[SPEAKER_00] Wczoraj się odbyło kolejne posiedzenie tej Rady.
+[SPEAKER_00] Powołano zespoły zadaniowe.
+[SPEAKER_00] Oczekujemy, że ostateczne opracowanie strategii w zakresie tych siedmiu filarów zakończy się w 2021 roku, czyli obecnym roku.
+[SPEAKER_00] Jest to jeden z naszych priorytetów na ten rok.
+[SPEAKER_01] Ostatnie pytanie dzisiejszej konferencji.
+[SPEAKER_01] Pan Maciej Wojtaszek, BS.net.pl.
+[SPEAKER_01] Czy są planowane jakieś zmiany dotyczące zarządzenia 19 łamane przez 2016 w zakresie sortowania gotówki w urządzeniach obsługiwanych przez klienta i personel banku?
+[SPEAKER_01] Wysokie wymagania co do urządzeń powodują wyższe koszty obsługi gotówki, zwiększoną obsługę i czynności związane z procesowaniem gotówki nieobiegowej.
+[SPEAKER_00] Tak jak Państwu mówiłem, my jesteśmy bardzo nowocześni.
+[SPEAKER_00] Narodowy Bank Polski jest bardzo nowoczesnym bankiem i nasze banki komercyjne także należą do najnowocześniejszych w Europie.
+[SPEAKER_00] Jeszcze do niedawna były najnowocześniejsze.
+[SPEAKER_00] Nie wiem, czy coś się zmieniło.
+[SPEAKER_00] Konkurencja jest duża, ale na pewno należą do kilku najnowocześniejszych systemów bankowych i najnowocześniejszych systemów płatniczych na świecie, nie tylko w Europie.
+[SPEAKER_00] i klienci polskich banków, podmioty korzystające z naszego systemu bankowego mają najnowocześniejszą możliwą światowy poziom obsługi płatniczej i przesyłu pieniędzy.
+[SPEAKER_00] Jeśli chodzi o sortowanie, to w naszym Narodowym Banku automatyzacja tych czynności już jest bardzo zaawansowana.
+[SPEAKER_00] Ona się co roku jeszcze podwyższa.
+[SPEAKER_00] To są wszystko automatyczne systemy.
+[SPEAKER_00] Ważne jest to, żeby do obrotu trafiały wyłącznie autentycznie i wyłącznie dobrej jakości banknoty.
+[SPEAKER_00] Wszystkie banknoty, które do nas spływają – przypomnę, ze wszystkich transakcji, które są dokonywane w Polsce –
+[SPEAKER_00] są badane pod kątem fałszerstw i badane są pod kątem jakości.
+[SPEAKER_00] Wycofywane są banknoty zużyte i oczywiście te, które są sfałszowane.
+[SPEAKER_00] Przypominałem w czasie pandemii, że także pod kątem tego, czy można się zarazić poprzez kontakt z banknotem, że banknoty w niczym nie są groźne z punktu widzenia roznoszenia
+[SPEAKER_00] pandemii.
+[SPEAKER_00] Ten pretekst do usuwania banknotów, którym było masowe, fałszywe, kłamliwe twierdzenie – poprzez banknoty można się zarażać – był jednym z pretekstów do tego, żeby usuwać płatności gotówkowe.
+[SPEAKER_00] Te banknoty w czasie tego sortowania automatycznego też są podgrzewane itd.
+[SPEAKER_00] Te wymogi dotyczące urządzeń obsługujących gotówkę weszły po blisko dwuletnim vacatio legis.
+[SPEAKER_00] wszyscy uczestnicy rynku mieli dostatecznie długi czas na dostosowanie się i zapewnienie swoich instytucji w odpowiednie urządzenia.
+[SPEAKER_00] Nasze przepisy nie odbiegają od analogicznych obowiązków w innych krajach, chociażby całej strefy euro w Europie, czyli w Wielkiej Brytanii, Stanów Zjednoczonych.
+[SPEAKER_00] My stosujemy podobne standardy, wysokie standardy.
+[SPEAKER_01] Szanowni Państwo, bardzo dziękuję za udział w konferencji.
+[SPEAKER_01] Dziękuję Panu Profesorowi.
+[SPEAKER_01] Dziękuję Paniom i Panom redaktorom za przesłanie pytań i zapraszamy na kolejną konferencję w najbliższym miesiącu.
+[SPEAKER_00] Dziękuję Państwu bardzo za uwagę.
+[SPEAKER_00] Dziękuję.
+[SPEAKER_00] Do widzenia i do usłyszenia.
